@@ -1,0 +1,18 @@
+name: 唤醒文腾医疗AI大动脉
+
+on:
+  schedule:
+    # 每天北京时间早上 09:00（东京时间 10:00）准时触发
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 允许你随时在后台手动点击测试运行
+
+jobs:
+  wake-up-coze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 敲击扣子 API 接口
+        run: |
+          curl -X POST 'https://jhp45hh6sc.coze.site/run' \
+          -H 'Authorization: ${{ secrets.COZE_API_TOKEN }}' \
+          -H 'Content-Type: application/json' \
+          -d '{"keywords":["BNCT", "iPS细胞"]}'
