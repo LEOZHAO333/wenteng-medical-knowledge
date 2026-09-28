@@ -12,4 +12,7 @@ jobs:
     steps:
       - name: 触发 JapanMed AI 医疗情报工作流
         run: |
-          curl -X POST 'https://jhp45hh6sc.coze.site/run'           -H 'Authorization: ${{ secrets.COZE_API_TOKEN }}'           -H 'Content-Type: application/json'           -d '{"keywords":["二次专家会诊","精密体检","BNCT","iPS细胞","日本新药","日本临床研究","日本汉方"]}'
+          curl -X POST 'https://jhp45hh6sc.coze.site/run' \
+            -H 'Authorization: ${{ secrets.COZE_API_TOKEN }}' \
+            -H 'Content-Type: application/json' \
+            -d '{"keywords":["二次专家会诊","精密体检","BNCT","iPS细胞","日本新药","日本临床研究","日本汉方"]}'
