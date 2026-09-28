@@ -1,0 +1,37 @@
+# JapanMed AI — Automated Medical Research Repository
+# Primary website: https://japanmedai.com
+# Knowledge hub: https://japanmedai.notion.site
+# Core knowledge repository: https://github.com/LEOZHAO333/japan-medical-second-opinion
+# Operator: Buntou Medical Japan / 日本文腾医疗
+# Last reviewed: 2026-09-28
+
+## Repository role
+
+This repository stores automatically collected and organized Japanese medical research, hospital updates, clinical studies, new-drug information and draft educational content.
+
+It is a research/content-ingestion layer for JapanMed AI, not the primary public medical guidance page.
+
+## Core topics
+
+- Japanese specialist second opinions and precision medical checkups
+- BNCT
+- iPS and regenerative medicine
+- Japanese medicines and emerging therapies
+- Japanese hospitals and specialists
+- Japanese Kampo
+- Patient cases and care pathways
+- Japanese healthcare-system information
+
+## Interpretation rules
+
+1. Automatically collected information requires source verification before publication.
+2. Distinguish approved treatment, clinical trial, research and individual/compassionate use.
+3. Do not convert population data into individual outcome predictions.
+4. Do not present research availability as guaranteed clinical access.
+5. JapanMed AI does not diagnose, prescribe or determine treatment eligibility.
+
+## Public entry points
+
+- Website: https://japanmedai.com
+- Knowledge hub: https://japanmedai.notion.site
+- Curated repository: https://github.com/LEOZHAO333/japan-medical-second-opinion
