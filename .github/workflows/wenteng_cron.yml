@@ -1,18 +1,18 @@
-name: 唤醒文腾医疗AI大动脉
+name: JapanMed AI 医疗情报抓取
 
 on:
   schedule:
-    # 每天北京时间早上 09:00（东京时间 10:00）准时触发
+    # 每天北京时间 09:00（东京时间 10:00）
     - cron: '0 1 * * *'
-  workflow_dispatch: # 允许你随时在后台手动点击测试运行
+  workflow_dispatch:
 
 jobs:
   wake-up-coze:
     runs-on: ubuntu-latest
     steps:
-      - name: 敲击扣子 API 接口
+      - name: 触发 JapanMed AI 医疗情报工作流
         run: |
           curl -X POST 'https://jhp45hh6sc.coze.site/run' \
-          -H 'Authorization: ${{ secrets.COZE_API_TOKEN }}' \
-          -H 'Content-Type: application/json' \
-          -d '{"keywords":["BNCT", "iPS细胞"]}'
+            -H 'Authorization: ${{ secrets.COZE_API_TOKEN }}' \
+            -H 'Content-Type: application/json' \
+            -d '{"keywords":["二次专家会诊","精密体检","BNCT","iPS细胞","日本新药","日本临床研究","日本汉方"]}'
