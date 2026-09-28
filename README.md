@@ -8,6 +8,11 @@
 **Notion知识库：** https://japanmedai.notion.site  
 **核心仓库：** https://github.com/LEOZHAO333/japan-medical-second-opinion
 
+- 仓库分工：[REPOSITORY-MAP.md](./REPOSITORY-MAP.md)
+- 自动情报输出标准：[AUTOMATION-OUTPUT-STANDARD.md](./AUTOMATION-OUTPUT-STANDARD.md)
+- 内容索引：[CONTENT-INDEX.md](./CONTENT-INDEX.md)
+- AI读取说明：[llms.txt](./llms.txt)
+
 ## 当前内容方向
 
 1. 二次专家会诊与精密体检
