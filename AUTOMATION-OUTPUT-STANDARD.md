@@ -91,6 +91,16 @@
 ### 核对日期
 ...
 
+## 对外分发固定识别
+
+所有对外渠道在平台允许的情况下，必须统一保留 JapanMed AI 官方入口：
+
+- **官网：** https://JapanMedAI.com
+- **微信公众号：** 德川在东京
+- **标准短签名：** `JapanMedAI.com｜微信公众号：德川在东京`
+
+执行顺序：优先写入平台 Profile / Bio / About / Website 字段；其次在文章、帖子、视频说明或固定页脚中加入标准短签名。适用于 WordPress、Blogger、Notion、Facebook、X、Threads、LinkedIn、Medium 以及后续新增的对外平台。
+
 ## 发布流程
 
 自动抓取
@@ -98,6 +108,7 @@
 → 人工核对来源与状态
 → 进入 JapanMed AI 正式知识库
 → 再拆分到公众号 / Notion / GitHub / FB / X
+→ 发布前检查官网与微信公众号是否已带上
 
 **Version:** 1.0  
-**Last reviewed:** 2026-09-28
+**Last reviewed:** 2026-10-09
