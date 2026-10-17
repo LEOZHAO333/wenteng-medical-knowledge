@@ -38,16 +38,17 @@ AAHA、AAFP/FelineVMA、ACVIM、IRIS、WSAVA、CAPC、Merck Veterinary Manual、
 - **Batch 06：40**｜神经/外伤/异物16 + 用药/补充剂/化验16 + 眼科8。
 - **Batch 07：40**｜心脏肿瘤A级10 + 医院沟通10 + 胃肠10 + 营养10。
 - **Batch 08：40**｜泌尿观察10 + 呼吸老年10 + 多宠儿童卫生10 + 旅行行为10。
+- **Batch 09：40**｜多宠感染10 + 耳病10 + 口腔牙科10 + 皮肤被毛10。
 
-### Batch 09｜完成（40）
-- 多宠/感染/家庭隔离：0804、0805、0806、0810、0816、0822、0829、0830、0834、0837
-- 耳病A级：0322、0325、0326、0328、0329、0332、0333、0337、0338、0340
-- 口腔牙科A级：0361、0363、0365、0367、0369、0370、0374、0376、0377、0380
-- 皮肤/被毛A级：0282、0284、0285、0287、0288、0290、0297、0298、0299、0300
+### Batch 10｜完成（40）
+- 家居安全/季节环境：0742、0743、0749、0750、0753、0755、0756、0757、0758、0759
+- 品种健康/家庭管理：0842、0843、0844、0846、0849、0850、0852、0854、0855、0857
+- 长期照护/感官行动：0901、0902、0903、0904、0908、0909、0910、0912、0913、0918
+- 主人观察/家庭记录工具：0985、0986、0987、0990、0993、0994、0995、0997、0998、0999
 - 编辑层来源核对：40/40
 - `needs_edit=0`
 - 结构审计：ID/slug/clusterKey/relatedIds 40/40
-- 主要安全标签：`medicationContent`、`infectionControlContext`、`humanHealthBoundary`、`diagnosticContextRequired`、`procedureTrainingRequired`、`postoperativeCare`、`anesthesiaContextRequired`、`groomingSafetyBoundary`、`nutritionClaimCheck`
+- 主要安全标签：`householdSafetyBoundary`、`toxicologyContext`、`thermalInjuryRisk`、`painMobilityContext`、`sensorySupport`、`procedureTrainingRequired`、`medicationContent`、`nutritionClaimCheck`、`evidenceClaimCheck`
 - 状态：`source_verified_editorial + medical_review_pending`
 
 ### 日本宠物药官方核验专项｜进行中
@@ -56,12 +57,12 @@ AAHA、AAFP/FelineVMA、ACVIM、IRIS、WSAVA、CAPC、Merck Veterinary Manual、
 - BJH-R-001～004继续Hold，不猜产品名
 - 具体商品坚持“一产品一记录”并核NVAL/MAFF/现行电子添文
 
-### Batch 10｜自动继续
+### 下一阶段｜自动继续
 优先：
-- 剩余老年/行为/家居安全/长期照护节点
-- 品种健康与消费判断高价值节点
-- 仍未进入正式来源核对的P0/P1节点
-- 有明确产品身份的日本宠物药官方核验
+- 继续清理仍未进入正式来源核对的P0/P1尾项
+- 日本宠物药有明确产品身份者逐条做NVAL/MAFF/现行电子添文核验
+- 对已经source_verified_editorial的节点做跨批次ID/slug/relatedIds一致性尾审
+- 保持上线阻断，不把编辑层复核升级为Medical Approved
 
 ## 五、当前累计
 - Batch 01：20
@@ -73,11 +74,12 @@ AAHA、AAFP/FelineVMA、ACVIM、IRIS、WSAVA、CAPC、Merck Veterinary Manual、
 - Batch 07：40
 - Batch 08：40
 - Batch 09：40
-- **累计：340个节点完成编辑层权威来源核对**
+- Batch 10：40
+- **累计：380个节点完成编辑层权威来源核对**
 - `Medical Approved`：0
 - `publish_ready`：0
 
-> “340个”只代表正式来源核对完成数量，不代表全库只有340篇，也不代表可以上线。
+> “380个”只代表正式来源核对完成数量，不代表全库只有380篇，也不代表可以上线。
 
 ## 六、上线阻断条件
 - `needs_edit`未关闭
