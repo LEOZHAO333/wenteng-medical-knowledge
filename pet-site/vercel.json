@@ -3,6 +3,5 @@
   "rewrites": [
     { "source": "/pet", "destination": "/api/pet?path=" },
     { "source": "/pet/", "destination": "/api/pet?path=" },
-    { "source": "/pet/:path*", "destination": "/api/pet?path=:path*" }
-  ]
+    { "source": "/pet/:path(.*)", "destination": "/api/pet?path=:path" }
 }
