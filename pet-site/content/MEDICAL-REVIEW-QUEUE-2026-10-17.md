@@ -74,8 +74,8 @@
 - 绝育/繁殖急症：10
 - 编辑层来源核对：40/40
 - 新增 `needs_edit`：0
-- 状态：`source_verified_editorial + medical_review_pending`
 - 结构审计：ID/slug/clusterKey/relatedIds 已完成
+- 状态：`source_verified_editorial + medical_review_pending`
 
 ### Batch 03｜完成
 - 心脏：0401、0402、0403、0404、0405、0406、0408、0413、0415、0418
@@ -85,8 +85,8 @@
 - 编辑层来源核对：40/40
 - 新增 `needs_edit`：0
 - 0357第三眼睑腺脱出来源由泛化占位升级为Merck正式来源
-- 状态：`source_verified_editorial + medical_review_pending`
 - 结构审计：ID/slug/clusterKey/relatedIds 已完成
+- 状态：`source_verified_editorial + medical_review_pending`
 
 ### Batch 04｜完成
 - 糖尿病/内分泌/体重：0423、0424、0425、0427、0428、0432、0436、0437、0438、0439
@@ -98,14 +98,29 @@
 - 0427、0457 标记 `emergencyActionFirst`
 - 0826 FIP具体治疗药物/疗程/剂量不在本批放行，仍需高风险专项复核
 - 0838 钩端螺旋体标记人宠共患医疗边界
-- 状态：`source_verified_editorial + medical_review_pending`
 - 结构审计：ID/slug/clusterKey/relatedIds 已完成
+- 状态：`source_verified_editorial + medical_review_pending`
 
-### Batch 05｜自动继续
-- 泌尿/肾病高风险节点
-- 皮肤/耳病/牙科
-- 幼宠/老年/营养
-- 长期照护与康复
+### Batch 05｜完成
+- 泌尿/肾病：0223、0218、0235、0228、0230、0241、0243、0246、0249、0253
+- 皮肤/耳病/牙科：0289、0301、0303、0305、0324、0321、0334、0362、0366、0373
+- 幼宠/老年/营养：0543、0544、0561、0569、0582、0584、0591、0004、0018、0064
+- 长期照护/康复：0905、0906、0907、0911、0914、0915、0916、0917、0981、0982
+- 编辑层来源核对：40/40
+- 新增 `needs_edit`：0
+- 0223、0218、0235、0249、0253、0544、0561、0569 标记 `emergencyActionFirst`
+- 0289标记 `humanHealthBoundary`
+- 0905、0906、0915标记 `procedureTrainingRequired`
+- 结构审计：ID/slug/clusterKey/relatedIds 已完成
+- 状态：`source_verified_editorial + medical_review_pending`
+
+### Batch 06｜自动继续
+优先处理仍未完成编辑层正式来源核对的P0/P1节点：
+- 泌尿/肾病其余高价值节点
+- 神经/误食急症其余S级节点
+- 心脏/肿瘤/眼科剩余高价值节点
+- 用药/实验室检查剩余高风险节点
+- 同时建立日本宠物药 `official_japan_verification_pending` 专项清单，逐条区分“通用知识可核对”与“具体日本产品必须NVAL/MAFF核验”。
 
 ## 五、当前累计（编辑层来源复核）
 
@@ -113,11 +128,12 @@
 - Batch 02：40
 - Batch 03：40
 - Batch 04：40
-- 累计：140个节点已完成编辑层权威来源核对
+- Batch 05：40
+- **累计：180个节点已完成编辑层权威来源核对**
 - `Medical Approved`：0
 - `publish_ready`：0
 
-> “140个”仅代表已经进入正式来源核对流程的节点，不代表全库只有140篇，也不代表已经可以上线。
+> “180个”仅代表已经进入正式来源核对流程的节点，不代表全库只有180篇，也不代表已经可以上线。
 
 ## 六、上线门槛
 
