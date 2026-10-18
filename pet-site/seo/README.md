@@ -3,6 +3,8 @@
 归属：文腾株式会社运营的独立品牌「日宠通｜日本宠物健康知识站」
 网站正式地址：`https://pet.japanmedai.com/`（主站不放宠物医疗版块）
 
+**Founder正式裁决（2026-10-18）：** 该地址是「日宠通」唯一品牌入口。见 [品牌域名决议](./BRAND-DOMAIN-DECISION-2026-10-18.md)；主站旧 `/pet/` 链接迁移须逐篇验证目标存在，不得把旧文章301到404或统一重定向首页。
+
 ## 适用的最新授权：SOP V1.5（2026-10-18）
 
 **Founder已明确：重复、低风险执行不再逐次询问；只有重大决策需Founder确认。** 正式详细规则请先读 [SOP-RECURRING-AUTONOMY-V1.5.md](./SOP-RECURRING-AUTONOMY-V1.5.md)，对应机器清单 [approval-boundaries.json](./approval-boundaries.json)，CI检查 [audit-approval-boundaries.mjs](./audit-approval-boundaries.mjs)。
