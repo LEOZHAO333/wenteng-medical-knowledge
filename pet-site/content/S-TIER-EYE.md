@@ -64,7 +64,9 @@
 
 荧光染色能帮助判断角膜表面是否存在损伤。眼压、瞳孔和眼内结构也可能需要同步检查，尤其是红眼反复或伴有疼痛时。
 
-在明确角膜状态前，不建议主人自行使用来源不明的消炎眼药。
+在明确角膜状态前，不应自行使用含糖皮质激素的眼药，因为若存在角膜溃疡，可能延缓愈合并加重损伤。持续红眼伴眯眼、浑浊、视力改变或明显疼痛时应尽快就诊，不能仅凭外观诊断为结膜炎。
+
+编辑级参考：Merck Veterinary Manual—Corneal Ulcers in Animals（https://www.merckvetmanual.com/eye-disorders/corneal-diseases/corneal-ulcers-in-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Anterior Uveitis and Corneal Ulcers。
 
