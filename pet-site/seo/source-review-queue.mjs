@@ -53,7 +53,7 @@ const counts={};
 for(const e of queue){const k=e.tier+'-'+e.clinicalRisk.grade;counts[k]=(counts[k]||0)+1;}
 const report={generatedFrom:'S/A markdown + SOURCE-VERIFICATION-BATCH-01...10',status:'draft_triage_only',method:'keyword heuristic; human medical triage required',counts,total:queue.length,items:queue};
 if(process.argv.includes('--summary')){
- console.log(JSON.stringify({counts,total:queue.length,first25:queue.slice(0,25).map(({id,title,tier,clinicalRisk,sourcePath})=>({id,title,tier,priority:clinicalRisk.grade,sourcePath}))},null,2));
+ console.log(JSON.stringify({counts,total:queue.length,sUnreviewed:queue.filter(x=>x.tier==='S').map(({id,title,clinicalRisk,sourcePath})=>({id,title,priority:clinicalRisk.grade,sourcePath})),first25:queue.slice(0,25).map(({id,title,tier,clinicalRisk,sourcePath})=>({id,title,tier,priority:clinicalRisk.grade,sourcePath}))},null,2));
 }else{
  const outfile=process.argv.find(x=>x.startsWith('--out='))?.slice('--out='.length);
  if(outfile)writeFileSync(outfile,JSON.stringify(report,null,2)+'\n','utf8');
