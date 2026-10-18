@@ -82,7 +82,9 @@
 
 线性异物可能在肠道内被固定，随着肠蠕动产生切割样损伤。越是长线、吞入时间不明，越需要谨慎。
 
-不要自己催吐，也不要继续喂大量食物“帮助排出”。尽快联系动物医院，并带上同款玩具或估计缺失的长度信息。
+不要自己催吐，也不要继续喂大量食物“帮助排出”。尽快联系动物医院，并带上同款玩具或估计缺失的长度信息。即使猫暂时还能进食或活动，也不能凭无症状排除线性异物损伤。
+
+编辑级证据：Merck Veterinary Manual—Gastrointestinal Obstruction in Small Animals（https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastrointestinal-obstruction-in-small-animals）。医学终审：pending。
 
 ---
 
@@ -110,7 +112,9 @@
 
 联系医院时，准备好狗的体重、巧克力品牌和种类、可可百分比、估计吃了多少以及大概什么时候吃的。最好直接把包装带上。
 
-不要自己根据网络计算器判断“肯定没事”，也不要自行催吐。是否需要处理取决于具体暴露量和狗当前状态。
+不要自己根据网络计算器判断“肯定没事”，也不要自行催吐。误食后即使没有症状，也应及时联系兽医或动物毒物咨询机构；是否需要急诊处理，由兽医根据品种、产品配方、摄入量、体重和接触时间判断。
+
+编辑级证据：Merck Veterinary Manual—Chocolate Toxicosis in Animals（https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals；2026年更新）。医学终审：pending。
 
 资料基线：Merck Veterinary Manual—Chocolate Toxicosis in Animals。
 
