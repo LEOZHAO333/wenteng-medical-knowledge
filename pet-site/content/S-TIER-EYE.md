@@ -78,7 +78,9 @@
 
 兽医通常会检查瞳孔反射、角膜、眼压和眼底，并结合是否有眼红、浑浊、眯眼、第三眼睑突出或神经症状来判断。
 
-如果变化是突然发生的，尤其伴随视力下降或疼痛，不建议等几天再看。
+如果瞳孔不等大突然出现，尤其伴随视力下降、疼痛、眼红或神经症状，应尽快接受当日兽医评估；瞳孔大小本身不能区分眼病与神经系统疾病，也不宜自行使用眼药。
+
+编辑级参考：VCA Animal Hospitals—Anisocoria in Cats（https://vcahospitals.com/know-your-pet/anisocoria-in-cats）。医学审核：pending。
 
 资料基线：VCA Anisocoria in Cats；Merck Veterinary Manual。
 
