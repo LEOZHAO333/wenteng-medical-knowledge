@@ -96,3 +96,30 @@
 - `pet-site/content/JAPAN-PET-DRUG-OFFICIAL-VERIFICATION-MASTER.md` 是官方核验主表。
 - `pet-site/content/SEO-SLUG-INTERNAL-LINK-AUDIT-BATCH-*.md` 是旧批次结构审计依据。
 - 新 `content.schema.json` 与 `audit.mjs` 用于新/导入结构化元数据的验证，不会宣称已自动读取或审完现有Markdown全量。
+
+## 10. V1.1 真实站点内容对照与自动QA（2026-10-18）
+
+已新增（均为治理文件，不触动站点运行态）：
+
+| 文件 | 用途 |
+|---|---|
+| `current-site-crosswalk.json` | 抽取现有 `pet.js` 的40个渲染节点，对照S/A知识库的原始编号与来源路径 |
+| `recent-chat-question-reconciliation.json` | 13个近期真实提问的审查队列，仅记录候选同题或相关问题 |
+| `audit-current-site.mjs` | 校验40条渲染节点与对照一致性、唯一Slug、不擅自升级审核状态，并报告SEO技术风险 |
+| `release-policy.mjs` | 对真实医学审核、日本官方药品核验、Founder发布与索引许可分别判断 |
+| `release-policy.test.mjs` | 关键反例：未审稿、未经批准公开、药品官方核验待定、重复索引Slug |
+| `.github/workflows/pet-geo-seo-audit.yml` | 在修改站点或SEO元数据的PR中运行静态审计，**绝不自动部署或合并** |
+
+现有40条：**11条Slug与知识库相同**，27条问法或主题相似（仅列为待人工核对候选），2条仅为相关内容。13条近期对话题目：6条对应现有节点待比对更新，3条只建立相关内容候选，4条暂未定位，后续查主库后决定是否建新题。
+
+网站审计演示结果：0个数据映射错误，4类技术提醒；40条渲染文章仅28条包含inline refs，另12条没有。该统计**不代表存在28条已被证明合格的文献引用**，仍需逐条核对链接是否支持医学断言。
+
+### 运行命令
+
+```bash
+node pet-site/seo/audit-current-site.mjs
+node --test pet-site/seo/release-policy.test.mjs
+node pet-site/seo/audit.mjs path/to/exported-catalog.json --full
+```
+
+**实施边界**：以上脚本只做校验、拒绝误发布。要让Production真正按出版资格筛选 `sitemap`、`robots` 和 `dateModified`，需后续独立代码PR、真实兽医审查及Founder上线批准，不得拿脚本存在当作已部署事实。
