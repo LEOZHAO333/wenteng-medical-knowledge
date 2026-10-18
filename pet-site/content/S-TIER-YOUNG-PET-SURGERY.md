@@ -30,7 +30,7 @@
 
 之后即使表面恢复，也应告知兽医并按其要求监测呼吸频率、精神和吃奶情况，不能因为暂时不咳就断定完全没有误吸。
 
-编辑来源：Merck Veterinary Manual—Aspiration Pneumonia in Dogs and Cats（兽医专业资料，关于误吸与呼吸危险信号）；https://www.merckvetmanual.com/respiratory-system/pneumonia-in-small-animals/aspiration-pneumonia-in-dogs-and-cats 。具体幼猫处置须经合格兽医复核，医学审核：pending。
+编辑来源：Merck Veterinary Manual—Pneumonia in Dogs and Cats（介绍幼龄动物及强制喂食相关误吸风险）：https://www.merckvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats 。具体幼猫处置须经合格兽医复核，医学审核：pending。
 
 ---
 
@@ -76,7 +76,7 @@
 
 不要向虚弱、意识异常、无法安全吞咽或抽搐的幼犬强行灌糖水、食物或药物，以免误吸。症状即便短暂改善也不能证明病因已经解决，应按兽医急诊指示处理。
 
-编辑来源：Merck Veterinary Manual—Hypoglycemia in Animals（https://www.merckvetmanual.com/metabolic-disorders/glucose-metabolism-disorders/hypoglycemia-in-animals）；此处不提供家庭给药或剂量，医学审核：pending。
+编辑来源：Merck Veterinary Manual—Management of the Neonate in Dogs and Cats（https://www.merckvetmanual.com/management-and-nutrition/management-of-the-neonate/management-of-the-neonate-in-dogs-and-cats）；幼龄小型犬低血糖亦可参考 Overview of Congenital and Inherited Anomalies of the Nervous System in Small Animals（https://www.merckvetmanual.com/nervous-system/congenital-and-inherited-anomalies-of-the-nervous-system-in-small-animals/overview-of-congenital-and-inherited-anomalies-of-the-nervous-system-in-small-animals）；此处不提供家庭给药或剂量，医学审核：pending。
 
 ---
 
