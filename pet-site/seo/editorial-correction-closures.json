@@ -1,0 +1,18 @@
+{
+  "version": "2026-10-18",
+  "scope": "editorial_resolution_only",
+  "warning": "A resolved editorial correction does not confer veterinary medical approval or publish/index authorization",
+  "items": [
+    {
+      "id": "0492",
+      "historicalStatus": "needs_edit",
+      "historicFile": "pet-site/content/SOURCE-VERIFICATION-BATCH-01.md",
+      "bodyFile": "pet-site/content/S-TIER-NEURO-EMERGENCY.md",
+      "status": "editorial_correction_applied_medical_review_pending",
+      "supportingReference": "https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicosis-in-dogs",
+      "requiredText": "是否需要催吐取决于摄入时间、产品成分和狗当前状态，应先联系兽医或毒物咨询机构，不要自行根据网络方法处理。",
+      "forbiddenBodyText": "Merck明确指出，由于低血糖可能很快出现，不建议主人在家自行催吐。",
+      "notes": "Batch01历史P0中存在未经直接支持的强归因；当前S正文已修订为咨询兽医的安全表达。2026-10-18依据Merck兽医手册核对了暴露后需兽医监督评估的方向。发布前仍需真人兽医逐项审阅。"
+    }
+  ]
+}

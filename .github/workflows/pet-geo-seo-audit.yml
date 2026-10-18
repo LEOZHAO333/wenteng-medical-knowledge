@@ -1,0 +1,53 @@
+name: Pet GEO SEO Draft QA
+
+on:
+  pull_request:
+    paths:
+      - 'pet-site/seo/**'
+      - 'pet-site/content/**'
+      - 'pet-site/api/pet.js'
+      - '.github/workflows/pet-geo-seo-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  draft-metadata-audit:
+    name: Static Audit (No Deployment)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check parser and policy syntax
+        run: |
+          node --check pet-site/seo/audit.mjs
+          node --check pet-site/seo/audit-current-site.mjs
+          node --check pet-site/seo/release-policy.mjs
+          node --check pet-site/seo/export-content-inventory.mjs
+          node --check pet-site/seo/source-review-queue.mjs
+          node --check pet-site/seo/medical-review-handoff.mjs
+          node --check pet-site/seo/audit-source-batches.mjs
+          node --check pet-site/seo/audit-editorial-closures.mjs
+          node --check pet-site/seo/audit-approval-boundaries.mjs
+          node --check pet-site/seo/sitemap-policy.mjs
+      - name: Verify content mapping against renderer
+        run: node pet-site/seo/audit-current-site.mjs
+      - name: Test release policy
+        run: node --test pet-site/seo/release-policy.test.mjs pet-site/seo/sitemap-policy.test.mjs
+      - name: Check full S/A draft inventory and editorial ledger
+        run: node pet-site/seo/export-content-inventory.mjs --check
+      - name: Prioritize remaining source-review backlog (no publish permission)
+        run: node pet-site/seo/source-review-queue.mjs --summary --check
+      - name: Queue clinical handoff only (no approval and no writes)
+        run: node pet-site/seo/medical-review-handoff.mjs --check
+      - name: Audit per-ID medical source documentation syntax (no medical approval)
+        run: node pet-site/seo/audit-source-batches.mjs
+      - name: Verify standing Founder approval boundaries (read-only)
+        run: node pet-site/seo/audit-approval-boundaries.mjs
+      - name: Verify historical medical editing issues did not regress
+        run: node pet-site/seo/audit-editorial-closures.mjs
+
+# This workflow only reads and validates code/metadata.
+# It MUST NOT merge PRs, deploy Vercel, toggle noindex, or claim medical approval.

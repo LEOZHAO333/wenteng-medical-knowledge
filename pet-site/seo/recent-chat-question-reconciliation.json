@@ -1,0 +1,170 @@
+{
+  "title": "本轮13条用户真实问题入库审查队列",
+  "createdAt": "2026-10-18",
+  "stage": "conversation_draft_mapping_only",
+  "scope": "会话曾生成科普草稿，并不代表已同步仓库、已审核或可索引",
+  "conditions": [
+    "逐条在现有S/A主库查唯一ID",
+    "existing_id_review_update须和已有正文比对后再编辑，不能覆盖",
+    "related_only_not_same_question禁止因关键词近似而合并",
+    "所有内容继续medical_review_pending/noindex，不创建ProductionURL"
+  ],
+  "items": [
+    {
+      "queueKey": "CHAT-PET-001",
+      "question": "猫不停舔同一个地方，是疼还是痒？",
+      "candidateKnowledgeId": null,
+      "candidateSlug": null,
+      "mappingDecision": "new_question_requires_repository_search",
+      "clusterKey": "cat-skin-allergy",
+      "notes": "查与过度舔毛/局部疼痛其他题是否已有同搜索意图",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-002",
+      "question": "猫舔秃了肚子，能直接当成心理问题吗？",
+      "candidateKnowledgeId": "0283",
+      "candidateSlug": "cat-belly-hair-loss",
+      "mappingDecision": "existing_id_review_update",
+      "clusterKey": "cat-skin-allergy",
+      "notes": "同一核心意图；优先审已有ID0283并做扩展，不重建同义URL",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-003",
+      "question": "猫身上摸到很多小痂，为什么不应只涂药？",
+      "candidateKnowledgeId": null,
+      "candidateSlug": null,
+      "mappingDecision": "new_question_requires_repository_search",
+      "clusterKey": "cat-skin-allergy",
+      "notes": "粟粒性皮炎解释及皮肤检查；先查全库重复",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-004",
+      "question": "猫换清洁剂后抓挠增多，怎样排查生活环境？",
+      "candidateKnowledgeId": "0750",
+      "candidateSlug": "cat-home-disinfectant-reentry",
+      "mappingDecision": "related_only_not_same_question",
+      "clusterKey": "home-environment",
+      "notes": "消毒剂重新进入与接触刺激是邻近主题，不宜合并",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-005",
+      "question": "猫对跳蚤过敏，没看到跳蚤也需要评估吗？",
+      "candidateKnowledgeId": null,
+      "candidateSlug": null,
+      "mappingDecision": "new_question_requires_repository_search",
+      "clusterKey": "cat-skin-allergy",
+      "notes": "猫跳蚤过敏性皮炎专门问题",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-006",
+      "question": "猫止痒后又复发，复诊该带哪些前后照片？",
+      "candidateKnowledgeId": "0990",
+      "candidateSlug": "pet-skin-photo-progress-tracking",
+      "mappingDecision": "related_only_not_same_question",
+      "clusterKey": "diagnostic-literacy",
+      "notes": "已有皮肤照片比较工具，病因复发需独立核对",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-007",
+      "question": "猫皮肤敏感，多猫家庭如何避免误吃别人的食物？",
+      "candidateKnowledgeId": "0803",
+      "candidateSlug": "multi-cat-prescription-diet-feeding",
+      "mappingDecision": "existing_id_review_update",
+      "clusterKey": "home-environment",
+      "notes": "对应多猫处方饮食串食场景，需审是否偏离皮肤过敏排除饮食",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-008",
+      "question": "宠物过敏护理中，洗护和用药怎么配合？",
+      "candidateKnowledgeId": "0730",
+      "candidateSlug": "cat-bathing-during-skin-treatment",
+      "mappingDecision": "related_only_not_same_question",
+      "clusterKey": "home-environment",
+      "notes": "跨物种护理不能把猫单种话题自动等同，需查狗洗护专题",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-009",
+      "question": "家里人对宠物过敏，怎样兼顾人的就医和宠物照护？",
+      "candidateKnowledgeId": null,
+      "candidateSlug": null,
+      "mappingDecision": "new_question_requires_repository_search",
+      "clusterKey": "home-environment",
+      "notes": "强调人类过敏科就诊与动物福利，不替代人的医学诊断",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-010",
+      "question": "猫耳朵里黑黑的，一定是耳螨吗？",
+      "candidateKnowledgeId": "0321",
+      "candidateSlug": "cat-black-ear-debris-ear-mites",
+      "mappingDecision": "existing_id_review_update",
+      "clusterKey": "cat-ear",
+      "notes": "同一问句，直接对照知识库ID与官方源",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-011",
+      "question": "猫挠耳朵抓出了血，先怎么避免继续抓伤？",
+      "candidateKnowledgeId": "0322",
+      "candidateSlug": "cat-ear-scratching-bleeding",
+      "mappingDecision": "existing_id_review_update",
+      "clusterKey": "cat-ear",
+      "notes": "同一问句，补家庭安全与急诊边界",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-012",
+      "question": "猫只歪着一侧脑袋，能等耳朵自己好吗？",
+      "candidateKnowledgeId": "0324",
+      "candidateSlug": "cat-head-tilt-ear-problem",
+      "mappingDecision": "existing_id_review_update",
+      "clusterKey": "cat-ear",
+      "notes": "涉及前庭/神经风险，属高优先审核",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    },
+    {
+      "queueKey": "CHAT-PET-013",
+      "question": "猫滴耳药很抗拒，怎样向医生学操作？",
+      "candidateKnowledgeId": "0325",
+      "candidateSlug": "cat-ear-drops-handling",
+      "mappingDecision": "existing_id_review_update",
+      "clusterKey": "cat-ear",
+      "notes": "应说明由兽医现场示范，无通用操作剂量",
+      "editorialReview": "pending",
+      "medicalReview": "pending",
+      "publicURL": null
+    }
+  ]
+}

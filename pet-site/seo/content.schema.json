@@ -1,0 +1,331 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.japanmedai.com/pet/content.schema.json",
+  "title": "日宠通 GEO SEO Content Metadata",
+  "description": "单个元数据节点的发布合约。正文仍以既有 pet-site/content 文稿为主，禁止产生未经核实的重复事实库。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "species",
+    "title",
+    "canonicalSlug",
+    "clusterKey",
+    "primaryQuery",
+    "searchIntent",
+    "contentType",
+    "priority",
+    "directAnswer",
+    "applicability",
+    "emergencyBoundary",
+    "sourceRefs",
+    "sourceCheckedAt",
+    "medicalReview",
+    "editorialStatus",
+    "publicationState",
+    "indexEligible",
+    "relatedIds",
+    "lastModifiedAt",
+    "founderIndexApproved",
+    "founderPublishApproved"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 30
+    },
+    "species": {
+      "enum": [
+        "猫",
+        "狗",
+        "犬猫",
+        "其他"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5,
+      "maxLength": 150
+    },
+    "canonicalSlug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "clusterKey": {
+      "type": "string",
+      "minLength": 2
+    },
+    "primaryQuery": {
+      "type": "string",
+      "minLength": 4
+    },
+    "secondaryQueries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true,
+      "default": []
+    },
+    "searchIntent": {
+      "enum": [
+        "symptom",
+        "diagnosis",
+        "care",
+        "followup",
+        "emergency",
+        "drug_approval",
+        "education"
+      ]
+    },
+    "contentType": {
+      "enum": [
+        "qa",
+        "guide",
+        "drug",
+        "hub"
+      ]
+    },
+    "priority": {
+      "enum": [
+        "S",
+        "A",
+        "B"
+      ]
+    },
+    "directAnswer": {
+      "type": "string",
+      "minLength": 5
+    },
+    "applicability": {
+      "type": "string",
+      "minLength": 5
+    },
+    "emergencyBoundary": {
+      "type": "string",
+      "minLength": 5
+    },
+    "contentSourcePath": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "default": null
+    },
+    "sourceRefs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "publisher",
+          "url",
+          "verifiedAt"
+        ],
+        "properties": {
+          "publisher": {
+            "type": "string",
+            "minLength": 2
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "verifiedAt": {
+            "type": "string",
+            "format": "date"
+          },
+          "supportsClaims": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "sourceCheckedAt": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "medicalReview": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "pending",
+            "approved",
+            "changes_requested"
+          ]
+        },
+        "reviewer": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "credentials": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reviewedAt": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "editorialStatus": {
+      "enum": [
+        "draft_complete",
+        "source_verified_editorial",
+        "needs_edit",
+        "hold"
+      ]
+    },
+    "publicationState": {
+      "enum": [
+        "draft",
+        "publish_ready",
+        "published"
+      ]
+    },
+    "indexEligible": {
+      "type": "boolean",
+      "default": false
+    },
+    "relatedIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "reviewedAt": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "firstPublishedAt": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "lastModifiedAt": {
+      "type": "string",
+      "format": "date"
+    },
+    "japanDrug": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "required": [
+        "officialStatus",
+        "productNameJa",
+        "genericNameJa",
+        "targetSpecies",
+        "indicationJa",
+        "approvalDate",
+        "nvalRecordUrl",
+        "insertUrl",
+        "lastOfficialVerifiedAt"
+      ],
+      "properties": {
+        "officialStatus": {
+          "enum": [
+            "pending",
+            "verified",
+            "conflict_hold",
+            "not_applicable"
+          ]
+        },
+        "productNameJa": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "genericNameJa": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "targetSpecies": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "indicationJa": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "approvalDate": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "nvalRecordUrl": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "insertUrl": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        },
+        "lastOfficialVerifiedAt": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        }
+      }
+    },
+    "founderIndexApproved": {
+      "type": "boolean",
+      "description": "必须有可追溯的 Founder 正式授权方可设 true；授权证据另存PR/issue。",
+      "default": false
+    },
+    "founderPublishApproved": {
+      "type": "boolean",
+      "description": "重大决策：正式公开部署须Founder明确授权。默认false。",
+      "default": false
+    }
+  }
+}
