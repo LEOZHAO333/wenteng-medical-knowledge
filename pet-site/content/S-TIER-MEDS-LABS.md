@@ -104,7 +104,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 不要因为喝水变多就自行限水，也不要突然停激素。部分激素类药物需要逐步调整，突然停药可能带来风险。
 
-复诊时把变化发生在用药后第几天、药名和当前剂量一起告诉医生，更方便判断是否属于预期反应或需要调整。
+复诊时把变化发生在用药后第几天、药名和当前剂量一起告诉医生，更方便判断是否属于预期反应或需要调整。若同时出现明显虚弱、反复呕吐、虚脱或呼吸异常，应及时联系急诊；不能仅凭饮水增加自行判断是正常药物反应，也不要擅自停药或限水。
+
+编辑级参考：Merck Veterinary Manual—Glucocorticoids（https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids）。医学审核：pending。
 
 ---
 
