@@ -40,7 +40,8 @@
 
 电话里可以直接说明“腹部突然变大 + 反复干呕无物”，并告诉医院狗的体型、症状开始时间以及是否刚大量进食或运动。
 
-资料基线：Merck Veterinary Manual—Gastric Dilatation-Volvulus。
+资料基线：Merck Veterinary Manual—Gastric Dilation and Volvulus in Small Animals（2025审阅）：https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastric-dilation-and-volvulus-in-small-animals
+医学审核状态：编辑级证据核对／待真实合格执业兽医签署；症状提示可能的急症，不代表远程确诊GDV。
 
 ---
 
