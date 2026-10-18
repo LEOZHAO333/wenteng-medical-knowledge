@@ -176,7 +176,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 主人可以重点问：目前有没有需要立即处理的风险？下一步是找失血、红细胞破坏，还是生成不足？需要多久复查？
 
-如果宠物同时出现明显虚弱、呼吸急促、牙龈很白或晕厥，应更快就医。
+如果宠物出现明显虚弱、静息时呼吸困难、牙龈苍白、倒地或晕厥，应立即联系兽医急诊；不能仅凭一次红细胞数值决定是否需要输血，必须结合临床状态、贫血变化速度和病因评估。不要自行补铁或使用人用补血药。
+
+编辑级参考：Merck Veterinary Manual—Anemia in Animals（https://www.merckvetmanual.com/circulatory-system/anemia/anemia-in-animals）。医学审核：pending。
 
 ---
 
@@ -188,7 +190,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 兽医可能先看血样质量和血涂片，再结合有没有皮下出血点、鼻出血、牙龈出血等临床表现决定下一步。
 
-如果数值确实很低或宠物已有出血迹象，处理优先级会明显提高。
+如果出现自发性鼻出血、牙龈持续出血、大片瘀斑、黑便、明显虚弱或倒地，应立即联系兽医急诊。血小板聚集可造成假性低值，但不能据此自行排除真正的血小板减少；应由兽医结合血涂片、重复采样及出血表现判断。不要自行使用人用止血药或停用处方药。
+
+编辑级参考：Merck Veterinary Manual—Thrombocytopenia in Animals（https://www.merckvetmanual.com/circulatory-system/hemostatic-disorders/thrombocytopenia-in-animals）。医学审核：pending。
 
 ---
 
