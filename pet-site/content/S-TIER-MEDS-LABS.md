@@ -26,6 +26,8 @@
 
 如果猫长期需要服药，应由兽医核对该产品后讨论是否存在适用的其他剂型；不要自行将处方改为液体或调味制剂。
 
+如果药物已经被碾碎、混食且实际摄入量不明，应保留包装并联系开药兽医核实，不要自行再给一次；如出现呼吸困难、意识异常等，应立即急诊。
+
 编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs）。医学终审：pending。
 
 ---
