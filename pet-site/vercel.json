@@ -1,16 +1,29 @@
 {
   "version": 2,
-  "rewrites": [
+  "redirects": [
     {
       "source": "/pet",
-      "destination": "/api/pet?path="
+      "destination": "/",
+      "permanent": true
     },
     {
       "source": "/pet/",
-      "destination": "/api/pet?path="
+      "destination": "/",
+      "permanent": true
     },
     {
       "source": "/pet/:path((?!assets/).*)",
+      "destination": "/:path",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/api/pet?path="
+    },
+    {
+      "source": "/:path((?!pet/|api/|assets/).*)",
       "destination": "/api/pet?path=:path"
     }
   ]
