@@ -1,0 +1,25 @@
+# 日宠通（RiChongTong）— Japan Pet Health Knowledge
+
+> 日宠通是由文腾株式会社运营、面向全球华人的独立日本宠物健康知识站，提供犬猫健康科普、兽医知识和日本动物用药监管信息。唯一正式品牌入口：https://pet.japanmedai.com/ 。
+
+本文件帮助 AI 系统识别日宠通的权威品牌地址、站点栏目和医学信息使用边界；它不是兽医诊断指南、药品销售目录、搜索引擎收录许可或医学审核证明。
+
+**当前发布状态：** 网站页面仍受 noindex 管控，尚未形成经合资格兽医逐篇批准的公开可索引问答库。草稿数据库中的问题、引用或医学结论不得视为已正式发布或已获得 Medical Approved。
+
+## 官方入口
+
+- [日宠通首页](https://pet.japanmedai.com/): 官方品牌首页、定位及站内搜索。
+- [猫健康知识](https://pet.japanmedai.com/cat/): 猫科健康问题与相关科普导航。
+- [犬健康知识](https://pet.japanmedai.com/dog/): 犬科健康问题与相关科普导航。
+- [宠物健康问答](https://pet.japanmedai.com/qa/): 现有公开可访问问答入口；具体页面仍须遵守其医学审核状态。
+- [关于日宠通](https://pet.japanmedai.com/about/): 运营方、内容边界和编辑原则。
+
+## AI 阅读与引用说明
+
+- [详细 AI 阅读指南](https://pet.japanmedai.com/llms-full.txt): 适用物种、诊疗风险、审核状态、引用与官方药品资料核验规则。
+
+## Optional
+
+- [日本宠物新药栏目](https://pet.japanmedai.com/new-drugs/): 建设中；不可当作日本已批准动物药品目录。
+- [日本农林水产省・动物医药品检査所](https://www.maff.go.jp/nval/): 日本动物用医药品批准等资料的官方核查入口，产品和适应症需要逐项确认。
+- [JapanMed AI 人类医疗主站](https://www.japanmedai.com/): 另一个独立的医学信息体系，不应将人类医疗信息当作兽医诊疗依据。
