@@ -10,9 +10,10 @@
 
 如果安全允许，可以开始计时并录一段视频。发作持续多久、是全身抽动还是只有局部抽动、有没有失去意识，对兽医判断很有帮助。
 
-不要把手伸进狗嘴里，也不要强行拉舌头或压住身体。大多数癫痫发作会自行停止，但持续时间很长或短时间内反复多次属于更高风险情况，需要急诊处理。
+不要把手伸进狗嘴里，也不要强行拉舌头或压住身体。多数发作会在数分钟内自行结束，但不能因此延误急救：若一次抽搐持续接近或达到5分钟，或反复发作、两次之间没有恢复正常意识，应立即联系急诊；无需等满5分钟才开始联系医院。
 
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals；2024 ACVIM cluster seizure/status epilepticus consensus。
+资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；ACVIM Consensus Statement on Status Epilepticus and Cluster Seizures（2024, DOI:10.1111/jvim.16928，https://pubmed.ncbi.nlm.nih.gov/37921621/）；Cornell University—Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。
+医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
@@ -26,9 +27,10 @@
 
 发作结束后，有些狗会短时间迷糊、乱走或看不清，这属于可能出现的发作后阶段，也要避免它撞到家具或楼梯。
 
-如果发作持续不止或短时间反复发生，应尽快联系急诊。
+如果发作持续接近或达到5分钟、反复抽搐或两次间未恢复正常意识，应立即联系急诊，不要等待录像拍完；不要将手、工具、食物或药水放入狗的口中。
 
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals。
+资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；Cornell University—Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。
+医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
@@ -42,7 +44,8 @@
 
 就诊前最好记录发作前在做什么、持续多久、有没有失去意识、排尿排便、发作后多久恢复，以及近期是否可能接触药物、毒物或异常食物。
 
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals。
+资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；VCA—Emergencies in Dogs（https://vcahospitals.com/premier/know-your-pet/common-emergencies-in-dogs）。
+医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
