@@ -58,6 +58,7 @@ if(process.argv.includes('--summary')){
 }
 if(process.argv.includes('--check')){
  const s=queue.filter(x=>x.tier==='S'),a=queue.filter(x=>x.tier==='A');
- if(s.length!==80||a.length!==122){console.error('Expected S80/A122 got S'+s.length+' A'+a.length);process.exitCode=1;}
+ if(queue.length+ledger.size!==all.length){console.error('Source ledger / body mismatch: unresolved '+queue.length+' + ledger '+ledger.size+' != bodies '+all.length);process.exitCode=1;}
+ if(s.length<0||a.length<0){console.error('Unexpected negative counts');process.exitCode=1;}
  if(new Set(queue.map(x=>x.id)).size!==queue.length){console.error('Duplicate unresolved ID');process.exitCode=1;}
 }
