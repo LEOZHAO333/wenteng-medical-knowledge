@@ -86,9 +86,12 @@ for(const [id,entries] of editorialLedger){
   if(!grouped.has(id))issues.push({type:'ledger_id_missing_from_SA_body',id,files:entries.map(x=>x.file)});
 }
 items.sort((a,b)=>a.id.localeCompare(b.id));
+const withoutLedger=items.filter(x=>!x.hasEditorialLedgerEntry);
+const flaggedNeedsEdit=items.filter(x=>x.editorialLedger.some(y=>y.status.includes('needs_edit')));
 const summary={
   files:{aTier:bodyFiles.filter(x=>x.startsWith('A-TIER')).length,sTier:bodyFiles.filter(x=>x.startsWith('S-TIER')).length,sourceVerification:verificationFiles.length},
-  counts:{aTierSections:count.aTier,sTierSections:count.sTier,uniqueBodyIds:items.length,uniqueBodySlugs:slugOwners.size,editorialLedgerRows:count.ledgerRows,editorialLedgerIds:editorialLedger.size,idsWithLedger:items.filter(x=>x.hasEditorialLedgerEntry).length},
+  counts:{aTierSections:count.aTier,sTierSections:count.sTier,uniqueBodyIds:items.length,uniqueBodySlugs:slugOwners.size,editorialLedgerRows:count.ledgerRows,editorialLedgerIds:editorialLedger.size,idsWithLedger:items.filter(x=>x.hasEditorialLedgerEntry).length,idsWithoutLedger:withoutLedger.length,sTierWithoutLedger:withoutLedger.filter(x=>x.primaryCandidate.tier==='S').length,aTierWithoutLedger:withoutLedger.filter(x=>x.primaryCandidate.tier==='A').length,itemsWithAnyHistoricalNeedsEdit:flaggedNeedsEdit.length},
+  nextReviewSample:withoutLedger.slice().sort((a,b)=>(a.primaryCandidate.tier===b.primaryCandidate.tier)?a.id.localeCompare(b.id):a.primaryCandidate.tier==='S'?-1:1).slice(0,15).map(x=>({id:x.id,title:x.primaryCandidate.title,tier:x.primaryCandidate.tier,file:x.primaryCandidate.file})),
   issueCounts:issues.reduce((acc,x)=>(acc[x.type]=(acc[x.type]??0)+1,acc),{}),
   caveat:'本报告仅扫描文件标题、ID、slug及批次状态。已核对源批次不能替代逐篇链接与医学审稿；不授权上线。'
 };
