@@ -92,7 +92,7 @@
 
 如果短时间长大、破溃、出血、固定不动或影响走路、吃饭等功能，应尽快评估。
 
-资料基线：2026 AAHA Oncology Guidelines。
+编辑证据：2026 AAHA Oncology Guidelines—Section 3, Making the Diagnosis（https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/）。该指南明确指出不能仅凭触诊或影像确定肿块性质，建议按临床情况采样做细胞学或组织病理。医学审核：pending。
 
 ---
 
@@ -118,13 +118,13 @@
 
 宠物肿块切除后，真正帮助后续决策的资料往往不是“已经切掉了”，而是病理诊断。
 
-病理可以明确肿瘤类型，并可能提供分级、切缘是否干净、细胞增殖等信息。不同肿瘤需要关注的病理项目不同。
+病理报告常可明确肿瘤类型，并可能提供组织学分级、切缘状况、分裂指数等信息；不同肿瘤的必备项目并不相同，切缘阴性也不意味着绝对不会复发。
 
 如果以后需要第二意见、肿瘤复发或转诊专科，原始病理报告、切片信息和手术记录都非常重要。
 
 建议把病理报告电子版长期保存，不要只记住医生口头说的“良性”或“恶性”。
 
-资料基线：2026 AAHA Oncology Guidelines。
+编辑证据：2026 AAHA Oncology Guidelines—Section 3, Table 3.3 Cytologic Versus Histopathologic Examination（https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/）。组织病理可提供细胞学通常无法完整呈现的分级与切缘信息；具体价值依肿瘤类型而定。医学审核：pending。
 
 ---
 
@@ -140,7 +140,7 @@
 
 复诊时可以直接问医生：目前已经明确的是肿瘤类型、分级还是分期？还有哪些检查会真正改变治疗选择？
 
-资料基线：2026 AAHA Oncology Guidelines—Tumor Diagnostics & Staging。
+编辑证据：2026 AAHA Oncology Guidelines—Section 3, Table 3.1 Tumor Grade and Stage Features（https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/）。分级与分期的定义、用途不同，不能套用同一癌种之外的数值；检查方案须按癌种及临床相关性选择。医学审核：pending。
 
 ---
 
@@ -154,6 +154,6 @@
 
 如果肿块有体表变化，可以按日期拍照并用尺子作为比例参照。
 
-资料越完整，第二意见越有机会回答真正关键的问题：诊断是否明确、是否需要重新分期、还有哪些合理选择。
+资料越完整，第二意见越有机会回答真正关键的问题：诊断是否明确、是否需要重新分期、还有哪些合理选择。并非每个病例都必须进行全部影像检查、重复活检或提交DICOM；是否需要由接诊兽医根据本次会诊目标决定。
 
-资料基线：2026 AAHA Oncology Guidelines—diagnosis, staging and referral principles。
+编辑证据：2026 AAHA Oncology Guidelines—Section 3 Diagnostics & Staging（https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/）；Section 6 Consultations & Referrals（https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-6-consultations-and-referrals/）。医学审核：pending；第二意见资料需求需由接诊机构最终确认。
