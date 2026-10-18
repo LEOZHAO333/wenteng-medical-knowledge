@@ -1,0 +1,81 @@
+{
+  "version": "V1.5",
+  "effectiveDate": "2026-10-18",
+  "origin": "Founder explicit instruction in this conversation: repetitive execution needs no repeated confirmation; only major decision matters need Founder review",
+  "appliesTo": "RiChongTong (日宠通) GEO/SEO, draft-only",
+  "defaultPermission": "routine_draft_execution_without_per_task_confirmation",
+  "scope": {
+    "repository": "LEOZHAO333/wenteng-medical-knowledge",
+    "workingPr": 8,
+    "allowedPaths": [
+      "pet-site/content/**",
+      "pet-site/seo/**",
+      ".github/workflows/pet-geo-seo-audit.yml"
+    ],
+    "protectedPaths": [
+      "pet-site/api/pet.js",
+      "pet-site/vercel.json",
+      "vercel.json",
+      "index.html",
+      "**/production/**"
+    ],
+    "workBranch": "gpt/pet-geo-seo-v1-governance"
+  },
+  "allowedRoutineActions": [
+    "prioritize_and_deduplicate_draft_questions",
+    "inspect_existing_evidence_and_current_authoritative_sources",
+    "write_or_revise_draft_editorial_QA_with_provenance",
+    "create_editorial_source_review_batches",
+    "repair_p2_editing_and_documented_p1_facts_in_draft",
+    "mark_unverified_claims_hold_with_rationale",
+    "add_or_update_draft_metadata_and_crosswalk",
+    "write_readonly_local_validation_and_tests",
+    "commit_to_existing_draft_branch",
+    "create_or_update_draft_review_pr_without_merge",
+    "run_readonly_ci_and_fix_failures",
+    "continue_next_nonblocked_queue_item",
+    "report_durable_results_and_only_major_decisions"
+  ],
+  "founderApprovalRequiredFor": [
+    "merge_to_main_or_release_branch",
+    "production_or_staging_public_deployment",
+    "remove_noindex_or_enable_public_crawling_or_submit_public_sitemap",
+    "publish_content_to_external_platform",
+    "change_brand_logo_name_major_homepage_layout_or_site_architecture",
+    "add_sales_consultation_prescription_or_crossborder_booking_path",
+    "change_host_domain_dns_or_permanent_public_urls_in_bulk",
+    "delete_or_bulk_redirect_existing_public_content",
+    "pay_contract_or_bind_external_business_partner",
+    "grant_permissions_connect_app_or_expand_external_access",
+    "change_medical_or_legal_compliance_risk_policy",
+    "make_new_high_impact_medical_claims_or_override_hold",
+    "make_sensitive_user_data_collection_change"
+  ],
+  "professionalApprovalRequiredFor": [
+    "mark_medical_review_approved",
+    "approve_individualized_medical_treatment_or_dosing",
+    "release_high_risk_clinical_claims",
+    "verify_japan_product_regulatory_status_against_maff_nval"
+  ],
+  "guardrails": {
+    "noAutoMerge": true,
+    "noAutoDeployment": true,
+    "noAutoExternalPublishing": true,
+    "noAutoIndexing": true,
+    "previewNoindex": true,
+    "noMedicalApprovalByAI": true,
+    "noSyntheticCitations": true,
+    "failClosedOnUnverifiedMedicalClaims": true,
+    "neverClaimCiEqualsMedicalApproval": true,
+    "continueUnblockedRoutineQueue": true,
+    "requireTraceableFounderApproval": true,
+    "doNotAskAgainForRoutineTasks": true
+  },
+  "escalation": {
+    "p0": "block affected item, record specific medical/legal/citation risk, pursue safe draft correction, escalate genuinely major decisions",
+    "p1": "correct within established evidence policy or hold affected item and continue queue",
+    "p2": "autocorrect in draft, run tests, document",
+    "major": "suspend only affected high-impact action; present options, risk, recommendation, exact approval object once"
+  },
+  "status": "draft_repo_policy; no main merge/deploy/index authority conferred"
+}
