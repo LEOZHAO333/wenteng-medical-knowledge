@@ -116,7 +116,9 @@
 
 就诊时医生可能进行荧光染色、泪液测定、眼压检查和眼内结构检查。不要因为“只是流眼泪”就连续几天自行观察。
 
-若同时有眼睛浑浊、明显发红、眼球突出或视力异常，应更快就医。
+若同时有眼睛浑浊、明显发红、眼球突出或视力异常，应立即联系眼科急诊。即使外观没有明显伤口，持续闭眼或眯眼也应尽快检查角膜；在排除角膜溃疡前不要自行滴含激素眼药。
+
+编辑级参考：Merck Veterinary Manual—Corneal Ulcers in Animals（https://www.merckvetmanual.com/eye-disorders/corneal-diseases/corneal-ulcers-in-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual；VCA Corneal Ulcers in Dogs。
 
@@ -132,7 +134,9 @@
 
 泪液测试通常会和角膜荧光染色、眼压及眼表检查结合，用来区分干眼、角膜损伤和其他眼病。
 
-不要自行长期使用人用“人工泪液”替代诊断，尤其是症状反复时。
+不要自行长期使用人用“人工泪液”替代诊断，尤其是症状反复时。若同时出现明显眯眼、角膜浑浊、眼表破损或视力变化，应尽快就诊排查角膜溃疡等并发症，不能仅按普通干眼处理。
+
+编辑级参考：Merck Veterinary Manual—Keratoconjunctivitis Sicca in Animals（https://www.merckvetmanual.com/eye-disorders/disorders-of-the-lacrimal-system/keratoconjunctivitis-sicca-in-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—ophthalmic diagnostics。
 
