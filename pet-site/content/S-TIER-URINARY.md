@@ -148,9 +148,11 @@
 - 直接回答：有些狗需要复查，尤其是反复感染、复杂病例或医生已明确安排复查时。不要仅凭“不尿频了”自行判断结束。
 
 抗菌药后尿频、疼痛或血尿消失是好现象，但临床症状改善和尿液中是否仍有异常并不是完全同一件事。
-是否需要复查取决于感染是否单纯、是否反复、有没有结石或其他基础疾病，以及之前尿培养结果。
+对首次、单纯细菌性膀胱炎，完成既定治疗且症状消失后，通常不需要常规复查尿培养；但症状未消失、反复发作、存在结石或其他基础风险，以及兽医已安排复查的情况，应分别评估。
 复诊时告诉医生用药是否完整、最后一次用药时间、症状多久消失，以及停药后有没有任何反弹。
 不要自行延长、缩短或重复抗菌药疗程；复查安排应以治疗兽医给出的计划为准。
+
+资料基线：Merck Veterinary Manual—Bacterial Cystitis in Small Animals，https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals
 
 ---
 
