@@ -99,5 +99,5 @@ const outArg=process.argv.find(x=>x.startsWith('--out='));
 if(outArg)writeFileSync(outArg.slice('--out='.length),JSON.stringify(output,null,2)+'\n','utf8');
 if(process.argv.includes('--check')){
   if(count.aTier!==350){console.error('Expected 350 A-tier draft sections; got '+count.aTier);process.exitCode=1;}
-  if(issues.some(x=>['missing_or_invalid_slug','same_slug_multiple_ids','duplicate_a_tier_id','duplicate_s_tier_id'].includes(x.type)))process.exitCode=1;
+  if(issues.some(x=>['missing_or_invalid_slug','same_slug_multiple_ids','duplicate_a_tier_id','duplicate_s_tier_id','ledger_id_missing_from_SA_body'].includes(x.type)))process.exitCode=1;
 }
