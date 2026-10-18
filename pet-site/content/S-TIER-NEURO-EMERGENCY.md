@@ -44,7 +44,9 @@
 
 兽医通常会先结合年龄、病史、接触史和神经检查，再决定是否需要血液、尿液或进一步影像检查。
 
-就诊前最好记录发作前在做什么、持续多久、有没有失去意识、排尿排便、发作后多久恢复，以及近期是否可能接触药物、毒物或异常食物。
+就诊前最好记录发作前在做什么、持续多久、有没有失去意识、排尿排便、发作后多久恢复，以及近期是否可能接触药物、毒物或异常食物。即使已经恢复，也应尽快联系兽医安排首次发作评估；若发作持续约5分钟或更久、短时间内重复发作、恢复期意识持续异常或疑似中毒，应立即联系急诊。不要自行给人用抗癫痫药。
+
+编辑级参考：Merck Veterinary Manual—Seizure Disorders in Dogs（https://www.merckvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/seizure-disorders-in-dogs）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Epilepsy in Small Animals。
 
@@ -72,7 +74,9 @@
 
 搬动时尽量让身体保持平直，可用硬板、厚毯或多人协作支撑胸部和骨盆，避免腰背大幅扭转。
 
-如果完全无法站立、后肢没有反应、持续尖叫或出现排尿困难，应按更紧急的神经急症处理。
+如果突然完全无法站立、后肢明显无力或瘫痪、持续剧痛或出现排尿困难，应立即联系兽医急诊。不要自行拉扯四肢测试痛觉、按摩或让狗继续行走；运输时尽量减少脊柱扭转。是否存在深部痛觉及神经定位应由兽医检查，主人不应在家自行判定。
+
+编辑级参考：Merck Veterinary Manual—Spinal Cord Disorders in Dogs（https://www.merckvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/spinal-cord-disorders-in-dogs）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Nervous System Disorders and Effects of Injuries in Dogs。
 
