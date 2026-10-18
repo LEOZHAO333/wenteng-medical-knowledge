@@ -19,7 +19,7 @@ test('only approved published indexed QA is included',()=>{
  const noFounder={...a,id:'TEST-004',canonicalSlug:'cat-ear-no-founder',founderIndexApproved:false};
  const drug={...a,id:'TEST-005',canonicalSlug:'japan-drug-no-qa',contentType:'drug'};
  const xml=buildApprovedQaSitemap([a,draft,noMedical,noFounder,drug]);
- assert.match(xml,/https:\/\/www\.japanmedai\.com\/pet\/qa\/cat-ear-test\//);
+ assert.match(xml,/https:\/\/pet\.japanmedai\.com\/qa\/cat-ear-test\//);
  for(const slug of ['cat-ear-draft','cat-ear-no-medical','cat-ear-no-founder','japan-drug-no-qa'])
    assert.equal(xml.includes(slug),false);
  assert.match(xml,/<lastmod>2026-10-18<\/lastmod>/);
