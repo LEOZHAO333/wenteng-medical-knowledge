@@ -5,12 +5,14 @@
 - 分类：肾病与补液安全
 - Slug：`cat-fast-breathing-after-fluids`
 - 摘要：补液后出现明显呼吸加快不应只观察“等吸收”，需要停止继续补液并尽快联系兽医。
-- 直接回答：先停止自行追加液体，让猫安静休息并联系兽医；若出现张口呼吸、呼吸费力、发绀或明显虚弱，应按急症就医。
+- 直接回答：暂停自行追加补液，并立即联系负责治疗的兽医；若持续呼吸明显加快、费力、张口呼吸、发绀或明显虚弱，应直接联系急诊，不能先等液体“吸收”。
 
 皮下补液后如果猫只是因为操作紧张短暂呼吸稍快，安静后可能恢复，但持续或明显加快需要更谨慎。
 呼吸异常可能和应激、疼痛，也可能和液体耐受或原有心肺问题有关，不能仅凭家中观察确定原因。
 不要继续追加液体，也不要强行让猫活动。可以在安静状态下录一段呼吸视频并记录补液时间。
-出现张口呼吸、明显腹式呼吸、舌色异常、无法躺下或快速虚弱时，应立即联系急诊。
+出现张口呼吸、明显腹式呼吸、舌色异常、无法躺下或快速虚弱时，应立即联系急诊。呼吸变快也可能由应激、疼痛等造成，不能仅凭症状断定补液过量。
+
+编辑来源：Merck Veterinary Manual—Maintenance Fluid Plan in Animals（https://www.merckvetmanual.com/therapeutics/fluid-therapy/maintenance-fluid-plan-in-animals），记载液体负荷过多可出现呼吸频率及呼吸费力增加；具体原因、皮下/静脉补液的风险差异仍待兽医判断。医学审核：pending。
 
 ---
 
@@ -19,12 +21,14 @@
 - 分类：肾病与眼部急症
 - Slug：`cat-ckd-sudden-vision-loss`
 - 摘要：肾病猫突然视力异常可能与高血压等严重问题有关，属于需要尽快评估的变化。
-- 直接回答：需要尽快联系兽医，尤其是突然撞墙、瞳孔持续放大、看不见食物或明显惊慌时。
+- 直接回答：需要当天尽快联系兽医评估，尤其是突然撞墙、瞳孔持续放大、看不见食物或明显惊慌时；无法及时安排门诊或合并神经症状时，应咨询急诊。
 
 猫突然看不清并不一定能从眼睛外观看出明显红肿，但行为会突然改变，例如撞到家具、不敢跳、找不到食物。
 慢性肾病猫需要特别关注血压，因为严重高血压可能损伤视网膜和其他器官。
 不要自行滴人用眼药水，也不要等待几天看是否自行恢复。就诊时带上最近的肾病化验、血压和用药记录。
-如果视力变化是突然发生的，应尽快就医，越早明确原因越有利于后续处理。
+如果视力变化是突然发生的，应尽快就医，越早明确原因越有利于后续处理。肾病合并高血压可能损伤视网膜，但不能仅凭肾病和视力变化就断言病因。
+
+编辑来源：Cornell Feline Health Center—Sudden Blindness（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/sudden-blindness）及 Hypertension（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hypertension）。医学审核：pending。
 
 ---
 
