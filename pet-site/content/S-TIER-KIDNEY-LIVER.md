@@ -248,7 +248,9 @@
 狗的肌酐、尿素氮或其他肾相关指标升高时，脱水、急性疾病和慢性肾病都可能影响结果。
 尿比重可以提供尿液浓缩能力的信息，尿蛋白、尿沉渣和必要时尿培养还能帮助发现蛋白尿或感染线索。
 因此医生常把血检、尿检、血压以及必要的影像放在一起，而不是只盯着一个血液数字。
-复诊时保留历次血检和尿检，记录饮水、尿量、食欲和体重变化，有助于比较趋势。
+复诊时保留历次血检和尿检，记录饮水、尿量、食欲和体重变化，有助于比较趋势。血液指标升高不能单凭一次结果区分急性肾损伤与慢性肾病；若突然几乎不排尿、反复呕吐、明显虚弱或状态迅速恶化，应立即联系兽医急诊，不要等常规尿检预约。
+
+编辑级参考：Merck Veterinary Manual—Acute Kidney Injury in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/renal-dysfunction-in-dogs-and-cats/acute-kidney-injury-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -292,4 +294,6 @@
 胆囊壁、胆泥、胆汁内容物或胆道等都可能在检查中出现不同异常，仅凭“胆囊不好”很难理解风险。
 主人可以请医生说明影像报告中的具体发现，当前更偏向观察还是需要进一步处理，以及是否伴随肝酶或胆红素异常。
 同时问清复查时间、是否需要重复超声或血检，以及饮食和正在使用的药物是否需要调整。
-如果出现持续呕吐、明显腹痛、黄疸、精神食欲快速变差，应提前联系医院。
+如果出现持续呕吐、明显腹痛、黄疸、精神食欲快速变差，应立即联系兽医急诊，而非仅等待预约复查。某些胆囊或胆道异常可能涉及阻塞、炎症甚至破裂等严重风险，但不能仅凭“胆泥”或单次超声文字推断必须手术；需由兽医结合症状、化验及影像判断。
+
+编辑级参考：Merck Veterinary Manual—Gallbladder and Bile Duct Disorders in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/gallbladder-and-bile-duct-disorders-in-small-animals）。医学审核：pending。
