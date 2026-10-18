@@ -16,7 +16,7 @@
 | 0250 | 肾病猫多饮仍脱水 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + hydrationAssessment |
 | 0251 | 肾病猫血磷和营养 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + phosphateAndIntake |
 | 0252 | CKD猫合并高血压 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + targetOrgan |
-| 0253 | CKD猫突然视力下降 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + urgentVision |
+| 0264 | 犬急性肾损伤出院复查 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + AKIRecoveryMonitoring |
 | 0257 | CKD猫化验好转是否停治疗 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + lifelongMonitoring |
 | 0261 | 犬肾指标升高为何查尿 | S-TIER-KIDNEY-LIVER.md | source_verified_editorial + combinedAssessment |
 
@@ -74,11 +74,13 @@
   https://www.iris-kidney.com/iris-staging-system
 - 编辑边界：家庭不能凭猫是否平静推断血压数值；突然视觉或神经异常应尽快就医，不自行增减降压药。
 
-### 0253｜肾病猫突发视力变化
-- 已核对断言：猫高血压有损害眼部视网膜等靶器官的风险，慢性肾病是常见相关基础病；突然撞家具、瞳孔异常或视力减退需要尽快兽医评估。
-- 核对来源：Cornell Feline Health Center, Hypertension。  
-  https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hypertension
-- 编辑边界：不能从“突然看不见”直接确诊高血压或视网膜脱离；这是风险警示，不能自行滴人用眼药，也不等待自然恢复。
+### 0264｜犬急性肾损伤出院后的复查
+- 已核对断言：急性肾损伤恢复可能持续较长时间，出院时数值趋稳不等于完全恢复；应按兽医计划监测血液、尿液、补液/水合状态，并记录食欲、体重、排尿及整体情况。
+- 核对来源：IRIS AKI Summary, Recovery, Discharge and Monitoring。  
+  https://www.iris-kidney.com/new-page-5
+- 核对来源：IRIS Guidelines（2026版含AKI分级修订）。  
+  https://www.iris-kidney.com/iris-guidelines-1
+- 编辑边界：不能凭一次指标恢复就自行停止随访，也不提供统一复查频率或补液剂量；少尿/无尿、反复呕吐或明显衰弱时需立即联系兽医。具体再诊安排以出院团队医嘱为准。
 
 ### 0257｜CKD数值改善是否停治疗
 - 已核对断言：CKD是长期且通常进展性的病程，数值改善未必意味着病已逆转，治疗需结合连续数据、临床状态与营养/水合等调整。
@@ -99,7 +101,7 @@
 ## 三、审核闭环及下轮
 
 - 此批10条为**内容不新增、医学断言编辑核对的草稿批次**。原标题、ID、Slug、源正文留在原S/A主库；不生成重复URL。
-- 症状恶化/急诊优先项：0220（无法排尿）、0222（明显血尿+排尿困难）、0253（突发失明）。
+- 症状恶化/急诊优先项：0220（无法排尿）、0222（明显血尿+排尿困难）、0264（出院后少尿/无尿或明显恶化）。
 - 需真实兽医进一步审核尿路诊断边界、肾病个体治疗及全部用药/干预细节。**Medical Approved=未获批准**。
-- 本批入库后预期来源记录由400→410，待补182→172（S62→52，A120不变）；实际以最新GitHub CI审计为准。
+- 本批纠正与Batch05重叠的0253后，来源记录由400→410且为410个不同ID，待补182→172（S62→52，A120不变）；实际以最新GitHub CI审计为准。
 - 本批不执行合并main、部署、解除noindex、提交Sitemap或其他重大决定，按照SOP V1.5继续下一批。
