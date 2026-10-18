@@ -27,6 +27,7 @@ jobs:
           node --check pet-site/seo/release-policy.mjs
           node --check pet-site/seo/export-content-inventory.mjs
           node --check pet-site/seo/source-review-queue.mjs
+          node --check pet-site/seo/medical-review-handoff.mjs
           node --check pet-site/seo/audit-source-batches.mjs
           node --check pet-site/seo/audit-editorial-closures.mjs
           node --check pet-site/seo/audit-approval-boundaries.mjs
@@ -39,6 +40,8 @@ jobs:
         run: node pet-site/seo/export-content-inventory.mjs --check
       - name: Prioritize remaining source-review backlog (no publish permission)
         run: node pet-site/seo/source-review-queue.mjs --summary --check
+      - name: Queue clinical handoff only (no approval and no writes)
+        run: node pet-site/seo/medical-review-handoff.mjs --check
       - name: Audit per-ID medical source documentation syntax (no medical approval)
         run: node pet-site/seo/audit-source-batches.mjs
       - name: Verify standing Founder approval boundaries (read-only)
