@@ -12,7 +12,9 @@
 
 不要反复抱起检查、强行喂水或让猫走动测试。尽量减少环境刺激，保持运输过程安静，并提前联系动物医院说明呼吸异常。
 
-如果出现舌色异常、明显腹式呼吸、无法站稳或状态快速恶化，应按急症处理。
+猫持续张口呼吸本身就应视为需要立即联系急诊的危险信号，不应等到牙龈或舌色发青才求助；黏膜颜色改变、明显腹式用力或衰弱可能代表更严重缺氧。优先减少抓抱与应激，提前通知接诊医院，尽快转运。
+
+编辑级依据：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients）。医学审核：pending。
 
 ---
 
