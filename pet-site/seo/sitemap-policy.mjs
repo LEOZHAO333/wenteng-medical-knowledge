@@ -11,17 +11,17 @@ function validDate(date){
   return typeof date==='string'&&DATE.test(date)&&
     !Number.isNaN(Date.parse(date))&&new Date(date).toISOString().slice(0,10)===date;
 }
-export function buildApprovedQaSitemap(items,base='https://www.japanmedai.com/pet'){
+export function buildApprovedQaSitemap(items,base='https://pet.japanmedai.com'){
   if(!Array.isArray(items))throw new TypeError('sitemap items must be array');
   const baseUrl=new URL(base);
-  if(baseUrl.protocol!=='https:'||baseUrl.pathname.replace(/\/+$/,'')!=='/pet')
-    throw new Error('Sitemap base must be an HTTPS /pet home URL');
+  if(baseUrl.protocol!=='https:'||!['','/'].includes(baseUrl.pathname.replace(/\/+$/,'')))
+    throw new Error('Sitemap base must be an HTTPS site-root URL');
   const urls=[],seen=new Set();
   for(const item of items){
     if(item.contentType!=='qa'||!isIndexEligible(item))continue;
     if(!safeSlug.test(item.canonicalSlug))throw new Error('Invalid slug '+item.canonicalSlug);
     if(!validDate(item.lastModifiedAt))throw new Error('Invalid editorial lastModifiedAt for '+item.id);
-    const loc=baseUrl.origin+'/pet/qa/'+item.canonicalSlug+'/';
+    const loc=baseUrl.origin+'/qa/'+item.canonicalSlug+'/';
     if(seen.has(loc))throw new Error('Duplicate sitemap URL '+loc);
     seen.add(loc);
     urls.push({loc,lastmod:item.lastModifiedAt});
