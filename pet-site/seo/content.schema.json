@@ -25,7 +25,8 @@
     "publicationState",
     "indexEligible",
     "relatedIds",
-    "lastModifiedAt"
+    "lastModifiedAt",
+    "founderIndexApproved"
   ],
   "properties": {
     "id": {
@@ -314,6 +315,11 @@
           "format": "date"
         }
       }
+    },
+    "founderIndexApproved": {
+      "type": "boolean",
+      "description": "必须有可追溯的 Founder 正式授权方可设 true；授权证据另存PR/issue。",
+      "default": false
     }
   }
 }
