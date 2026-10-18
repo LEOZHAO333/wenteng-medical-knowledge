@@ -11,11 +11,14 @@ const ledgerFiles=names.filter(s=>/^SOURCE-VERIFICATION-BATCH-\d+\.md$/.test(s))
 const ledger=new Map();
 for(const name of ledgerFiles){
   const data=readFileSync(join(dir,name),'utf8');
-  for(const m of data.matchAll(/^\|\s*(\d{4})\s*\|\s*([^|\r\n]+)\s*\|/gm)){
-    if(/source_verified_editorial|needs_edit|hold|pending/i.test(m[2])){
-      if(!ledger.has(m[1]))ledger.set(m[1],[]);
-      ledger.get(m[1]).push({batch:name,history:m[2].trim()});
-    }
+  for(const line of data.split(/\r?\n/)){
+    if(!/^\|\s*\d{4}\s*\|/.test(line))continue;
+    const cells=line.split('|').slice(1,-1).map(x=>x.replace(/\*/g,'').trim());
+    const id=cells[0];
+    const status=cells.slice(1).find(c=>/^(source_verified_editorial|needs_edit|hold|pending)(\b|\s|\+)/i.test(c));
+    if(!status)continue;
+    if(!ledger.has(id))ledger.set(id,[]);
+    ledger.get(id).push({batch:name,history:status});
   }
 }
 function parse(files,tier){
@@ -59,6 +62,5 @@ if(process.argv.includes('--summary')){
 if(process.argv.includes('--check')){
  const s=queue.filter(x=>x.tier==='S'),a=queue.filter(x=>x.tier==='A');
  if(queue.length+ledger.size!==all.length){console.error('Source ledger / body mismatch: unresolved '+queue.length+' + ledger '+ledger.size+' != bodies '+all.length);process.exitCode=1;}
- if(s.length<0||a.length<0){console.error('Unexpected negative counts');process.exitCode=1;}
  if(new Set(queue.map(x=>x.id)).size!==queue.length){console.error('Duplicate unresolved ID');process.exitCode=1;}
 }
