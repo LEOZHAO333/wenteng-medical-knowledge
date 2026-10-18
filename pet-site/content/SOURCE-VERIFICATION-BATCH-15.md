@@ -37,7 +37,7 @@
 ### 0307｜犬过敏原检测的用途
 - 已核对断言：AAHA 2023犬猫过敏性皮肤病指南明确，血清或皮内过敏原检测并不单独用于确诊犬特应性皮炎；通常是在临床诊断基础上，为考虑过敏原特异性免疫治疗提供信息。
 - 核对来源：AAHA, 2023 Management of Allergic Skin Diseases in Dogs and Cats Guidelines。
-  https://www.aaha.org/resources/2023-aaha-management-of-allergic-skin-%20diseases-in-dogs-and-cats-guidelines/
+  https://www.aaha.org/trends-magazine/december-2023/2023-aaha-management-of-allergic-skin-diseases-in-dogs-and-cats-guidelines/
 - 核对来源：AAHA, Executive Summary（2023）。
   https://www.aaha.org/trends-magazine/december-2023/2023-aaha-management-of-allergic-skin-diseases-in-dogs-and-cats-guidelines/
 - 编辑边界：报告中的某种过敏原阳性，不足以单独证明该物质就是当前瘙痒的唯一病因，也不意味着只靠避开检测列表就一定不痒。排查应包括寄生虫、继发感染和食物相关问题。
