@@ -1,0 +1,69 @@
+{
+  "batch": "MED-EVIDENCE-P1-05",
+  "checkedAt": "2026-10-18",
+  "records": [
+    {
+      "id": "0264",
+      "canonicalSlug": "dog-aki-discharge-recheck",
+      "focus": "AKI出院后追踪",
+      "sourceUrl": "https://www.iris-kidney.com/guidelines",
+      "reviewScope": "selected medical claims; editorial verification only",
+      "medicalReviewStatus": "pending",
+      "sourceSemanticSignoff": "veterinarian_pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0252",
+      "canonicalSlug": "cat-ckd-hypertension-home-monitoring",
+      "focus": "CKD猫高血压与靶器官损伤",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6271319/",
+      "reviewScope": "selected medical claims; editorial verification only",
+      "medicalReviewStatus": "pending",
+      "sourceSemanticSignoff": "veterinarian_pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0257",
+      "canonicalSlug": "cat-ckd-labs-better-stop-treatment",
+      "focus": "慢性肾病不能凭单次改善停管理",
+      "sourceUrl": "https://www.iris-kidney.com/guidelines",
+      "reviewScope": "selected medical claims; editorial verification only",
+      "medicalReviewStatus": "pending",
+      "sourceSemanticSignoff": "veterinarian_pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0621",
+      "canonicalSlug": "pet-preop-medication-supplement-review",
+      "focus": "麻醉术前药品和补充剂核对",
+      "sourceUrl": "https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-1-preanesthesia/step-1-preanesthetic-planning/",
+      "reviewScope": "selected medical claims; editorial verification only",
+      "medicalReviewStatus": "pending",
+      "sourceSemanticSignoff": "veterinarian_pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0623",
+      "canonicalSlug": "pet-anesthesia-monitoring-questions",
+      "focus": "麻醉全程监护内容",
+      "sourceUrl": "https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/",
+      "reviewScope": "selected medical claims; editorial verification only",
+      "medicalReviewStatus": "pending",
+      "sourceSemanticSignoff": "veterinarian_pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0625",
+      "canonicalSlug": "pet-heart-kidney-disease-anesthesia-risk",
+      "focus": "心肾病麻醉个体化风险",
+      "sourceUrl": "https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-1-preanesthesia/",
+      "reviewScope": "selected medical claims; editorial verification only",
+      "medicalReviewStatus": "pending",
+      "sourceSemanticSignoff": "veterinarian_pending",
+      "indexEligible": false
+    }
+  ],
+  "notMedicalApproved": true,
+  "publicationState": "draft",
+  "scope": "S-tier CKD/AKI and anesthesia safety, not full medical signoff"
+}
