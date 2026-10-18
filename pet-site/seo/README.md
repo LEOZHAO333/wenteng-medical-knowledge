@@ -3,6 +3,15 @@
 归属：JapanMed AI 旗下独立的「日宠通｜日本宠物健康知识站」
 路径：`https://www.japanmedai.com/pet/`
 
+## 适用的最新授权：SOP V1.5（2026-10-18）
+
+**Founder已明确：重复、低风险执行不再逐次询问；只有重大决策需Founder确认。** 正式详细规则请先读 [SOP-RECURRING-AUTONOMY-V1.5.md](./SOP-RECURRING-AUTONOMY-V1.5.md)，对应机器清单 [approval-boundaries.json](./approval-boundaries.json)，CI检查 [audit-approval-boundaries.mjs](./audit-approval-boundaries.mjs)。
+
+授权自动执行范围：选题/去重、原有S/A草稿编修、权威来源逐项核对、编辑级整改、Batch资料整理、非生产Draft PR和CI纠错。**禁止未批准合并、部署、对外发布、公开索引、扩大权限；Medical Approved只能由真实合资格兽医评审，不能凭CI或Founder商业决策冒充。**
+
+最新主库已核对的编辑台账（Batch01–12）：**A350 + S232 = 582个正文草稿**、**400条编辑来源记录**、**182条尚无编辑来源记录（S62/A120）**。旧章节中的「380条」为当时历史快照，并非最新状态；所有数据以当前CI扫描为准。此SOP在PR #8 Draft分支有效，尚未合并main。
+
+
 ## 0. 铁律与已有资产
 
 - 沿用既定架构：**品牌、导航、内容库、Sitemap、统计独立**；JapanMed AI 人类医疗站与日宠通不可混写。
