@@ -1,0 +1,229 @@
+{
+  "name": "日宠通内容聚类基线V1",
+  "date": "2026-10-18",
+  "caution": "种子问题不是关键词搜索量排名，也不代表已有文章全部经医学审核或已被搜索引擎收录",
+  "clusters": [
+    {
+      "key": "cat-skin-allergy",
+      "species": "猫",
+      "priority": "S",
+      "pillar": "猫皮肤与过敏",
+      "intent": [
+        "symptom",
+        "care",
+        "followup"
+      ],
+      "seeds": [
+        "猫不停舔同一个地方",
+        "猫肚子舔秃",
+        "猫身上很多小痂",
+        "猫对跳蚤过敏",
+        "猫换清洁剂抓挠",
+        "猫止痒后复发",
+        "多猫家庭误吃食物"
+      ],
+      "hubSuggestion": "猫皮肤与过敏：症状、排查、复诊资料",
+      "safety": "舔毛不等于心理问题；排查疼痛、寄生虫、皮肤病；急性呼吸异常等需及时就医"
+    },
+    {
+      "key": "cat-ear",
+      "species": "猫",
+      "priority": "S",
+      "pillar": "猫耳朵问题",
+      "intent": [
+        "symptom",
+        "care",
+        "emergency"
+      ],
+      "seeds": [
+        "猫耳朵黑色耳垢",
+        "猫耳螨怎么判断",
+        "猫挠耳出血",
+        "猫单侧歪头",
+        "猫抗拒滴耳药"
+      ],
+      "hubSuggestion": "猫耳朵异常：耳垢、抓挠、歪头、滴耳护理",
+      "safety": "黑色耳垢不是耳螨确诊；歪头、眼震、步态不稳要评估前庭和神经病因"
+    },
+    {
+      "key": "cat-urinary",
+      "species": "猫",
+      "priority": "S",
+      "pillar": "猫泌尿",
+      "intent": [
+        "symptom",
+        "emergency",
+        "followup"
+      ],
+      "seeds": [
+        "猫频繁去猫砂盆尿不出来",
+        "猫尿血",
+        "猫尿闭",
+        "猫复发性泌尿问题带什么资料"
+      ],
+      "hubSuggestion": "猫排尿异常和泌尿急症",
+      "safety": "尤其公猫疑似尿闭不能等待"
+    },
+    {
+      "key": "cat-kidney",
+      "species": "猫",
+      "priority": "S",
+      "pillar": "猫肾病",
+      "intent": [
+        "diagnosis",
+        "care",
+        "followup"
+      ],
+      "seeds": [
+        "猫肌酐一次高",
+        "猫慢性肾病IRIS分期",
+        "猫肾病消瘦",
+        "猫补液后呼吸加快"
+      ],
+      "hubSuggestion": "猫肾病检查、长期观察及复诊",
+      "safety": "补液不提供通用剂量；合并心脏及呼吸问题应就医"
+    },
+    {
+      "key": "dog-skin-allergy",
+      "species": "狗",
+      "priority": "S",
+      "pillar": "狗皮肤过敏",
+      "intent": [
+        "symptom",
+        "care",
+        "followup"
+      ],
+      "seeds": [
+        "狗舔脚",
+        "狗季节性瘙痒",
+        "狗止痒后复发",
+        "狗过敏原检测",
+        "狗皮屑多"
+      ],
+      "hubSuggestion": "狗反复抓痒及皮肤问题",
+      "safety": "不把止痒药有效等同病因明确"
+    },
+    {
+      "key": "dog-urinary-kidney",
+      "species": "狗",
+      "priority": "S",
+      "pillar": "犬泌尿与肾脏",
+      "intent": [
+        "symptom",
+        "diagnosis",
+        "followup"
+      ],
+      "seeds": [
+        "狗尿血留样",
+        "狗漏尿",
+        "狗蛋白尿",
+        "狗肾功能升高"
+      ],
+      "hubSuggestion": "犬泌尿症状、肾病与检查",
+      "safety": "异常排尿和全身症状时明确就医边界"
+    },
+    {
+      "key": "emergency",
+      "species": "犬猫",
+      "priority": "S",
+      "pillar": "急症识别",
+      "intent": [
+        "emergency"
+      ],
+      "seeds": [
+        "猫狗呼吸困难",
+        "宠物误食药物",
+        "猫尿不出来",
+        "宠物抽搐"
+      ],
+      "hubSuggestion": "犬猫急症：何时不能等待",
+      "safety": "首页急症内容靠前；不以居家方法替代急救"
+    },
+    {
+      "key": "diagnostic-literacy",
+      "species": "犬猫",
+      "priority": "A",
+      "pillar": "检查与第二意见",
+      "intent": [
+        "diagnosis",
+        "followup"
+      ],
+      "seeds": [
+        "宠物检查报告怎么看",
+        "宠物影像原始文件",
+        "宠物复诊带什么记录",
+        "宠物皮肤前后照片"
+      ],
+      "hubSuggestion": "宠物复诊资料与检查理解",
+      "safety": "报告解读不代替临床检查"
+    },
+    {
+      "key": "home-environment",
+      "species": "犬猫",
+      "priority": "A",
+      "pillar": "居家环境与护理",
+      "intent": [
+        "care"
+      ],
+      "seeds": [
+        "多猫家庭分餐",
+        "宠物清洁剂刺激",
+        "过敏洗护与用药",
+        "宠物同住人过敏"
+      ],
+      "hubSuggestion": "宠物家庭环境、过敏与卫生",
+      "safety": "人类过敏症状由人类医生评估；宠物疾病由兽医评估"
+    },
+    {
+      "key": "senior-rehab",
+      "species": "犬猫",
+      "priority": "A",
+      "pillar": "老年与康复",
+      "intent": [
+        "care",
+        "followup"
+      ],
+      "seeds": [
+        "老猫行动不便猫砂盆",
+        "宠物长期护理交接",
+        "犬猫术后行动支持"
+      ],
+      "hubSuggestion": "老年犬猫长期照护",
+      "safety": "不擅自改变医嘱与术后限制"
+    },
+    {
+      "key": "japan-vet-drugs",
+      "species": "犬猫",
+      "priority": "S",
+      "pillar": "日本宠物新药与批准信息",
+      "intent": [
+        "drug_approval",
+        "education"
+      ],
+      "seeds": [
+        "日本猫用新药批准",
+        "日本犬用新药适应症",
+        "日本宠物药通用名商品名",
+        "日本动物医药品数据库"
+      ],
+      "hubSuggestion": "日本宠物新药及官方批准资料",
+      "safety": "NVAL/MAFF产品级核实，未确认物种、适应症或日期不得声称批准"
+    },
+    {
+      "key": "japan-vet-evidence",
+      "species": "犬猫",
+      "priority": "A",
+      "pillar": "日本精准兽医与研究",
+      "intent": [
+        "education"
+      ],
+      "seeds": [
+        "日本宠物肿瘤临床研究",
+        "日本兽医精准治疗",
+        "宠物药已批准还是研究"
+      ],
+      "hubSuggestion": "日本兽医研究与证据解读",
+      "safety": "研究、试验、批准与临床可及性严格区分"
+    }
+  ]
+}
