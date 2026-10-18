@@ -1,0 +1,60 @@
+#!/usr/bin/env node
+/** Priority queue only, NOT verified sources, veterinary review, or a publishing action. */
+import {readFileSync,readdirSync,writeFileSync} from 'node:fs';
+import {dirname,join} from 'node:path';
+import {fileURLToPath} from 'node:url';
+const dir=join(dirname(fileURLToPath(import.meta.url)),'../content');
+const names=readdirSync(dir).sort();
+const sFiles=names.filter(s=>/^S-TIER-.*\.md$/.test(s));
+const aFiles=names.filter(s=>/^A-TIER-BATCH-\d+-.*\.md$/.test(s));
+const ledgerFiles=names.filter(s=>/^SOURCE-VERIFICATION-BATCH-\d+\.md$/.test(s));
+const ledger=new Map();
+for(const name of ledgerFiles){
+  const data=readFileSync(join(dir,name),'utf8');
+  for(const m of data.matchAll(/^\|\s*(\d{4})\s*\|\s*([^|\r\n]+)\s*\|/gm)){
+    if(/source_verified_editorial|needs_edit|hold|pending/i.test(m[2])){
+      if(!ledger.has(m[1]))ledger.set(m[1],[]);
+      ledger.get(m[1]).push({batch:name,history:m[2].trim()});
+    }
+  }
+}
+function parse(files,tier){
+ const list=[];
+ for(const name of files){
+   const source=readFileSync(join(dir,name),'utf8');
+   const hs=[...source.matchAll(/^##\s+(\d{4})\s*｜\s*(.+?)\s*$/gm)];
+   for(let j=0;j<hs.length;j++){
+     const block=source.slice(hs[j].index,hs[j+1]?.index??source.length);
+     const slug=block.match(/^\s*-\s*Slug\s*[：:]\s*\x60?([a-z0-9-]+)\x60?\s*$/m)?.[1]??null;
+     list.push({id:hs[j][1],title:hs[j][2].trim(),slug,sourcePath:'pet-site/content/'+name,tier,answer:((block.match(/^\s*-\s*直接回答\s*[：:]\s*(.+)$/m)||[])[1]||'').trim()});
+   }
+ }
+ return list;
+}
+const all=[...parse(sFiles,'S'),...parse(aFiles,'A')];
+const p0Terms=/(抽搐|惊厥|无尿|尿不出|尿闭|排尿困难|呼吸困难|喘不过|张口呼吸|窒息|发绀|紫色|中毒|误食|毒物|吞|呕血|便血|血便|黑便|眼压|失明|突然看不见|歪头|站不稳|瘫痪|热射病|中暑|休克|急救|急诊|大出血|出血不止|腐蚀|跌落|高处坠落|持续呕吐|肚子鼓|干呕|葡萄|木糖醇|巧克力|百合花|异物|摔倒|癫痫|难产)/;
+const specialTerms=/(日本|新药|获批|批准|适应症|药品|用药|抗菌药|抗生素|激素|处方|输液|补液|剂量|滴耳药|药物|镇静|麻醉|疫苗|驱虫|化疗|癌症|肿瘤|安乐死)/;
+function risk(t){
+  const title=t.title;
+  if(p0Terms.test(title))return {grade:'P0',reason:'可能涉及时间敏感的急症/中毒/梗阻/神经问题，优先核实急诊边界'};
+  if(specialTerms.test(title))return {grade:'P1',reason:'涉及药品、操作、日本监管或治疗边界，需确认适用条件'};
+  return {grade:'P2',reason:'其他临床科普问题，补齐逐题来源核对'};
+}
+const queue=all.filter(x=>!ledger.has(x.id)).map(x=>({...x,clinicalRisk:risk(x),editorialSourceStatus:'not_in_existing_10_batch_ledgers',medicalReviewStatus:'pending',publicationState:'draft',indexEligible:false,notYetIndividuallyVerified:true}));
+const ranks={P0:0,P1:1,P2:2};
+queue.sort((a,b)=>a.tier===b.tier?(ranks[a.clinicalRisk.grade]-ranks[b.clinicalRisk.grade]||a.id.localeCompare(b.id)):a.tier==='S'?-1:1);
+const counts={};
+for(const e of queue){const k=e.tier+'-'+e.clinicalRisk.grade;counts[k]=(counts[k]||0)+1;}
+const report={generatedFrom:'S/A markdown + SOURCE-VERIFICATION-BATCH-01...10',status:'draft_triage_only',method:'keyword heuristic; human medical triage required',counts,total:queue.length,items:queue};
+if(process.argv.includes('--summary')){
+ console.log(JSON.stringify({counts,total:queue.length,first25:queue.slice(0,25).map(({id,title,tier,clinicalRisk,sourcePath})=>({id,title,tier,priority:clinicalRisk.grade,sourcePath}))},null,2));
+}else{
+ const outfile=process.argv.find(x=>x.startsWith('--out='))?.slice('--out='.length);
+ if(outfile)writeFileSync(outfile,JSON.stringify(report,null,2)+'\n','utf8');
+ else console.log(JSON.stringify(report,null,2));
+}
+if(process.argv.includes('--check')){
+ const s=queue.filter(x=>x.tier==='S'),a=queue.filter(x=>x.tier==='A');
+ if(s.length!==80||a.length!==122){console.error('Expected S80/A122 got S'+s.length+' A'+a.length);process.exitCode=1;}
+ if(new Set(queue.map(x=>x.id)).size!==queue.length){console.error('Duplicate unresolved ID');process.exitCode=1;}
+}
