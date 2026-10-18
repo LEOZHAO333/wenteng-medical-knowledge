@@ -6,6 +6,9 @@ on:
       - 'pet-site/seo/**'
       - 'pet-site/content/**'
       - 'pet-site/api/pet.js'
+      - 'pet-site/llms.txt'
+      - 'pet-site/llms-full.txt'
+      - 'pet-site/vercel.json'
       - '.github/workflows/pet-geo-seo-audit.yml'
 
 permissions:
@@ -32,6 +35,8 @@ jobs:
           node --check pet-site/seo/audit-editorial-closures.mjs
           node --check pet-site/seo/audit-approval-boundaries.mjs
           node --check pet-site/seo/sitemap-policy.mjs
+      - name: Verify pet llms files match site API, noindex, and origin policy
+        run: node pet-site/seo/audit-llms.mjs
       - name: Verify content mapping against renderer
         run: node pet-site/seo/audit-current-site.mjs
       - name: Test release policy
