@@ -2,7 +2,7 @@ const BASE = 'https://www.japanmedai.com/pet';
 const SITE = '日宠通';
 // Binary image assets are still packaged for import. Keep existing visible logo until files are committed.
 // Set true ONLY after all referenced PNG/WebP/JPG files have been committed and checked in PR #7.
-const BRAND_ASSETS_READY = false;
+const BRAND_ASSETS_READY = true;
 // 开放索引由 Founder 决定：INDEX_APPROVED 改为 true 后，只有 Vercel Production 部署才会 index；Preview 永远 noindex
 const INDEX_APPROVED = false;
 const INDEXABLE = INDEX_APPROVED && process.env.VERCEL_ENV === 'production';
