@@ -41,7 +41,7 @@ function risk(t){
   const title=t.title;
   // Human-reviewed editorial triage exceptions. These are NOT medical diagnosis labels.
   if(['0093','0107','0110','0125','0144'].includes(t.id))return {grade:'P0',reason:'持续无法保留水分、疑似出血或腹胀干呕等高风险线索，优先复核紧急就医表述'};
-  if(['0085','0217','0229','0794'].includes(t.id))return {grade:'P1',reason:'反复症状、术后照护或诊断性问题需优先核实，但不以单一词语认定急症'};
+  if(['0085','0217','0229','0794','0684','0777'].includes(t.id))return {grade:'P1',reason:'反复症状、术后照护、急诊准备或疑似虫咬/异物等场景需优先核实，标题关键词本身不能确诊急症'};
   if(p0Terms.test(title))return {grade:'P0',reason:'可能涉及时间敏感的急症/中毒/梗阻/神经问题，优先核实急诊边界'};
   if(specialTerms.test(title))return {grade:'P1',reason:'涉及药品、操作、日本监管或治疗边界，需确认适用条件'};
   return {grade:'P2',reason:'其他临床科普问题，补齐逐题来源核对'};
