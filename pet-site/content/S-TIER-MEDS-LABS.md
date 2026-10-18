@@ -22,9 +22,11 @@
 
 把药片碾碎拌罐头看起来最省事，但药物设计不同，随意碾碎可能改变释放速度、吸收位置或口感。还有些药非常苦，混进主食后反而可能让猫连原本喜欢的食物都拒绝。
 
-最稳妥的做法是把药名、规格和剂型发给原开药医院，直接问“能不能碾碎、能不能和食物同服”。
+最稳妥的做法是先保留完整包装和药品标签，向开药兽医确认具体产品能否碾碎、掰开或与食物混合；未确认前不要自行改变剂型。即使已经碾碎并混入食物，也不能凭食物剩余量自行估算再补一份药。
 
-如果猫长期需要服药，也可以讨论液体、胶囊、调味制剂或其他更适合家庭执行的方案。
+如果猫长期需要服药，应由兽医核对该产品后讨论是否存在适用的其他剂型；不要自行将处方改为液体或调味制剂。
+
+编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs）。医学终审：pending。
 
 ---
 
@@ -64,7 +66,9 @@
 
 尤其犬猫之间不能想当然互换，有些人和犬常用的成分对猫可能风险更高。
 
-如果家里有剩药，可以把药盒和处方带给兽医核对，但不要因为“症状一样”就先自行使用。
+如果家里有剩药，可以把原包装、药名、规格、原处方及两只动物的物种、体重和疾病资料带给兽医核对；未经兽医确认，不要共用。若已经误给另一只动物，应尽快联系兽医说明具体药物、用量和时间，不要自行补救或诱吐。若出现明显呼吸困难、倒地、意识异常等，应立即前往急诊。
+
+编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Evaluation and Initial Treatment of Dog and Cat Emergencies（https://www.merckvetmanual.com/special-pet-topics/emergencies/evaluation-and-initial-treatment-of-dog-and-cat-emergencies）。医学终审：pending。
 
 ---
 
