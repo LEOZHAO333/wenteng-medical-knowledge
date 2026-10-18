@@ -65,7 +65,7 @@
 - 已核对断言：**不是每例症状消失后都必须复查尿培养。** 单纯偶发细菌性膀胱炎临床症状消失者通常不需常规尿液复核；复发、症状持续、合并基础风险、医嘱指定或复杂病例则另行评估。
 - 可信资料：Merck Veterinary Manual, Bacterial Cystitis in Small Animals  
   https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals
-- **编辑重点**：现有直答“有些狗需要复查”方向可保留，但应在下次更新中补一句“单纯感染症状缓解后未必需要常规复查”，避免“必须验尿”的搜索误读；不指导自行缩短/延长抗菌药疗程。
+- 编辑边界：现有直答“有些狗需要复查”方向可保留，但应在下次更新中补一句“单纯感染症状缓解后未必需要常规复查”，避免“必须验尿”的搜索误读；不指导自行缩短/延长抗菌药疗程。
 
 ### 0244｜肾病猫拒食
 - 已核对断言：慢性肾病猫处方饮食有价值，但食欲下降可能与恶心、脱水及代谢问题相关；不能将拒食简单归因于不喜欢处方粮，营养摄入及病因应同步评估。
@@ -83,7 +83,7 @@
     https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/chronic-kidney-disease
   - AAHA, 2024 Fluid Therapy Guidelines for Dogs and Cats  
     https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/
-- **特别限制**：编辑复核只认可“必须现场培训与个体化观察”这一科普主旨；没有执行器械规格、针具步骤或实际操作资格的医学核验。原文涉及具体器械操作的句子须由实际执业兽医复核后才可放行。
+- 编辑边界：编辑复核只认可“必须现场培训与个体化观察”这一科普主旨；没有执行器械规格、针具步骤或实际操作资格的医学核验。原文涉及具体器械操作的句子须由实际执业兽医复核后才可放行。
 
 ### 0258｜肾病与心脏病同时存在
 - 已核对断言：有肾/心共病的宠物补液更需评估个体耐受与液体负荷，留意呼吸变化、体重及整体状态；不适合照搬其他病例的液体方案。
