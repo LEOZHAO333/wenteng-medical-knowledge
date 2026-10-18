@@ -42,7 +42,9 @@
 狗的眼白、牙龈或皮肤出现明显黄色，通常不是“上火”或普通色素变化，需要考虑胆红素升高相关问题。
 原因可能涉及肝脏、胆道或红细胞破坏等不同方向，单靠外观不能判断是哪一种。
 就诊前可以记录从什么时候开始、尿液颜色、食欲、呕吐、便便颜色、近期用药和可能接触的毒物。
-如果黄染快速加重或伴随明显虚弱、持续呕吐、腹痛等，应更快联系动物医院。
+如果黄染快速加重或伴随明显虚弱、持续呕吐、腹痛、倒地等，应立即联系急诊。黄疸是临床体征而非病因诊断，不能仅凭颜色判断为肝病，也不应自行使用所谓护肝药替代检查。
+
+编辑级参考：Merck Veterinary Manual—Jaundice in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/overview-of-hepatic-disease-in-small-animals）。医学审核：pending。
 
 ---
 
