@@ -10,7 +10,9 @@
 皮下补液后如果猫只是因为操作紧张短暂呼吸稍快，安静后可能恢复，但持续或明显加快需要更谨慎。
 呼吸异常可能和应激、疼痛，也可能和液体耐受或原有心肺问题有关，不能仅凭家中观察确定原因。
 不要继续追加液体，也不要强行让猫活动。可以在安静状态下录一段呼吸视频并记录补液时间。
-出现张口呼吸、明显腹式呼吸、舌色异常、无法躺下或快速虚弱时，应立即联系急诊。
+出现张口呼吸、明显腹式呼吸、舌色异常、无法躺下或快速虚弱时，应立即联系急诊。补液后呼吸持续加快或费力可能提示液体不耐受或原有心肺问题，不能仅凭家庭观察断定是普通应激；就医前不要自行追加补液。
+
+编辑级证据：2024 AAHA Fluid Therapy Guidelines—Section 6 Fluid Overload（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/）。医学审核：pending。
 
 ---
 
@@ -24,7 +26,9 @@
 猫突然看不清并不一定能从眼睛外观看出明显红肿，但行为会突然改变，例如撞到家具、不敢跳、找不到食物。
 慢性肾病猫需要特别关注血压，因为严重高血压可能损伤视网膜和其他器官。
 不要自行滴人用眼药水，也不要等待几天看是否自行恢复。就诊时带上最近的肾病化验、血压和用药记录。
-如果视力变化是突然发生的，应尽快就医，越早明确原因越有利于后续处理。
+如果视力变化是突然发生的，应尽快联系动物医院安排当日评估，包括眼底和血压等检查。高血压可能导致视网膜出血或脱离，但突发失明也有其他病因，不能只凭肾病史直接确诊；即使控制血压，视力也不保证恢复。
+
+编辑级证据：ACVIM Consensus Statement—Systemic Hypertension in Dogs and Cats（https://pmc.ncbi.nlm.nih.gov/articles/PMC6271319/）。医学审核：pending。
 
 ---
 
@@ -206,7 +210,9 @@
 慢性肾病猫可能需要改善水合状态，但如果同时存在心脏疾病，液体过多可能增加心肺负担。
 医生会结合脱水程度、呼吸状态、心脏检查、肾功能和日常进食饮水决定是否需要补液以及如何调整。
 主人应重点记录静息呼吸变化、精神食欲、体重和补液后的反应，并严格按既定方案操作。
-如果补液后出现持续呼吸加快、呼吸费力、明显虚弱，应停止自行追加并立即联系兽医。
+如果补液后出现持续呼吸加快、呼吸费力、明显虚弱，应停止自行追加并立即联系兽医；张口呼吸、明显呼吸困难应按急症处理。肾病和心脏病都可能降低液体耐受，不能把“有肾病就需要固定频率补液”作为通用规则；补液需求、途径与监测应由兽医个体化决定。
+
+编辑级证据：2024 AAHA Fluid Therapy Guidelines—Section 5/6（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-5-fluid-therapy-in-ill-patients/；https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/）。医学审核：pending。
 
 ---
 
