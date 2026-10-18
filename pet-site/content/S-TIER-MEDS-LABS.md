@@ -78,11 +78,13 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 - Slug：`pet-antibiotic-stop-early`
 - 直接回答：不要自行停药或延长。抗菌药应按兽医根据感染类型、检查结果和疗程设定的计划使用。
 
-症状改善并不一定代表感染已经完全解决，也不代表每一种感染都需要同样长的疗程。
+症状改善不能单独决定是否结束抗菌治疗；也不能据此断言感染尚未清除。疗程应结合感染类型、诊断证据和治疗反应，由兽医按当前证据决定，避免不必要的延长。
 
-AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨慎使用，并尽量根据诊断结果决定是否真的需要抗菌治疗。
+2022 AAFP/AAHA抗菌药管理指南强调：应尽可能明确适应证、反复评估是否仍需用药，并根据临床证据确定合理疗程，而不是对所有感染套用相同疗程。
 
-如果服药后出现明显不良反应，或宠物已经完全恢复但你对疗程有疑问，应联系原医院确认，而不是自行停、减或延长。
+如果用药后出现疑似明显不良反应，应及时联系开药兽医，必要时急诊处理；是否暂停、更换或调整药物由治疗兽医结合情况指导。不要只根据症状消退自行缩短或延长疗程。
+
+编辑级证据：2022 AAFP/AAHA Antimicrobial Stewardship Guidelines（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/how-to-practice-antimicrobial-stewardship/）。医学终审：pending。
 
 ---
 
@@ -142,7 +144,9 @@ AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨�
 
 兽医会结合分类计数、症状、体检，以及尿检、影像、培养等其他证据判断感染可能性。
 
-AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验性滥用抗菌药。
+2022 AAFP/AAHA抗菌药管理指南要求尽可能依据病因和诊断证据用药；单独白细胞升高不能作为抗菌药的充分指征。
+
+编辑级证据：AAFP/AAHA — Therapeutic antimicrobial use in the clinical setting（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/therapeutic-antimicrobial-use-in-the-clinical-setting/）。医学终审：pending。
 
 ---
 
