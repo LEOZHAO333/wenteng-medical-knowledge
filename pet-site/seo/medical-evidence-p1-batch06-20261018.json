@@ -1,0 +1,58 @@
+{
+  "batch": "MED-EVIDENCE-P1-06",
+  "date": "2026-10-18",
+  "records": [
+    {
+      "id": "0125",
+      "canonicalSlug": "cat-diarrhea-blood",
+      "topic": "猫血性腹泻",
+      "sourceUrl": "https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals",
+      "editorialStatus": "targeted_evidence_checked",
+      "medicalReviewStatus": "pending",
+      "published": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0144",
+      "canonicalSlug": "dog-black-stool",
+      "topic": "犬黑色柏油便",
+      "sourceUrl": "https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals",
+      "editorialStatus": "targeted_evidence_checked",
+      "medicalReviewStatus": "pending",
+      "published": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0228",
+      "canonicalSlug": "dog-painful-urination",
+      "topic": "犬排尿痛与排尿困难",
+      "sourceUrl": "https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/disorders-of-micturition-in-dogs-and-cats",
+      "editorialStatus": "targeted_evidence_checked",
+      "medicalReviewStatus": "pending",
+      "published": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0230",
+      "canonicalSlug": "dog-recurrent-uti-urine-culture",
+      "topic": "犬复发性尿路症状与尿培养",
+      "sourceUrl": "https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals",
+      "editorialStatus": "targeted_evidence_checked",
+      "medicalReviewStatus": "pending",
+      "published": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0705",
+      "canonicalSlug": "cat-mammary-lump",
+      "topic": "猫乳腺附近结节",
+      "sourceUrl": "https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/",
+      "editorialStatus": "targeted_evidence_checked",
+      "medicalReviewStatus": "pending",
+      "published": false,
+      "indexEligible": false
+    }
+  ],
+  "scope": "Five existing S-tier Q&As, claim-limited editorial source checks only",
+  "note": "No veterinarian signature, no publication approval, noindex unchanged"
+}
