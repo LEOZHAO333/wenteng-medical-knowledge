@@ -56,8 +56,11 @@ if(!sop.includes('真实执业兽医'))fail('professional review boundary missin
 if(!/permissions:\s*\n\s*contents:\s*read/.test(workflow))fail('CI must have read-only contents permission');
 if(/^\s*contents:\s*write\s*$/m.test(workflow))fail('workflow must never have contents write permission');
 if(/^\s*pull-requests:\s*write\s*$/m.test(workflow))fail('workflow must never be able to merge or edit PRs');
-if(/^\s*-\s*name:.*(?:Deploy|Publish|Merge|Production|解除索引)/im.test(workflow))
-  fail('workflow contains a suspicious deployment/publish step');
+// Reject a step explicitly performing a write action; don't flag a negative label
+// such as "(no publish permission)" that describes a safe audit step.
+const stepNames=[...workflow.matchAll(/^\s*-\s*name:\s*(.+)$/gm)].map(m=>m[1].trim());
+if(stepNames.some(name=>/^(?:Deploy|Publish|Merge|Production|解除索引)(?:\s|$)/i.test(name)))
+  fail('workflow contains an actual deployment/publish/merge step');
 console.log(JSON.stringify({
   sop:'V1.5',draftPr:policy.scope?.workingPr,
   routineActionTypes:policy.allowedRoutineActions?.length,
