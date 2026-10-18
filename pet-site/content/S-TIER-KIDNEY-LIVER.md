@@ -90,7 +90,9 @@
 肝脏结节可能来自多种原因，尤其在老年犬中，影像上看到结节并不能直接等同于癌症。
 医生会关注结节大小、数量、边界、血流、是否随时间变化，以及肝酶、胆红素和其他全身情况。
 根据风险和治疗意义，后续可能包括复查影像、细针取样或活检等，但并不是每个结节都需要立刻做同样的检查。
-主人可以把原始超声报告和图像保存好，复诊时重点问清“目前最需要排除什么”和“什么变化会改变处理计划”。
+主人可以把原始超声报告和图像保存好，复诊时重点问清“目前最需要排除什么”和“什么变化会改变处理计划”。影像本身通常不能可靠区分良性与恶性，是否取样须由兽医评估凝血状态、取样风险及结果对治疗决策的意义；若同时出现黄疸、明显虚弱、腹胀或持续呕吐，应及时就医。
+
+编辑级参考：Merck Veterinary Manual—Hepatic Disease in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/overview-of-hepatic-disease-in-small-animals）。医学审核：pending。
 
 ---
 
@@ -280,7 +282,9 @@
 肝酶是帮助发现肝胆系统变化的重要线索，但它们并不是单一疾病的“确诊指标”。狗精神食欲正常，也不代表异常可以完全忽略。
 医生会结合具体是哪项指标升高、持续多久、是否越来越高，以及近期药物、保健品和其他疾病情况判断。
 必要时可能追加其他血液指标或超声等检查，以区分暂时性变化和需要进一步处理的问题。
-不要因为看到数值高就自行购买“护肝药”，也不要在没有指导的情况下停掉正在使用的重要药物。
+不要因为看到数值高就自行购买“护肝药”，也不要在没有指导的情况下停掉正在使用的重要药物。肝酶升高不等于肝功能衰竭，需结合胆红素、白蛋白、凝血等相关检查及临床表现解释；如果出现黄疸、反复呕吐、明显精神异常或出血倾向，应尽快联系兽医，不要仅按常规复查等待。
+
+编辑级参考：Merck Veterinary Manual—Hepatic Disease in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/overview-of-hepatic-disease-in-small-animals）。医学审核：pending。
 
 ---
 
