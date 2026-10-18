@@ -154,9 +154,11 @@
 
 兽医会通过眼科检查判断混浊位于哪里、程度如何以及视网膜和其他结构是否正常。主人最值得记录的是狗是否开始撞家具、怕上下楼、找不到玩具或夜间行动明显变差。
 
-如果混浊突然加重，伴随眼红、疼痛或视力快速下降，就不能只按“老了”处理。
+如果混浊突然加重，伴随眼红、疼痛、瞳孔异常或视力快速下降，应当日联系兽医眼科评估，出现剧痛或突然失明应立即联系急诊，不能只按“老了”处理。仅凭照片不能区分年龄相关晶状体核硬化、白内障与角膜等其他部位的混浊；不要自行使用人用眼药。
 
 是否需要进一步检查或治疗，取决于真正的眼内诊断，而不是只看外观颜色。
+
+编辑级参考：Merck Veterinary Manual—Cataracts in Dogs（https://www.merckvetmanual.com/dog-owners/eye-disorders-of-dogs/cataracts-in-dogs）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—lens and ocular examination principles。
 
@@ -172,6 +174,8 @@
 
 兽医会确认是否确实是腺体脱出，并检查眼表是否已经受到刺激或是否存在其他眼病。
 
-如果狗持续揉眼、分泌物增加、眼红明显或肉球反复出现，建议尽快评估。
+如果狗持续揉眼、分泌物增加、眼红明显或肉球反复出现，建议尽快评估；如出现持续闭眼、角膜浑浊、明显疼痛或视力变化，应当日联系兽医眼科，严重时急诊。不要自行按压、推回或剪除突出组织，也不要自行滴用含激素的眼药；具体治疗及是否保留腺体功能应由兽医眼科判断。
+
+编辑级参考：Merck Veterinary Manual—Disorders of the Third Eyelid in Dogs（https://www.merckvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-third-eyelid-in-dogs）。医学审核：pending；该参考需在兽医终审时核对原文及适用性。
 
 资料基线：标准小动物眼科临床原则；正式上线前再做专项文献复核。
