@@ -68,7 +68,9 @@
 狗反复出现尿频、尿痛、血尿等症状时，主人可能会觉得“又是同一个感染”，但复发原因并不一定相同。
 尿培养的价值在于确认是否有细菌生长，并在需要时提供药物敏感性信息。采样方式会明显影响结果，因此通常要按医院要求取得合适样本。
 医生还会考虑结石、解剖问题、内分泌疾病或其他导致感染反复的基础因素。
-不要因为上次某种抗菌药有效，就自行重复使用剩药；复发时更需要把既往培养、用药和复查资料带齐。
+不要因为上次某种抗菌药有效，就自行重复使用剩药；复发时更需要把既往培养、用药和复查资料带齐。反复出现下尿路症状不一定都是细菌感染；培养阳性也须结合症状判断，不能自动认定需要再次用抗菌药。
+
+编辑级证据：ISCAID 2019 犬猫细菌性尿路感染诊治指南（https://pubmed.ncbi.nlm.nih.gov/30971357/）。医学审核：pending。
 
 ---
 
@@ -150,11 +152,11 @@
 - 直接回答：有些狗需要复查，尤其是反复感染、复杂病例或医生已明确安排复查时。不要仅凭“不尿频了”自行判断结束。
 
 抗菌药后尿频、疼痛或血尿消失是好现象，但临床症状改善和尿液中是否仍有异常并不是完全同一件事。
-对首次、单纯细菌性膀胱炎，完成既定治疗且症状消失后，通常不需要常规复查尿培养；但症状未消失、反复发作、存在结石或其他基础风险，以及兽医已安排复查的情况，应分别评估。
+对于偶发性细菌性膀胱炎，按处方完成治疗且临床症状消失后，一般不建议常规复查尿检或尿培养；症状持续、复发或疑似肾盂肾炎等情况需要依照不同疾病类别和治疗兽医的计划评估，不能套用同一复查规则。
 复诊时告诉医生用药是否完整、最后一次用药时间、症状多久消失，以及停药后有没有任何反弹。
 不要自行延长、缩短或重复抗菌药疗程；复查安排应以治疗兽医给出的计划为准。
 
-资料基线：Merck Veterinary Manual—Bacterial Cystitis in Small Animals，https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals
+编辑级证据：ISCAID 2019 犬猫细菌性尿路感染诊治指南（https://pubmed.ncbi.nlm.nih.gov/30971357/）；Merck Veterinary Manual—Bacterial Cystitis in Small Animals（https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals）。医学审核：pending。
 
 ---
 
