@@ -50,13 +50,13 @@
 - Slug：`dog-cluster-seizures-emergency-info`
 - 直接回答：说明24小时内发作次数、每次持续时间、两次之间是否完全恢复、目前用药及最后一次用药时间。
 
-短时间连续多次抽搐属于需要高度重视的情况。Merck指出，反复成簇发作和持续性癫痫可能危及生命。
+短时间连续多次抽搐属于神经急症。按照ACVIM共识，持续抽搐接近或达到5分钟，或者连续发作且期间意识未完全恢复，均不应等待，应立即联系急诊动物医院。即使每次短暂、间歇恢复，短时间成簇反复发作也需要紧急兽医评估。
 
 打电话给急诊时，直接告诉医院：第一次发作时间、目前已经发作几次、最长一次多久、两次之间是否恢复意识，以及是否已知癫痫病史。
 
 如果平时服用抗癫痫药，也要说明药名、最后一次给药时间和是否漏服。不要自行重复加倍口服药物，除非治疗兽医事先给过明确的家庭急救方案。
 
-资料基线：Merck Veterinary Manual；2024 ACVIM consensus。
+编辑级证据：ACVIM Consensus Statement on the management of status epilepticus and cluster seizures in dogs and cats（2024；https://pmc.ncbi.nlm.nih.gov/articles/PMC10800221/）。所述5分钟为临床急救识别阈值，不是允许主人在家等待5分钟的建议。医学审核：pending。
 
 ---
 
@@ -124,7 +124,9 @@
 
 因为每种产品的木糖醇含量不同，医院需要知道品牌、成分表、每颗或每份含量以及狗大概吃了多少。包装信息会直接影响风险评估。
 
-木糖醇可能较快引起严重低血糖。是否需要催吐取决于摄入时间、产品成分和狗当前状态，应先联系兽医或毒物咨询机构，不要自行根据网络方法处理。
+木糖醇可能迅速引起低血糖，部分犬还可能出现严重肝损伤。怀疑摄入后应立即联系兽医或动物毒物咨询机构；是否催吐和如何监测血糖、肝功能应由兽医决定，不能在家自行催吐，也不要等出现症状才求助。
+
+编辑级证据：Merck Veterinary Manual—Xylitol Toxicosis in Dogs（https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicosis-in-dogs）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Xylitol Toxicosis in Dogs。
 
