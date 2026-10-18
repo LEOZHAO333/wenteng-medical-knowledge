@@ -1,0 +1,54 @@
+{
+  "batch": "MED-EVIDENCE-P1-07",
+  "date": "2026-10-18",
+  "scope": "Four existing oncology knowledge nodes, targeted editorial evidence check only",
+  "records": [
+    {
+      "id": "0703",
+      "canonicalSlug": "pet-lump-benign-or-malignant",
+      "topic": "肿块不能凭触诊判定良恶性",
+      "sourceUrl": "https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/",
+      "editorialReview": "targeted_claim_review",
+      "sourceVerifiedAt": "2026-10-18",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0707",
+      "canonicalSlug": "pet-tumor-pathology-report",
+      "topic": "组织病理及分级、切缘解释",
+      "sourceUrl": "https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/",
+      "editorialReview": "targeted_claim_review",
+      "sourceVerifiedAt": "2026-10-18",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0709",
+      "canonicalSlug": "pet-cancer-stage-vs-grade",
+      "topic": "分期与分级的差异",
+      "sourceUrl": "https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/",
+      "editorialReview": "targeted_claim_review",
+      "sourceVerifiedAt": "2026-10-18",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0715",
+      "canonicalSlug": "pet-cancer-second-opinion-records",
+      "topic": "二次意见资料应按具体需求准备",
+      "sourceUrl": "https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/",
+      "editorialReview": "targeted_claim_review",
+      "sourceVerifiedAt": "2026-10-18",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    }
+  ],
+  "medicalApprovedCount": 0,
+  "publicationState": "draft_only",
+  "validation": "all original IDs/slugs verified unchanged"
+}
