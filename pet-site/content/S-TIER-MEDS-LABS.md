@@ -70,7 +70,9 @@
 
 Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把人用NSAIDs给宠物；对乙酰氨基酚也可造成犬猫严重毒性。
 
-如果已经误喂，应把药名、规格、吃了多少、宠物体重和时间马上告诉动物医院或毒物咨询机构，不要等待出现症状再处理。
+如果已经误喂，应立即联系动物医院或动物毒物咨询机构，并告知药名、规格、估计摄入量、宠物体重与摄入时间；不要等待出现症状，也不要自行催吐或给予其他药物。尤其猫对乙酰氨基酚中毒可能出现呼吸困难、黏膜异常颜色等危急表现；对犬猫的风险不能按人类常用剂量推算。
+
+编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）。医学终审：pending。
 
 ---
 
