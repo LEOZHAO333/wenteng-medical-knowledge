@@ -25,6 +25,7 @@ jobs:
           node --check pet-site/seo/audit-current-site.mjs
           node --check pet-site/seo/release-policy.mjs
           node --check pet-site/seo/export-content-inventory.mjs
+          node --check pet-site/seo/source-review-queue.mjs
           node --check pet-site/seo/sitemap-policy.mjs
       - name: Verify content mapping against renderer
         run: node pet-site/seo/audit-current-site.mjs
@@ -32,6 +33,8 @@ jobs:
         run: node --test pet-site/seo/release-policy.test.mjs pet-site/seo/sitemap-policy.test.mjs
       - name: Check full S/A draft inventory and editorial ledger
         run: node pet-site/seo/export-content-inventory.mjs --check
+      - name: Prioritize remaining source-review backlog (no publish permission)
+        run: node pet-site/seo/source-review-queue.mjs --summary --check
 
 # This workflow only reads and validates code/metadata.
 # It MUST NOT merge PRs, deploy Vercel, toggle noindex, or claim medical approval.
