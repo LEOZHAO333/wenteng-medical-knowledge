@@ -12,7 +12,9 @@
 
 不要自行使用人的眼药水，尤其不要随便使用含激素的滴眼液。可以先避免猫继续抓眼，并尽快联系动物医院。
 
-如果同时出现眼球明显浑浊、突出、出血、瞳孔异常、遭遇抓伤撞击或视力突然下降，应更快就医。
+如果同时出现眼球明显浑浊、突出、出血、瞳孔异常、抓伤撞击或视力突然下降，应立即联系兽医眼科急诊；即使没有这些表现，持续闭眼或眯眼也应尽快在当日接受检查。不要自行扒开眼睑、按压眼球或滴用含糖皮质激素的眼药，以免在角膜溃疡等情况下加重损伤。
+
+编辑级参考：Merck Veterinary Manual—Ophthalmic Emergencies（https://www.merckvetmanual.com/eye-disorders/ophthalmic-emergencies）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Ophthalmic Emergencies。
 
@@ -100,7 +102,9 @@
 
 如果是外伤后发生，最好同时告诉医院受伤时间、是否被撞击或咬伤，以及狗目前精神和呼吸情况。
 
-眼球突出属于可能影响视力甚至眼球完整性的情况，处理速度很重要。
+眼球突出属于可能影响视力甚至眼球完整性的急症，应立即联系兽医眼科急诊，不要等待常规预约。若怀疑眼球脱出或外伤性穿通伤，严禁自行推回、按压或拔出嵌入异物；运输途中避免摩擦，如何保持眼表湿润须按接诊医院的电话指导操作。眼球增大与真正脱出并非同一诊断，需由兽医检查区分。
+
+编辑级参考：Merck Veterinary Manual—Ophthalmic Emergencies（https://www.merckvetmanual.com/eye-disorders/ophthalmic-emergencies）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Ophthalmic Emergencies。
 
