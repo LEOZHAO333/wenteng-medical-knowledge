@@ -138,7 +138,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 核对时至少看：有效成分、每单位含量、剂型、适用动物、批准用途和生产企业。处方药还要确认是否需要特定监测。
 
-日宠通知识库后续涉及日本药品时，只以日本官方说明书和监管数据库为准，不依据电商页面或二手介绍做替代判断。
+日宠通知识库后续涉及日本药品时，优先核对日本官方批准信息、产品说明书及监管数据库，不依据电商页面或二手介绍做替代判断。即使有效成分相同，不同国家产品的浓度、剂型、辅料、适用物种和批准用途也可能不同，不能据此自行换药、换算剂量或跨物种使用；处方变更须由兽医逐项确认。
+
+编辑级参考：日本农林水产省 动物医药品检査所（https://www.maff.go.jp/nval/）；美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）。医学审核：pending。
 
 ---
 
@@ -276,4 +278,6 @@ CT、MRI、X线等原始影像比报告中的几张截图包含更多信息。DI
 
 可以同时索取：影像原始文件、正式影像报告、相关血检和病理资料，以及当时的临床摘要。
 
-资料越完整，第二意见越有机会基于真实证据，而不是重新猜测。
+资料越完整，第二意见越有机会基于真实证据，而不是重新猜测。应向医院确认影像导出格式、检查日期、完整序列和传输方式；如果暂时只能拿到报告，应如实注明资料缺口，不能声称已完成原始影像复阅。若宠物出现持续抽搐、呼吸困难、突发瘫痪或意识异常，应先联系急诊，不能为索取DICOM延误治疗。
+
+编辑级参考：美国放射学会 DICOM标准信息入口（https://www.dicomstandard.org/）；Merck Veterinary Manual—Diagnostic Imaging（https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging）。医学审核：pending。
