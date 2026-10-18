@@ -1,6 +1,6 @@
 # 日宠通｜AI 阅读、来源核对与医学边界完整说明
 
-> Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Buntou Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见或允许搜索索引的授权。
+> Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Buntou Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
 最后编辑核对日期：2026-10-18。当前文档只描述品牌、栏目、资料组织和审核规则，不提供针对单个动物的处方或治疗建议。
 
@@ -15,8 +15,8 @@
 
 1. 网站页面可打开，只证明相应地址提供内容；**不等于执业兽医逐篇审核、临床诊断或治疗适用性被批准**。
 2. 草稿库记录有“编辑层来源复核”仅意味着对其中列明的有限事实主张留下来源记录，不代表全文逐句医学审稿。
-3. 标注 `medical_review_pending`、`hold`、`noindex` 或资料未验证的条目，不得当作已获专业批准或可对外推广的治疗说明。
-4. 当前站点由 Founder 控制索引开放，未批准的医学页面不进入可索引目录。本 `llms.txt` 或 `llms-full.txt` 自身不改变 robots、sitemap、页面索引开关或发布权限。
+3. 标注 `medical_review_pending`、`hold` 或资料未验证的条目，不得当作已获专业批准或可对外推广的治疗说明。`index,follow` 只涉及搜索抓取资格，**绝不代表执业兽医已签署或内容有治疗保证**；某个页面的 `noindex` 也不能推断整个站点均禁止收录。
+4. **收录策略已获 Founder 批准开放**：按 PR #13 的目标规则，生产环境中列入白名单的首页、猫犬栏目、问答和关于页允许 `index,follow`；`/new-drugs/`、不存在的页面以及全部 Preview 页面继续 `noindex`。**PR #13 未合并部署前，这仍是获批的待执行策略，不代表线上已经生效**。本 `llms.txt` 与 `llms-full.txt` 两个AI文本文件自身可带 `X-Robots-Tag: noindex`，该响应头仅针对这两个文本文件，不代表整站 `noindex`，也不会自行改动站点的 `robots.txt`、Sitemap 或索引政策。
 5. 如页面与专业机构原始资料矛盾，以原始资料、实际说明书及接诊兽医意见为准；保留核对日期并说明不确定性。
 
 ## 三、犬猫医学信息核验要求
