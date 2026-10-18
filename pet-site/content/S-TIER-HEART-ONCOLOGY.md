@@ -46,7 +46,7 @@
 
 这种情况属于时间敏感的急症，不适合等到第二天观察。
 
-资料基线：Cornell feline cardiomyopathy clinical complications。
+资料基线：Cornell Feline Health Center—Cardiomyopathy（https://www.vet.cornell.edu/departments/cornell-feline-health-center/health-information/feline-health-topics/cardiomyopathy），描述猫心肌病相关动脉血栓栓塞可造成突发后肢疼痛、无力或瘫痪；本条仅作风险提醒，不代表确诊。医学审核：pending。
 
 ---
 
@@ -76,7 +76,9 @@
 
 如果晕倒反复、持续时间变长，伴随呼吸困难、舌色异常或明显虚弱，应按更紧急的情况处理。
 
-即使第一次发生后恢复正常，也值得尽快联系兽医安排评估。
+即使第一次发生后恢复正常，也应尽快联系兽医评估；若反复倒地、伴明显呼吸困难、牙龈苍白或持续反应异常，应直接联系急诊。仅凭短暂恢复不能排除心律失常等严重原因。
+
+编辑来源：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients），将倒地及意识异常列为需立即评估的急诊主诉；晕厥具体鉴别仍待兽医复核。医学审核：pending。
 
 ---
 
