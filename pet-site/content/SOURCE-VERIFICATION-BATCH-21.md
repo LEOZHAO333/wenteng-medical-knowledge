@@ -24,7 +24,7 @@
 ### 0304｜狗每年同一季节都痒，怎样整理发作记录？
 - 已核对断言：AAHA皮肤病指南要求问诊记录季节性、瘙痒程度、体表部位、寄生虫预防及此前治疗反应；这些资料对评估复发和治疗选择有帮助。
 - 核对来源：AAHA, 2023 Allergic Skin Diseases Guideline。
-  https://www.aaha.org/resources/2023-aaha-management-of-allergic-skin-%20diseases-in-dogs-and-cats-guidelines/
+  https://www.aaha.org/trends-magazine/december-2023/2023-aaha-management-of-allergic-skin-diseases-in-dogs-and-cats-guidelines/
 - 核对来源：AAHA, Figure 1 Diagnostic Algorithm。
   https://www.aaha.org/resources/2023-aaha-management-of-allergic-skin-diseases-in-dogs-and-cats-guidelines/figure-1-diagnosing-allergic-skin-disease-in-the-canine-patient/
 - 编辑边界：季节性本身不能证实特应性皮炎，也不能跳过跳蚤/螨虫和感染排查。0–10分自行记录是沟通辅助，不是单独确诊工具。
@@ -84,7 +84,7 @@
 ### 0730｜猫皮肤用药期间，还能送去洗澡吗？
 - 已核对断言：AAHA犬猫过敏皮肤病指南将个体化洗浴/局部护理作为多模式管理的一部分，必须考虑病情、具体药品制剂及治疗目的。
 - 核对来源：AAHA, 2023 Allergic Skin Diseases Guidelines。
-  https://www.aaha.org/resources/2023-aaha-management-of-allergic-skin-%20diseases-in-dogs-and-cats-guidelines/
+  https://www.aaha.org/trends-magazine/december-2023/2023-aaha-management-of-allergic-skin-diseases-in-dogs-and-cats-guidelines/
 - 编辑边界：没有逐品牌核验的外用药不能一律规定‘用药后N小时可洗’，也不得不经兽医同意改变治疗。
 
 ### 0894｜日本宠物医院给出不同方案，怎样请本地兽医一起讨论？
