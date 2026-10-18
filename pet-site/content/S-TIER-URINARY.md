@@ -26,7 +26,9 @@
 很多主人把“尿不出来”只和公猫联系在一起，但母猫也可能出现严重下尿路问题、膀胱炎、结石或其他导致排尿困难的情况。
 真正需要关注的是行为和尿量：反复进出猫砂盆、频繁用力、只排几滴、叫唤、舔生殖部位、血尿或完全看不到尿团。
 不要因为猫仍能走动或精神暂时尚可，就在家长时间观察；排尿困难可能快速恶化。
-如果无法确认正常排尿，尤其伴随呕吐、明显虚弱、腹部紧张或疼痛，应尽快就医。
+如果反复用力却排不出尿、无法确认正常排尿，尤其伴随呕吐、明显虚弱、腹部紧张或疼痛，应立即联系急诊，不能因为是母猫就排除尿路梗阻。不要自行挤压腹部或尝试给药排尿。
+
+编辑级参考：Merck Veterinary Manual—Feline Lower Urinary Tract Disease（https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/lower-urinary-tract-disorders-of-cats）。医学审核：pending。
 
 ---
 
