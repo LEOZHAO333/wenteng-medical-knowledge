@@ -33,12 +33,14 @@
 - 分类：泌尿与急症
 - Slug：`dog-low-urine-lethargic`
 - 摘要：少尿同时伴随精神差可能提示脱水、肾脏或尿路等重要问题，不适合只靠在家多喂水观察。
-- 直接回答：不建议先大量喂水等待。应尽快联系兽医，尤其是几乎无尿、呕吐、腹痛或状态快速变差时。
+- 直接回答：不应靠大量喂水等待。狗少尿同时精神变差应及时联系动物医院，尤其完全无尿、反复排尿用力、呕吐、腹痛或快速虚弱时，应立即就医排除尿路阻塞及急性肾损伤等问题。
 
 狗尿量明显减少，同时精神变差，是需要把全身状态和泌尿功能一起考虑的信号。
 原因可能包括脱水、急性肾损伤、尿路梗阻或其他系统性疾病，处理方式并不相同。
 出门前记录最后一次正常排尿时间、饮水、呕吐、近期用药以及是否有排尿用力或疼痛。
-不要强行大量灌水或等待“喝多了就会尿”；如果几乎无尿或状态恶化，应尽快就医。
+不要强行大量灌水或等待“喝多了就会尿”；不确定是否存在肾功能下降或阻塞时，盲目增加饮水或补液可能不合适。若完全无尿、排尿痛苦或状态恶化，应立即就医。
+
+编辑级核对来源：Merck Veterinary Manual—Obstructive Uropathy in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/obstructive-uropathy-in-dogs-and-cats）；Renal Dysfunction in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/renal-dysfunction-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
