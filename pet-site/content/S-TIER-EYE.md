@@ -28,7 +28,9 @@
 
 就诊时兽医可能会做角膜荧光染色、眼压检查、泪液检查和眼内结构评估。尤其是角膜已经受伤时，某些不合适的滴眼液可能使情况更复杂。
 
-如果发白是突然出现，并伴随眯眼、疼痛、流泪、发红、瞳孔异常或视力变化，不建议等待自行恢复。
+如果发白是突然出现，并伴随眯眼、疼痛、流泪、发红、瞳孔异常或视力变化，应尽快接受兽医眼科检查，不宜等待自行恢复。未经角膜检查，不要自行使用含糖皮质激素的眼药：若存在角膜溃疡，这类药物可能妨碍愈合并加重损伤。
+
+编辑级依据：Merck Veterinary Manual—Anti-inflammatory Agents in Animals（https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-eye/anti-inflammatory-agents-in-animals）；Disorders of the Cornea in Cats（https://www.merckvetmanual.com/cat-owners/eye-disorders-of-cats/disorders-of-the-cornea-in-cats）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Corneal/ocular emergencies。
 
