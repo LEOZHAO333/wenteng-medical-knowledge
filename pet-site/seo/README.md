@@ -3,7 +3,7 @@
 归属：文腾株式会社运营的独立品牌「日宠通｜日本宠物健康知识站」
 网站正式地址：`https://pet.japanmedai.com/`（主站不放宠物医疗版块）
 
-**日宠通 AI 阅读文件（Draft）**：`pet-site/llms.txt` → `https://pet.japanmedai.com/llms.txt`；`pet-site/llms-full.txt` → `https://pet.japanmedai.com/llms-full.txt`。实际官网地址待PR合并、部署及HTTP验收后生效；编辑来源台账不是兽医医学审稿，`llms.txt` 本身不会改变noindex。参见 [LLMS 实施和验收说明](./LLMS-IMPLEMENTATION-V1-2026-10-18.md)。
+**日宠通 AI 阅读文件（Draft）**：`pet-site/llms.txt` → `https://pet.japanmedai.com/llms.txt`；`pet-site/llms-full.txt` → `https://pet.japanmedai.com/llms-full.txt`。实际官网文件待PR合并、部署及HTTP验收后生效；编辑来源台账不是执业兽医医学审稿。Founder已批准PR #13的Production白名单开放收录（`/new-drugs/`和Preview仍noindex），但尚未合并部署；**两个llms文本文件自身的noindex不代表整站noindex**。PR #15暂停上传，需Claude复审和Founder再次批准。参见 [LLMS 实施和验收说明](./LLMS-IMPLEMENTATION-V1-2026-10-18.md)。
 
 ## 适用的最新授权：SOP V1.5（2026-10-18）
 
