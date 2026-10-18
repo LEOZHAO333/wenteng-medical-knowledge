@@ -150,7 +150,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 复诊时可以问医生三个问题：哪些异常最值得关注？它们能否被脱水、应激、药物等解释？哪些需要复查确认趋势？
 
-长期慢病宠物最好把历次报告按日期保存，比只看单次“红了几项”更有价值。
+长期慢病宠物最好把历次报告按日期保存，比只看单次“红了几项”更有价值。但化验单标红多少不能替代急诊分诊：若同时出现呼吸困难、倒地、抽搐、持续出血或明显意识变化，应立即联系兽医急诊，不要等待逐项解读报告；关键结果还应结合采样质量、复查及临床症状核实。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
@@ -204,7 +206,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 影像能帮助判断位置、大小、数量、血流和周围组织关系，但通常不能单靠超声明确良恶性。
 
-如果这个发现会改变治疗计划，可以问医生是否需要细针穿刺、活检或进一步CT等检查。
+如果这个发现会改变治疗计划，可以问医生是否需要细针穿刺、活检或进一步CT等检查。取样前需由兽医评估病灶位置、出血风险和检查结果能否改变决策；影像报告中的“占位”既不能直接等同癌症，也不能凭外观保证良性。若同时出现明显虚弱、呼吸困难、腹部急剧膨大或倒地，应及时急诊。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
