@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - 'pet-site/seo/**'
+      - 'pet-site/content/**'
       - 'pet-site/api/pet.js'
       - '.github/workflows/pet-geo-seo-audit.yml'
 
