@@ -48,7 +48,9 @@
 
 因此不要把“下次喂两倍”当成通用规则。联系医院时说明药名、原计划时间、实际漏了多久，以及下一次原定几点。
 
-长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。
+长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。漏服胰岛素、抗癫痫药等时间敏感药物时，应立即按具体处方联系兽医确认，不能擅自补双倍或自行推算下次剂量。
+
+编辑级参考：VCA Animal Hospitals—Insulin Treatment in Dogs and Cats（https://vcahospitals.com/know-your-pet/diabetes-mellitus-insulin-treatment-in-dogs）。本条不提供具体漏服补救方案；医学审核：pending。
 
 ---
 
@@ -112,7 +114,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 药单至少记录商品名、通用名、规格、每次用量、频率、开始时间和开药医院。保健品、驱虫药和外用药也建议一起写进去。
 
-每次转诊或加新药前，把最新药单交给医生审核，比只凭记忆说“有吃几种药”可靠得多。
+每次转诊或加新药前，把最新药单交给医生审核，比只凭记忆说“有吃几种药”可靠得多。尤其应让兽医核对不同商品名是否含相同活性成分、同类止痛药或其他潜在相互作用；不得仅凭品牌名称判断可安全合用。
+
+编辑级参考：AAHA/AAFP Pain Management Guidelines（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；具体相互作用需逐产品核对，医学审核：pending。
 
 ---
 
