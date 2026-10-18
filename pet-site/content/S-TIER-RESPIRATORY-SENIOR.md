@@ -42,7 +42,9 @@
 
 比一次数字更重要的是趋势。如果平时长期稳定，近期突然持续增加，同时出现食欲下降、活动减少、呼吸费力或不愿躺下，就更值得尽快联系医生。
 
-猫已经明显呼吸困难时，不要为了拍得更清楚而拖延就医。
+猫已经明显呼吸困难、张口呼吸或无法安静休息时，应立即联系急诊，不要为了拍摄视频或记录满一分钟而拖延。睡眠呼吸频率只能辅助长期观察，不能单独用某个数字排除心肺急症。
+
+编辑级参考：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients）。医学审核：pending。
 
 ---
 
