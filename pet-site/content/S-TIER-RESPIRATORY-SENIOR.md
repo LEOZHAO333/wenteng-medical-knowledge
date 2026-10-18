@@ -120,7 +120,9 @@
 
 慢性肾病、甲状腺问题、糖尿病、牙口疼痛、消化疾病和肿瘤等，都可能导致老猫消瘦，因此体重下降不是“年纪大自然会瘦”的必然结果。
 
-如果持续数月下降或短时间掉秤明显，建议带着体重记录复诊。
+如果持续下降或短时间掉秤明显，应尽快预约兽医检查，不必等到数月后才处理；如果同时出现明显虚弱、拒食、反复呕吐或脱水迹象，应及时联系医院。称重记录可辅助评估，但不能仅凭体重变化判断具体病因。
+
+编辑级核验依据：AAHA Senior Care Guidelines for Dogs and Cats（https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/）；医学审核：pending。
 
 ---
 
@@ -150,4 +152,6 @@
 
 如果宠物开始频繁疼痛、呼吸困难、无法保持清洁、长期不愿进食，或一天里大部分时间都处于不舒服状态，就应该和兽医讨论护理目标。
 
-长期记录比临时靠记忆判断更客观，也能帮助全家围绕宠物的舒适度做一致决策。
+长期记录比临时靠记忆判断更客观，也能帮助全家围绕宠物的舒适度做一致决策。但生活质量评分不能替代急诊判断：若出现明显呼吸困难、持续剧烈疼痛、倒地或无法站立，应立即联系兽医急诊，而非等待下一次常规评分。
+
+编辑级核验依据：AAHA Senior Care Guidelines for Dogs and Cats（https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/）；医学审核：pending。
