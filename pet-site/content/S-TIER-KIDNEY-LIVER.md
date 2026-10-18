@@ -126,7 +126,9 @@
 “肾病=每天补液”并不准确。补液是否需要、补多少、多久一次，要结合脱水程度、吃喝情况、肾病阶段和其他疾病。
 部分稳定猫可以在兽医指导下由主人在家做皮下补液，但前提是医生确认适合，并进行规范操作培训。
 如果猫同时有心脏问题、呼吸异常或其他可能影响液体耐受的情况，补液计划更需要谨慎。
-主人不要自行根据网上经验增加频率或液体量，应按复诊结果调整。
+主人不要自行根据网上经验增加频率或液体量，应按复诊结果调整。补液是需要定期复评的医疗措施，若出现呼吸变快、呼吸费力、体重异常增加或水肿等液体不耐受信号，应暂停自行追加并及时联系兽医。
+
+编辑级证据：2024 AAHA Fluid Therapy Guidelines for Dogs and Cats（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/）；Section 6 Fluid Overload（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/）。医学审核：pending。
 
 ---
 
@@ -140,7 +142,9 @@
 在家补液看起来简单，但针具使用、皮肤消毒、液体保存和猫的固定方式都需要规范。
 第一次培训时应确认器材准备、操作顺序、每次是否需要更换针具、怎样判断流液是否顺畅，以及结束后如何处理器材。
 还要问清哪些情况应该暂停，例如猫明显挣扎、呼吸异常、局部持续疼痛或出现其他不寻常反应。
-如果主人无法稳定、安全完成操作，应直接告诉兽医，讨论更适合家庭实际情况的方案。
+如果主人无法稳定、安全完成操作，应直接告诉兽医，讨论更适合家庭实际情况的方案。家庭补液培训必须包括何时不应继续操作、如何识别呼吸异常及体重等不耐受线索；有心脏病或少尿等风险因素时尤其不应自行调整补液频率。
+
+编辑级证据：2024 AAHA Fluid Therapy Guidelines—General Fluid Therapy Principles 与 Fluid Overload（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/）。医学审核：pending。
 
 ---
 
