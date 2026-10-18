@@ -20,7 +20,7 @@
 
 ## 0544｜奶猫喂奶时呛到，应该怎样立即求助？
 - Slug：`kitten-milk-aspiration`
-- 直接回答：立即停止喂奶，保持呼吸道通畅并联系动物医院。如果奶从鼻孔流出、持续咳喘、呼吸急促或精神变差，应尽快就医。
+- 直接回答：立即停止喂奶，保持呼吸道通畅并联系动物医院。如果奶从鼻孔流出、持续咳喘、呼吸急促或精神变差，应立即联系动物医院；出现持续呼吸费力或发绀时应直接按急症处理。
 
 幼猫人工喂奶时，如果流速太快、姿势不当或幼猫吞咽能力差，奶液可能进入鼻腔甚至气道。
 
@@ -28,7 +28,9 @@
 
 不要把幼猫倒提拍打，也不要用力甩动。可以先让头部处于自然位置，尽量减少折腾，并尽快联系兽医。
 
-之后即使表面恢复，也要观察呼吸频率、精神和吃奶情况，因为误吸后可能继续出现呼吸道问题。
+之后即使表面恢复，也应告知兽医并按其要求监测呼吸频率、精神和吃奶情况，不能因为暂时不咳就断定完全没有误吸。
+
+编辑来源：Merck Veterinary Manual—Aspiration Pneumonia in Dogs and Cats（兽医专业资料，关于误吸与呼吸危险信号）；https://www.merckvetmanual.com/respiratory-system/pneumonia-in-small-animals/aspiration-pneumonia-in-dogs-and-cats 。具体幼猫处置须经合格兽医复核，医学审核：pending。
 
 ---
 
@@ -64,7 +66,7 @@
 
 ## 0569｜小型幼犬突然没精神发抖，要立即求助吗？
 - Slug：`small-puppy-lethargic-shaking`
-- 直接回答：建议尽快求助。幼犬突然发抖、无力、站不稳或反应迟钝可能涉及低血糖、感染、体温异常或其他急症。
+- 直接回答：幼犬突然发抖且明显无力、站不稳、意识或反应异常时应立即联系急诊兽医。低血糖只是可能原因之一，也需排除感染、体温异常或其他急症。
 
 体型很小、年龄很小的幼犬能量储备有限，长时间没吃、呕吐腹泻或应激后可能更快出现状态变化。
 
@@ -72,7 +74,9 @@
 
 联系医院时说明年龄、体重、最后一次正常进食时间、是否呕吐腹泻、疫苗和驱虫情况。
 
-不要自行给糖水或其他补充剂后就取消就医，因为症状改善并不能说明真正原因已经解决。
+不要向虚弱、意识异常、无法安全吞咽或抽搐的幼犬强行灌糖水、食物或药物，以免误吸。症状即便短暂改善也不能证明病因已经解决，应按兽医急诊指示处理。
+
+编辑来源：Merck Veterinary Manual—Hypoglycemia in Animals（https://www.merckvetmanual.com/metabolic-disorders/glucose-metabolism-disorders/hypoglycemia-in-animals）；此处不提供家庭给药或剂量，医学审核：pending。
 
 ---
 
@@ -104,7 +108,7 @@
 
 最重要的是把医院给出的禁食禁水要求写下来，并明确最后一次进食和饮水时间。
 
-资料基线：2020 AAHA Anesthesia and Monitoring Guidelines。
+资料基线：2020 AAHA Anesthesia and Monitoring Guidelines for Dogs and Cats（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/）。具体禁食禁水时间、糖尿病与幼龄动物例外需由实施麻醉的兽医团队决定。医学审核：pending。
 
 ---
 
@@ -152,4 +156,4 @@ AAHA麻醉指南把麻醉视为从家里准备到术后回家的连续管理过�
 
 把联系电话和地址直接保存进手机，比出问题后再临时搜索更可靠。
 
-资料基线：2020 AAHA Anesthesia and Monitoring Guidelines—return home/discharge communication。
+资料基线：2020 AAHA Anesthesia and Monitoring Guidelines—return home/discharge communication（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/resource-center/）。建议要求医院提供书面的个体化出院与急诊联系指示，不根据一般科普自行调整药物。医学审核：pending。
