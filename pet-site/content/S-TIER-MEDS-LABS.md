@@ -234,7 +234,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 高级影像通常还涉及镇静或麻醉，因此除了影像价值，还要综合宠物的整体状态和风险。
 
-在决定前可以问：为什么选CT或MRI？是否需要造影？是否需要麻醉？检查结果可能改变哪些治疗选择？
+在决定前可以问：为什么选CT或MRI？是否需要造影？是否需要麻醉？检查结果可能改变哪些治疗选择？CT与MRI不能仅凭“哪个更清楚”互相替代，造影剂与镇静/麻醉也需由兽医结合肾功能、循环呼吸状态和具体检查方案评估。若出现突发瘫痪、持续抽搐或意识障碍，应先联系急诊，不要为预约高级影像延误评估。
+
+编辑级参考：Merck Veterinary Manual—Diagnostic Imaging（https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging）。医学审核：pending。
 
 ---
 
@@ -260,7 +262,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 不同实验室的参考范围可能不同，只有单独一个数值很容易被误读。
 
-如果还有影像检查，也尽量取得原始影像而不是只带手机截图。
+如果还有影像检查，也尽量取得原始影像而不是只带手机截图。转诊资料应尽可能包含检验单位、采样日期、完整项目、参考区间及原始影像文件；但如果宠物正在呼吸困难、抽搐、持续出血或意识异常，应立即就医，不要为补齐PDF、DICOM或其他文件延误急诊。截图只能作为临时沟通材料，不能据此单独调整处方。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
