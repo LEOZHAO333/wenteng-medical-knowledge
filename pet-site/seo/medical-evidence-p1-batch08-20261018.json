@@ -1,0 +1,39 @@
+{
+  "batch": "MED-EVIDENCE-P1-08",
+  "date": "2026-10-18",
+  "scope": "3 existing urinary health S-tier questions, targeted editorial fact checking only",
+  "records": [
+    {
+      "id": "0229",
+      "canonicalSlug": "dog-bladder-stones-observe-or-treat",
+      "sourceName": "ACVIM urinary stones",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5032870/",
+      "editorialStatus": "targeted_claim_checked",
+      "medicalReviewStatus": "pending",
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0231",
+      "canonicalSlug": "dog-uti-recheck-after-antibiotics",
+      "sourceName": "ISCAID bacterial UTI guideline",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30971357/",
+      "editorialStatus": "targeted_claim_checked",
+      "medicalReviewStatus": "pending",
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0236",
+      "canonicalSlug": "dog-proteinuria-next-steps",
+      "sourceName": "IRIS proteinuria guidance",
+      "sourceUrl": "https://www.iris-kidney.com/proteinuria",
+      "editorialStatus": "targeted_claim_checked",
+      "medicalReviewStatus": "pending",
+      "publishReady": false,
+      "indexEligible": false
+    }
+  ],
+  "medicalApprovedCount": 0,
+  "indexingPermission": false
+}
