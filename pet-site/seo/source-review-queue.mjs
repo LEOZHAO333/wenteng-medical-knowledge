@@ -48,7 +48,7 @@ function risk(t){
 }
 const queue=all.filter(x=>!ledger.has(x.id)).map(x=>({...x,clinicalRisk:risk(x),editorialSourceStatus:'not_in_existing_10_batch_ledgers',medicalReviewStatus:'pending',publicationState:'draft',indexEligible:false,notYetIndividuallyVerified:true}));
 const ranks={P0:0,P1:1,P2:2};
-queue.sort((a,b)=>a.tier===b.tier?(ranks[a.clinicalRisk.grade]-ranks[b.clinicalRisk.grade]||a.id.localeCompare(b.id)):a.tier==='S'?-1:1);
+queue.sort((a,b)=>ranks[a.clinicalRisk.grade]-ranks[b.clinicalRisk.grade] || (a.tier===b.tier?0:a.tier==='S'?-1:1) || a.id.localeCompare(b.id));
 const counts={};
 for(const e of queue){const k=e.tier+'-'+e.clinicalRisk.grade;counts[k]=(counts[k]||0)+1;}
 const report={generatedFrom:'S/A markdown + SOURCE-VERIFICATION-BATCH-01...10',status:'draft_triage_only',method:'keyword heuristic; human medical triage required',counts,total:queue.length,items:queue};
