@@ -94,7 +94,9 @@
 
 如果怀疑猫咬过花瓣、舔到花粉、喝过花瓶水，先把植物和水源隔离，并立即联系动物医院或毒物咨询机构。
 
-最好拍下植物照片或带上标签，帮助判断是不是高风险的真正百合。不要等猫开始呕吐或精神差后再处理。
+最好拍下植物照片或带上标签，帮助判断是不是高风险的真正百合。不要等猫开始呕吐或精神差后再处理。并非名称带“百合”的植物都有同样的肾毒性，因此应由兽医结合植物鉴别与暴露史评估，不要在家自行排除风险。
+
+编辑级证据：Merck Veterinary Manual—Houseplants and Ornamentals Toxic to Animals（https://www.merckvetmanual.com/toxicology/poisonous-plants/houseplants-and-ornamentals-toxic-to-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Houseplants and Ornamentals Toxic to Animals。
 
@@ -136,6 +138,8 @@
 
 联系医院时说明狗的体重、吃的是葡萄还是葡萄干、估计数量和时间。越早评估，越有机会在肾脏受损前处理。
 
-不要等到呕吐、精神差或尿量减少才求助。
+不要等到呕吐、精神差或尿量减少才求助。即使暂时无症状，也应立即联系动物医院评估暴露风险；是否需要去污、输液和肾功能监测由兽医判断，不要自行催吐。
+
+编辑级证据：Merck Veterinary Manual—Grape, Raisin, and Tamarind Toxicosis in Dogs（https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Grape, Raisin, and Tamarind Toxicosis in Dogs。
