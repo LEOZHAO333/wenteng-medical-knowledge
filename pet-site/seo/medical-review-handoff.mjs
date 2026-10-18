@@ -34,7 +34,10 @@ for(const file of ledgerFiles){
 }
 const urgent=/(无尿|尿不出|排尿困难|呼吸困难|张口呼吸|中毒|误食|瘫痪|抽搐|惊厥|休克|昏迷|窒息|大出血|持续出血|吞食异物|高处坠落|热射病|中暑|突然失明|难产|癫痫|肚子鼓|反复呕吐)/;
 const medicine=/(药|剂量|补液|注射|疫苗|驱虫|术后|手术|麻醉|镇静|抗菌|化疗|妊娠|发情|绝育|日本|海外|进口|检疫|处方|治疗|诊疗|肝肾|肾病|心脏|皮肤)/;
-function triage(q){
+function triage(id,q){
+ // A symptom word in the title is not enough: distinguish an acute event
+ // from a long-term monitoring/differential question before prioritizing.
+ if(['0465','0480'].includes(id))return {priority:'P1_TRIAGE',reason:'非正在发生的急症：抽搐鉴别或长期抗癫痫药物监测，仍需专业兽医核对'};
  if(urgent.test(q))return {priority:'P0_TRIAGE',reason:'标题含可能的急症/中毒/梗阻信息'};
  if(medicine.test(q))return {priority:'P1_TRIAGE',reason:'标题涉及治疗/药品/监管或护理信息'};
  return {priority:'P2_TRIAGE',reason:'一般科普仍须逐句审阅'};
@@ -45,7 +48,7 @@ const items=[...canonical.values()].map(x=>({
  editorialReview:ledger.get(x.id)?.status??'NO_LEDGER',
  editorialEvidenceRecord:ledger.get(x.id)?.ledgerFile??null,
  medicalReviewStatus:'PENDING_LICENSED_VETERINARIAN',
- releaseAuthorized:false,...triage(x.title)
+ releaseAuthorized:false,...triage(x.id,x.title)
 })).sort((a,b)=>rank[a.priority]-rank[b.priority]||(a.tier===b.tier?0:a.tier==='S'?-1:1)||a.id.localeCompare(b.id));
 for(const id of ledger.keys())if(!canonical.has(id))issues.push('orphaned editorial record '+id);
 const missing=items.filter(x=>x.editorialReview==='NO_LEDGER');
