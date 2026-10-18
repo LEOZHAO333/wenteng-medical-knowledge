@@ -45,9 +45,14 @@ for(const filename of bodyFiles){
 }
 for(const filename of verificationFiles){
   const sourceText=readFileSync(join(contentDir,filename),'utf8');
-  for(const match of sourceText.matchAll(/^\|\s*(\d{4})\s*\|\s*([^|\r\n]+)\s*\|/gm)){
-    const id=match[1],status=match[2].replace(/\*/g,'').trim();
-    if(!/source_verified_editorial|needs_edit|hold|official_|pending/i.test(status))continue;
+  // Table styles vary: old batch uses | ID | status | notes |,
+  // newer batches may use | ID | question | source path | status |.
+  for(const line of sourceText.split(/\r?\n/)){
+    if(!/^\|\s*\d{4}\s*\|/.test(line))continue;
+    const cells=line.split('|').slice(1,-1).map(x=>x.replace(/\*/g,'').trim());
+    const id=cells[0];
+    const status=cells.slice(1).find(c=>/^(source_verified_editorial|needs_edit|hold|pending)(\b|\s|\+)/i.test(c));
+    if(!status)continue;
     count.ledgerRows++;
     if(!editorialLedger.has(id))editorialLedger.set(id,[]);
     editorialLedger.get(id).push({file:'pet-site/content/'+filename,status});
