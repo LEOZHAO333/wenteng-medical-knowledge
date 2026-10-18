@@ -53,6 +53,18 @@ for(const file of [brief,full]){
   assert.ok(links.length>=5,'Insufficient structured source links');
   assert.ok(!links.some(l=>l.startsWith('http:')),'Use https URLs');
 }
+const siteConfig=JSON.parse(readFileSync(join(root,'vercel.json'),'utf8'));
+for(const path of ['/llms.txt','/llms-full.txt']){
+  const record=(siteConfig.headers??[]).find(v=>v.source===path);
+  assert.ok(record,'Missing Vercel static file header rule for '+path);
+  const tags=Object.fromEntries(record.headers.map(v=>[v.key.toLowerCase(),v.value]));
+  assert.match(tags['x-robots-tag']??'',/noindex/i,'Static llms file must remain noindex');
+  assert.match(tags['content-type']??'',/text\/plain/,'Static llms file should be plain text');
+}
+const homeResult=invoke('');
+assert.equal(homeResult.code,200);
+assert.ok(homeResult.body.includes('<link rel="describedby" href="https://pet.japanmedai.com/llms.txt">'),
+  'HTML home page should expose site-specific llms.txt via describedby');
 const nontext=invoke('qa/missing-llms-test-article');
 assert.equal(nontext.code,404,'Normal nonexistent article should still return 404');
 console.log(JSON.stringify({
