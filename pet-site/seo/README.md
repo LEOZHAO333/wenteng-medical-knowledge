@@ -1,7 +1,7 @@
 # 日宠通｜GEO + SEO 全系统 V1.0（执行母规范）
 制定：2026-10-18 · 状态：Draft / noindex / 未获发布批准
-归属：JapanMed AI 旗下独立的「日宠通｜日本宠物健康知识站」
-路径：`https://www.japanmedai.com/pet/`
+归属：文腾株式会社运营的独立品牌「日宠通｜日本宠物健康知识站」
+网站正式地址：`https://pet.japanmedai.com/`（主站不放宠物医疗版块）
 
 ## 适用的最新授权：SOP V1.5（2026-10-18）
 
@@ -16,19 +16,19 @@
 
 - 沿用既定架构：**品牌、导航、内容库、Sitemap、统计独立**；JapanMed AI 人类医疗站与日宠通不可混写。
 - 不修改 JapanMed AI 首页；不增加销售、在线诊断、处方、购药或跨境转化入口。
-- 国内：百家号 + 公众号；海外内容母站：`/pet/`；Facebook仅做分发/社区。知乎专栏继续保持人类医疗内容，不混入宠物线。
+- 国内：百家号 + 公众号；海外内容母站：`https://pet.japanmedai.com/`；Facebook仅做分发/社区。知乎专栏继续保持人类医疗内容，不混入宠物线。
 - 不建立第二份正文主库：保留 `pet-site/content/` 现有 S/A 级正文与来源核对记录，未来迁移到结构化主库时须保留 **ID、来源链接、审核历史**；本目录是「规则、模式、诊断」而非第二份正文。
-- 目前PR #7是独立首页及 index 开关变更；此 PR 不碰 `pet-site/api/pet.js`、首页及 deployment 配置。
-- 医学编辑核对 != 真实兽医 Medical Approved；截至既有复核记录，380个节点完成编辑层核对、Medical Approved为0；计数不代表全库规模及可发布数量。
-- 当前统一 Draft / noindex。Founder 明确批准之前：**不合并 main、不部署、不解除 noindex、不以审稿状态冒称上线成果。**
+- PR #7 与 #9 已分别合并上线：首页、根路径域名适配已完成；本 PR 仍仅治理文件、不改 `pet-site/api/pet.js`。
+- 医学编辑核对 != 真实兽医 Medical Approved；最新582个不同ID有编辑来源台账，但未由合格执业兽医逐句签核，Medical Approved无可核实记录；计数不代表全库规模及可发布数量。
+- 当前 PR #8 仍 Draft，正式网站已部署但继续 noindex；Founder 本轮明确批准合并与上传治理文件，不等于同意取消 noindex、发布582篇或冒称医学审核通过。
 
 ## 1. 可交付系统分层
 
-1. **信息结构**：`/pet/` 首页；`/pet/cat/` 猫；`/pet/dog/` 狗；`/pet/qa/{canonicalSlug}/` 独立问题；`/pet/new-drugs/` 新药核验；`/pet/about/` 作者/审稿规则。当前既有 URL 不能因改关键词随意迁移。
+1. **信息结构**：`/` 首页；`/cat/` 猫；`/dog/` 狗；`/qa/{canonicalSlug}/` 独立问题；`/new-drugs/` 新药核验；`/about/` 作者/审稿规则。当前既有 URL 不能因改关键词随意迁移。
 2. **搜索词与意图库**：按物种→症状→疾病→检查→居家护理→复诊资料→日本医疗/新药组织；S级（明确问题/急症）、A级（具体方案/复诊）、B级（科普背景）。见 `keyword-clusters.json`。
 3. **唯一内容台账**：每一节点唯一 `id`、`canonicalSlug`、`primaryQuery`、`clusterKey`、`relatedIds`、原文来源、医学核对日期和发布状态；无记录不生成公开URL。
 4. **证据与审稿**：官方/学协会/手册/医学院一手来源；物种、诊断 vs 症状、已批准 vs 临床研究严格分开；日本产品独立 NVAL 主表。
-5. **SEO技术层**：唯一 title / description / H1、www canonical、可读HTML首屏正文、导航/面包屑、OG、适用的 Article / BreadcrumbList / WebSite / Organization schema、移动端可用性。
+5. **SEO技术层**：唯一 title / description / H1、pet.japanmedai.com canonical、可读HTML首屏正文、导航/面包屑、OG、适用的 Article / BreadcrumbList / WebSite / Organization schema、移动端可用性。
 6. **GEO可引用层**：问句标题→50–100字直答→适用范围→解释与观察→何时就医→就诊准备→出处/核对日期→相关问答，答案明确边界、不伪造来源。
 7. **分发**：官网为唯一权威维护版；百家号/公众号可适配表达并指向官网对应专题；不批量生成近似重复页；平台有 canonical 能力才使用，不能假定平台支持。
 8. **统计迭代**：Google Search Console / Bing Webmaster Tools（启用后）；站内独立事件与分区报表；品牌搜索词、已收录页面、自然展示/点击、问答阅读路径、来源/证据维护及时率、人工核验AI引用。
