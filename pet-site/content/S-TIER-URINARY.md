@@ -90,7 +90,9 @@
 尿道造口术后，主人最需要掌握的是伤口和造口外观、排尿情况以及避免舔咬的方法。不同手术阶段的护理要求可能不同。
 出院前应请医院演示清洁方式，并确认哪些分泌物、轻微肿胀或尿色变化属于可观察范围，哪些提示异常。
 每天记录排尿次数、尿量趋势、是否用力、精神食欲，并避免自行使用刺激性消毒液或擅自拆除头套。
-如果出现明显出血、持续无法排尿、伤口裂开、严重肿胀、恶臭分泌物或精神快速变差，应及时联系手术医院。
+如果出现无法排尿或反复用力却没有尿、持续明显出血、伤口裂开、严重肿胀、恶臭分泌物或精神快速变差，应立即联系手术医院或急诊。尿道造口术后仍可能出现堵塞或其他并发症，不能因做过手术就排除急症；不要自行探查、冲洗造口或使用刺激性消毒液。
+
+编辑级参考：Merck Veterinary Manual—Feline Lower Urinary Tract Disease（https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/feline-lower-urinary-tract-disease）。医学审核：pending。
 
 ---
 
@@ -104,7 +106,9 @@
 猫尿路问题反复时，医生需要比较“这次和上次是否一样”，因此既往资料非常重要。
 可以准备上次尿检、血检、影像报告、处方、使用过的药物和处方粮信息，并注明使用时间和反应。
 这次发作则记录从什么时候开始、每天尿团数量和大小、是否血尿或疼痛、饮水和食欲变化，以及近期搬家、换猫砂或其他环境变化。
-如果出现无法排尿或明显全身不适，应优先就医，不要为了整理资料而延误。
+如果猫反复蹲砂盆却几乎没有尿、持续用力排尿、痛叫、呕吐或明显虚弱，应立即联系兽医急诊，不能等待整理病历或常规复诊。反复尿路症状不代表每次都是细菌感染，也不能自行重复使用上次的抗菌药；需由兽医重新判断是否存在尿道阻塞及其他病因。
+
+编辑级参考：Merck Veterinary Manual—Feline Lower Urinary Tract Disease（https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/feline-lower-urinary-tract-disease）。医学审核：pending。
 
 ---
 
