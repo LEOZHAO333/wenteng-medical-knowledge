@@ -220,7 +220,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 医生选择下一种检查，通常是为了回答前一种检查没能回答的问题。
 
-主人可以直接问：这次做超声最想排除什么？结果会不会改变下一步处理？
+主人可以直接问：这次做超声最想排除什么？结果会不会改变下一步处理？但X线未见明显异常不能排除所有急症，超声也不能代替全部检查；如宠物出现明显呼吸困难、持续剧烈腹痛、腹部快速膨大、倒地或意识异常，应立即联系兽医急诊，不能为等待预约影像检查而延误。
+
+编辑级参考：Merck Veterinary Manual—Diagnostic Imaging（https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging）。医学审核：pending。
 
 ---
 
@@ -244,7 +246,9 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 
 因此两者不是简单的“便宜版”和“高级版”，而是适用于不同问题。
 
-可以问兽医：目前最需要知道的是肿块大致类型，还是需要明确分级和切缘？这个问题会直接影响选择哪种取样方式。
+可以问兽医：目前最需要知道的是肿块大致类型，还是需要明确分级和切缘？这个问题会直接影响选择哪种取样方式。细针穿刺结果不明确不等于肿块良性，组织活检也并非所有病灶都适合立即进行；取样前需由兽医结合病灶位置、凝血状态、麻醉与出血风险及结果能否改变治疗决策评估。不要自行挤压、穿刺肿块。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
