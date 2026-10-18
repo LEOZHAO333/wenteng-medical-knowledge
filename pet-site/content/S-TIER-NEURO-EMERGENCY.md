@@ -48,13 +48,15 @@
 
 ## 0464｜狗连续几次发作，去急诊前要告诉医院什么？
 - Slug：`dog-cluster-seizures-emergency-info`
-- 直接回答：说明24小时内发作次数、每次持续时间、两次之间是否完全恢复、目前用药及最后一次用药时间。
+- 直接回答：连续或短时间内多次抽搐属于急诊信号，应立即联系动物急诊；同时准备24小时内的发作次数、每次时长、两次间是否恢复意识、目前用药和最后用药时间。
 
 短时间连续多次抽搐属于需要高度重视的情况。Merck指出，反复成簇发作和持续性癫痫可能危及生命。
 
 打电话给急诊时，直接告诉医院：第一次发作时间、目前已经发作几次、最长一次多久、两次之间是否恢复意识，以及是否已知癫痫病史。
 
-如果平时服用抗癫痫药，也要说明药名、最后一次给药时间和是否漏服。不要自行重复加倍口服药物，除非治疗兽医事先给过明确的家庭急救方案。
+如果平时服用抗癫痫药，也要说明药名、最后一次给药时间和是否漏服。不要自行加倍口服药物，除非治疗兽医事先给过明确的家庭急救方案；先确保环境安全，记录不能耽误出发。
+
+编辑级核对来源：Cornell University—Idiopathic Epilepsy in Dogs（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/idiopathic-epilepsy-dogs）；Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual；2024 ACVIM consensus。
 
@@ -62,13 +64,15 @@
 
 ## 0467｜狗突然拖着后腿走，搬动时应该注意什么？
 - Slug：`dog-dragging-hindlegs-safe-transport`
-- 直接回答：尽量减少脊柱和后肢不必要活动，用平稳支撑的方式搬运，并尽快就医，尤其是突然发生或伴随疼痛、大小便异常时。
+- 直接回答：狗突然失去后肢活动能力、无法站立或伴随剧痛/排尿困难时，应立即联系动物急诊。搬运前尽量限制不必要的头颈和脊柱活动，采用稳固支撑，避免强行试走。
 
 突然拖着后腿走可能涉及脊柱、脊髓、神经或严重骨关节问题。反复扶着走、拉腿测试或做拉伸，可能增加不适。
 
 搬动时尽量让身体保持平直，可用硬板、厚毯或多人协作支撑胸部和骨盆，避免腰背大幅扭转。
 
-如果完全无法站立、后肢没有反应、持续尖叫或出现排尿困难，应按更紧急的神经急症处理。
+如果完全无法站立、持续尖叫或出现排尿困难，应按急症处理；不要自行拉伸、按摩、压腿试验或用人用止痛药。
+
+编辑级核对来源：Merck Veterinary Manual—First Aid and Transport of Small Animals（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/emergency-medicine-introduction/first-aid-and-transport-of-small-animals）；Cornell University Hospital—Urgent Care（https://www.vet.cornell.edu/hospitals/services/urgent-care）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Nervous System Disorders and Effects of Injuries in Dogs。
 
