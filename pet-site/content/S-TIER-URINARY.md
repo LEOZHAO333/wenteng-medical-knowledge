@@ -42,7 +42,9 @@
 狗尿量明显减少，同时精神变差，是需要把全身状态和泌尿功能一起考虑的信号。
 原因可能包括脱水、急性肾损伤、尿路梗阻或其他系统性疾病，处理方式并不相同。
 出门前记录最后一次正常排尿时间、饮水、呕吐、近期用药以及是否有排尿用力或疼痛。
-不要强行大量灌水或等待“喝多了就会尿”；如果几乎无尿或状态恶化，应尽快就医。
+不要强行大量灌水或等待“喝多了就会尿”；如果几乎无尿、反复用力却排不出尿，或同时出现明显虚弱、呕吐、腹痛，应立即联系急诊。少尿、无尿既可能涉及尿路梗阻，也可能与急性肾损伤等有关，不能在家凭饮水量区分，更不要自行挤压膀胱。
+
+编辑级参考：Merck Veterinary Manual—Acute Kidney Injury in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/renal-dysfunction-in-dogs-and-cats/acute-kidney-injury-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -56,7 +58,9 @@
 正常排尿通常不应该让狗明显疼痛。尿尿时哼叫、突然停下、反复换姿势或回头看腹部，都是值得记录的信号。
 可能原因包括膀胱炎、尿道刺激、结石、感染或其他泌尿系统问题，仅凭声音不能确定。
 就诊前记录每次排尿大概多少、是否有血、是否频繁抬腿或蹲下，以及最后一次正常排尿是什么时候。
-如果狗几乎尿不出来、明显痛苦、呕吐或精神快速变差，应按更紧急的情况处理。
+如果狗反复用力却几乎排不出尿、明显痛苦、呕吐或精神快速变差，应立即联系急诊，优先排除尿路梗阻。疼痛性排尿并不等同于细菌感染，不能仅凭哼叫自行使用剩余抗菌药或止痛药。
+
+编辑级参考：Merck Veterinary Manual—Urinary Obstruction in Small Animals（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/urethral-obstruction-in-small-animals）。医学审核：pending。
 
 ---
 
