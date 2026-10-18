@@ -122,7 +122,9 @@
 发现狗尿里有血时，不要只根据颜色猜原因。感染、结石、炎症、创伤或其他泌尿问题都可能出现血尿。
 如果医院需要尿样，应先确认希望在家接取还是到院采集、容器要求、保存方式和送检时间。
 用地面或尿垫上的尿液做某些检查可能受到污染，因此样本用途不同，采集要求也不同。
-如果狗同时排尿困难、明显疼痛、精神变差或尿量很少，应优先就医，不要为了等到“合格尿样”而延误。
+如果狗反复用力排尿却几乎没有尿、出现明显腹痛、持续大量血尿或血块、虚弱或倒地，应立即联系兽医急诊，不能为了采集“合格尿样”而延误。血尿不等于细菌感染，不应自行使用剩余抗菌药；采样方式和是否需要尿培养由兽医按检查目的决定。
+
+编辑级参考：Merck Veterinary Manual—Disorders of Micturition in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/disorders-of-micturition-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -136,7 +138,9 @@
 母狗绝育后如果出现睡觉时尿液渗漏，确实可能与尿道括约肌功能改变有关，但这不是唯一可能。
 感染、结石、神经系统问题、先天结构异常和其他疾病也可能造成类似漏尿，因此需要结合年龄、发作时间和尿检等判断。
 主人可以记录漏尿从绝育后多久出现、是否只在睡眠中发生、白天排尿是否正常以及饮水有没有变化。
-持续漏尿会刺激皮肤，也会影响生活质量，建议尽早和兽医讨论检查和长期管理。
+持续漏尿会刺激皮肤，也会影响生活质量，建议尽早和兽医讨论检查和长期管理。不能仅凭绝育史就确诊尿道括约肌功能不全，也不要自行使用人用激素或其他处方药。若漏尿同时伴随频繁用力却排不出尿、明显疼痛、血尿、发热或精神快速恶化，应及时就医；几乎无法排尿或明显全身不适时须立即联系急诊。
+
+编辑级参考：Merck Veterinary Manual—Urinary Incontinence in Dogs（https://www.merckvetmanual.com/dog-owners/kidney-and-urinary-tract-disorders-of-dogs/urinary-incontinence-in-dogs）。医学审核：pending。
 
 ---
 
