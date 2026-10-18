@@ -26,7 +26,8 @@
     "indexEligible",
     "relatedIds",
     "lastModifiedAt",
-    "founderIndexApproved"
+    "founderIndexApproved",
+    "founderPublishApproved"
   ],
   "properties": {
     "id": {
@@ -319,6 +320,11 @@
     "founderIndexApproved": {
       "type": "boolean",
       "description": "必须有可追溯的 Founder 正式授权方可设 true；授权证据另存PR/issue。",
+      "default": false
+    },
+    "founderPublishApproved": {
+      "type": "boolean",
+      "description": "重大决策：正式公开部署须Founder明确授权。默认false。",
       "default": false
     }
   }
