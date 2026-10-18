@@ -1,0 +1,39 @@
+{
+  "batch": "JPO-OFFICIAL-FRAMEWORK-10",
+  "checkedAt": "2026-10-18",
+  "authority": "Japan MAFF/NVAL",
+  "scope": "Regulatory information framework, not product-by-product approval",
+  "officialPages": [
+    "https://www.maff.go.jp/nval/iyakutou/index.html",
+    "https://www.maff.go.jp/nval/tenpubunsyo.html",
+    "https://www.maff.go.jp/nval/syonin_sinsa/",
+    "https://www.maff.go.jp/nval/iyakutou/fukusayo/sousa/index.html"
+  ],
+  "jpoIds": [
+    "JPO-001",
+    "JPO-002",
+    "JPO-003",
+    "JPO-004",
+    "JPO-005",
+    "JPO-006",
+    "JPO-007",
+    "JPO-008",
+    "JPO-009",
+    "JPO-010"
+  ],
+  "legacyBlocked": [
+    "LEGACY-JP-001",
+    "LEGACY-JP-002",
+    "LEGACY-JP-003",
+    "LEGACY-JP-004"
+  ],
+  "officialProductVerifiedNew": 0,
+  "regulatoryChange": {
+    "date": "2026-11-01",
+    "subject": "NVAL adverse-event reporting system migration",
+    "status": "announced; recheck after effective date"
+  },
+  "medicalReview": "pending",
+  "publishReady": false,
+  "indexEligible": false
+}
