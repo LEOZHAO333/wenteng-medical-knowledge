@@ -1,0 +1,33 @@
+name: Pet GEO SEO Draft QA
+
+on:
+  pull_request:
+    paths:
+      - 'pet-site/seo/**'
+      - 'pet-site/api/pet.js'
+      - '.github/workflows/pet-geo-seo-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  draft-metadata-audit:
+    name: Static Audit (No Deployment)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check parser and policy syntax
+        run: |
+          node --check pet-site/seo/audit.mjs
+          node --check pet-site/seo/audit-current-site.mjs
+          node --check pet-site/seo/release-policy.mjs
+      - name: Verify content mapping against renderer
+        run: node pet-site/seo/audit-current-site.mjs
+      - name: Test release policy
+        run: node --test pet-site/seo/release-policy.test.mjs
+
+# This workflow only reads and validates code/metadata.
+# It MUST NOT merge PRs, deploy Vercel, toggle noindex, or claim medical approval.
