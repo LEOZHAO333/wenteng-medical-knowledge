@@ -46,7 +46,9 @@
 
 在家不要扒开眼睛反复检查，也不要随便滴人的抗菌或消炎眼药。可以先防止猫继续抓挠，并尽快联系兽医。
 
-如果眼球变形、明显出血、浑浊、瞳孔形状异常或猫突然像看不见，应按更紧急的眼外伤处理。
+如果眼球变形、明显出血、浑浊、瞳孔形状异常或猫突然像看不见，应立即联系眼科急诊；怀疑眼球穿通伤时不要按压、冲洗或自行取出嵌入异物，以免加重损伤。
+
+编辑级参考：Merck Veterinary Manual—Ophthalmic Emergencies（https://www.merckvetmanual.com/eye-disorders/ophthalmic-emergencies）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Ophthalmic Emergencies。
 
