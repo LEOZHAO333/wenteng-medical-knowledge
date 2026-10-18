@@ -12,7 +12,10 @@
 
 不要反复抱起检查、强行喂水或让猫走动测试。尽量减少环境刺激，保持运输过程安静，并提前联系动物医院说明呼吸异常。
 
-如果出现舌色异常、明显腹式呼吸、无法站稳或状态快速恶化，应按急症处理。
+如果猫持续张口呼吸、明显费力、舌色异常、无法站稳或状态迅速恶化，应立即联系急诊并尽量降低搬运应激；不应以“刚运动过”作为在家等待的理由。
+
+编辑级证据来源：Cornell Feline Health Center—Dyspnea (Difficulty Breathing)（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/dyspnea-difficulty-breathing）。
+医学审核：pending／未取得真实执业兽医签署。
 
 ---
 
@@ -26,7 +29,10 @@
 
 不要在没有医生指导的情况下强行喂食、喂水或追加药物。出发前可电话告知医院：物种、年龄、呼吸状态、是否张口喘、有没有已知心肺疾病。
 
-如果状态严重，应优先争取最快到达急诊，而不是先在家拍很长时间的视频。
+如果已出现持续张嘴喘、明显呼吸费力或舌色异常，应立即前往能处理急症的动物医院，避免为了拍摄长视频、反复测量而延迟出发。
+
+编辑级证据来源：Merck Veterinary Manual—First Aid and Transport of Small Animals（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/emergency-medicine-introduction/first-aid-and-transport-of-small-animals）；Cornell Feline Health Center—Dyspnea（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/dyspnea-difficulty-breathing）。
+医学审核：pending／未取得真实执业兽医签署。
 
 ---
 
