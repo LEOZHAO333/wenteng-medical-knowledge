@@ -107,6 +107,8 @@ records.forEach((r, index) => {
   }
   if (r.publicationState === 'published' && !isDate(r.firstPublishedAt))
     error(key, 'published state requires real firstPublishedAt');
+  if (r.publicationState === 'published' && r.founderPublishApproved !== true)
+    error(key, 'published state requires explicit founderPublishApproved');
 });
 
 records.forEach((r, i) => {
