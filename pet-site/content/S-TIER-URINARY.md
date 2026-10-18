@@ -10,7 +10,9 @@
 狗频繁抬腿、蹲下或用力，但每次只有几滴甚至完全没有尿，不应简单当作“标记行为”。
 这种表现可能和尿道梗阻、结石、严重炎症、前列腺或其他泌尿问题有关，部分情况需要快速处理。
 出门就医前可以记下最后一次正常排尿时间、是否有血尿、是否呕吐、腹部是否不适以及近期用药。
-如果完全无法排尿或状态快速变差，应按急症处理，不要先大量喂水等待。
+如果完全无法排尿或状态快速变差，应立即联系急诊动物医院，不要先大量喂水等待。尿道梗阻可能伴随高钾血症、肾后性氮质血症等危险变化，不能因宠物暂时还能走动而推迟评估。
+
+编辑级证据：Merck Veterinary Manual—Urethral Obstruction in Small Animals（https://www.merckvetmanual.com/urinary-system/urolithiasis-in-small-animals/urethral-obstruction-in-small-animals）。医学审核：pending。
 
 ---
 
