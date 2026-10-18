@@ -29,6 +29,7 @@ jobs:
           node --check pet-site/seo/source-review-queue.mjs
           node --check pet-site/seo/audit-source-batches.mjs
           node --check pet-site/seo/audit-editorial-closures.mjs
+          node --check pet-site/seo/audit-approval-boundaries.mjs
           node --check pet-site/seo/sitemap-policy.mjs
       - name: Verify content mapping against renderer
         run: node pet-site/seo/audit-current-site.mjs
@@ -40,6 +41,8 @@ jobs:
         run: node pet-site/seo/source-review-queue.mjs --summary --check
       - name: Audit per-ID medical source documentation syntax (no medical approval)
         run: node pet-site/seo/audit-source-batches.mjs
+      - name: Verify standing Founder approval boundaries (read-only)
+        run: node pet-site/seo/audit-approval-boundaries.mjs
       - name: Verify historical medical editing issues did not regress
         run: node pet-site/seo/audit-editorial-closures.mjs
 
