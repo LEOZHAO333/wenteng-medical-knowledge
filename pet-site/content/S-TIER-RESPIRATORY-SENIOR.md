@@ -58,7 +58,9 @@
 
 还要记录一天发生几次、是否在运动后或夜间更明显，以及发作后猫有没有呼吸加快、张嘴喘或明显疲惫。
 
-反复“像吐毛但什么也吐不出来”的发作，不应长期只按毛球处理，建议让兽医评估呼吸道问题。
+反复“像吐毛但什么也吐不出来”的发作，不应长期只按毛球处理，建议让兽医评估呼吸道问题。如果发作时出现持续张口呼吸、明显胸腹用力、虚弱或发绀，应立即联系急诊，不要为了录制完整视频而延误就医。
+
+编辑级参考：Merck Veterinary Manual—Respiratory Distress in Cats（https://www.merckvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/disorders-of-the-chest-cavity-of-cats）。医学审核：pending。
 
 ---
 
@@ -72,7 +74,9 @@
 
 短鼻犬、肥胖犬或高温天气确实更容易喘，但如果变化是新出现的，也需要排除心肺和其他系统性原因。
 
-如果散步中出现明显呼吸困难、倒地或舌色异常，应立即停止运动并联系医院。
+如果散步中出现明显呼吸困难、倒地或舌色异常，应立即停止运动并联系急诊；不要强迫继续行走或通过再次运动来测试耐力。运动耐力下降是需要进一步检查的症状，不能仅凭喘气表现判断一定是心脏病。
+
+编辑级参考：Merck Veterinary Manual—Clinical Signs of Cardiovascular Disease in Dogs and Cats（https://www.merckvetmanual.com/circulatory-system/cardiovascular-system-introduction/clinical-signs-of-cardiovascular-disease-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
