@@ -136,3 +136,25 @@ notes
 - 4篇历史产品盘点：继续Hold
 - 现阶段不虚构旧稿中的产品名，不为追求进度猜测品牌
 - 下一步：随着取得明确商品名/规格，按“一个产品一条记录”连续核验，不再以整篇盘点文章作为最小审核单位
+
+## 八、Batch 10｜2026-10-18 日本官方信息时效性复核（编辑级）
+
+核验范围：只核实**官方核验机制与副作用申报入口的现行/预定变动**，并核对已有JPO队列的发布闸门。尚未获取任何旧产品盘点的完整商品名、规格及现行电子添文，因此 **本轮具体产品级新增批准数=0；四篇旧产品盘点继续Hold**。
+
+| ID | 当前编辑处理 | 官方材料 | 状态 |
+|---|---|---|---|
+| JPO-001/002/003 | 核对商品名、成分、适用对象及监管状态时优先检索 NVAL 数据库；数据库可能有更新延迟，不能仅凭页面缺失断言未获批 | https://www.maff.go.jp/nval/iyakutou/index.html | framework_verified_official；如涉及具体药品则pending |
+| JPO-004 | “猫用”不代表所有年龄和体重适用，具体限制须以该产品现行电子添文为准 | https://www.maff.go.jp/nval/tenpubunsyo.html | official_japan_verification_pending |
+| JPO-005/006 | 日文添文注意事项、规格、用法须逐字段核对；通用名相同不自动意味着规格与可替代性相同 | https://www.maff.go.jp/nval/tenpubunsyo/kisaiyoryo.html | JPO-005方法稿可保留；JPO-006具体药名pending |
+| JPO-007/008 | “临床研究”、“审查中”和“日本正式批准”严格区分；批准/审查动态须核查官方产品记录 | https://www.maff.go.jp/nval/syonin_sinsa/ | framework_verified_official；产品案例pending |
+| JPO-009 | **时效性预警：NVAL公告副作用报告系统自2026-11-01起迁移，新系统需重新注册账户。** 2026-10-18的网页说明不得外推成11月之后不变的正式入口；发布时须再次访问官方页面检查 | https://www.maff.go.jp/nval/iyakutou/fukusayo/sousa/index.html | time_sensitive_recheck_required / no public procedural claims |
+| JPO-010 | 海外药品与日本获批、进口及当地合法使用需分开判断，不提供跨境购买或自用建议 | https://www.maff.go.jp/nval/iyakutou/index.html | framework_verified_official；跨境法律另行核验 |
+
+### 本批阻断清单
+
+- LEGACY-JP-001 ～ 004：旧盘点无完整可追溯商品清单，仍为 `product_identity_missing + official_japan_verification_pending`，**不得发布**。
+- JPO-004、006、009：出现具体商品或申报实际步骤前，须独立核对对应的现行添文/官方申报系统，不能凭通用入口推断具体结果。
+- 当官方数据库与现行添文或业者信息不一致，执行 `official_conflict_hold`；不得自动升级为 `official_product_verified`。
+- 本批未查得产品级批准日期、批准适应症和规格的可交叉核验材料，均保留 `null/pending`，不填猜测值。
+
+编辑执行：核验日期2026-10-18，`source_verified_editorial_framework`；医学/药事专业审核：**pending**；公开发布及收录授权：**未获得**。本段仅是现有主表的增量，不另建一份产品正文主库。
