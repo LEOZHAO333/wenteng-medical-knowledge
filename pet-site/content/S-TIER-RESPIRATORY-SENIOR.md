@@ -106,7 +106,9 @@
 
 可以拍下走路、上下台阶和起身视频，并记录这些变化持续了多久。
 
-猫很少因为慢性疼痛持续大叫，因此主人需要从日常功能变化里发现线索。
+猫的慢性疼痛未必表现为持续叫喊，因此主人还需要观察跳跃、梳毛、起身和如厕等日常功能变化。不能仅凭睡眠时长或单一行为判断是否疼痛；如果突然不能站立、持续明显疼痛或伴随呼吸困难，应及时联系急诊。
+
+编辑级参考：AAHA/AAFP Pain Management Guidelines for Dogs and Cats（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；医学审核：pending。
 
 ---
 
