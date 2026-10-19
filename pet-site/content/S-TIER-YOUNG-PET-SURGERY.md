@@ -92,7 +92,7 @@
 
 最简单的做法是把所有药盒和保健品拍照，手术前一次性交给医院核对。
 
-资料基线：2020 AAHA Anesthesia and Monitoring Guidelines—preanesthetic evaluation。
+资料基线：2020 AAHA Anesthesia and Monitoring Guidelines—Preanesthetic Evaluation（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-1-preanesthesia/step-1-preanesthetic-planning/）。指南要求核对处方、非处方药与补充剂并考虑相互作用；是否停用须由麻醉团队决定。医学审核：pending。
 
 ---
 
@@ -124,7 +124,7 @@
 
 AAHA麻醉指南把麻醉视为从家里准备到术后回家的连续管理过程，而不是只发生在手术台上的那段时间。
 
-资料基线：2020 AAHA Anesthesia and Monitoring Guidelines。
+资料基线：2020 AAHA Anesthesia and Monitoring Guidelines（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/），涵盖术前、诱导、维持及恢复的全程监护。具体设备与人员安排应询问实际接诊医院，不能因网页列举指标就推定每家医院都有同样条件。医学审核：pending。
 
 ---
 
@@ -140,7 +140,7 @@ AAHA麻醉指南把麻醉视为从家里准备到术后回家的连续管理过�
 
 真正的决策是比较“手术本身的收益”和“剩余麻醉风险”，而不是追求一个不存在的零风险答案。
 
-资料基线：2020 AAHA Anesthesia and Monitoring Guidelines—individualized anesthetic planning。
+资料基线：2020 AAHA Anesthesia and Monitoring Guidelines—Preanesthesia（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-1-preanesthesia/），强调依据共病、术前检查及病情稳定程度个体化评估麻醉风险；不能依据单一肾功能数值判断能否手术。医学审核：pending。
 
 ---
 
