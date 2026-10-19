@@ -28,7 +28,9 @@
 
 不要在没有医生指导的情况下强行喂食、喂水或追加药物。出发前可电话告知医院：物种、年龄、呼吸状态、是否张口喘、有没有已知心肺疾病。
 
-如果状态严重，应优先争取最快到达急诊，而不是先在家拍很长时间的视频。
+出现明显费力呼吸、张口喘气（尤其是猫）、牙龈发青或灰白、虚弱倒地等情况，应立即联系可接诊的兽医急诊并尽快转运，不要在家长时间拍视频、测量或等待自行恢复。运输途中尽量保持宠物自主选择的呼吸姿势，避免胸颈部受压、过热或不必要的操作；不要强行戴嘴套、喂食喂水或自行给药。是否需要氧气及其他紧急处理，应由接诊兽医决定。
+
+编辑级参考：Merck Veterinary Manual—Respiratory Disorders of Dogs and Cats（https://www.merckvetmanual.com/respiratory-system）；AAHA—Anesthesia and Monitoring Guidelines（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/）。医学审核：pending。
 
 ---
 
