@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "1.0",
+  "site": "日宠通｜日本宠物健康知识站",
+  "batch": "MED-EVIDENCE-P0-02",
+  "checkedAt": "2026-10-18",
+  "scope": "focused editorial risk wording and reference mapping; not veterinary signoff",
+  "prevBatch": "MED-EVIDENCE-P0-01",
+  "records": [
+    {
+      "id": "0004",
+      "canonicalSlug": "cat-not-eating-when-vet",
+      "topic": "食欲下降",
+      "checkedClaim": "成猫接近24小时几乎不吃需要评估；年幼或合并疾病时须更早就医",
+      "sourceUrls": [
+        "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/anorexia"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "避免机械等到次日，提示幼猫与肥胖猫风险",
+      "openMedicalQuestion": "需要兽医复核不同年龄、共病的具体就诊阈值",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0085",
+      "canonicalSlug": "cat-frequent-vomiting",
+      "topic": "反复呕吐",
+      "checkedClaim": "长期反复与突发严重呕吐须分层处理；不能因精神好就忽略",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/cat-owners/digestive-disorders-of-cats/vomiting-in-cats"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "补充何时当天就医、何时急诊的分界",
+      "openMedicalQuestion": "需要医学复核病因示例是否过度概括",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0093",
+      "canonicalSlug": "cat-vomits-water",
+      "topic": "呕吐不能留住水",
+      "checkedClaim": "反复呕吐导致脱水等风险，不能仅等待到第二天",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/cat-owners/digestive-disorders-of-cats/vomiting-in-cats"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "强调当天评估与危急伴随症状，禁止强行灌水",
+      "openMedicalQuestion": "需要兽医核对单次吐水与持续性呕吐的区别",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0110",
+      "canonicalSlug": "dog-coffee-ground-vomit",
+      "topic": "咖啡渣样呕吐",
+      "checkedClaim": "可提示胃肠道血液消化后的外观变化，但不能凭颜色确诊",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "强调出血风险和危急伴随症状",
+      "openMedicalQuestion": "需要兽医核查潜在食物颜色干扰和紧急程度",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0125",
+      "canonicalSlug": "cat-diarrhea-blood",
+      "topic": "猫血性腹泻",
+      "checkedClaim": "严重持续腹泻伴血可能需要急诊，鲜血与黑便提示的可能位置不同但非确诊",
+      "sourceUrls": [
+        "https://www.vet.cornell.edu/hospitals/services/emergency-and-critical-care-0"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "保留益生菌不替代诊断与何时升级就医",
+      "openMedicalQuestion": "需要兽医核查幼猫和轻度鲜红血丝的分流",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0144",
+      "canonicalSlug": "dog-black-stool",
+      "topic": "犬黑色柏油样便",
+      "checkedClaim": "典型黑色柏油样便可能提示上消化道出血；普通深色并不必然是出血",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/introduction-to-digestive-disorders-of-dogs"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "区分疑似黑便与单纯深色、强调危急伴随症状",
+      "openMedicalQuestion": "需要兽医核查鉴别药物、食物及临床出血征象",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0235",
+      "canonicalSlug": "dog-low-urine-lethargic",
+      "topic": "犬少尿伴精神差",
+      "checkedClaim": "少尿可涉及急性肾损伤、脱水及尿路阻塞；不应盲目增加饮水或补液",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/renal-dysfunction-in-dogs-and-cats"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "区分及时就诊及完全无尿急诊，避免居家灌水",
+      "openMedicalQuestion": "需要兽医核查尿量观察与肾脏/尿路紧急分流",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0464",
+      "canonicalSlug": "dog-cluster-seizures-emergency-info",
+      "topic": "犬成簇抽搐",
+      "checkedClaim": "短时间多次抽搐是兽医急症；计时记录及用药信息供急诊参考",
+      "sourceUrls": [
+        "https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/idiopathic-epilepsy-dogs"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "直接回答从记录清单提升到首先急诊",
+      "openMedicalQuestion": "需要兽医确认抽搐分型、已处方家庭救援药例外",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0467",
+      "canonicalSlug": "dog-dragging-hindlegs-safe-transport",
+      "topic": "突发后肢功能障碍",
+      "checkedClaim": "突发不能站立/拖后肢可能涉及严重神经或外伤问题；搬运减少脊柱活动",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/emergency-medicine-and-critical-care/emergency-medicine-introduction/first-aid-and-transport-of-small-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "强调立即急诊、限制活动、不要自行按摩",
+      "openMedicalQuestion": "需要兽医确认非外伤性瘫痪与脊柱固定的适用边界",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    }
+  ],
+  "summary": {
+    "count": 9,
+    "medicalApproved": 0,
+    "readyToPublish": 0
+  },
+  "reviewProtocol": [
+    "compare each claim with cited chapter",
+    "check emergency red flags",
+    "verify species and age applicability",
+    "no at-home dosing",
+    "qualified veterinarian must sign medical approval"
+  ],
+  "blockingFlags": [
+    "licensed_vet_review_pending",
+    "noindex",
+    "not_approved_for_publication"
+  ]
+}

@@ -12,21 +12,23 @@
 
 反复呕吐的原因可以来自胃肠道，也可能与肾脏、甲状腺、胰腺等其他系统有关。是否需要血检、粪检、影像，应根据年龄和症状决定。
 
-如果呕吐频率增加、喝水也吐、精神变差或体重下降，应尽快复诊。
+如果呕吐频率增加、连水也留不住、精神变差或体重下降，应当天联系动物医院；若持续呕吐并出现虚弱、严重腹痛、血性呕吐或脱水迹象，需要急诊评估。
 
-资料基线：Merck Veterinary Manual—Vomiting in Small Animals。
+编辑级核对来源：Merck Veterinary Manual—Vomiting in Cats（https://www.merckvetmanual.com/cat-owners/digestive-disorders-of-cats/vomiting-in-cats），区分慢性反复与急性严重呕吐。医学审核状态：pending／待真实执业兽医逐句复核。
 
 ---
 
 ## 0093｜猫喝水也吐，能等到第二天吗？
 - Slug：`cat-vomits-water`
-- 直接回答：如果连少量水都留不住，尤其伴随反复呕吐、虚弱、腹痛或明显脱水，不建议长时间等待。
+- 直接回答：如果猫反复呕吐、连少量水也无法留住，应当天联系动物医院；伴随虚弱、明显腹痛、血性呕吐或脱水迹象时需要立即评估，不建议等到第二天。
 
 喝水也吐说明胃肠道目前无法正常保留液体，脱水风险会随时间增加。幼猫、老猫和本身有慢性病的猫更需要谨慎。
 
 不要强行大量灌水，也不要因为怕吐而完全断水很久。最重要的是联系动物医院，说明过去几小时吐了几次、每次间隔、是否还能排尿和精神状态。
 
-如果同时出现腹部明显疼痛、干呕无物、误食异物或毒物可能、血性呕吐或快速虚弱，应按急症处理。
+如果同时出现明显腹痛、可能误食异物或毒物、血性呕吐或快速虚弱，应按急症处理。不要强行灌水，也不要擅自长期停水；根据兽医指导安排安全运输。
+
+编辑级核对来源：Merck Veterinary Manual—Vomiting in Cats（https://www.merckvetmanual.com/cat-owners/digestive-disorders-of-cats/vomiting-in-cats）；Cornell University Hospital—Emergency and Critical Care（https://www.vet.cornell.edu/hospitals/services/emergency-and-critical-care-0）。医学审核：pending。
 
 ---
 
@@ -47,49 +49,57 @@
 
 ## 0110｜狗呕吐物像咖啡渣，为什么要尽快联系医院？
 - Slug：`dog-coffee-ground-vomit`
-- 直接回答：这种外观可能提示消化道出血，尤其伴随黑便、虚弱或腹痛时，应尽快就医。
+- 直接回答：咖啡渣样呕吐物可能提示胃肠道出血，应立即联系动物医院评估；若伴随虚弱、黑色柏油样便、腹痛、牙龈苍白或反复吐血，应直接寻求急诊。
 
 深褐色、颗粒状、像咖啡渣的呕吐物，有时来自血液在胃内被消化后的变化。单凭照片不能确定，但属于不该忽略的信号。
 
 就医前可以拍照，并记录是否同时有黑色柏油样便、食欲下降、使用过止痛药或其他药物、是否误食异物或毒物。
 
-不要自行给人用胃药或止痛药，也不要因为狗暂时精神尚可就拖延数天。
+不要自行给人用胃药或止痛药，也不要因为狗暂时精神尚可就拖延数天。照片能辅助描述，但不能根据颜色远程确诊出血。
+
+编辑级核对来源：Merck Veterinary Manual—The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals）；Cornell University Hospital—Emergency and Critical Care（https://www.vet.cornell.edu/hospitals/services/emergency-and-critical-care-0）。医学审核：pending。
 
 ---
 
 ## 0125｜猫拉稀带血，能先只喂益生菌观察吗？
 - Slug：`cat-diarrhea-blood`
-- 直接回答：不建议只靠益生菌判断。少量鲜血可能来自下消化道刺激，但反复出血、精神差、呕吐或幼猫腹泻需要尽快检查。
+- 直接回答：不建议只靠益生菌观察。血便可能有多种原因；若大量或持续出血、精神差、反复呕吐、脱水或发生在幼猫身上，应尽快就医，严重血性腹泻需要急诊。
 
 血便需要先分清颜色和量。鲜红血丝常来自结肠或直肠附近，但黑色、柏油样便则可能提示更靠上的消化道出血。
 
 主人可以保存照片和新鲜粪便样本，并记录腹泻次数、是否有黏液、是否呕吐、饮食变化、驱虫情况和家中其他宠物是否也出现症状。
 
-益生菌在部分情况可作为辅助，但不能替代对寄生虫、感染、饮食问题或其他疾病的评估。
+益生菌在部分情况可作为辅助，但不能替代对寄生虫、感染、饮食问题或其他疾病的评估。若明显虚弱、无法站稳、严重脱水或持续大量血便，不要等家庭处理见效。
+
+编辑级核对来源：Merck Veterinary Manual—The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals）；Cornell University Hospital—Emergency and Critical Care（https://www.vet.cornell.edu/hospitals/services/emergency-and-critical-care-0）。医学审核：pending。
 
 ---
 
 ## 0144｜狗拉黑色便便，是食物颜色还是需要就医？
 - Slug：`dog-black-stool`
-- 直接回答：真正的黑色柏油样便可能提示消化道出血，需要尽快联系兽医；单纯深色食物也会改变颜色，所以要结合质地、气味和全身状态。
+- 直接回答：真正黑亮、发黏、呈柏油样的便可能提示消化道出血，应及时联系兽医；若伴随虚弱、牙龈苍白、血性呕吐或倒地，应立即急诊。普通深色粪便并不能仅靠照片确诊。
 
 如果便便只是颜色偏深、成形正常，近期又吃了深色食物，未必是出血。但“又黑又亮、发黏、像柏油”的大便更值得警惕。
 
 就医时带照片，说明近期饮食、药物，尤其是否使用过止痛药，以及有没有呕吐、食欲差、精神差或牙龈苍白。
 
-不要只凭一次颜色变化自行下结论，但出现明显黑便又伴随全身不适时，不建议等待。
+不要只凭一次颜色变化自行下结论，但出现典型黑色柏油样便、尤其伴随任何全身不适时，不要等待数天再检查。
+
+编辑级核对来源：Merck Veterinary Manual—Introduction to Digestive Disorders of Dogs（https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/introduction-to-digestive-disorders-of-dogs）；The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals）。医学审核：pending。
 
 ---
 
 ## 0004｜猫一天没怎么吃东西，什么时候该去医院？
 - Slug：`cat-not-eating-when-vet`
-- 直接回答：如果猫明显少吃或完全不吃，并持续到第二天，尤其伴随呕吐、精神差、疼痛或慢性病，应尽快联系兽医。
+- 直接回答：成猫食欲明显下降或接近24小时几乎不吃，应尽快联系兽医；幼猫、糖尿病猫或同时呕吐、明显虚弱、疼痛者要更早评估，不能机械等待到第二天。
 
 猫不像某些主人想象的那样可以“饿两天就会自己吃”。持续摄入不足本身就可能带来额外风险，超重猫尤其需要谨慎。
 
 先记录它到底吃了多少，是完全不吃，还是只吃零食；是否愿意喝水；有没有呕吐、便秘、口腔疼痛或躲藏。
 
-不要用长期“饿着逼吃”的方式处理突然食欲下降。真正的重点是找出不吃的原因。
+不要用长期“饿着逼吃”的方式处理突然食欲下降，也不要自行强行灌食；对超重猫尤须避免突然长时间停食。真正的重点是尽快识别并处理不吃的原因。
+
+编辑级核对来源：Cornell Feline Health Center—Anorexia（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/anorexia）；Hepatic Lipidosis（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hepatic-lipidosis）。医学审核：pending。
 
 ---
 
