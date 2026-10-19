@@ -5,12 +5,15 @@
 - 分类：泌尿与急症
 - Slug：`dog-straining-no-urine`
 - 摘要：反复做排尿姿势却几乎没有尿，可能是严重排尿困难，需要尽快判断是否存在梗阻或其他急症。
-- 直接回答：建议尽快联系动物医院，尤其是完全无尿、明显疼痛、腹部不适、呕吐或精神变差时。
+- 直接回答：反复排尿用力却几乎无尿，尤其完全无尿时，应立即联系有急诊能力的动物医院；即使尚不能确定是否尿道阻塞，也不应在家等待。
 
 狗频繁抬腿、蹲下或用力，但每次只有几滴甚至完全没有尿，不应简单当作“标记行为”。
 这种表现可能和尿道梗阻、结石、严重炎症、前列腺或其他泌尿问题有关，部分情况需要快速处理。
 出门就医前可以记下最后一次正常排尿时间、是否有血尿、是否呕吐、腹部是否不适以及近期用药。
-如果完全无法排尿或状态快速变差，应按急症处理，不要先大量喂水等待。
+如果完全无法排尿、反复用力仅有几滴或状态快速变差，应立即按泌尿急症就医，不要先大量喂水、按压腹部或等到次日。
+
+编辑级证据来源：Merck Veterinary Manual—Noninfectious Diseases of the Urinary System in Dogs（https://www.merckvetmanual.com/dog-owners/kidney-and-urinary-tract-disorders-of-dogs/noninfectious-diseases-of-the-urinary-system-in-dogs）；Urethral Obstruction in Small Animals（https://www.merckvetmanual.com/urinary-system/urolithiasis-in-small-animals/urethral-obstruction-in-small-animals）。
+医学审核：pending／未取得真实执业兽医签署。
 
 ---
 
@@ -19,12 +22,15 @@
 - 分类：泌尿与急症
 - Slug：`female-cat-urinary-retention`
 - 摘要：母猫发生完全尿闭相对少见，但同样可能出现严重排尿困难，不能因为是母猫就放松警惕。
-- 直接回答：会。反复蹲盆却几乎没有尿、明显疼痛、呕吐、精神差或腹部不适，都需要尽快联系动物医院。
+- 直接回答：会。母猫虽然比公猫较少发生完全尿道阻塞，但反复蹲盆却排不出正常尿液、明显疼痛、呕吐或精神差，须按疑似泌尿急症立即联系有急诊接诊能力的动物医院。
 
 很多主人把“尿不出来”只和公猫联系在一起，但母猫也可能出现严重下尿路问题、膀胱炎、结石或其他导致排尿困难的情况。
 真正需要关注的是行为和尿量：反复进出猫砂盆、频繁用力、只排几滴、叫唤、舔生殖部位、血尿或完全看不到尿团。
 不要因为猫仍能走动或精神暂时尚可，就在家长时间观察；排尿困难可能快速恶化。
-如果无法确认正常排尿，尤其伴随呕吐、明显虚弱、腹部紧张或疼痛，应尽快就医。
+如果反复用力却没有正常尿流、完全无尿或无法确认排尿情况，应立即联系急诊兽医，不能因性别或暂时还能走动而延误；不要在家尝试按压膀胱或强行灌水。
+
+编辑级证据来源：Cornell Feline Health Center—Feline Lower Urinary Tract Disease（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-lower-urinary-tract-disease）；Merck Veterinary Manual—Urethral Obstruction in Small Animals（https://www.merckvetmanual.com/urinary-system/urolithiasis-in-small-animals/urethral-obstruction-in-small-animals）。
+医学审核：pending／未取得真实执业兽医签署。
 
 ---
 

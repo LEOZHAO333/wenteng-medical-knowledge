@@ -10,9 +10,10 @@
 
 如果安全允许，可以开始计时并录一段视频。发作持续多久、是全身抽动还是只有局部抽动、有没有失去意识，对兽医判断很有帮助。
 
-不要把手伸进狗嘴里，也不要强行拉舌头或压住身体。大多数癫痫发作会自行停止，但持续时间很长或短时间内反复多次属于更高风险情况，需要急诊处理。
+不要把手伸进狗嘴里，也不要强行拉舌头或压住身体。多数发作会在数分钟内自行结束，但不能因此延误急救：若一次抽搐持续接近或达到5分钟，或反复发作、两次之间没有恢复正常意识，应立即联系急诊；无需等满5分钟才开始联系医院。
 
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals；2024 ACVIM cluster seizure/status epilepticus consensus。
+资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；ACVIM Consensus Statement on Status Epilepticus and Cluster Seizures（2024, DOI:10.1111/jvim.16928，https://pubmed.ncbi.nlm.nih.gov/37921621/）；Cornell University—Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。
+医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
@@ -26,9 +27,10 @@
 
 发作结束后，有些狗会短时间迷糊、乱走或看不清，这属于可能出现的发作后阶段，也要避免它撞到家具或楼梯。
 
-如果发作持续不止或短时间反复发生，应尽快联系急诊。
+如果发作持续接近或达到5分钟、反复抽搐或两次间未恢复正常意识，应立即联系急诊，不要等待录像拍完；不要将手、工具、食物或药水放入狗的口中。
 
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals。
+资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；Cornell University—Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。
+医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
@@ -42,7 +44,8 @@
 
 就诊前最好记录发作前在做什么、持续多久、有没有失去意识、排尿排便、发作后多久恢复，以及近期是否可能接触药物、毒物或异常食物。
 
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals。
+资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；VCA—Emergencies in Dogs（https://vcahospitals.com/premier/know-your-pet/common-emergencies-in-dogs）。
+医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
@@ -82,13 +85,16 @@
 
 线性异物可能在肠道内被固定，随着肠蠕动产生切割样损伤。越是长线、吞入时间不明，越需要谨慎。
 
-不要自己催吐，也不要继续喂大量食物“帮助排出”。尽快联系动物医院，并带上同款玩具或估计缺失的长度信息。
+不要自己催吐，也不要继续喂大量食物“帮助排出”。应立即联系动物医院，尤其是有反复呕吐、腹痛或食欲下降时；带上同款玩具或估计缺失的长度信息。即使线的一端露在口腔或肛门，也不要拉扯。
+
+编辑级证据来源：Merck Veterinary Manual—Gastrointestinal Obstruction in Small Animals（https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastrointestinal-obstruction-in-small-animals）。
+医学审核：pending／未取得真实执业兽医签署。
 
 ---
 
 ## 0487｜猫接触了百合花，是否需要马上联系急诊？
 - Slug：`cat-lily-exposure-emergency`
-- 直接回答：需要。真正的百合属和萱草属植物对猫可造成严重急性肾损伤，即使只是舔到花粉或接触花瓶水，也值得立即咨询急诊。
+- 直接回答：需要。疑似接触真正的百合属或萱草属植物、舔到花粉或喝过花瓶水，都应立即联系急诊兽医或动物毒物咨询机构；不要等症状出现。
 
 对猫而言，百合并不是“吃很多才危险”。Merck资料指出，真正的百合属和萱草属植物全株均可造成肾毒性，延误处理会明显降低预后。
 
@@ -96,7 +102,8 @@
 
 最好拍下植物照片或带上标签，帮助判断是不是高风险的真正百合。不要等猫开始呕吐或精神差后再处理。
 
-资料基线：Merck Veterinary Manual—Houseplants and Ornamentals Toxic to Animals。
+资料基线：Merck Veterinary Manual—Houseplants and Ornamentals Toxic to Animals（https://www.merckvetmanual.com/toxicology/poisonous-plants/houseplants-and-ornamentals-toxic-to-animals）；Noninfectious Diseases of the Urinary System of Cats（https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/noninfectious-diseases-of-the-urinary-system-of-cats）。
+医学审核：编辑级证据核对，植物确切种属须个案鉴别；待真实执业兽医签署。
 
 ---
 
@@ -110,21 +117,23 @@
 
 不要自己根据网络计算器判断“肯定没事”，也不要自行催吐。是否需要处理取决于具体暴露量和狗当前状态。
 
-资料基线：Merck Veterinary Manual—Chocolate Toxicosis in Animals。
+资料基线：Merck Veterinary Manual—Chocolate Toxicosis in Animals（https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals）。
+医学审核：编辑级证据核对；剂量风险应由兽医结合包装和个体评估，待真实执业兽医签署。
 
 ---
 
 ## 0492｜狗误吃含木糖醇的食品，需要带包装就医吗？
 - Slug：`dog-xylitol-package-emergency`
-- 直接回答：需要，而且应尽快联系兽医。木糖醇可让狗出现快速、严重低血糖，部分病例还可能发生肝损伤。
+- 直接回答：需要，而且应立即联系急诊兽医或动物毒物咨询机构，不要等症状出现。木糖醇可令犬出现快速、严重低血糖，部分病例可发生肝损伤。
 
 无糖口香糖、糖果、烘焙食品、部分花生酱、牙膏、维生素和液体药物中都可能含木糖醇。
 
 因为每种产品的木糖醇含量不同，医院需要知道品牌、成分表、每颗或每份含量以及狗大概吃了多少。包装信息会直接影响风险评估。
 
-木糖醇可能较快引起严重低血糖。是否需要催吐取决于摄入时间、产品成分和狗当前状态，应先联系兽医或毒物咨询机构，不要自行根据网络方法处理。
+木糖醇可能迅速引起严重低血糖；由于可能很快出现意识与吞咽异常，**不要在家自行催吐**。就医时带上原始包装与摄入时间，按兽医或毒物中心的指令处理。
 
-资料基线：Merck Veterinary Manual—Xylitol Toxicosis in Dogs。
+资料基线：Merck Veterinary Manual—Xylitol Toxicosis in Dogs（https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicosis-in-dogs）。
+医学审核：编辑级证据核对；待真实执业兽医签署。
 
 ---
 
@@ -136,6 +145,7 @@
 
 联系医院时说明狗的体重、吃的是葡萄还是葡萄干、估计数量和时间。越早评估，越有机会在肾脏受损前处理。
 
-不要等到呕吐、精神差或尿量减少才求助。
+不要等到呕吐、精神差或尿量减少才求助；疑似吞食葡萄或葡萄干应立即联系动物医院评估，不能把“目前没有症状”当成安全证明。
 
-资料基线：Merck Veterinary Manual—Grape, Raisin, and Tamarind Toxicosis in Dogs。
+资料基线：Merck Veterinary Manual—Grape, Raisin, and Tamarind Toxicosis in Dogs（https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs）。
+医学审核：编辑级证据核对；待真实执业兽医签署。

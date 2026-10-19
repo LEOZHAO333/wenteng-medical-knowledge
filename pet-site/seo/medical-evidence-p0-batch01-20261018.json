@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "1.0",
+  "site": "日宠通｜日本宠物健康知识站",
+  "batch": "MED-EVIDENCE-P0-01",
+  "checkedAt": "2026-10-18",
+  "scope": "targeted emergency risk claims and original source section corroboration (not full-article medical approval)",
+  "records": [
+    {
+      "id": "0107",
+      "canonicalSlug": "dog-bloated-dry-heaving",
+      "topic": "疑似犬胃扩张-扭转",
+      "checkedClaim": "胃膨胀+反复无物干呕属于需立即急诊的危险组合；不能远程确诊",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastric-dilation-and-volvulus-in-small-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "修正来源为具体章节并保持立即急诊",
+      "openMedicalQuestion": "需要兽医核实鉴别诊断和是否有延误急诊风险",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0218",
+      "canonicalSlug": "female-cat-urinary-retention",
+      "topic": "母猫疑似尿闭",
+      "checkedClaim": "雌猫也可能发生尿流受阻；用力却无法正常排尿需立即求诊，不能以性别排除风险",
+      "sourceUrls": [
+        "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-lower-urinary-tract-disease"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "将‘尽快’改为‘疑似无尿立即急诊’，增加不可自行按压",
+      "openMedicalQuestion": "需医生核查尿频、少尿、完全梗阻的措辞界限",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0223",
+      "canonicalSlug": "dog-straining-no-urine",
+      "topic": "犬无法正常排尿",
+      "checkedClaim": "犬尿道阻塞为急症；反复用力但仅滴尿不能等待",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/urinary-system/urolithiasis-in-small-animals/urethral-obstruction-in-small-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "强调排尿障碍时立即联系有急诊能力的医院",
+      "openMedicalQuestion": "需兽医确认不能仅凭行为诊断梗阻",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0382",
+      "canonicalSlug": "cat-open-mouth-breathing",
+      "topic": "猫持续张口呼吸",
+      "checkedClaim": "猫呼吸困难可快速危及生命，降低应激并立即就医",
+      "sourceUrls": [
+        "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/dyspnea-difficulty-breathing"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "补齐持续性危险信号和具体来源",
+      "openMedicalQuestion": "需兽医核实严重程度的条件语句和个体差异",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0400",
+      "canonicalSlug": "pet-breathing-distress-transport",
+      "topic": "呼吸困难运送",
+      "checkedClaim": "运送时减少搬动刺激；呼吸费力不应为了拍长视频拖延",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/emergency-medicine-and-critical-care/emergency-medicine-introduction/first-aid-and-transport-of-small-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "明确急诊优先于记录，补充搬运来源",
+      "openMedicalQuestion": "需兽医核查不同物种与受伤情景的例外",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0461",
+      "canonicalSlug": "dog-seizure-first-aid-video",
+      "topic": "犬急性抽搐",
+      "checkedClaim": "优先现场安全、避免口腔操作；接近5分钟或多次且不恢复意识须急诊",
+      "sourceUrls": [
+        "https://pubmed.ncbi.nlm.nih.gov/37921621/"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "按ACVIM 2024明确危险时间及意识恢复条件",
+      "openMedicalQuestion": "需兽医核查单次短发作和反复发作的处置分层",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0462",
+      "canonicalSlug": "dog-seizure-dont-put-hand-in-mouth",
+      "topic": "抽搐口腔操作",
+      "checkedClaim": "抽搐时不能将手伸入口腔，避免咬伤；不得为录像延误急救",
+      "sourceUrls": [
+        "https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "补充急诊阈值及禁止灌水和放物",
+      "openMedicalQuestion": "需兽医核查口腔异物与抽搐鉴别的边界",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0463",
+      "canonicalSlug": "dog-first-seizure-recovered",
+      "topic": "首次抽搐后恢复",
+      "checkedClaim": "首次发作不等于确诊癫痫；需鉴别反应性发作、毒物、结构性脑病",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "更换可追溯的具体诊断章节链接，保留原文建议检查",
+      "openMedicalQuestion": "需兽医复核何时急诊与一般预约区分",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0485",
+      "canonicalSlug": "cat-swallowed-string-dont-pull",
+      "topic": "猫吞线性异物",
+      "checkedClaim": "线性异物可能锚定舌根，拉扯可能致穿孔",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastrointestinal-obstruction-in-small-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "强化不拉线、联系兽医和原始专业来源",
+      "openMedicalQuestion": "需兽医核查无症状暴露的紧急处理指引",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0487",
+      "canonicalSlug": "cat-lily-exposure-emergency",
+      "topic": "猫百合暴露",
+      "checkedClaim": "百合相关暴露可能引起严重急性肾损伤，不能等症状出现",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/toxicology/poisonous-plants/houseplants-and-ornamentals-toxic-to-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "明确立即联系急诊，补充分辨确切植物",
+      "openMedicalQuestion": "需兽医或毒理专业复核Lilium/Hemerocallis范围与处置禁忌",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0491",
+      "canonicalSlug": "dog-ate-chocolate-type-weight",
+      "topic": "犬巧克力误食",
+      "checkedClaim": "毒性受体重、摄入量和巧克力成分浓度影响，不能凭‘一块’估测",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "补具体Merck毒理来源；未提供主人自行剂量计算",
+      "openMedicalQuestion": "需兽医核查病例判定与就诊时间建议",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0492",
+      "canonicalSlug": "dog-xylitol-package-emergency",
+      "topic": "犬木糖醇误食",
+      "checkedClaim": "可快速诱发低血糖及肝损伤；不应在家自行催吐",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicosis-in-dogs"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "立即联系医生，强调不在家催吐与保留包装",
+      "openMedicalQuestion": "需毒理专业复核各制剂差异及处置时效",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0495",
+      "canonicalSlug": "dog-ate-grapes-no-symptoms",
+      "topic": "犬葡萄/葡萄干误食",
+      "checkedClaim": "即使当前无症状，也可能发展为急性肾损伤；需及时评估",
+      "sourceUrls": [
+        "https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"
+      ],
+      "editorialDisposition": "editorial_supported_with_caveats",
+      "editorialChange": "增加明确不能等症状的说法及具体原始来源",
+      "openMedicalQuestion": "需兽医复核暴露量不确定时的沟通方式",
+      "medicalReview": {
+        "status": "pending",
+        "reviewer": null,
+        "credentials": null,
+        "signedAt": null
+      },
+      "publishReady": false,
+      "indexEligible": false
+    }
+  ],
+  "summary": {
+    "count": 13,
+    "medicalApproved": 0,
+    "readyToPublish": 0
+  },
+  "reviewProtocol": [
+    "claim by claim citations",
+    "emergency action threshold",
+    "possible false reassurance",
+    "no at-home dosing",
+    "separate licensed veterinarian signoff"
+  ],
+  "blockingFlags": [
+    "vet_review_pending",
+    "noindex",
+    "no_publication_approval",
+    "not_a_582_article_clearance"
+  ]
+}
