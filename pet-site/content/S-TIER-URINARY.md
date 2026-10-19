@@ -44,9 +44,9 @@
 狗尿量明显减少，同时精神变差，是需要把全身状态和泌尿功能一起考虑的信号。
 原因可能包括脱水、急性肾损伤、尿路梗阻或其他系统性疾病，处理方式并不相同。
 出门前记录最后一次正常排尿时间、饮水、呕吐、近期用药以及是否有排尿用力或疼痛。
-不要强行大量灌水或等待“喝多了就会尿”；不确定是否存在肾功能下降或阻塞时，盲目增加饮水或补液可能不合适。若完全无尿、排尿痛苦或状态恶化，应立即就医。
+不要强行大量灌水或等待“喝多了就会尿”；如果几乎无尿、反复用力却排不出尿，或同时出现明显虚弱、呕吐、腹痛，应立即联系急诊。少尿、无尿既可能涉及尿路梗阻，也可能与急性肾损伤等有关，不能在家凭饮水量区分，更不要自行挤压膀胱。
 
-编辑级核对来源：Merck Veterinary Manual—Obstructive Uropathy in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/obstructive-uropathy-in-dogs-and-cats）；Renal Dysfunction in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/renal-dysfunction-in-dogs-and-cats）。医学审核：pending。
+编辑级参考：Merck Veterinary Manual—Acute Kidney Injury in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/renal-dysfunction-in-dogs-and-cats/acute-kidney-injury-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -60,9 +60,9 @@
 正常排尿通常不应该让狗明显疼痛。尿尿时哼叫、突然停下、反复换姿势或回头看腹部，都是值得记录的信号。
 可能原因包括膀胱炎、尿道刺激、结石、感染或其他泌尿系统问题，仅凭声音不能确定。
 就诊前记录每次排尿大概多少、是否有血、是否频繁抬腿或蹲下，以及最后一次正常排尿是什么时候。
-如果狗反复用力却仅排出几滴或完全无尿，特别是伴明显疼痛、呕吐或虚弱，应立即联系急诊医院；不能将尿痛一概当作普通感染，也不能自行挤压膀胱。
+如果狗反复用力却几乎排不出尿、明显痛苦、呕吐或精神快速变差，应立即联系急诊，优先排除尿路梗阻。疼痛性排尿并不等同于细菌感染，不能仅凭哼叫自行使用剩余抗菌药或止痛药。
 
-编辑证据：Merck Veterinary Manual—Disorders of Micturition in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/disorders-of-micturition-in-dogs-and-cats），排尿困难需结合体检、尿检及必要影像鉴别。医学审核：pending。
+编辑级参考：Merck Veterinary Manual—Urinary Obstruction in Small Animals（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/urethral-obstruction-in-small-animals）。医学审核：pending。
 
 ---
 
@@ -76,9 +76,9 @@
 狗反复出现尿频、尿痛、血尿等症状时，主人可能会觉得“又是同一个感染”，但复发原因并不一定相同。
 尿培养的价值在于确认是否有细菌生长，并在需要时提供药物敏感性信息。采样方式会明显影响结果，因此通常要按医院要求取得合适样本。
 医生还会考虑结石、解剖问题、内分泌疾病或其他导致感染反复的基础因素。
-不要因为上次某种抗菌药有效，就自行重复使用剩药；复发时更需要把既往培养、用药和复查资料带齐。尿培养的解释依赖采样方法及症状，检出细菌并不在所有情形下都意味着必须使用抗菌药。
+不要因为上次某种抗菌药有效，就自行重复使用剩药；复发时更需要把既往培养、用药和复查资料带齐。反复出现下尿路症状不一定都是细菌感染；培养阳性也须结合症状判断，不能自动认定需要再次用抗菌药。
 
-编辑证据：Merck Veterinary Manual—The Urinary System in Animals（https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals），介绍尿培养及采样方式对结果解释的影响。医学审核：pending。
+编辑级证据：ISCAID 2019 犬猫细菌性尿路感染诊治指南（https://pubmed.ncbi.nlm.nih.gov/30971357/）。医学审核：pending。
 
 ---
 
@@ -92,7 +92,9 @@
 尿道造口术后，主人最需要掌握的是伤口和造口外观、排尿情况以及避免舔咬的方法。不同手术阶段的护理要求可能不同。
 出院前应请医院演示清洁方式，并确认哪些分泌物、轻微肿胀或尿色变化属于可观察范围，哪些提示异常。
 每天记录排尿次数、尿量趋势、是否用力、精神食欲，并避免自行使用刺激性消毒液或擅自拆除头套。
-如果出现明显出血、持续无法排尿、伤口裂开、严重肿胀、恶臭分泌物或精神快速变差，应及时联系手术医院。
+如果出现无法排尿或反复用力却没有尿、持续明显出血、伤口裂开、严重肿胀、恶臭分泌物或精神快速变差，应立即联系手术医院或急诊。尿道造口术后仍可能出现堵塞或其他并发症，不能因做过手术就排除急症；不要自行探查、冲洗造口或使用刺激性消毒液。
+
+编辑级参考：Merck Veterinary Manual—Feline Lower Urinary Tract Disease（https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/feline-lower-urinary-tract-disease）。医学审核：pending。
 
 ---
 
@@ -106,7 +108,9 @@
 猫尿路问题反复时，医生需要比较“这次和上次是否一样”，因此既往资料非常重要。
 可以准备上次尿检、血检、影像报告、处方、使用过的药物和处方粮信息，并注明使用时间和反应。
 这次发作则记录从什么时候开始、每天尿团数量和大小、是否血尿或疼痛、饮水和食欲变化，以及近期搬家、换猫砂或其他环境变化。
-如果出现无法排尿或明显全身不适，应优先就医，不要为了整理资料而延误。
+如果猫反复蹲砂盆却几乎没有尿、持续用力排尿、痛叫、呕吐或明显虚弱，应立即联系兽医急诊，不能等待整理病历或常规复诊。反复尿路症状不代表每次都是细菌感染，也不能自行重复使用上次的抗菌药；需由兽医重新判断是否存在尿道阻塞及其他病因。
+
+编辑级参考：Merck Veterinary Manual—Feline Lower Urinary Tract Disease（https://www.merckvetmanual.com/cat-owners/kidney-and-urinary-tract-disorders-of-cats/feline-lower-urinary-tract-disease）。医学审核：pending。
 
 ---
 
@@ -120,7 +124,9 @@
 发现狗尿里有血时，不要只根据颜色猜原因。感染、结石、炎症、创伤或其他泌尿问题都可能出现血尿。
 如果医院需要尿样，应先确认希望在家接取还是到院采集、容器要求、保存方式和送检时间。
 用地面或尿垫上的尿液做某些检查可能受到污染，因此样本用途不同，采集要求也不同。
-如果狗同时排尿困难、明显疼痛、精神变差或尿量很少，应优先就医，不要为了等到“合格尿样”而延误。
+如果狗反复用力排尿却几乎没有尿、出现明显腹痛、持续大量血尿或血块、虚弱或倒地，应立即联系兽医急诊，不能为了采集“合格尿样”而延误。血尿不等于细菌感染，不应自行使用剩余抗菌药；采样方式和是否需要尿培养由兽医按检查目的决定。
+
+编辑级参考：Merck Veterinary Manual—Disorders of Micturition in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/disorders-of-micturition-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -134,7 +140,9 @@
 母狗绝育后如果出现睡觉时尿液渗漏，确实可能与尿道括约肌功能改变有关，但这不是唯一可能。
 感染、结石、神经系统问题、先天结构异常和其他疾病也可能造成类似漏尿，因此需要结合年龄、发作时间和尿检等判断。
 主人可以记录漏尿从绝育后多久出现、是否只在睡眠中发生、白天排尿是否正常以及饮水有没有变化。
-持续漏尿会刺激皮肤，也会影响生活质量，建议尽早和兽医讨论检查和长期管理。
+持续漏尿会刺激皮肤，也会影响生活质量，建议尽早和兽医讨论检查和长期管理。不能仅凭绝育史就确诊尿道括约肌功能不全，也不要自行使用人用激素或其他处方药。若漏尿同时伴随频繁用力却排不出尿、明显疼痛、血尿、发热或精神快速恶化，应及时就医；几乎无法排尿或明显全身不适时须立即联系急诊。
+
+编辑级参考：Merck Veterinary Manual—Urinary Incontinence in Dogs（https://www.merckvetmanual.com/dog-owners/kidney-and-urinary-tract-disorders-of-dogs/urinary-incontinence-in-dogs）。医学审核：pending。
 
 ---
 
@@ -162,11 +170,11 @@
 - 直接回答：有些狗需要复查，尤其是反复感染、复杂病例或医生已明确安排复查时。不要仅凭“不尿频了”自行判断结束。
 
 抗菌药后尿频、疼痛或血尿消失是好现象，但临床症状改善和尿液中是否仍有异常并不是完全同一件事。
-对首次、单纯细菌性膀胱炎，完成既定治疗且症状消失后，通常不需要常规复查尿培养；但症状未消失、反复发作、存在结石或其他基础风险，以及兽医已安排复查的情况，应分别评估。
+对于偶发性细菌性膀胱炎，按处方完成治疗且临床症状消失后，一般不建议常规复查尿检或尿培养；症状持续、复发或疑似肾盂肾炎等情况需要依照不同疾病类别和治疗兽医的计划评估，不能套用同一复查规则。
 复诊时告诉医生用药是否完整、最后一次用药时间、症状多久消失，以及停药后有没有任何反弹。
 不要自行延长、缩短或重复抗菌药疗程；复查安排应以治疗兽医给出的计划为准。
 
-资料基线：Merck Veterinary Manual—Bacterial Cystitis in Small Animals，https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals 。编辑证据补充：2019 ISCAID犬猫尿路细菌感染指南（https://pubmed.ncbi.nlm.nih.gov/30971357/），指出零星性细菌性膀胱炎症状消失后通常不需常规尿检或培养；症状持续、复发或肾盂肾炎等情况需另外评估，不应要求所有病例机械复查。医学审核：pending。
+编辑级证据：ISCAID 2019 犬猫细菌性尿路感染诊治指南（https://pubmed.ncbi.nlm.nih.gov/30971357/）；Merck Veterinary Manual—Bacterial Cystitis in Small Animals（https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals）。医学审核：pending。
 
 ---
 
@@ -180,6 +188,6 @@
 体检报告上出现“尿蛋白阳性”时，主人常担心就是肾病，但试纸结果会受到尿液浓度、炎症、血尿等因素影响。
 兽医通常会结合尿比重、尿沉渣以及必要时尿蛋白/肌酐比（UPC）进一步量化，并看结果是否持续存在。
 血压、肾功能血检和是否有泌尿感染也会影响解释和后续管理。
-最重要的是保留复查趋势，不要只根据一次尿蛋白结果自行使用所谓“护肾”产品。持续性肾源性蛋白尿需先排除尿路炎症、血尿等肾后因素，再由兽医按尿沉渣、UPC、血压及肾功能综合评估；单次试纸阳性不足以确诊肾脏疾病。
+最重要的是保留复查趋势，不要只根据一次尿蛋白结果自行使用所谓“护肾”产品。若尿沉渣提示炎症、血尿或感染，应先由兽医判断其对蛋白尿结果的影响；UPC与血压等指标也需结合持续性及临床背景解释，不能凭单次试纸阳性直接确诊慢性肾病或启动药物。
 
-编辑证据：IRIS—Proteinuria（https://www.iris-kidney.com/proteinuria）、IRIS Staging System（https://www.iris-kidney.com/iris-staging-system），强调证实蛋白尿持续性及来源后才作分级管理。医学审核：pending。
+编辑级参考：IRIS Proteinuria Guidelines（https://www.iris-kidney.com/guidelines/）。医学审核：pending。

@@ -10,9 +10,9 @@
 皮下补液后如果猫只是因为操作紧张短暂呼吸稍快，安静后可能恢复，但持续或明显加快需要更谨慎。
 呼吸异常可能和应激、疼痛，也可能和液体耐受或原有心肺问题有关，不能仅凭家中观察确定原因。
 不要继续追加液体，也不要强行让猫活动。可以在安静状态下录一段呼吸视频并记录补液时间。
-出现张口呼吸、明显腹式呼吸、舌色异常、无法躺下或快速虚弱时，应立即联系急诊。呼吸变快也可能由应激、疼痛等造成，不能仅凭症状断定补液过量。
+出现张口呼吸、明显腹式呼吸、舌色异常、无法躺下或快速虚弱时，应立即联系急诊。补液后呼吸持续加快或费力可能提示液体不耐受或原有心肺问题，不能仅凭家庭观察断定是普通应激；就医前不要自行追加补液。
 
-编辑来源：Merck Veterinary Manual—Maintenance Fluid Plan in Animals（https://www.merckvetmanual.com/therapeutics/fluid-therapy/maintenance-fluid-plan-in-animals），记载液体负荷过多可出现呼吸频率及呼吸费力增加；具体原因、皮下/静脉补液的风险差异仍待兽医判断。医学审核：pending。
+编辑级证据：2024 AAHA Fluid Therapy Guidelines—Section 6 Fluid Overload（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/）。医学审核：pending。
 
 ---
 
@@ -26,9 +26,9 @@
 猫突然看不清并不一定能从眼睛外观看出明显红肿，但行为会突然改变，例如撞到家具、不敢跳、找不到食物。
 慢性肾病猫需要特别关注血压，因为严重高血压可能损伤视网膜和其他器官。
 不要自行滴人用眼药水，也不要等待几天看是否自行恢复。就诊时带上最近的肾病化验、血压和用药记录。
-如果视力变化是突然发生的，应尽快就医，越早明确原因越有利于后续处理。肾病合并高血压可能损伤视网膜，但不能仅凭肾病和视力变化就断言病因。
+如果视力变化是突然发生的，应尽快联系动物医院安排当日评估，包括眼底和血压等检查。高血压可能导致视网膜出血或脱离，但突发失明也有其他病因，不能只凭肾病史直接确诊；即使控制血压，视力也不保证恢复。
 
-编辑来源：Cornell Feline Health Center—Sudden Blindness（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/sudden-blindness）及 Hypertension（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hypertension）。医学审核：pending。
+编辑级证据：ACVIM Consensus Statement—Systemic Hypertension in Dogs and Cats（https://pmc.ncbi.nlm.nih.gov/articles/PMC6271319/）。医学审核：pending。
 
 ---
 
@@ -42,7 +42,9 @@
 狗的眼白、牙龈或皮肤出现明显黄色，通常不是“上火”或普通色素变化，需要考虑胆红素升高相关问题。
 原因可能涉及肝脏、胆道或红细胞破坏等不同方向，单靠外观不能判断是哪一种。
 就诊前可以记录从什么时候开始、尿液颜色、食欲、呕吐、便便颜色、近期用药和可能接触的毒物。
-如果黄染快速加重或伴随明显虚弱、持续呕吐、腹痛等，应更快联系动物医院。
+如果黄染快速加重或伴随明显虚弱、持续呕吐、腹痛、倒地等，应立即联系急诊。黄疸是临床体征而非病因诊断，不能仅凭颜色判断为肝病，也不应自行使用所谓护肝药替代检查。
+
+编辑级参考：Merck Veterinary Manual—Jaundice in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/overview-of-hepatic-disease-in-small-animals）。医学审核：pending。
 
 ---
 
@@ -56,9 +58,9 @@
 肌酐会受水合状态、肌肉量和其他因素影响，因此一次偏高并不等于已经确定慢性肾病。
 兽医通常会结合病史、体检、尿比重、SDMA、尿蛋白、血压以及必要的影像检查，判断肾功能是否持续异常。
 如果当时存在脱水、呕吐、食欲下降或急性疾病，复查稳定后的数据尤其重要。
-主人最有价值的做法是保留每次化验单，记录体重、饮水、尿量和食欲变化，帮助医生看趋势。单次肌酐偏高尤其要先确认水合状态和是否存在急性变化，不能直接依据一次结果套用慢性肾病分期。
+主人最有价值的做法是保留每次化验单，记录体重、饮水、尿量和食欲变化，帮助医生看趋势。但不能为等待慢性肾病复查而忽视急性风险：若突然几乎不排尿、反复呕吐、明显虚弱或状态快速恶化，应及时联系急诊，排查急性肾损伤及尿路梗阻等原因。
 
-编辑来源：IRIS《CKD Staging Guidelines》（https://www.iris-kidney.com/guidelines），慢性肾病分期应在已确诊且状态稳定后评估。医学审核：pending。
+编辑级参考：IRIS CKD Guidelines（https://www.iris-kidney.com/guidelines/）；Merck Veterinary Manual—Acute Kidney Injury in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/renal-dysfunction-in-dogs-and-cats/acute-kidney-injury-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -72,9 +74,9 @@
 肾脏处方饮食有管理价值，但如果猫突然完全不吃，继续硬等它接受某一款粮可能带来新的风险。
 食欲下降可能来自恶心、口腔疼痛、便秘、脱水、药物反应或疾病变化，因此要先找原因。
 可以把猫过去愿意吃和拒绝的食物、每天大概进食量、是否呕吐和排便情况记录下来，和兽医讨论更现实的过渡方案。
-如果猫持续不吃、明显虚弱、反复呕吐或快速消瘦，应及时联系兽医，不能让猫长期饿着只为坚持一种处方粮；临时食物调整须与诊疗团队讨论，不能据此认为肾脏饮食管理已不重要。
+如果猫持续不吃、明显虚弱、反复呕吐或快速消瘦，应及时联系兽医，不要为了等待接受处方粮而延误评估。猫持续摄食不足可能带来额外风险，具体食物替代与营养支持应由兽医结合病情决定，不能自行强行灌食。
 
-编辑来源：IRIS《Treatment Recommendations for CKD in Cats》（https://www.iris-kidney.com/guidelines），饮食管理需综合食欲、营养状态、肾病阶段与治疗目标。医学审核：pending。
+编辑级参考：IRIS—Treatment Recommendations for CKD in Cats（https://www.iris-kidney.com/guidelines/recommendations.html）。医学审核：pending。
 
 ---
 
@@ -88,7 +90,9 @@
 肝脏结节可能来自多种原因，尤其在老年犬中，影像上看到结节并不能直接等同于癌症。
 医生会关注结节大小、数量、边界、血流、是否随时间变化，以及肝酶、胆红素和其他全身情况。
 根据风险和治疗意义，后续可能包括复查影像、细针取样或活检等，但并不是每个结节都需要立刻做同样的检查。
-主人可以把原始超声报告和图像保存好，复诊时重点问清“目前最需要排除什么”和“什么变化会改变处理计划”。
+主人可以把原始超声报告和图像保存好，复诊时重点问清“目前最需要排除什么”和“什么变化会改变处理计划”。影像本身通常不能可靠区分良性与恶性，是否取样须由兽医评估凝血状态、取样风险及结果对治疗决策的意义；若同时出现黄疸、明显虚弱、腹胀或持续呕吐，应及时就医。
+
+编辑级参考：Merck Veterinary Manual—Hepatic Disease in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/overview-of-hepatic-disease-in-small-animals）。医学审核：pending。
 
 ---
 
@@ -102,9 +106,9 @@
 慢性肾病分期通常不是凭一次检查完成，而是在确认慢性、状态相对稳定后，根据肾功能相关指标进行评估。
 除了主要分期，尿蛋白和血压等信息也会影响风险判断和管理重点。
 主人可以把每次分期对应的肌酐或其他肾指标、血压、尿蛋白和体重记录在同一张表里，方便看变化。
-如果猫出现急性脱水或其他疾病，短期指标变化不一定代表慢性分期真的发生了同等程度变化，需要由兽医重新判断。IRIS分期是在已经确认慢性肾病且病情相对稳定时进行，并需结合尿蛋白和血压进一步分层，不宜以单个数字直接决定治疗。
+如果猫出现急性脱水或其他疾病，短期指标变化不一定代表慢性分期真的发生了同等程度变化，需要由兽医重新判断。IRIS分期适用于已确诊且病情稳定的慢性肾病；突发少尿、反复呕吐或明显衰弱时，应先排查急性问题，而不是仅按既往分期决定处理。
 
-编辑来源：IRIS《CKD Staging Guidelines》（https://www.iris-kidney.com/guidelines）。医学审核：pending。
+编辑级参考：IRIS CKD Staging Guidelines（https://www.iris-kidney.com/guidelines/staging.html）。医学审核：pending。
 
 ---
 
@@ -118,7 +122,9 @@
 肾病猫变瘦时，单看体重数字还不够，还要区分脂肪下降和肌肉流失，并结合每天实际吃了多少。
 复诊时最好提供连续体重记录、食欲和进食量，以及近期是否呕吐、便秘、口腔不适或脱水。
 实验室方面，兽医会结合肾功能指标、磷和钾、红细胞、尿液和血压等判断是否存在可调整的因素。
-如果短时间明显掉秤或肌肉快速减少，不要只增加零食，应及时复诊寻找原因。
+如果短时间明显掉秤或肌肉快速减少，不要只增加零食，应及时复诊寻找原因。体重稳定也不一定代表肌肉量稳定，复诊应结合肌肉状况评分；若持续拒食、反复呕吐或明显虚弱，应及时联系兽医，不要自行强行灌食或更改处方。
+
+编辑级参考：AAHA 2023 Senior Care Guidelines（https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/）；IRIS CKD Guidelines（https://www.iris-kidney.com/guidelines/）。医学审核：pending。
 
 ---
 
@@ -132,7 +138,9 @@
 “肾病=每天补液”并不准确。补液是否需要、补多少、多久一次，要结合脱水程度、吃喝情况、肾病阶段和其他疾病。
 部分稳定猫可以在兽医指导下由主人在家做皮下补液，但前提是医生确认适合，并进行规范操作培训。
 如果猫同时有心脏问题、呼吸异常或其他可能影响液体耐受的情况，补液计划更需要谨慎。
-主人不要自行根据网上经验增加频率或液体量，应按复诊结果调整。
+主人不要自行根据网上经验增加频率或液体量，应按复诊结果调整。补液是需要定期复评的医疗措施，若出现呼吸变快、呼吸费力、体重异常增加或水肿等液体不耐受信号，应暂停自行追加并及时联系兽医。
+
+编辑级证据：2024 AAHA Fluid Therapy Guidelines for Dogs and Cats（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/）；Section 6 Fluid Overload（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/）。医学审核：pending。
 
 ---
 
@@ -162,7 +170,9 @@
 慢性肾病可能让猫排出更多稀尿，因此身体丢失的水分增加，猫会通过多喝水来尝试补偿。
 如果摄入仍赶不上尿液和其他途径的损失，就可能同时出现“喝很多水”和脱水。
 主人可以观察饮水、尿团大小、体重、食欲和精神，但皮肤弹性等家庭判断并不总是准确。
-如果猫持续多饮多尿、体重下降或精神食欲变化，应让兽医评估水合状态和肾病管理。
+如果猫持续多饮多尿、体重下降或精神食欲变化，应让兽医评估水合状态和肾病管理。若同时出现明显虚弱、反复呕吐、呼吸异常或几乎不排尿，应及时联系急诊；不要仅凭喝水多就自行增加皮下补液量，尤其合并心脏疾病时更需由兽医调整。
+
+编辑级参考：AAHA 2024 Fluid Therapy Guidelines（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/）。医学审核：pending。
 
 ---
 
@@ -176,9 +186,9 @@
 随着肾功能下降，部分猫更难维持正常的磷代谢，因此血磷会成为复查中需要关注的指标。
 肾脏处方饮食通常会在营养设计中考虑磷含量和整体营养平衡，这也是它和普通猫粮的重要区别之一。
 但猫如果因为过度限制而吃得太少，同样会带来问题，因此选择饮食时要兼顾实际摄入和体重。
-如果血磷持续偏高，应让兽医结合饮食、病情阶段和复查结果调整计划，不建议自行叠加补充剂或磷结合剂。不能只看猫粮包装标称磷含量而忽略摄食量、体重和血磷趋势。
+如果血磷持续偏高，应让兽医结合饮食、病情阶段和复查结果调整计划，不建议自行叠加磷结合剂或其他补充剂。血磷目标及是否需要药物干预取决于肾病分期和复查结果；如果猫因换粮明显减少进食，应先联系兽医调整营养方案，不能以控制磷为由长期让猫挨饿。
 
-编辑来源：IRIS《Treatment Recommendations for CKD in Cats》（https://www.iris-kidney.com/guidelines）。具体目标血磷和用药方案需由兽医按分期判断，医学审核：pending。
+编辑级参考：IRIS Treatment Recommendations for CKD in Cats（https://www.iris-kidney.com/guidelines/recommendations.html）。医学审核：pending。
 
 ---
 
@@ -192,9 +202,9 @@
 慢性肾病猫可能合并高血压，而血压异常本身又可能影响眼睛、神经系统和肾脏。
 真正的血压数值通常需要在动物医院用合适设备和方法测量，家庭观察不能替代。
 主人可以帮助记录用药是否按时、猫是否突然撞到家具、瞳孔异常、行为改变，以及食欲和活动状态。
-如果突然出现视力下降、明显神经症状或状态快速变化，不要等到下一次常规复诊，应当天尽快联系兽医；严重神经异常或持续恶化应联系急诊。
+如果突然出现视力下降、瞳孔异常、抽搐、倒地或明显意识变化，应立即联系兽医急诊，不要等到下一次常规复诊。即使没有明显症状，也不能凭家庭观察判断血压已经恢复正常；不要自行调整降压药剂量。
 
-编辑参考：ACVIM—Systemic Hypertension Consensus（https://pmc.ncbi.nlm.nih.gov/articles/PMC6271319/），高血压可能损伤眼睛、神经及肾脏，但家庭观察不能确诊高血压。医学审核：pending。
+编辑级参考：ACVIM Consensus Statement—Systemic Hypertension in Dogs and Cats（https://pubmed.ncbi.nlm.nih.gov/32374191/）。医学审核：pending。
 
 ---
 
@@ -208,9 +218,9 @@
 慢性肾病管理的目标常常是让指标稳定、症状减少和生活质量维持，因此化验变好是一件积极的事。
 但慢性疾病的指标改善不等于病因已经完全消失，突然停止既有管理可能让状态再次变化。
 复诊时可以问清哪些措施是长期基础、哪些可以根据数据减量或停用，以及停用后需要多久复查。
-不要因为一次化验结果改善就自行停药、停处方饮食或改变补液计划。血肌酐等指标还可能受到水合状态等因素影响，需结合连续监测及临床状态判断。
+不要因为一次化验漂亮就自行停药、停处方饮食或改变补液计划。肌酐等数值也可能受水合状态、肌肉量等因素影响，单次下降不等于肾功能已恢复；尤其有心脏病或曾出现呼吸异常的猫，补液调整应由兽医重新评估。
 
-编辑参考：IRIS—CKD Guidelines（https://www.iris-kidney.com/guidelines），分期和治疗监测不能只依据单一检查结果。医学审核：pending。
+编辑级参考：IRIS CKD Guidelines（https://www.iris-kidney.com/guidelines/）。医学审核：pending。
 
 ---
 
@@ -224,9 +234,9 @@
 慢性肾病猫可能需要改善水合状态，但如果同时存在心脏疾病，液体过多可能增加心肺负担。
 医生会结合脱水程度、呼吸状态、心脏检查、肾功能和日常进食饮水决定是否需要补液以及如何调整。
 主人应重点记录静息呼吸变化、精神食欲、体重和补液后的反应，并严格按既定方案操作。
-如果补液后出现持续呼吸加快、呼吸费力或明显虚弱，应暂停自行追加液体，并立即联系兽医；张口呼吸、发绀或明显呼吸窘迫应直接急诊。不能仅凭呼吸加快断定液体过量。
+如果补液后出现持续呼吸加快、呼吸费力、明显虚弱，应停止自行追加并立即联系兽医；张口呼吸、明显呼吸困难应按急症处理。肾病和心脏病都可能降低液体耐受，不能把“有肾病就需要固定频率补液”作为通用规则；补液需求、途径与监测应由兽医个体化决定。
 
-编辑来源：2024 AAHA Fluid Therapy Guidelines, Section 6: Fluid Overload（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/），涉及心脏病猫接受皮下补液的风险场景和液体不耐受征象。具体诊断及补液计划待兽医审签，医学审核：pending。
+编辑级证据：2024 AAHA Fluid Therapy Guidelines—Section 5/6（https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-5-fluid-therapy-in-ill-patients/；https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/）。医学审核：pending。
 
 ---
 
@@ -240,7 +250,9 @@
 狗的肌酐、尿素氮或其他肾相关指标升高时，脱水、急性疾病和慢性肾病都可能影响结果。
 尿比重可以提供尿液浓缩能力的信息，尿蛋白、尿沉渣和必要时尿培养还能帮助发现蛋白尿或感染线索。
 因此医生常把血检、尿检、血压以及必要的影像放在一起，而不是只盯着一个血液数字。
-复诊时保留历次血检和尿检，记录饮水、尿量、食欲和体重变化，有助于比较趋势。
+复诊时保留历次血检和尿检，记录饮水、尿量、食欲和体重变化，有助于比较趋势。血液指标升高不能单凭一次结果区分急性肾损伤与慢性肾病；若突然几乎不排尿、反复呕吐、明显虚弱或状态迅速恶化，应立即联系兽医急诊，不要等常规尿检预约。
+
+编辑级参考：Merck Veterinary Manual—Acute Kidney Injury in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/renal-dysfunction-in-dogs-and-cats/acute-kidney-injury-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -270,7 +282,9 @@
 肝酶是帮助发现肝胆系统变化的重要线索，但它们并不是单一疾病的“确诊指标”。狗精神食欲正常，也不代表异常可以完全忽略。
 医生会结合具体是哪项指标升高、持续多久、是否越来越高，以及近期药物、保健品和其他疾病情况判断。
 必要时可能追加其他血液指标或超声等检查，以区分暂时性变化和需要进一步处理的问题。
-不要因为看到数值高就自行购买“护肝药”，也不要在没有指导的情况下停掉正在使用的重要药物。
+不要因为看到数值高就自行购买“护肝药”，也不要在没有指导的情况下停掉正在使用的重要药物。肝酶升高不等于肝功能衰竭，需结合胆红素、白蛋白、凝血等相关检查及临床表现解释；如果出现黄疸、反复呕吐、明显精神异常或出血倾向，应尽快联系兽医，不要仅按常规复查等待。
+
+编辑级参考：Merck Veterinary Manual—Hepatic Disease in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/overview-of-hepatic-disease-in-small-animals）。医学审核：pending。
 
 ---
 
@@ -284,4 +298,6 @@
 胆囊壁、胆泥、胆汁内容物或胆道等都可能在检查中出现不同异常，仅凭“胆囊不好”很难理解风险。
 主人可以请医生说明影像报告中的具体发现，当前更偏向观察还是需要进一步处理，以及是否伴随肝酶或胆红素异常。
 同时问清复查时间、是否需要重复超声或血检，以及饮食和正在使用的药物是否需要调整。
-如果出现持续呕吐、明显腹痛、黄疸、精神食欲快速变差，应提前联系医院。
+如果出现持续呕吐、明显腹痛、黄疸、精神食欲快速变差，应立即联系兽医急诊，而非仅等待预约复查。某些胆囊或胆道异常可能涉及阻塞、炎症甚至破裂等严重风险，但不能仅凭“胆泥”或单次超声文字推断必须手术；需由兽医结合症状、化验及影像判断。
+
+编辑级参考：Merck Veterinary Manual—Gallbladder and Bile Duct Disorders in Small Animals（https://www.merckvetmanual.com/digestive-system/hepatic-disease-in-small-animals/gallbladder-and-bile-duct-disorders-in-small-animals）。医学审核：pending。

@@ -158,3 +158,19 @@ notes
 - 本批未查得产品级批准日期、批准适应症和规格的可交叉核验材料，均保留 `null/pending`，不填猜测值。
 
 编辑执行：核验日期2026-10-18，`source_verified_editorial_framework`；医学/药事专业审核：**pending**；公开发布及收录授权：**未获得**。本段仅是现有主表的增量，不另建一份产品正文主库。
+
+## 九、2026-10-18 续跑｜JPO-004 / 006 / 009 编辑风险核对
+
+本轮读取 A-TIER-BATCH-17-BREED-JAPAN.md 内的 0882、0884、0898 原始正文，三题均未出现具体商品名、厂家、规格或具体产品批准断言。因此本次**仅完成三题产品事实触发审查**（不是具体药物NVAL单品核验，也不是新增三条全文医学证据复核），既有逐产品 official_japan_verification_pending 状态保留。严禁把此范围检查记为兽医Medical Approved。
+
+- **JPO-004 / 0882**：原稿“猫用≠所有年龄适用”的限制提示方向正确；正式发表前仍须兽医审查“禁忌和用法”措辞，若新增药品示例必须核对NVAL现行添文中对象动物、年龄、体重及注意事项。无药名时不虚构单品核验。
+- **JPO-006 / 0884**：原稿强调核对成分/含量/剂型/处方并防止重复用药；应明确“每日用法”属于核对处方记录，不构成平台给药建议。未列具体日本产品，不得标注 official_product_verified。
+- **JPO-009 / 0898**：原稿先就诊/急诊、保留包装和批号方向保留；“只联系卖家”不可代替就诊。NVAL明确有针对兽医和制造销售业者的不良反应报告渠道，当前不应将主人自行填写专业报告表作为常规就诊替代。官方说明日本不良反应报告系统计划于**2026-11-01**迁移，且当前系统自**2026-10-20 18:00（日本时间）**停止使用；此为本轮核对时的官方公告，使用报告入口前应复查当前公告，严禁把未来切换写成已生效。
+
+官方依据（访问核对日 2026-10-18）：
+- https://www.maff.go.jp/nval/iyakutou/index.html
+- https://www.maff.go.jp/nval/iyakutou/fukusayo/sousa/index.html
+- https://www.maff.go.jp/nval/iyakutou/fukusayo/sousa/houkoku.html
+- https://www.maff.go.jp/nval/
+
+**结论**：本轮未认定任何单品已获日本官方核验，亦未新增全文医学审核通过条数。BJH-R-001～004 继续 product_identity_missing + Hold。所有 medical_review_pending、noindex、Draft、未合并未部署边界原样保留。
