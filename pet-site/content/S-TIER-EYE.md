@@ -12,7 +12,9 @@
 
 不要自行使用人的眼药水，尤其不要随便使用含激素的滴眼液。可以先避免猫继续抓眼，并尽快联系动物医院。
 
-如果同时出现眼球明显浑浊、突出、出血、瞳孔异常、遭遇抓伤撞击或视力突然下降，应更快就医。
+如果同时出现眼球明显浑浊、突出、出血、瞳孔异常、抓伤撞击或视力突然下降，应立即联系兽医眼科急诊；即使没有这些表现，持续闭眼或眯眼也应尽快在当日接受检查。不要自行扒开眼睑、按压眼球或滴用含糖皮质激素的眼药，以免在角膜溃疡等情况下加重损伤。
+
+编辑级参考：Merck Veterinary Manual—Ophthalmic Emergencies（https://www.merckvetmanual.com/eye-disorders/ophthalmic-emergencies）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Ophthalmic Emergencies。
 
@@ -28,7 +30,9 @@
 
 就诊时兽医可能会做角膜荧光染色、眼压检查、泪液检查和眼内结构评估。尤其是角膜已经受伤时，某些不合适的滴眼液可能使情况更复杂。
 
-如果发白是突然出现，并伴随眯眼、疼痛、流泪、发红、瞳孔异常或视力变化，不建议等待自行恢复。
+如果发白是突然出现，并伴随眯眼、疼痛、流泪、发红、瞳孔异常或视力变化，应尽快接受兽医眼科检查，不宜等待自行恢复。未经角膜检查，不要自行使用含糖皮质激素的眼药：若存在角膜溃疡，这类药物可能妨碍愈合并加重损伤。
+
+编辑级依据：Merck Veterinary Manual—Anti-inflammatory Agents in Animals（https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-eye/anti-inflammatory-agents-in-animals）；Disorders of the Cornea in Cats（https://www.merckvetmanual.com/cat-owners/eye-disorders-of-cats/disorders-of-the-cornea-in-cats）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Corneal/ocular emergencies。
 
@@ -44,7 +48,9 @@
 
 在家不要扒开眼睛反复检查，也不要随便滴人的抗菌或消炎眼药。可以先防止猫继续抓挠，并尽快联系兽医。
 
-如果眼球变形、明显出血、浑浊、瞳孔形状异常或猫突然像看不见，应按更紧急的眼外伤处理。
+如果眼球变形、明显出血、浑浊、瞳孔形状异常或猫突然像看不见，应立即联系眼科急诊；怀疑眼球穿通伤时不要按压、冲洗或自行取出嵌入异物，以免加重损伤。
+
+编辑级参考：Merck Veterinary Manual—Ophthalmic Emergencies（https://www.merckvetmanual.com/eye-disorders/ophthalmic-emergencies）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Ophthalmic Emergencies。
 
@@ -60,7 +66,9 @@
 
 荧光染色能帮助判断角膜表面是否存在损伤。眼压、瞳孔和眼内结构也可能需要同步检查，尤其是红眼反复或伴有疼痛时。
 
-在明确角膜状态前，不建议主人自行使用来源不明的消炎眼药。
+在明确角膜状态前，不应自行使用含糖皮质激素的眼药，因为若存在角膜溃疡，可能延缓愈合并加重损伤。持续红眼伴眯眼、浑浊、视力改变或明显疼痛时应尽快就诊，不能仅凭外观诊断为结膜炎。
+
+编辑级参考：Merck Veterinary Manual—Corneal Ulcers in Animals（https://www.merckvetmanual.com/eye-disorders/corneal-diseases/corneal-ulcers-in-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Anterior Uveitis and Corneal Ulcers。
 
@@ -76,7 +84,9 @@
 
 兽医通常会检查瞳孔反射、角膜、眼压和眼底，并结合是否有眼红、浑浊、眯眼、第三眼睑突出或神经症状来判断。
 
-如果变化是突然发生的，尤其伴随视力下降或疼痛，不建议等几天再看。
+如果瞳孔不等大突然出现，尤其伴随视力下降、疼痛、眼红或神经症状，应尽快接受当日兽医评估；瞳孔大小本身不能区分眼病与神经系统疾病，也不宜自行使用眼药。
+
+编辑级参考：VCA Animal Hospitals—Anisocoria in Cats（https://vcahospitals.com/know-your-pet/anisocoria-in-cats）。医学审核：pending。
 
 资料基线：VCA Anisocoria in Cats；Merck Veterinary Manual。
 
@@ -92,7 +102,9 @@
 
 如果是外伤后发生，最好同时告诉医院受伤时间、是否被撞击或咬伤，以及狗目前精神和呼吸情况。
 
-眼球突出属于可能影响视力甚至眼球完整性的情况，处理速度很重要。
+眼球突出属于可能影响视力甚至眼球完整性的急症，应立即联系兽医眼科急诊，不要等待常规预约。若怀疑眼球脱出或外伤性穿通伤，严禁自行推回、按压或拔出嵌入异物；运输途中避免摩擦，如何保持眼表湿润须按接诊医院的电话指导操作。眼球增大与真正脱出并非同一诊断，需由兽医检查区分。
+
+编辑级参考：Merck Veterinary Manual—Ophthalmic Emergencies（https://www.merckvetmanual.com/eye-disorders/ophthalmic-emergencies）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—Ophthalmic Emergencies。
 
@@ -108,7 +120,9 @@
 
 就诊时医生可能进行荧光染色、泪液测定、眼压检查和眼内结构检查。不要因为“只是流眼泪”就连续几天自行观察。
 
-若同时有眼睛浑浊、明显发红、眼球突出或视力异常，应更快就医。
+若同时有眼睛浑浊、明显发红、眼球突出或视力异常，应立即联系眼科急诊。即使外观没有明显伤口，持续闭眼或眯眼也应尽快检查角膜；在排除角膜溃疡前不要自行滴含激素眼药。
+
+编辑级参考：Merck Veterinary Manual—Corneal Ulcers in Animals（https://www.merckvetmanual.com/eye-disorders/corneal-diseases/corneal-ulcers-in-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual；VCA Corneal Ulcers in Dogs。
 
@@ -124,7 +138,9 @@
 
 泪液测试通常会和角膜荧光染色、眼压及眼表检查结合，用来区分干眼、角膜损伤和其他眼病。
 
-不要自行长期使用人用“人工泪液”替代诊断，尤其是症状反复时。
+不要自行长期使用人用“人工泪液”替代诊断，尤其是症状反复时。若同时出现明显眯眼、角膜浑浊、眼表破损或视力变化，应尽快就诊排查角膜溃疡等并发症，不能仅按普通干眼处理。
+
+编辑级参考：Merck Veterinary Manual—Keratoconjunctivitis Sicca in Animals（https://www.merckvetmanual.com/eye-disorders/disorders-of-the-lacrimal-system/keratoconjunctivitis-sicca-in-animals）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—ophthalmic diagnostics。
 
@@ -138,9 +154,11 @@
 
 兽医会通过眼科检查判断混浊位于哪里、程度如何以及视网膜和其他结构是否正常。主人最值得记录的是狗是否开始撞家具、怕上下楼、找不到玩具或夜间行动明显变差。
 
-如果混浊突然加重，伴随眼红、疼痛或视力快速下降，就不能只按“老了”处理。
+如果混浊突然加重，伴随眼红、疼痛、瞳孔异常或视力快速下降，应当日联系兽医眼科评估，出现剧痛或突然失明应立即联系急诊，不能只按“老了”处理。仅凭照片不能区分年龄相关晶状体核硬化、白内障与角膜等其他部位的混浊；不要自行使用人用眼药。
 
 是否需要进一步检查或治疗，取决于真正的眼内诊断，而不是只看外观颜色。
+
+编辑级参考：Merck Veterinary Manual—Cataracts in Dogs（https://www.merckvetmanual.com/dog-owners/eye-disorders-of-dogs/cataracts-in-dogs）。医学审核：pending。
 
 资料基线：Merck Veterinary Manual—lens and ocular examination principles。
 
@@ -156,6 +174,8 @@
 
 兽医会确认是否确实是腺体脱出，并检查眼表是否已经受到刺激或是否存在其他眼病。
 
-如果狗持续揉眼、分泌物增加、眼红明显或肉球反复出现，建议尽快评估。
+如果狗持续揉眼、分泌物增加、眼红明显或肉球反复出现，建议尽快评估；如出现持续闭眼、角膜浑浊、明显疼痛或视力变化，应当日联系兽医眼科，严重时急诊。不要自行按压、推回或剪除突出组织，也不要自行滴用含激素的眼药；具体治疗及是否保留腺体功能应由兽医眼科判断。
+
+编辑级参考：Merck Veterinary Manual—Disorders of the Third Eyelid in Dogs（https://www.merckvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-third-eyelid-in-dogs）。医学审核：pending；该参考需在兽医终审时核对原文及适用性。
 
 资料基线：标准小动物眼科临床原则；正式上线前再做专项文献复核。

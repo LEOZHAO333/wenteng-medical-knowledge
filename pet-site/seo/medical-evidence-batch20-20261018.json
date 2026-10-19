@@ -1,0 +1,18 @@
+{
+  "batch": 20,
+  "prior_unique_editorial_total": 63,
+  "new_unique_ids": [],
+  "rechecked_ids": [
+    "0643"
+  ],
+  "new_unique_count": 0,
+  "editorial_total": 63,
+  "medical_approved": 0,
+  "source": "https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors",
+  "scope": "clarify uncertain ingestion, no automatic redosing",
+  "medical_review": "pending",
+  "draft_only": true,
+  "merge": false,
+  "deploy": false,
+  "index_policy": "unchanged"
+}

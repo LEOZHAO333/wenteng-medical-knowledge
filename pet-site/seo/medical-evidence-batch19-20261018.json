@@ -1,0 +1,46 @@
+{
+  "batch": 19,
+  "date": "2026-10-18",
+  "baseline_previous_batch": 61,
+  "unique_new_editorial_ids": [
+    "0643",
+    "0650"
+  ],
+  "new_unique_count": 2,
+  "recheck_ids": [],
+  "total_editorial_unique_if_prior_count_valid": 63,
+  "vet_medical_approved": 0,
+  "stage": "Draft / editorial review only",
+  "records": [
+    {
+      "id": "0643",
+      "file": "pet-site/content/S-TIER-MEDS-LABS.md",
+      "focus": "crushed medication and unquantified redosing",
+      "sources": [
+        "https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors",
+        "https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs"
+      ],
+      "medicalReview": "pending",
+      "publishReady": false
+    },
+    {
+      "id": "0650",
+      "file": "pet-site/content/S-TIER-MEDS-LABS.md",
+      "focus": "cross-pet leftover medication, poisoning and respiratory emergency triage",
+      "sources": [
+        "https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors",
+        "https://www.merckvetmanual.com/special-pet-topics/emergencies/evaluation-and-initial-treatment-of-dog-and-cat-emergencies"
+      ],
+      "medicalReview": "pending",
+      "publishReady": false
+    }
+  ],
+  "constraints": {
+    "merge": false,
+    "deploy": false,
+    "index_policy": "unchanged",
+    "noindex_policy": "unchanged",
+    "publication": false,
+    "medical_signoff": "not granted"
+  }
+}
