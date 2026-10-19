@@ -1,0 +1,56 @@
+{
+  "batch": "MED-EVIDENCE-P1-09",
+  "date": "2026-10-18",
+  "records": [
+    {
+      "id": "0241",
+      "canonicalSlug": "cat-creatinine-high-once",
+      "reference": "IRIS CKD staging",
+      "review": "targeted editorial check",
+      "medicalReview": "pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0243",
+      "canonicalSlug": "cat-ckd-staging",
+      "reference": "IRIS CKD staging",
+      "review": "targeted editorial check",
+      "medicalReview": "pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0244",
+      "canonicalSlug": "cat-ckd-not-eating-renal-diet",
+      "reference": "IRIS CKD treatment",
+      "review": "targeted editorial check",
+      "medicalReview": "pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0251",
+      "canonicalSlug": "cat-ckd-high-phosphorus-food",
+      "reference": "IRIS CKD nutrition",
+      "review": "targeted editorial check",
+      "medicalReview": "pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0307",
+      "canonicalSlug": "dog-allergen-test",
+      "reference": "ICADA dermatology",
+      "review": "targeted editorial check",
+      "medicalReview": "pending",
+      "indexEligible": false
+    },
+    {
+      "id": "0308",
+      "canonicalSlug": "dog-itch-med-response",
+      "reference": "ICADA dermatology",
+      "review": "targeted editorial check",
+      "medicalReview": "pending",
+      "indexEligible": false
+    }
+  ],
+  "scope": "6 existing S-tier questions; not full medical approval",
+  "publishReady": false
+}

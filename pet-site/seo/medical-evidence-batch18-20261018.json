@@ -1,0 +1,55 @@
+{
+  "batch": "18",
+  "date": "2026-10-18",
+  "scope": "editorial evidence/risk language; not veterinary signoff",
+  "baseline_high_risk_editorial_reviews": 60,
+  "new_unique_review_count": 1,
+  "rechecks_not_counted": 2,
+  "records": [
+    {
+      "id": "0641",
+      "category": "重复给药/呼吸异常",
+      "original_file": "pet-site/content/S-TIER-MEDS-LABS.md",
+      "change": "明确吐泡沫不能推断药物未吸收；禁止自行补喂；张口呼吸、倒地、意识异常立即急诊；不远程确诊过敏",
+      "sources": [
+        "https://vcahospitals.com/foster/know-your-pet/sarolaner"
+      ],
+      "evidence_limit": "药物特定补服规则不得泛化；呼吸急症为编辑分流提醒，需兽医核验具体表述",
+      "status": "editorial_revised_medical_review_pending",
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0249",
+      "category": "呼吸异常",
+      "original_file": "pet-site/content/S-TIER-KIDNEY-LIVER.md",
+      "change": "重新核对现有Draft：停止自行追加液体；明显呼吸费力/张口呼吸急诊；未重复计入新增数",
+      "sources": [
+        "https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/"
+      ],
+      "status": "editorial_recheck_medical_review_pending",
+      "publishReady": false,
+      "indexEligible": false
+    },
+    {
+      "id": "0253",
+      "category": "眼科急症",
+      "original_file": "pet-site/content/S-TIER-KIDNEY-LIVER.md",
+      "change": "重新核对现有Draft：突发失明当日评估血压及眼底，不能以CKD直接诊断高血压性视网膜脱离；未重复计入新增数",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6271319/"
+      ],
+      "status": "editorial_recheck_medical_review_pending",
+      "publishReady": false,
+      "indexEligible": false
+    }
+  ],
+  "constraints": {
+    "veterinary_medical_approved": 0,
+    "merge": false,
+    "deploy": false,
+    "publish": false,
+    "noindex": "unchanged",
+    "recheck_no_double_count": true
+  }
+}

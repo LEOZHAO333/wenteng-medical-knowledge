@@ -1,0 +1,45 @@
+{
+  "batch": "MED-EVIDENCE-P1-03",
+  "date": "2026-10-18",
+  "scope": "Four existing high-risk kidney/cardiac Q&A; claim-limited editorial review, not clinical signoff",
+  "medicalApprovedCount": 0,
+  "publicationAuthorized": false,
+  "records": [
+    {
+      "id": "0249",
+      "slug": "cat-fast-breathing-after-fluids",
+      "source": "https://www.merckvetmanual.com/therapeutics/fluid-therapy/maintenance-fluid-plan-in-animals",
+      "action": "Stop further owner-administered fluids, seek veterinary reassessment; urgent respiratory distress emergency; do not equate increased breathing with proven fluid overload",
+      "medicalStatus": "pending"
+    },
+    {
+      "id": "0253",
+      "slug": "cat-ckd-sudden-vision-loss",
+      "source": "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/sudden-blindness",
+      "action": "Urgent same-day assessment; CKD/hypertension is risk not definitive diagnosis; distinguish emergency neurologic signs",
+      "medicalStatus": "pending"
+    },
+    {
+      "id": "0405",
+      "slug": "cat-sudden-hindlimb-paralysis-heart",
+      "source": "https://www.vet.cornell.edu/departments/cornell-feline-health-center/health-information/feline-health-topics/cardiomyopathy",
+      "action": "Retain immediate emergency assessment; link source for feline arterial thromboembolism without remote diagnosis",
+      "medicalStatus": "pending"
+    },
+    {
+      "id": "0418",
+      "slug": "dog-collapse-syncope-heart",
+      "source": "https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients",
+      "action": "Explicit urgent triage for collapse or persistent abnormality; first isolated recovery still requires prompt evaluation",
+      "medicalStatus": "pending"
+    }
+  ],
+  "openQuestions": [
+    "Specific urgency for brief post-infusion tachypnea without dyspnea",
+    "Blood-pressure/ocular examination and differential diagnoses",
+    "Feline arterial thromboembolism presentation and differential diagnoses",
+    "Syncope differential and emergency-vs-urgent assessment"
+  ],
+  "publicationState": "draft_only",
+  "indexEligible": false
+}

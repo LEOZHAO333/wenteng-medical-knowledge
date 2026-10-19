@@ -1,0 +1,49 @@
+{
+  "batch": "MED-EVIDENCE-P1-11",
+  "checkedAt": "2026-10-18",
+  "scope": "4 original S-tier dermatology articles: limited medical-claim editorial review only",
+  "records": [
+    {
+      "id": "0289",
+      "canonicalSlug": "cat-circular-hair-loss-ringworm",
+      "claim": "皮肤癣菌确诊与伍德灯局限",
+      "sourceUrl": "https://www.merckvetmanual.com/integumentary-system/dermatophytosis/dermatophytosis-in-dogs-and-cats",
+      "editorialStatus": "targeted_claim_review",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0305",
+      "canonicalSlug": "dog-food-allergy-diet-switching",
+      "claim": "排除饮食与激发验证",
+      "sourceUrl": "https://www.aaha.org/trends-magazine/december-2023/2023-aaha-management-of-allergic-skin-diseases-in-dogs-and-cats-guidelines/",
+      "editorialStatus": "targeted_claim_review",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0306",
+      "canonicalSlug": "dog-elimination-diet-snacks",
+      "claim": "额外零食干扰排除饮食试验",
+      "sourceUrl": "https://meridian.allenpress.com/jaaha/article/59/6/255/496488/2023-AAHA-Management-of-Allergic-Skin-Diseases-in",
+      "editorialStatus": "targeted_claim_review",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0293",
+      "canonicalSlug": "dog-symmetrical-hair-loss",
+      "claim": "对称脱毛与内分泌鉴别",
+      "sourceUrl": "https://www.merckvetmanual.com/endocrine-system/the-thyroid-gland/hypothyroidism-in-animals",
+      "editorialStatus": "targeted_claim_review",
+      "medicalReviewStatus": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    }
+  ],
+  "medicalApprovedCount": 0,
+  "publicationState": "draft_only"
+}

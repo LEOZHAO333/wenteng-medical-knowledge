@@ -8,9 +8,11 @@
 
 喂药后马上吐白色泡沫或大量流口水，在猫身上并不少见，尤其是药物味道苦、药片在口腔停留较久时。真正的过敏反应通常还会伴随其他异常，而不能只凭“吐泡沫”判断。
 
-建议记录药名、剂型、喂药后多久出现、持续多久，以及猫有没有真正把药吞下。不要因为看见泡沫就立刻补喂一份，以免重复用药。
+建议记录药名、剂型、喂药后多久出现、持续多久，以及猫有没有真正把药吞下。仅凭吐泡沫不能判断药物是否已吸收；不要自行补喂，以免重复给药。如同时出现明显呼吸费力、张口呼吸、倒地或意识异常，应立即联系急诊动物医院，不要为了拍视频延误就诊。
 
-如果反应反复出现，可以和兽医讨论是否更换剂型或喂药方式。
+如果反应反复出现，应联系开药兽医核对药物及喂药过程，并由兽医判断是否需要调整剂型或给药安排；不能仅凭口腔泡沫远程确诊过敏。
+
+编辑级参考：VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner），仅作特定药物补服规则并非通用的反例；实际补服判断必须依据具体药物说明及兽医医嘱。医学终审：pending。
 
 ---
 
@@ -20,9 +22,13 @@
 
 把药片碾碎拌罐头看起来最省事，但药物设计不同，随意碾碎可能改变释放速度、吸收位置或口感。还有些药非常苦，混进主食后反而可能让猫连原本喜欢的食物都拒绝。
 
-最稳妥的做法是把药名、规格和剂型发给原开药医院，直接问“能不能碾碎、能不能和食物同服”。
+最稳妥的做法是先保留完整包装和药品标签，向开药兽医确认具体产品能否碾碎、掰开或与食物混合；未确认前不要自行改变剂型。即使已经碾碎并混入食物，也不能凭食物剩余量自行估算再补一份药。
 
-如果猫长期需要服药，也可以讨论液体、胶囊、调味制剂或其他更适合家庭执行的方案。
+如果猫长期需要服药，应由兽医核对该产品后讨论是否存在适用的其他剂型；不要自行将处方改为液体或调味制剂。
+
+如果药物已经被碾碎、混食且实际摄入量不明，应保留包装并联系开药兽医核实，不要自行再给一次；如出现呼吸困难、意识异常等，应立即急诊。
+
+编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs）。医学终审：pending。
 
 ---
 
@@ -34,7 +40,9 @@
 
 联系医院时最好说明药名、规格、服药时间、呕吐时间，以及呕吐物中是否看到完整药片或胶囊。必要时拍照。
 
-如果狗持续呕吐、精神差，或服用的是对剂量要求严格的药物，应优先联系原治疗兽医，而不是自行重复给药。
+如果狗持续呕吐、精神差，或服用的是对剂量要求严格的药物，应及时联系原治疗兽医，而不是自行重复给药。不同药品甚至同一种药品的不同制剂可能有不同补服规则，不能将某种药物的补服时间窗口照搬到所有处方；在未核实药品说明与医嘱前不作补服判断。
+
+编辑级依据：VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner），此为**药品特定示例**，并不授权对其他药物推断补服规则。医学审核：pending。
 
 ---
 
@@ -46,7 +54,9 @@
 
 因此不要把“下次喂两倍”当成通用规则。联系医院时说明药名、原计划时间、实际漏了多久，以及下一次原定几点。
 
-长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。
+长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。漏服胰岛素、抗癫痫药等时间敏感药物时，应立即按具体处方联系兽医确认，不能擅自补双倍或自行推算下次剂量。
+
+编辑级参考：VCA Animal Hospitals—Insulin Treatment in Dogs and Cats（https://vcahospitals.com/know-your-pet/diabetes-mellitus-insulin-treatment-in-dogs）。本条不提供具体漏服补救方案；医学审核：pending。
 
 ---
 
@@ -58,7 +68,9 @@
 
 尤其犬猫之间不能想当然互换，有些人和犬常用的成分对猫可能风险更高。
 
-如果家里有剩药，可以把药盒和处方带给兽医核对，但不要因为“症状一样”就先自行使用。
+如果家里有剩药，可以把原包装、药名、规格、原处方及两只动物的物种、体重和疾病资料带给兽医核对；未经兽医确认，不要共用。若已经误给另一只动物，应尽快联系兽医说明具体药物、用量和时间，不要自行补救或诱吐。若出现明显呼吸困难、倒地、意识异常等，应立即前往急诊。
+
+编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Evaluation and Initial Treatment of Dog and Cat Emergencies（https://www.merckvetmanual.com/special-pet-topics/emergencies/evaluation-and-initial-treatment-of-dog-and-cat-emergencies）。医学终审：pending。
 
 ---
 
@@ -70,7 +82,9 @@
 
 Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把人用NSAIDs给宠物；对乙酰氨基酚也可造成犬猫严重毒性。
 
-如果已经误喂，应把药名、规格、吃了多少、宠物体重和时间马上告诉动物医院或毒物咨询机构，不要等待出现症状再处理。
+如果已经误喂，应立即联系动物医院或动物毒物咨询机构，并告知药名、规格、估计摄入量、宠物体重与摄入时间；不要等待出现症状，也不要自行催吐或给予其他药物。尤其猫对乙酰氨基酚中毒可能出现呼吸困难、黏膜异常颜色等危急表现；对犬猫的风险不能按人类常用剂量推算。
+
+编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）。医学终审：pending。
 
 ---
 
@@ -78,11 +92,13 @@ Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把
 - Slug：`pet-antibiotic-stop-early`
 - 直接回答：不要自行停药或延长。抗菌药应按兽医根据感染类型、检查结果和疗程设定的计划使用。
 
-症状改善并不一定代表感染已经完全解决，也不代表每一种感染都需要同样长的疗程。
+症状改善不能单独决定是否结束抗菌治疗；也不能据此断言感染尚未清除。疗程应结合感染类型、诊断证据和治疗反应，由兽医按当前证据决定，避免不必要的延长。
 
-AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨慎使用，并尽量根据诊断结果决定是否真的需要抗菌治疗。
+2022 AAFP/AAHA抗菌药管理指南强调：应尽可能明确适应证、反复评估是否仍需用药，并根据临床证据确定合理疗程，而不是对所有感染套用相同疗程。
 
-如果服药后出现明显不良反应，或宠物已经完全恢复但你对疗程有疑问，应联系原医院确认，而不是自行停、减或延长。
+如果用药后出现疑似明显不良反应，应及时联系开药兽医，必要时急诊处理；是否暂停、更换或调整药物由治疗兽医结合情况指导。不要只根据症状消退自行缩短或延长疗程。
+
+编辑级证据：2022 AAFP/AAHA Antimicrobial Stewardship Guidelines（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/how-to-practice-antimicrobial-stewardship/）。医学终审：pending。
 
 ---
 
@@ -94,7 +110,9 @@ AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨�
 
 不要因为喝水变多就自行限水，也不要突然停激素。部分激素类药物需要逐步调整，突然停药可能带来风险。
 
-复诊时把变化发生在用药后第几天、药名和当前剂量一起告诉医生，更方便判断是否属于预期反应或需要调整。
+复诊时把变化发生在用药后第几天、药名和当前剂量一起告诉医生，更方便判断是否属于预期反应或需要调整。若同时出现明显虚弱、反复呕吐、虚脱或呼吸异常，应及时联系急诊；不能仅凭饮水增加自行判断是正常药物反应，也不要擅自停药或限水。
+
+编辑级参考：Merck Veterinary Manual—Glucocorticoids（https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids）。医学审核：pending。
 
 ---
 
@@ -106,7 +124,9 @@ AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨�
 
 药单至少记录商品名、通用名、规格、每次用量、频率、开始时间和开药医院。保健品、驱虫药和外用药也建议一起写进去。
 
-每次转诊或加新药前，把最新药单交给医生审核，比只凭记忆说“有吃几种药”可靠得多。
+每次转诊或加新药前，把最新药单交给医生审核，比只凭记忆说“有吃几种药”可靠得多。尤其应让兽医核对不同商品名是否含相同活性成分、同类止痛药或其他潜在相互作用；不得仅凭品牌名称判断可安全合用。
+
+编辑级参考：AAHA/AAFP Pain Management Guidelines（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；具体相互作用需逐产品核对，医学审核：pending。
 
 ---
 
@@ -118,7 +138,9 @@ AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨�
 
 核对时至少看：有效成分、每单位含量、剂型、适用动物、批准用途和生产企业。处方药还要确认是否需要特定监测。
 
-日宠通知识库后续涉及日本药品时，只以日本官方说明书和监管数据库为准，不依据电商页面或二手介绍做替代判断。
+日宠通知识库后续涉及日本药品时，优先核对日本官方批准信息、产品说明书及监管数据库，不依据电商页面或二手介绍做替代判断。即使有效成分相同，不同国家产品的浓度、剂型、辅料、适用物种和批准用途也可能不同，不能据此自行换药、换算剂量或跨物种使用；处方变更须由兽医逐项确认。
+
+编辑级参考：日本农林水产省 动物医药品检査所（https://www.maff.go.jp/nval/）；美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）。医学审核：pending。
 
 ---
 
@@ -130,7 +152,9 @@ AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨�
 
 复诊时可以问医生三个问题：哪些异常最值得关注？它们能否被脱水、应激、药物等解释？哪些需要复查确认趋势？
 
-长期慢病宠物最好把历次报告按日期保存，比只看单次“红了几项”更有价值。
+长期慢病宠物最好把历次报告按日期保存，比只看单次“红了几项”更有价值。但化验单标红多少不能替代急诊分诊：若同时出现呼吸困难、倒地、抽搐、持续出血或明显意识变化，应立即联系兽医急诊，不要等待逐项解读报告；关键结果还应结合采样质量、复查及临床症状核实。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
@@ -142,7 +166,9 @@ AAFP/AAHA抗菌药管理指南强调，犬猫抗菌药应在兽医监督下谨�
 
 兽医会结合分类计数、症状、体检，以及尿检、影像、培养等其他证据判断感染可能性。
 
-AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验性滥用抗菌药。
+2022 AAFP/AAHA抗菌药管理指南要求尽可能依据病因和诊断证据用药；单独白细胞升高不能作为抗菌药的充分指征。
+
+编辑级证据：AAFP/AAHA — Therapeutic antimicrobial use in the clinical setting（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/therapeutic-antimicrobial-use-in-the-clinical-setting/）。医学终审：pending。
 
 ---
 
@@ -154,7 +180,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 主人可以重点问：目前有没有需要立即处理的风险？下一步是找失血、红细胞破坏，还是生成不足？需要多久复查？
 
-如果宠物同时出现明显虚弱、呼吸急促、牙龈很白或晕厥，应更快就医。
+如果宠物出现明显虚弱、静息时呼吸困难、牙龈苍白、倒地或晕厥，应立即联系兽医急诊；不能仅凭一次红细胞数值决定是否需要输血，必须结合临床状态、贫血变化速度和病因评估。不要自行补铁或使用人用补血药。
+
+编辑级参考：Merck Veterinary Manual—Anemia in Animals（https://www.merckvetmanual.com/circulatory-system/anemia/anemia-in-animals）。医学审核：pending。
 
 ---
 
@@ -166,7 +194,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 兽医可能先看血样质量和血涂片，再结合有没有皮下出血点、鼻出血、牙龈出血等临床表现决定下一步。
 
-如果数值确实很低或宠物已有出血迹象，处理优先级会明显提高。
+如果出现自发性鼻出血、牙龈持续出血、大片瘀斑、黑便、明显虚弱或倒地，应立即联系兽医急诊。血小板聚集可造成假性低值，但不能据此自行排除真正的血小板减少；应由兽医结合血涂片、重复采样及出血表现判断。不要自行使用人用止血药或停用处方药。
+
+编辑级参考：Merck Veterinary Manual—Thrombocytopenia in Animals（https://www.merckvetmanual.com/circulatory-system/hemostatic-disorders/thrombocytopenia-in-animals）。医学审核：pending。
 
 ---
 
@@ -178,7 +208,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 影像能帮助判断位置、大小、数量、血流和周围组织关系，但通常不能单靠超声明确良恶性。
 
-如果这个发现会改变治疗计划，可以问医生是否需要细针穿刺、活检或进一步CT等检查。
+如果这个发现会改变治疗计划，可以问医生是否需要细针穿刺、活检或进一步CT等检查。取样前需由兽医评估病灶位置、出血风险和检查结果能否改变决策；影像报告中的“占位”既不能直接等同癌症，也不能凭外观保证良性。若同时出现明显虚弱、呼吸困难、腹部急剧膨大或倒地，应及时急诊。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
@@ -190,7 +222,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 医生选择下一种检查，通常是为了回答前一种检查没能回答的问题。
 
-主人可以直接问：这次做超声最想排除什么？结果会不会改变下一步处理？
+主人可以直接问：这次做超声最想排除什么？结果会不会改变下一步处理？但X线未见明显异常不能排除所有急症，超声也不能代替全部检查；如宠物出现明显呼吸困难、持续剧烈腹痛、腹部快速膨大、倒地或意识异常，应立即联系兽医急诊，不能为等待预约影像检查而延误。
+
+编辑级参考：Merck Veterinary Manual—Diagnostic Imaging（https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging）。医学审核：pending。
 
 ---
 
@@ -202,7 +236,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 高级影像通常还涉及镇静或麻醉，因此除了影像价值，还要综合宠物的整体状态和风险。
 
-在决定前可以问：为什么选CT或MRI？是否需要造影？是否需要麻醉？检查结果可能改变哪些治疗选择？
+在决定前可以问：为什么选CT或MRI？是否需要造影？是否需要麻醉？检查结果可能改变哪些治疗选择？CT与MRI不能仅凭“哪个更清楚”互相替代，造影剂与镇静/麻醉也需由兽医结合肾功能、循环呼吸状态和具体检查方案评估。若出现突发瘫痪、持续抽搐或意识障碍，应先联系急诊，不要为预约高级影像延误评估。
+
+编辑级参考：Merck Veterinary Manual—Diagnostic Imaging（https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging）。医学审核：pending。
 
 ---
 
@@ -214,7 +250,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 因此两者不是简单的“便宜版”和“高级版”，而是适用于不同问题。
 
-可以问兽医：目前最需要知道的是肿块大致类型，还是需要明确分级和切缘？这个问题会直接影响选择哪种取样方式。
+可以问兽医：目前最需要知道的是肿块大致类型，还是需要明确分级和切缘？这个问题会直接影响选择哪种取样方式。细针穿刺结果不明确不等于肿块良性，组织活检也并非所有病灶都适合立即进行；取样前需由兽医结合病灶位置、凝血状态、麻醉与出血风险及结果能否改变治疗决策评估。不要自行挤压、穿刺肿块。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
@@ -226,7 +264,9 @@ AAFP/AAHA抗菌药管理指南强调，应避免在缺乏明确指征时经验�
 
 不同实验室的参考范围可能不同，只有单独一个数值很容易被误读。
 
-如果还有影像检查，也尽量取得原始影像而不是只带手机截图。
+如果还有影像检查，也尽量取得原始影像而不是只带手机截图。转诊资料应尽可能包含检验单位、采样日期、完整项目、参考区间及原始影像文件；但如果宠物正在呼吸困难、抽搐、持续出血或意识异常，应立即就医，不要为补齐PDF、DICOM或其他文件延误急诊。截图只能作为临时沟通材料，不能据此单独调整处方。
+
+编辑级参考：Merck Veterinary Manual—Clinical Pathology and Procedures（https://www.merckvetmanual.com/clinical-pathology-and-procedures）。医学审核：pending。
 
 ---
 
@@ -238,4 +278,6 @@ CT、MRI、X线等原始影像比报告中的几张截图包含更多信息。DI
 
 可以同时索取：影像原始文件、正式影像报告、相关血检和病理资料，以及当时的临床摘要。
 
-资料越完整，第二意见越有机会基于真实证据，而不是重新猜测。
+资料越完整，第二意见越有机会基于真实证据，而不是重新猜测。应向医院确认影像导出格式、检查日期、完整序列和传输方式；如果暂时只能拿到报告，应如实注明资料缺口，不能声称已完成原始影像复阅。若宠物出现持续抽搐、呼吸困难、突发瘫痪或意识异常，应先联系急诊，不能为索取DICOM延误治疗。
+
+编辑级参考：美国放射学会 DICOM标准信息入口（https://www.dicomstandard.org/）；Merck Veterinary Manual—Diagnostic Imaging（https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging）。医学审核：pending。

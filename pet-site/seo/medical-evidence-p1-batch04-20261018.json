@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "batch": "MED-EVIDENCE-P1-04",
+  "date": "2026-10-18",
+  "scope": "6 original S-tier articles; not medical signoff",
+  "records": [
+    {
+      "id": "0544",
+      "canonicalSlug": "kitten-milk-aspiration",
+      "topic": "幼猫疑似误吸",
+      "claimReviewed": "停止喂奶，呼吸费力需急诊",
+      "source": "https://www.merckvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats",
+      "editorialReview": "claim_limited_evidence_review",
+      "medicalReview": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0569",
+      "canonicalSlug": "small-puppy-lethargic-shaking",
+      "topic": "幼犬突然虚弱发抖",
+      "claimReviewed": "不能将低血糖当成唯一诊断，意识异常不强行灌糖水",
+      "source": "https://www.merckvetmanual.com/management-and-nutrition/management-of-the-neonate/management-of-the-neonate-in-dogs-and-cats",
+      "editorialReview": "claim_limited_evidence_review",
+      "medicalReview": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0622",
+      "canonicalSlug": "pet-fasting-before-anesthesia",
+      "topic": "麻醉前禁食禁水",
+      "claimReviewed": "按兽医个体化安排，不能照搬统一小时数",
+      "source": "https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/",
+      "editorialReview": "claim_limited_evidence_review",
+      "medicalReview": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0637",
+      "canonicalSlug": "pet-surgery-discharge-red-flags",
+      "topic": "手术出院红旗症状",
+      "claimReviewed": "书面注明急诊联系流程，不擅自更改术后药物",
+      "source": "https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/resource-center/",
+      "editorialReview": "claim_limited_evidence_review",
+      "medicalReview": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0258",
+      "canonicalSlug": "cat-ckd-heart-disease-fluid-plan",
+      "topic": "肾心共病猫补液",
+      "claimReviewed": "持续呼吸异常应暂停自行补液并联系医院，不能只因呼吸快断定补液过量",
+      "source": "https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/section-6-fluid-overload/",
+      "editorialReview": "claim_limited_evidence_review",
+      "medicalReview": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    },
+    {
+      "id": "0247",
+      "canonicalSlug": "cat-home-subcutaneous-fluids-training",
+      "topic": "猫居家皮下补液",
+      "claimReviewed": "须由兽医培训，避免自行增加液体量与频率",
+      "source": "https://www.aaha.org/resources/2024-aaha-fluid-therapy-guidelines-for-dogs-and-cats/",
+      "editorialReview": "claim_limited_evidence_review",
+      "medicalReview": "pending",
+      "indexEligible": false,
+      "publishReady": false
+    }
+  ],
+  "medicalApprovedCount": 0
+}

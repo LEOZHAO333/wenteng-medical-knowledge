@@ -12,7 +12,9 @@
 
 不要反复抱起检查、强行喂水或让猫走动测试。尽量减少环境刺激，保持运输过程安静，并提前联系动物医院说明呼吸异常。
 
-如果出现舌色异常、明显腹式呼吸、无法站稳或状态快速恶化，应按急症处理。
+猫持续张口呼吸本身就应视为需要立即联系急诊的危险信号，不应等到牙龈或舌色发青才求助；黏膜颜色改变、明显腹式用力或衰弱可能代表更严重缺氧。优先减少抓抱与应激，提前通知接诊医院，尽快转运。
+
+编辑级依据：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients）。医学审核：pending。
 
 ---
 
@@ -26,7 +28,9 @@
 
 不要在没有医生指导的情况下强行喂食、喂水或追加药物。出发前可电话告知医院：物种、年龄、呼吸状态、是否张口喘、有没有已知心肺疾病。
 
-如果状态严重，应优先争取最快到达急诊，而不是先在家拍很长时间的视频。
+出现明显费力呼吸、张口喘气（尤其是猫）、牙龈发青或灰白、虚弱倒地等情况，应立即联系可接诊的兽医急诊并尽快转运，不要在家长时间拍视频、测量或等待自行恢复。运输途中尽量保持宠物自主选择的呼吸姿势，避免胸颈部受压、过热或不必要的操作；不要强行戴嘴套、喂食喂水或自行给药。是否需要氧气及其他紧急处理，应由接诊兽医决定。
+
+编辑级参考：Merck Veterinary Manual—Respiratory Disorders of Dogs and Cats（https://www.merckvetmanual.com/respiratory-system）；AAHA—Anesthesia and Monitoring Guidelines（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/）。医学审核：pending。
 
 ---
 
@@ -40,7 +44,9 @@
 
 比一次数字更重要的是趋势。如果平时长期稳定，近期突然持续增加，同时出现食欲下降、活动减少、呼吸费力或不愿躺下，就更值得尽快联系医生。
 
-猫已经明显呼吸困难时，不要为了拍得更清楚而拖延就医。
+猫已经明显呼吸困难、张口呼吸或无法安静休息时，应立即联系急诊，不要为了拍摄视频或记录满一分钟而拖延。睡眠呼吸频率只能辅助长期观察，不能单独用某个数字排除心肺急症。
+
+编辑级参考：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients）。医学审核：pending。
 
 ---
 
@@ -54,7 +60,9 @@
 
 还要记录一天发生几次、是否在运动后或夜间更明显，以及发作后猫有没有呼吸加快、张嘴喘或明显疲惫。
 
-反复“像吐毛但什么也吐不出来”的发作，不应长期只按毛球处理，建议让兽医评估呼吸道问题。
+反复“像吐毛但什么也吐不出来”的发作，不应长期只按毛球处理，建议让兽医评估呼吸道问题。如果发作时出现持续张口呼吸、明显胸腹用力、虚弱或发绀，应立即联系急诊，不要为了录制完整视频而延误就医。
+
+编辑级参考：Merck Veterinary Manual—Respiratory Distress in Cats（https://www.merckvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/disorders-of-the-chest-cavity-of-cats）。医学审核：pending。
 
 ---
 
@@ -68,7 +76,9 @@
 
 短鼻犬、肥胖犬或高温天气确实更容易喘，但如果变化是新出现的，也需要排除心肺和其他系统性原因。
 
-如果散步中出现明显呼吸困难、倒地或舌色异常，应立即停止运动并联系医院。
+如果散步中出现明显呼吸困难、倒地或舌色异常，应立即停止运动并联系急诊；不要强迫继续行走或通过再次运动来测试耐力。运动耐力下降是需要进一步检查的症状，不能仅凭喘气表现判断一定是心脏病。
+
+编辑级参考：Merck Veterinary Manual—Clinical Signs of Cardiovascular Disease in Dogs and Cats（https://www.merckvetmanual.com/circulatory-system/cardiovascular-system-introduction/clinical-signs-of-cardiovascular-disease-in-dogs-and-cats）。医学审核：pending。
 
 ---
 
@@ -84,6 +94,8 @@
 
 如果同时出现明显消瘦、多饮多尿、走路困难或神经行为变化，应尽快检查。
 
+编辑复核提示：若异常叫声伴随突然失去方向感、抽搐、倒地或明显意识变化，应及时联系急诊，不宜只按年龄相关行为改变观察。医学审核：pending。
+
 ---
 
 ## 0584｜老猫睡得多，怎样观察它有没有疼痛？
@@ -94,9 +106,11 @@
 
 例如以前会跳上沙发，现在只在地上待着；起身动作变慢；不再梳理背部；进高边猫砂盆困难；被摸腰背或关节时躲开或发脾气。
 
-可以拍下走路、上下台阶和起身视频，并记录这些变化持续了多久。
+可以拍下走路、上下台阶和起身视频，并记录这些变化持续了多久。若活动能力逐渐下降，应预约兽医检查疼痛、关节及其他全身原因；不要自行使用人用止痛药，也不要强迫跳跃来测试活动能力。
 
-猫很少因为慢性疼痛持续大叫，因此主人需要从日常功能变化里发现线索。
+猫的慢性疼痛未必表现为持续叫喊，因此主人还需要观察跳跃、梳毛、起身和如厕等日常功能变化。不能仅凭睡眠时长或单一行为判断是否疼痛；如果突然不能站立、持续明显疼痛或伴随呼吸困难，应及时联系急诊。
+
+编辑级参考：AAHA/AAFP Pain Management Guidelines for Dogs and Cats（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；医学审核：pending。
 
 ---
 
@@ -110,7 +124,9 @@
 
 慢性肾病、甲状腺问题、糖尿病、牙口疼痛、消化疾病和肿瘤等，都可能导致老猫消瘦，因此体重下降不是“年纪大自然会瘦”的必然结果。
 
-如果持续数月下降或短时间掉秤明显，建议带着体重记录复诊。
+如果持续下降或短时间掉秤明显，应尽快预约兽医检查，不必等到数月后才处理；如果同时出现明显虚弱、拒食、反复呕吐或脱水迹象，应及时联系医院。称重记录可辅助评估，但不能仅凭体重变化判断具体病因。
+
+编辑级核验依据：AAHA Senior Care Guidelines for Dogs and Cats（https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/）；医学审核：pending。
 
 ---
 
@@ -126,6 +142,8 @@
 
 建议拍视频并记录发作频率、夜间活动和排便变化，帮助兽医评估。
 
+编辑复核提示：如果定向障碍突然发生，或同时出现抽搐、无法站立、明显意识变化，应及时联系急诊，不宜直接归因于高龄认知障碍。医学审核：pending。
+
 ---
 
 ## 0599｜宠物老了以后，怎样判断一天过得舒不舒服？
@@ -138,4 +156,6 @@
 
 如果宠物开始频繁疼痛、呼吸困难、无法保持清洁、长期不愿进食，或一天里大部分时间都处于不舒服状态，就应该和兽医讨论护理目标。
 
-长期记录比临时靠记忆判断更客观，也能帮助全家围绕宠物的舒适度做一致决策。
+长期记录比临时靠记忆判断更客观，也能帮助全家围绕宠物的舒适度做一致决策。但生活质量评分不能替代急诊判断：若出现明显呼吸困难、持续剧烈疼痛、倒地或无法站立，应立即联系兽医急诊，而非等待下一次常规评分。
+
+编辑级核验依据：AAHA Senior Care Guidelines for Dogs and Cats（https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/）；医学审核：pending。
