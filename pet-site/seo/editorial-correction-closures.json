@@ -15,5 +15,5 @@
       "notes": "Batch01历史P0存在未经直接支持的强归因，现行正文按Merck Xylitol Toxicosis in Dogs 2025版所述：可很快出现低血糖，催吐须由兽医监督，仅在患者临床状况适宜时考虑。因此建议主人不要在家自行催吐，而应立即联系兽医/动物毒物咨询机构。此处为编辑级来源核对，不是兽医Medical Approved。"
     }
   ],
-  "consolidationNote": "Medical editorial reconciliation in progress; original requiredText remains authoritative; no Medical Approved."
+  "consolidationNote": "PR #26 合并时 requiredText 随 #14 同步更新为\"不要在家自行催吐\"（依据 Merck Veterinary Manual—Xylitol Toxicosis in Dogs）；这是同步修改校验规则，不是原句原封保留。医学终审 pending，不代表 Medical Approved。"
 }
