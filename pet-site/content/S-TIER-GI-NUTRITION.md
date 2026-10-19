@@ -69,9 +69,9 @@
 
 主人可以保存照片和新鲜粪便样本，并记录腹泻次数、是否有黏液、是否呕吐、饮食变化、驱虫情况和家中其他宠物是否也出现症状。
 
-益生菌在部分情况可作为辅助，但不能替代对寄生虫、感染、饮食问题或其他疾病的评估。若明显虚弱、无法站稳、严重脱水或持续大量血便，不要等家庭处理见效。
+益生菌在部分情况可作为辅助，但不能替代对寄生虫、感染、饮食问题或其他疾病的评估。幼猫、持续便血、明显精神差、频繁呕吐或脱水迹象时，应尽快就医，而不是仅靠居家益生菌等待。
 
-编辑级核对来源：Merck Veterinary Manual—The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals）；Cornell University Hospital—Emergency and Critical Care（https://www.vet.cornell.edu/hospitals/services/emergency-and-critical-care-0）。医学审核：pending。
+编辑证据：Merck Veterinary Manual—The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals），血便的来源和严重程度需结合症状与检查判断。医学审核：pending。
 
 ---
 
@@ -83,9 +83,9 @@
 
 就医时带照片，说明近期饮食、药物，尤其是否使用过止痛药，以及有没有呕吐、食欲差、精神差或牙龈苍白。
 
-不要只凭一次颜色变化自行下结论，但出现典型黑色柏油样便、尤其伴随任何全身不适时，不要等待数天再检查。
+不要只凭一次颜色变化自行下结论；出现黑色柏油样便，即使精神尚可也应及时联系兽医，若伴虚弱、牙龈苍白、呕吐或倒地，应立即联系急诊。黑色便也可能受饮食或药物影响，不能仅凭颜色远程确诊出血。
 
-编辑级核对来源：Merck Veterinary Manual—Introduction to Digestive Disorders of Dogs（https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/introduction-to-digestive-disorders-of-dogs）；The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals）。医学审核：pending。
+编辑证据：Merck Veterinary Manual—The Digestive System in Animals（https://www.merckvetmanual.com/digestive-system/digestive-system-introduction/the-digestive-system-in-animals），黑色柏油样便可能提示消化道出血。医学审核：pending。
 
 ---
 

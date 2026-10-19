@@ -60,7 +60,9 @@
 正常排尿通常不应该让狗明显疼痛。尿尿时哼叫、突然停下、反复换姿势或回头看腹部，都是值得记录的信号。
 可能原因包括膀胱炎、尿道刺激、结石、感染或其他泌尿系统问题，仅凭声音不能确定。
 就诊前记录每次排尿大概多少、是否有血、是否频繁抬腿或蹲下，以及最后一次正常排尿是什么时候。
-如果狗几乎尿不出来、明显痛苦、呕吐或精神快速变差，应按更紧急的情况处理。
+如果狗反复用力却仅排出几滴或完全无尿，特别是伴明显疼痛、呕吐或虚弱，应立即联系急诊医院；不能将尿痛一概当作普通感染，也不能自行挤压膀胱。
+
+编辑证据：Merck Veterinary Manual—Disorders of Micturition in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/disorders-of-micturition-in-dogs-and-cats），排尿困难需结合体检、尿检及必要影像鉴别。医学审核：pending。
 
 ---
 
@@ -74,7 +76,9 @@
 狗反复出现尿频、尿痛、血尿等症状时，主人可能会觉得“又是同一个感染”，但复发原因并不一定相同。
 尿培养的价值在于确认是否有细菌生长，并在需要时提供药物敏感性信息。采样方式会明显影响结果，因此通常要按医院要求取得合适样本。
 医生还会考虑结石、解剖问题、内分泌疾病或其他导致感染反复的基础因素。
-不要因为上次某种抗菌药有效，就自行重复使用剩药；复发时更需要把既往培养、用药和复查资料带齐。
+不要因为上次某种抗菌药有效，就自行重复使用剩药；复发时更需要把既往培养、用药和复查资料带齐。尿培养的解释依赖采样方法及症状，检出细菌并不在所有情形下都意味着必须使用抗菌药。
+
+编辑证据：Merck Veterinary Manual—The Urinary System in Animals（https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals），介绍尿培养及采样方式对结果解释的影响。医学审核：pending。
 
 ---
 

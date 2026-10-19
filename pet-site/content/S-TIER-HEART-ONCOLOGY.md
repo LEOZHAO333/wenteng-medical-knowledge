@@ -110,7 +110,7 @@
 
 不要反复挤压或自行涂外用药，希望把硬结“消掉”。
 
-资料基线：2026 AAHA Oncology Guidelines—tumor diagnosis and staging principles。
+资料基线：2026 AAHA Oncology Guidelines—Section 3: Tumor Diagnostics & Staging（https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-3-tumor-diagnostics-staging/）。新发硬结需专业检查，触诊不能确定良恶性；是否需要细胞学、病理、影像及分期取决于兽医评估。医学审核：pending。
 
 ---
 
