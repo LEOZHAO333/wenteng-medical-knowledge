@@ -148,7 +148,9 @@
 有些狗是在体检时偶然发现膀胱结石，有些则已经出现血尿、尿频或排尿疼痛。两类情况的风险和处理节奏可能不同。
 兽医会结合结石大小、数量、位置、影像特征、尿液结果以及是否反复引起症状来判断下一步。
 部分结石在特定条件下可能有饮食或医学管理空间，另一些则可能需要更积极处理；具体方案不能只靠网上图片判断。
-如果出现排尿越来越困难、尿量明显减少或完全无尿，需要尽快就医，重点先排除梗阻风险。
+如果出现反复用力却几乎没有尿、完全无尿、明显疼痛或精神迅速下降，应立即联系急诊兽医，先排除尿道梗阻；不能只凭‘结石很小’就判断安全。
+
+编辑证据：ACVIM《犬猫尿石治疗与预防共识》（2016）：https://pmc.ncbi.nlm.nih.gov/articles/PMC5032870/ 。是否观察、医学溶石或介入处理，取决于结石可能成分、症状、部位及梗阻风险，部分无症状结石并不要求立即移除。医学审核：pending。
 
 ---
 
@@ -164,7 +166,7 @@
 复诊时告诉医生用药是否完整、最后一次用药时间、症状多久消失，以及停药后有没有任何反弹。
 不要自行延长、缩短或重复抗菌药疗程；复查安排应以治疗兽医给出的计划为准。
 
-资料基线：Merck Veterinary Manual—Bacterial Cystitis in Small Animals，https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals
+资料基线：Merck Veterinary Manual—Bacterial Cystitis in Small Animals，https://www.merckvetmanual.com/urinary-system/infectious-diseases-of-the-urinary-system-in-small-animals/bacterial-cystitis-in-small-animals 。编辑证据补充：2019 ISCAID犬猫尿路细菌感染指南（https://pubmed.ncbi.nlm.nih.gov/30971357/），指出零星性细菌性膀胱炎症状消失后通常不需常规尿检或培养；症状持续、复发或肾盂肾炎等情况需另外评估，不应要求所有病例机械复查。医学审核：pending。
 
 ---
 
@@ -178,4 +180,6 @@
 体检报告上出现“尿蛋白阳性”时，主人常担心就是肾病，但试纸结果会受到尿液浓度、炎症、血尿等因素影响。
 兽医通常会结合尿比重、尿沉渣以及必要时尿蛋白/肌酐比（UPC）进一步量化，并看结果是否持续存在。
 血压、肾功能血检和是否有泌尿感染也会影响解释和后续管理。
-最重要的是保留复查趋势，不要只根据一次尿蛋白结果自行使用所谓“护肾”产品。
+最重要的是保留复查趋势，不要只根据一次尿蛋白结果自行使用所谓“护肾”产品。持续性肾源性蛋白尿需先排除尿路炎症、血尿等肾后因素，再由兽医按尿沉渣、UPC、血压及肾功能综合评估；单次试纸阳性不足以确诊肾脏疾病。
+
+编辑证据：IRIS—Proteinuria（https://www.iris-kidney.com/proteinuria）、IRIS Staging System（https://www.iris-kidney.com/iris-staging-system），强调证实蛋白尿持续性及来源后才作分级管理。医学审核：pending。
