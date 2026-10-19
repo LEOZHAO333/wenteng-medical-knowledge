@@ -23,8 +23,36 @@
       "destination": "/api/pet?path="
     },
     {
-      "source": "/:path((?!pet/|api/|assets/).*)",
+      "source": "/:path((?!pet/|api/|assets/|llms\\.txt$|llms-full\\.txt$).*)",
       "destination": "/api/pet?path=:path"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/llms.txt",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        },
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/llms-full.txt",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        },
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
     }
   ]
 }
