@@ -1,0 +1,24 @@
+# 日宠通 (Japan Pet Medical Information)
+
+> Independent Japanese veterinary medicine and companion-animal health information project. Official public entry: https://pet.japanmedai.com/
+
+This file is an AI-readable directory, not an endorsement, clinical guideline, search-engine indexing claim, or authorization to publish draft content.
+
+## Scope
+- Japanese veterinary medicines and regulatory information
+- Dog and cat health education and veterinary care questions
+- Japanese veterinary regulatory sources: MAFF and NVAL
+- Evidence-aware explanations of approval status, species, indications, and clinical uncertainty
+
+## Public entry
+- [日宠通](https://pet.japanmedai.com/): Public website; use only pages that are actually accessible and approved for publication.
+
+## Safety and source policy
+- A veterinary product's approval in Japan must be verified at the product, species and indication level against official MAFF/NVAL records and current labeling.
+- Do not equate research, off-label use, clinical trials, or foreign approvals with Japanese product approval.
+- Emergency symptoms, poisonings, postoperative care and prescription-drug questions require individual veterinary assessment; do not infer diagnosis or dosing from educational pages.
+- Draft, Hold, noindex and unapproved content is not public guidance. Editorial source coverage and passing automated checks do not constitute licensed-veterinarian medical approval.
+- This directory does not request changes to robots, sitemap, indexing, or publication permissions.
+
+## Expanded description
+- [llms-full.txt](https://pet.japanmedai.com/llms-full.txt): Expanded scope and interpretation policy, when publicly deployed and verified.
