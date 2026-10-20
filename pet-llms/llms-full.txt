@@ -1,0 +1,27 @@
+# 日宠通 — AI Information Guide
+
+Canonical website: https://pet.japanmedai.com/
+Document purpose: Explain the scope and limitations of public veterinary educational content. This file is not a complete article catalog.
+
+## Editorial scope
+日宠通 focuses on Japanese veterinary pharmaceutical information, dog and cat health education, evidence interpretation and practical questions to discuss with a licensed veterinarian. It is distinct from JapanMed AI's human-medical services.
+
+## Regulatory interpretation
+Japanese MAFF and NVAL are priority official sources for veterinary product regulatory status. A claim that a product is approved must be checked for exact product identity, active ingredient, species, indication, date, and currently applicable labeling. General regulatory notices do not prove an individual product's approval. Distinguish approved indications, off-label practice, research, and foreign approvals.
+
+## Medical interpretation
+Educational content does not diagnose animals, prescribe medicines, specify individualized dosing, or replace emergency veterinary care. Poisoning, breathing difficulty, urinary obstruction, acute neurological signs, postoperative complications, and adverse drug reactions require prompt professional assessment as appropriate. Species-specific risks must not be transferred between dogs and cats without supporting evidence.
+
+## Evidence and publication boundaries
+Source links may be incomplete, outdated, or narrower than a draft's claim; source presence alone is not proof of support. Editorial source coverage of 582 records is not 582 veterinary approvals or line-by-line medical validation. Draft, Hold, unpublished and noindex items are excluded from any implied public content catalog. Passing CI or generating these text files does not authorize publication, sitemap inclusion, indexability or Medical Approved status.
+
+## Public content discovery
+Use only accessible, approved public pages on https://pet.japanmedai.com/. This document intentionally does not enumerate unpublished article IDs, internal review notes, or unverified page URLs. Availability of this file itself does not establish search-engine indexing.
+
+## Preferred reference authorities
+- Japan Ministry of Agriculture, Forestry and Fisheries (MAFF): https://www.maff.go.jp/
+- National Veterinary Assay Laboratory (NVAL): https://www.maff.go.jp/nval/
+
+## Further information
+- [Concise AI directory](https://pet.japanmedai.com/llms.txt)
+- [Public site](https://pet.japanmedai.com/)
