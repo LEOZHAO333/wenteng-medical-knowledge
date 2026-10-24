@@ -23,7 +23,11 @@
       "supportingReference": "https://onlinelibrary.wiley.com/doi/10.1111/jvim.16928",
       "requiredText": "单次抽搐持续接近5分钟",
       "forbiddenBodyText": "如果很快再次发作、长时间无法恢复、体温异常、持续喘气或明显受伤，应立即联系急诊。",
-      "notes": "2026-10-24 编辑级修正：原急诊界限‘长时间’含混。ACVIM 2024犬猫癫痫急症共识支持持续接近5分钟及连续发作间意识未恢复的紧急性；发作后躲藏本身不等于癫痫诊断。未取得执业兽医签署，Hold，不发布。"
+      "notes": "2026-10-24 编辑级修正：原急诊界限‘长时间’含混。ACVIM 2024犬猫癫痫急症共识支持持续接近5分钟及连续发作间意识未恢复的紧急性；发作后躲藏本身不等于癫痫诊断。未取得执业兽医签署，Hold，不发布。",
+      "medicalHold": true,
+      "medicalReviewStatus": "pending_licensed_veterinarian",
+      "releaseAuthorized": false,
+      "holdReason": "发作后行为、家庭护理及急诊边界待真实执业兽医逐句签核"
     },
     {
       "id": "0488",
@@ -34,7 +38,11 @@
       "supportingReference": "https://onlinelibrary.wiley.com/doi/10.1111/vec.70138",
       "requiredText": "凉的流动清水冲洗烫伤部位至少20分钟",
       "forbiddenBodyText": "如果条件允许，可按兽医电话指导进行温和降温，并防止猫舔咬受伤区域。",
-      "notes": "2026-10-24 编辑级修正：RECOVER 2026犬猫急救指南热烫伤FA-05支持安全可行时尽早（3小时内）用凉的流动清水至少20分钟，面部避免冲水，状态不稳优先送医。犬猫共用指南，不是猫单独临床试验；未取得执业兽医签署，Hold，不发布。"
+      "notes": "2026-10-24 编辑级修正：RECOVER 2026犬猫急救指南热烫伤FA-05支持安全可行时尽早（3小时内）用凉的流动清水至少20分钟，面部避免冲水，状态不稳优先送医。犬猫共用指南，不是猫单独临床试验；未取得执业兽医签署，Hold，不发布。",
+      "medicalHold": true,
+      "medicalReviewStatus": "pending_licensed_veterinarian",
+      "releaseAuthorized": false,
+      "holdReason": "烫伤冷却例外、用药膏及严重度评估待真实执业兽医逐句签核"
     }
   ],
   "consolidationNote": "PR #26 合并时 requiredText 随 #14 同步更新为\"不要在家自行催吐\"（依据 Merck Veterinary Manual—Xylitol Toxicosis in Dogs）；这是同步修改校验规则，不是原句原封保留。医学终审 pending，不代表 Medical Approved。 2026-10-24新增0472/0488编辑级纠错非回归条目，旧Batch06不改写，执业兽医Medical Approved仍为0。"
