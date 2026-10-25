@@ -6,13 +6,13 @@
 - Slug：`cat-foaming-after-medication`
 - 直接回答：不一定是过敏。部分药物味道很苦，猫可能因强烈味觉刺激出现流口水、吐泡沫；但若同时出现脸肿、呼吸异常、持续呕吐或明显虚弱，应及时联系兽医。
 
-喂药后马上吐白色泡沫或大量流口水，在猫身上并不少见，尤其是药物味道苦、药片在口腔停留较久时。真正的过敏反应通常还会伴随其他异常，而不能只凭“吐泡沫”判断。
+喂药后立即流口水或吐泡沫，可能与给药刺激、药物味道或紧张有关，但也可能涉及口腔刺激、药物不良反应或其他疾病。不能只凭“吐泡沫”判断是过敏，也不能据此排除严重问题。
 
 建议记录药名、剂型、喂药后多久出现、持续多久，以及猫有没有真正把药吞下。仅凭吐泡沫不能判断药物是否已吸收；不要自行补喂，以免重复给药。如同时出现明显呼吸费力、张口呼吸、倒地或意识异常，应立即联系急诊动物医院，不要为了拍视频延误就诊。
 
 如果反应反复出现，应联系开药兽医核对药物及喂药过程，并由兽医判断是否需要调整剂型或给药安排；不能仅凭口腔泡沫远程确诊过敏。
 
-编辑级参考：VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner），仅作特定药物补服规则并非通用的反例；实际补服判断必须依据具体药物说明及兽医医嘱。医学终审：pending。
+编辑级依据：Cornell University College of Veterinary Medicine—Giving Your Cat Oral Medications（https://www.vet.cornell.edu/hospitals/pharmacy/consumer-clinical-care-guidelines-animals/giving-your-cat-oral-medications）支持猫给药后可能流涎；Merck Veterinary Manual—Causes of Excessive Salivation in Cats（https://www.merckvetmanual.com/multimedia/table/causes-of-excessive-salivation-in-cats）支持给药、药物或毒物、口腔刺激等不同原因。以上资料不能单独证明具体药物的过敏诊断、补服规则或全部急诊阈值；此类判断须由执业兽医审核。医学终审：pending；Hold，不发布。
 
 ---
 
