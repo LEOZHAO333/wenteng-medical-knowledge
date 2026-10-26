@@ -24,6 +24,7 @@
 - Merck 2025年5月更新的兽医毒理章节直接支持犬猫人用镇痛药中毒风险，尤其猫对乙酰氨基酚的敏感性；FDA也明确警告不能把人用NSAID按人类经验用于犬猫。
 - 来源（2026-10-25可访问）：https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals ; https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-about-pain-relievers-pets
 - 边界：FDA产品批准表是**美国**监管状态，不可转述成日本MAFF/NVAL批准。现稿没有剂量或家庭解毒指令；兽医仍需核对误食时的急诊措辞及药物个体差异。状态：**Hold**。
+- **2026-10-26逐主张复核及修复**：Merck毒理章节直接支持犬猫人用镇痛药中毒风险（该页标示2025年5月更新），但原文“Merck明确提醒必须先咨询兽医”的特定归因不够精确；已将该行为建议明确归于FDA原始安全说明。两页当日可访问。保留原ID 0651与Slug，不扩展剂量、解毒建议或日本批准断言。
 
 ## P1｜0635 术后便秘：不自行使用人用灌肠/泻药
 
@@ -36,7 +37,7 @@
 
 - 原正文：`pet-site/content/A-TIER-BATCH-11-MEDS-LABS.md`，Slug `online-pet-medicine-checklist`。
 - 正文只讲核对产品、成分、适用物种、规格、处方要求，**没有点名某一日本已批准产品**；本次不虚构商品核验结果。
-- 日本NVAL官方不良反应页面于2026-10-25仍显示**2026-11-01系统迁移并需重新注册**；这只属于监管流程时效信息，不是任何药品的批准凭证。
+- 日本NVAL官方不良反应页面于2026-10-26复核仍显示**2026-11-01系统迁移并需重新注册**；该页面另提供动物用药数据库入口，属于监管流程与查询入口信息，**不是任何单一药品的批准凭证**。未在本轮核验具体产品。
 - 来源：https://www.maff.go.jp/nval/iyakutou/fukusayo/sousa/index.html
 - 兽医/药事交接：若今后新增具体产品，必须逐项查NVAL产品数据库与现行电子添文，确认商品名、物种、适应证、规格、批准与规制区分；美国FDA或卖家网页不能替代日本批准。
 - 既有4篇身份不全的日本药品盘点仍 `product_identity_missing` + Hold。

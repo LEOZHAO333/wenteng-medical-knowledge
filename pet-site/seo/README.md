@@ -1,5 +1,5 @@
 # 日宠通｜GEO + SEO 全系统 V1.0（执行母规范）
-制定：2026-10-18 · 状态：Draft / noindex / 未获发布批准
+制定：2026-10-18 · 当前状态：582条S/A正文仍为待医学签署草稿；生产站另有Founder批准的45 URL候选索引白名单（PR #13），Preview与new-drugs仍noindex；当前医学整改仅Draft PR #35，不能推断搜索引擎已收录
 归属：文腾株式会社运营的独立品牌「日宠通｜日本宠物健康知识站」
 网站正式地址：`https://pet.japanmedai.com/`（主站不放宠物医疗版块）
 
@@ -71,7 +71,7 @@
 - 用 `Article` 描述真实文章；有面包屑时用 `BreadcrumbList`；结构化信息与页面文字严格一致。
 - `FAQPage` 只能标注页面实际可见问答，**不将 FAQ 富摘要作为预期KPI**（Google 对 FAQ 富结果已长期限制并调整）。
 - `sitemap.xml` **只包含可索引且已发布页面**；草稿、未获批准、新药空页及 Preview 不得进入可索引 sitemap。
-- Preview 永远 noindex；Production 在 Founder 批准并医学审核完成后，才可针对已发布页面打开 `INDEXABLE`；同时核查 HTML meta robots、HTTP `X-Robots-Tag`、robots.txt 不互相矛盾。
+- Preview 永远 noindex。生产代码已依Founder对PR #13的独立授权设置45 URL候选索引白名单，**该渲染器尚未逐篇读取S/A草稿的执业兽医签署元数据**，与本文件规定的理想逐篇发布闸门存在治理差距；本次仅登记，未经另行授权不调整Production、robots或sitemap。任何新增S/A页面仍须先完成医学审核和Founder发布/索引批准；上线前应核对HTML robots、HTTP `X-Robots-Tag`、robots.txt及实际URL响应。
 - `llms.txt` 可作为额外导航目录维护，但 **Google 明确不把 llms.txt 作为 AI 搜索排名或收录要求**；不把它当成「已完成GEO」证据。
 - 不做伪造外链、虚假引用、关键词堆砌、同义词批量页面、虚构作者资质。
 

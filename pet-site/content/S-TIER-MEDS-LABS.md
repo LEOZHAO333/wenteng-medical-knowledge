@@ -80,11 +80,11 @@
 
 主人看到宠物疼，最容易想到家里的布洛芬、对乙酰氨基酚等人用药，但这些药物并不能按人的经验直接给犬猫。
 
-Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把人用NSAIDs给宠物；对乙酰氨基酚也可造成犬猫严重毒性。
+Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；美国FDA明确建议，在给犬猫使用NSAID前应咨询兽医。对乙酰氨基酚也可能造成犬猫严重毒性，尤其猫更敏感。
 
 如果已经误喂，应立即联系动物医院或动物毒物咨询机构，并告知药名、规格、估计摄入量、宠物体重与摄入时间；不要等待出现症状，也不要自行催吐或给予其他药物。尤其猫对乙酰氨基酚中毒可能出现呼吸困难、黏膜异常颜色等危急表现；对犬猫的风险不能按人类常用剂量推算。
 
-编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）。医学终审：pending。
+编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）支持人用镇痛药犬猫中毒风险；美国FDA—Get the Facts about Pain Relievers for Pets（https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-about-pain-relievers-pets）支持先咨询兽医的安全建议。FDA批准状态仅限美国，不代表日本MAFF/NVAL产品批准。医学终审：pending；Hold，不发布。
 
 ---
 

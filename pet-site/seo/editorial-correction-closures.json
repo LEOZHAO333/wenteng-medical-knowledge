@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25",
+  "version": "2026-10-26",
   "scope": "editorial_resolution_only",
   "warning": "A resolved editorial correction does not confer veterinary medical approval or publish/index authorization",
   "items": [
@@ -58,6 +58,21 @@
       "medicalReviewStatus": "pending_licensed_veterinarian",
       "releaseAuthorized": false,
       "holdReason": "给药后流涎的鉴别诊断、过敏/毒性边界与急诊阈值尚未获得兽医签署"
+    },
+    {
+      "id": "0651",
+      "historicalStatus": "source_verified_editorial",
+      "historicFile": "pet-site/content/SOURCE-VERIFICATION-BATCH-02.md",
+      "bodyFile": "pet-site/content/S-TIER-MEDS-LABS.md",
+      "status": "editorial_correction_applied_medical_review_pending",
+      "supportingReference": "https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-about-pain-relievers-pets",
+      "requiredText": "美国FDA明确建议，在给犬猫使用NSAID前应咨询兽医",
+      "forbiddenBodyText": "Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把人用NSAIDs给宠物",
+      "notes": "2026-10-26：把人用NSAID咨询兽医的规范性建议明确归因FDA，Merck只支持犬猫人用镇痛药中毒事实；未增加剂量/解毒/日本批准断言。原有医学Hold保持。",
+      "medicalHold": true,
+      "medicalReviewStatus": "pending_licensed_veterinarian",
+      "releaseAuthorized": false,
+      "holdReason": "人用镇痛药误食风险分流、急诊表达与犬猫个体差异仍需真实执业兽医签署"
     }
   ],
   "consolidationNote": "PR #26 合并时 requiredText 随 #14 同步更新为\"不要在家自行催吐\"（依据 Merck Veterinary Manual—Xylitol Toxicosis in Dogs）；这是同步修改校验规则，不是原句原封保留。医学终审 pending，不代表 Medical Approved。 2026-10-24新增0472/0488编辑级纠错非回归条目，旧Batch06不改写，执业兽医Medical Approved仍为0。"

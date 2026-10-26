@@ -19,7 +19,13 @@
       "index.html",
       "**/production/**"
     ],
-    "workBranch": "gpt/pet-geo-seo-v1-governance"
+    "workBranch": "gpt/pet-geo-seo-v1-governance",
+    "activeDraftPr": 35,
+    "activeDraftBranch": "pet/sop15-claim-evidence-20261022",
+    "originPrMerged": true,
+    "productionIndexWhitelistPr": 13,
+    "productionIndexCandidateCount": 45,
+    "productionWhitelistNotEquivalentToMedicalApproval": true
   },
   "allowedRoutineActions": [
     "prioritize_and_deduplicate_draft_questions",
@@ -77,5 +83,5 @@
     "p2": "autocorrect in draft, run tests, document",
     "major": "suspend only affected high-impact action; present options, risk, recommendation, exact approval object once"
   },
-  "status": "draft_repo_policy; no main merge/deploy/index authority conferred"
+  "status": "original PR #8 merged 2026-10-18; current edits draft PR #35 only; production index whitelist PR #13 separate; no merge/deploy/index authority conferred"
 }
