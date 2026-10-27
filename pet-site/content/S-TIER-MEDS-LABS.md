@@ -6,13 +6,13 @@
 - Slug：`cat-foaming-after-medication`
 - 直接回答：不一定是过敏。部分药物味道很苦，猫可能因强烈味觉刺激出现流口水、吐泡沫；但若同时出现脸肿、呼吸异常、持续呕吐或明显虚弱，应及时联系兽医。
 
-喂药后马上吐白色泡沫或大量流口水，在猫身上并不少见，尤其是药物味道苦、药片在口腔停留较久时。真正的过敏反应通常还会伴随其他异常，而不能只凭“吐泡沫”判断。
+喂药后立即流口水或吐泡沫，可能与给药刺激、药物味道或紧张有关，但也可能涉及口腔刺激、药物不良反应或其他疾病。不能只凭“吐泡沫”判断是过敏，也不能据此排除严重问题。
 
 建议记录药名、剂型、喂药后多久出现、持续多久，以及猫有没有真正把药吞下。仅凭吐泡沫不能判断药物是否已吸收；不要自行补喂，以免重复给药。如同时出现明显呼吸费力、张口呼吸、倒地或意识异常，应立即联系急诊动物医院，不要为了拍视频延误就诊。
 
 如果反应反复出现，应联系开药兽医核对药物及喂药过程，并由兽医判断是否需要调整剂型或给药安排；不能仅凭口腔泡沫远程确诊过敏。
 
-编辑级参考：VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner），仅作特定药物补服规则并非通用的反例；实际补服判断必须依据具体药物说明及兽医医嘱。医学终审：pending。
+编辑级依据：Cornell University College of Veterinary Medicine—Giving Your Cat Oral Medications（https://www.vet.cornell.edu/hospitals/pharmacy/consumer-clinical-care-guidelines-animals/giving-your-cat-oral-medications）支持猫给药后可能流涎；Merck Veterinary Manual—Causes of Excessive Salivation in Cats（https://www.merckvetmanual.com/multimedia/table/causes-of-excessive-salivation-in-cats）支持给药、药物或毒物、口腔刺激等不同原因。以上资料不能单独证明具体药物的过敏诊断、补服规则或全部急诊阈值；此类判断须由执业兽医审核。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -28,7 +28,7 @@
 
 如果药物已经被碾碎、混食且实际摄入量不明，应保留包装并联系开药兽医核实，不要自行再给一次；如出现呼吸困难、意识异常等，应立即急诊。
 
-编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs）。医学终审：pending。
+编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）在面向饲主的用药错误预防建议中直接要求：未经兽医指示，不应剪切、碾碎或拆开药片与胶囊；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs，页面标示2026年7月更新）支持剂型会影响释放、吸收与安全性的一般药剂学原理，但不提供每种药物的碾碎许可。具体产品、剂型与补服判断仍待执业兽医核对。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -42,7 +42,7 @@
 
 如果狗持续呕吐、精神差，或服用的是对剂量要求严格的药物，应及时联系原治疗兽医，而不是自行重复给药。不同药品甚至同一种药品的不同制剂可能有不同补服规则，不能将某种药物的补服时间窗口照搬到所有处方；在未核实药品说明与医嘱前不作补服判断。
 
-编辑级依据：VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner），此为**药品特定示例**，并不授权对其他药物推断补服规则。医学审核：pending。
+编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）明确把“宠物吐出或呕吐药物后怎么办”列为应向开药兽医询问的用药安全问题；VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner）仅是特定犬用药物示例，不能推导所有药物的补服时机或剂量。呕吐严重程度、是否吸收及具体补服决定仍待兽医审核。医学审核：pending；Hold，不发布。
 
 ---
 
@@ -56,7 +56,7 @@
 
 长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。漏服胰岛素、抗癫痫药等时间敏感药物时，应立即按具体处方联系兽医确认，不能擅自补双倍或自行推算下次剂量。
 
-编辑级参考：VCA Animal Hospitals—Insulin Treatment in Dogs and Cats（https://vcahospitals.com/know-your-pet/diabetes-mellitus-insulin-treatment-in-dogs）。本条不提供具体漏服补救方案；医学审核：pending。
+编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）将“漏服后怎么办”列为应向兽医确认的问题；VCA Animal Hospitals—Insulin（https://vcahospitals.com/know-your-pet/insulin）明确针对犬猫等动物提醒漏用胰岛素应联系兽医，且不应一次给双倍。旧引文实际是**犬糖尿病胰岛素治疗专页**，不应标作犬猫通用资料。以上不能替代不同抗癫痫药或其他处方药的具体漏服规则；逐产品处置仍待兽医审核。医学审核：pending；Hold，不发布。
 
 ---
 
@@ -80,11 +80,11 @@
 
 主人看到宠物疼，最容易想到家里的布洛芬、对乙酰氨基酚等人用药，但这些药物并不能按人的经验直接给犬猫。
 
-Merck Veterinary Manual明确提醒，不应在没有兽医指导的情况下把人用NSAIDs给宠物；对乙酰氨基酚也可造成犬猫严重毒性。
+Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；美国FDA明确建议，在给犬猫使用NSAID前应咨询兽医。对乙酰氨基酚也可能造成犬猫严重毒性，尤其猫更敏感。
 
 如果已经误喂，应立即联系动物医院或动物毒物咨询机构，并告知药名、规格、估计摄入量、宠物体重与摄入时间；不要等待出现症状，也不要自行催吐或给予其他药物。尤其猫对乙酰氨基酚中毒可能出现呼吸困难、黏膜异常颜色等危急表现；对犬猫的风险不能按人类常用剂量推算。
 
-编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）。医学终审：pending。
+编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）支持人用镇痛药犬猫中毒风险；美国FDA—Get the Facts about Pain Relievers for Pets（https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-about-pain-relievers-pets）支持先咨询兽医的安全建议。FDA批准状态仅限美国，不代表日本MAFF/NVAL产品批准。医学终审：pending；Hold，不发布。
 
 ---
 

@@ -48,7 +48,15 @@ for(const [key,items] of [
 }
 for(const k of criticalGuards)if(policy.guardrails?.[k]!==true)fail('safety guardrail disabled: '+k);
 if(policy.scope?.workingPr!==8||policy.scope?.workBranch!=='gpt/pet-geo-seo-v1-governance')
-  fail('draft work boundary mismatch');
+  fail('original SOP authorization provenance mismatch');
+if(policy.scope?.activeDraftPr!==35||policy.scope?.activeDraftBranch!=='pet/sop15-claim-evidence-20261022'||policy.scope?.originPrMerged!==true)
+  fail('active draft status / merged origin status missing');
+if(policy.scope?.productionIndexWhitelistPr!==13||policy.scope?.productionIndexCandidateCount!==45||policy.scope?.productionWhitelistNotEquivalentToMedicalApproval!==true)
+  fail('separate production whitelist governance fact missing');
+if(!sop.includes('PR #8 已于2026-10-18合并')||!sop.includes('PR #13')||!sop.includes('45个URL候选'))
+  fail('SOP missing actual PR8/PR13 status and index-candidate distinction');
+if(sop.includes('PR #8保持Draft')||sop.includes('此文档存于 PR #8 Draft 分支'))
+  fail('stale PR #8 Draft status must not recur');
 if(!policy.scope?.protectedPaths?.includes('pet-site/api/pet.js'))fail('production renderer protection missing');
 if(!sop.includes('无需每次确认')&&!sop.includes('无需逐次询问Founder'))fail('routine authorization not recorded in SOP');
 if(!sop.includes('必须 Founder 明确确认'))fail('major approval gate not recorded in SOP');

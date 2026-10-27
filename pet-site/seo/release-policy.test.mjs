@@ -57,3 +57,57 @@ test('拒绝重复可索引slug',()=>{
  const b={...a,id:'another'};
  assert.throws(()=>indexableSlugs([a,b]),/Duplicate indexable slug/);
 });
+
+test('缺逐篇医学签署时一律拒绝索引',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ for(const review of [undefined,{status:'pending'},{status:'approved',reviewer:'',credentials:'TEST',reviewedAt:'2026-10-18'},{status:'approved',reviewer:'TEST',credentials:'',reviewedAt:'2026-10-18'},{status:'approved',reviewer:'TEST',credentials:'TEST',reviewedAt:'2026-02-30'}]){
+  a.medicalReview=review;
+  assert.equal(isIndexEligible(a),false);
+  assert.deepEqual(indexableSlugs([a]),[]);
+ }
+});
+test('Founder发布与索引两项许可不得互相替代',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';a.indexEligible=true;
+ a.founderPublishApproved=true;a.founderIndexApproved=false;
+ assert.equal(isIndexEligible(a),false);
+ a.founderPublishApproved=false;a.founderIndexApproved=true;
+ assert.equal(isIndexEligible(a),false);
+ a.founderPublishApproved=true;
+ assert.equal(isIndexEligible(a),true);
+});
+test('无真实首次公开日期、日期无效、缺来源核验均阻断',()=>{
+ const a=verified();a.publicationState='published';a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ for(const date of [null,'','2026-02-30','2026-13-01']){
+  a.firstPublishedAt=date;
+  assert.equal(isIndexEligible(a),false);
+ }
+ a.firstPublishedAt='2026-10-18';a.sourceCheckedAt='2026-02-30';
+ assert.equal(isIndexEligible(a),false);
+ a.sourceCheckedAt='2026-10-18';a.sourceRefs=[];
+ assert.equal(isIndexEligible(a),false);
+});
+test('医疗Hold状态不能凭签署样例与Founder字段误放行',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ a.medicalReview={status:'pending',reviewer:'TEST',credentials:'TEST',reviewedAt:'2026-10-18'};
+ assert.equal(isIndexEligible(a),false);
+});
+
+test('显式医学Hold或禁止发布优先于所有其他批准字段',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ assert.equal(isIndexEligible(a),true);
+ for(const blocked of [
+  {medicalHold:true},
+  {releaseAuthorized:false},
+  {medicalReviewStatus:'pending_licensed_veterinarian'},
+  {medicalReviewStatus:'rejected'}
+ ]){
+  const item={...a,...blocked};
+  assert.equal(isMedicalEditorialReady(item),false);
+  assert.equal(mayBePublic(item),false);
+  assert.equal(isIndexEligible(item),false);
+  assert.deepEqual(indexableSlugs([item]),[]);
+ }
+});

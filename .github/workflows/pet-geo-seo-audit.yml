@@ -32,6 +32,8 @@ jobs:
           node --check pet-site/seo/audit-editorial-closures.mjs
           node --check pet-site/seo/audit-approval-boundaries.mjs
           node --check pet-site/seo/sitemap-policy.mjs
+          node --check pet-site/seo/audit-priority-remediation.mjs
+          node --check pet-site/seo/audit-production-index-gap.mjs
       - name: Verify content mapping against renderer
         run: node pet-site/seo/audit-current-site.mjs
       - name: Test release policy
@@ -46,6 +48,10 @@ jobs:
         run: node pet-site/seo/audit-source-batches.mjs
       - name: Verify standing Founder approval boundaries (read-only)
         run: node pet-site/seo/audit-approval-boundaries.mjs
+      - name: Verify priority medical Hold handoff (read-only)
+        run: node pet-site/seo/audit-priority-remediation.mjs
+      - name: Inventory production index eligibility and Article dates (read-only)
+        run: node pet-site/seo/audit-production-index-gap.mjs
       - name: Verify historical medical editing issues did not regress
         run: node pet-site/seo/audit-editorial-closures.mjs
 
