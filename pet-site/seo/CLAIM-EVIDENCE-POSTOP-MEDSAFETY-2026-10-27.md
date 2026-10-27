@@ -41,3 +41,11 @@
 ## SEO/发布治理边界
 
 本轮未新增URL、ID、Slug、Article页面、relatedIds、sitemap条目；没有触碰 `pet-site/api/pet.js`、robots、noindex、生产45 URL候选白名单或Preview。582个S/A草稿与生产40篇渲染问答仍是不同集合。生产Article元数据/相关问答与sitemap资格门槛需要独立逐篇审计；当前草稿资格函数通过CI不意味着生产渲染器已读取医学签署，也不证明搜索引擎实际收录。CI只校验静态代码和审计记录，不替代原始医学逐句审核或执业兽医批准。
+
+## 2026-10-27 独立静态SEO抽查：运行时Article、相关问答与索引资格
+
+- 对 `pet-site/api/pet.js` 的 `articles` 原始列表按两种对象格式（JS属性及JSON属性）计数：**40条渲染问答，40个Slug未发现重复**；既有 `audit-current-site.mjs` 还核对crosswalk中确认的ID与slug唯一关系。未新增或重命名任何ID/Slug。
+- **Article JSON-LD元数据待完善**：当前40条中28条含 `published` 字段、12条未见该字段，**40条均未见 `modified` 字段**；`articlePage()` 仅在字段存在时才输出 `datePublished`/`dateModified`。这不是宣称schema无效，但确实不能声称每篇均有完整的发布日期与更新日期。需先建立可追溯的真实发布日期/修改日期，再由Founder授权的独立生产变更处理，**不能批量编造日期**。
+- **相关问答**：运行时按同物种或同topic自动选最多4条；不是从582个私有S/A草稿的 `relatedIds` 逐条批准映射，不能据此宣称医学语义相关性已由兽医复核。
+- **发布/索引资格**：`release-policy.mjs` 和 `sitemap-policy.mjs` 的纯函数要求医学审核及Founder发布/索引授权，并拒绝重复slug；其CI测试通过。但生产 `pet-site/api/pet.js` 的 `INDEX_ELIGIBLE_PATHS` 是独立的45 URL候选白名单，不读取逐篇 `medicalReview` 字段。该架构差异维持**治理Hold**，不在此Draft修改生产渲染器。
+- **实际收录**：没有Search Console或搜索引擎实际索引结果的本轮验证，不作收录数量断言。静态CI通过也不能证明页面外链、Article富结果或实际抓取状态。
