@@ -83,3 +83,28 @@ test('renderer template version is bound to each approval',()=>{
   const altered={...approved,medicalReview:{...approved.medicalReview,rendererTemplateSha256:'b'.repeat(64)}};
   assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:altered},verifyEvidence:()=>true}),false);
 });
+
+test('revocation in trusted ledger invalidates previously approved article immediately', () => {
+  const ledger = {revoked:false};
+  const live = {...config,verifyEvidence:()=>!ledger.revoked};
+  assert.equal(eligible('qa/'+slug,live),true);
+  assert.equal(robots('qa/'+slug,live),'index,follow');
+  assert.ok(sitemapPaths([slug],live).includes('qa/'+slug));
+  ledger.revoked = true;
+  assert.equal(eligible('qa/'+slug,live),false);
+  assert.equal(robots('qa/'+slug,live),'noindex,follow');
+  assert.ok(!sitemapPaths([slug],live).includes('qa/'+slug));
+});
+test('revocation, pending vet review, missing evidence or source failures always block', () => {
+  for (const verifyEvidence of [()=>false,()=>undefined,()=>null,()=>0,()=>Promise.resolve(true),()=>{throw new Error('revocation ledger unavailable')}]) {
+    assert.equal(eligible('qa/'+slug,{...config,verifyEvidence}),false);
+  }
+  for (const medicalReview of [
+    {...approved.medicalReview,status:'revoked'},
+    {...approved.medicalReview,status:'pending'},
+    {...approved.medicalReview,reviewer:' '},
+    {...approved.medicalReview,credentials:''},
+    {...approved.medicalReview,reviewedAt:'2026-02-30'}
+  ]) assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:{...approved,medicalReview}},verifyEvidence:()=>true}),false);
+  assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:{...approved,medicalHold:true}},verifyEvidence:()=>true}),false);
+});
