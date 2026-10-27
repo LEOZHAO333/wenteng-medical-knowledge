@@ -21,6 +21,13 @@ const noPerArticleGate=/const INDEX_ELIGIBLE_PATHS\s*=\s*\{\s*has:\s*p\s*=>\s*CO
 const sitemapAll=/function sitemap\(\)[\s\S]*?articles\.map\(a=>'qa\/'\+a\.slug\)/.test(src);
 const sitemapUsesGlobalLastmod=/function sitemap\(\)[^\n]*<lastmod>\$\{UPDATED\}<\/lastmod>/.test(src);
 const hasPerArticleLastmod=rows.some(r=>Boolean(r.modified));
+const htmlRobotsUsesSharedGate=/meta name=\\"robots\\" content=\\"\\$\\{robotsFor\\(path\\)\\}\\"/.test(src);
+const httpRobotsUsesSharedGate=/setHeader\\('X-Robots-Tag',robotsFor\\(path\\)/.test(src);
+const productionImportsReleasePolicy=/require\\([^)]*release-policy|from ['\"][^'\"]*release-policy/.test(src);
+const productionUsesMedicalIndexEligibility=/\\bisIndexEligible\\s*\\(/.test(src);
+const productionPerArticleGateIntegrated=productionImportsReleasePolicy && productionUsesMedicalIndexEligibility && !noPerArticleGate && !sitemapAll;
+// These flags are evidence, NOT release authorization. Any production change requires a separate review.
+const requiresManualProductionReview=true;
 // Guard the draft release-policy source against accidental deletion of explicit Hold blocks.
 const requiredHoldGuards=[
   'item.medicalHold===true',
@@ -31,6 +38,6 @@ const requiredHoldGuards=[
 for(const guard of requiredHoldGuards){
  if(!releaseSource.includes(guard))errors.push('draft release policy missing Hold guard: '+guard);
 }
-const summary={audit:'production-index-eligibility-gap',mode:'read-only',rendererArticles:rows.length,missingPublished:rows.filter(r=>!r.published).length,missingModified:rows.filter(r=>!r.modified).length,identicalPublishedDateCount:rows.filter(r=>r.published==='2026-10-15').length,slugBasedEligibilityDetected:noPerArticleGate,sitemapIncludesAllRendererArticles:sitemapAll,sitemapUsesGlobalLastmod,sitemapHasAnyArticleModifiedDate:hasPerArticleLastmod,holdGuardChecks:requiredHoldGuards.length,medicalApprovedByAudit:0,productionModified:false,errors};
+const summary={audit:'production-index-eligibility-gap',mode:'read-only',rendererArticles:rows.length,missingPublished:rows.filter(r=>!r.published).length,missingModified:rows.filter(r=>!r.modified).length,identicalPublishedDateCount:rows.filter(r=>r.published==='2026-10-15').length,slugBasedEligibilityDetected:noPerArticleGate,sitemapIncludesAllRendererArticles:sitemapAll,sitemapUsesGlobalLastmod,sitemapHasAnyArticleModifiedDate:hasPerArticleLastmod,htmlRobotsUsesSharedGate,httpRobotsUsesSharedGate,productionImportsReleasePolicy,productionUsesMedicalIndexEligibility,productionPerArticleGateIntegrated,requiresManualProductionReview,holdGuardChecks:requiredHoldGuards.length,medicalApprovedByAudit:0,productionModified:false,errors};
 console.log(JSON.stringify(summary,null,2));
 if(errors.length)process.exitCode=1;
