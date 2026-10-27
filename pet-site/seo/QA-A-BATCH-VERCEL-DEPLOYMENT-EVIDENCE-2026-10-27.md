@@ -44,3 +44,14 @@
 - 本轮Vercel列表返回19条正式生产部署，当前最早成功记录是2026-10-17 18:07日本时间；这不等于可证明更早不存在其他公开来源。
 
 **当前结论：** A批12篇在2026-10-17 18:07日本时间的成功生产部署对应源码中已存在。真实逐篇首次公开日期和修改日期仍待直接证据核验。
+
+## 追加：正式域名绑定与网页访问证据（第二轮）
+
+- Vercel项目域名列表显示 `pet.japanmedai.com` 的 `createdAt` 和 `updatedAt` 均为 `1792292306194`，即 **2026-10-18 11:58:26 JST**，`verified=true`。这是Vercel项目域名配置记录时间，不是DNS全球生效时间，也不是逐篇HTTP首次成功时间。
+- 同项目默认域名 `japanmedai-pet.vercel.app` 的配置记录更早；因此不能把自定义域名绑定时间等同于该站所有形式的首次公开时间。
+- 查询最早成功部署 `dpl_ApyrtcBBeThVq2aEWqbeQFWvHDqj` 的部署别名列表，返回空数组；这不是“历史上绝无域名访问”的证明，尤其不能排除默认部署URL。
+- 尝试访问 `https://pet.japanmedai.com/qa/cat-dandruff` 与 `https://pet.japanmedai.com/qa/dog-itch-med-response`，当前网页读取工具均未能访问。**未获得HTTP状态码或响应头**；不得将工具访问失败记录为404、noindex、下线或未发布。
+- 逐篇12/12历史HTTP 200、历史robots和X-Robots-Tag、首次公开日期仍然 **not_verified**。
+- 保持生产页面、索引策略、正式日期字段、兽医签署和Founder批准不变。
+
+**进一步核验所需：** 历史域名分配/访问日志或可访问的部署快照，附带URL、HTTP状态、响应时间、环境和部署SHA。单靠Vercel部署 `READY` 与项目域名配置 `verified` 不能推出逐篇正式发布日期。
