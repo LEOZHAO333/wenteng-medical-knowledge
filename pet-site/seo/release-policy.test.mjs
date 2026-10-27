@@ -93,3 +93,21 @@ test('医疗Hold状态不能凭签署样例与Founder字段误放行',()=>{
  a.medicalReview={status:'pending',reviewer:'TEST',credentials:'TEST',reviewedAt:'2026-10-18'};
  assert.equal(isIndexEligible(a),false);
 });
+
+test('显式医学Hold或禁止发布优先于所有其他批准字段',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ assert.equal(isIndexEligible(a),true);
+ for(const blocked of [
+  {medicalHold:true},
+  {releaseAuthorized:false},
+  {medicalReviewStatus:'pending_licensed_veterinarian'},
+  {medicalReviewStatus:'rejected'}
+ ]){
+  const item={...a,...blocked};
+  assert.equal(isMedicalEditorialReady(item),false);
+  assert.equal(mayBePublic(item),false);
+  assert.equal(isIndexEligible(item),false);
+  assert.deepEqual(indexableSlugs([item]),[]);
+ }
+});
