@@ -3,11 +3,12 @@ const assert = require('node:assert/strict');
 const {eligible, robots, sitemapPaths, qaApproved} = require('./production-index-gate.proposed.cjs');
 const slug = 'cat-dandruff';
 const approved = {
-  slug, medicalReview: {status:'approved', reviewer:'Test Reviewer',credentials:'Verified veterinary license evidence required',reviewedAt:'2026-10-20'},
+  slug, medicalReview: {status:'approved', reviewer:'Test Reviewer',credentials:'Verified veterinary license evidence required',reviewedAt:'2026-10-20',evidenceRef:'synthetic-vet-proof'},
+  founderPublishEvidenceRef:'synthetic-publish-proof',founderIndexEvidenceRef:'synthetic-index-proof',
   medicalHold:false, founderPublishApproved:true,founderIndexApproved:true,indexEligible:true,
   publicationState:'published',firstPublishedAt:'2026-10-18',lastModifiedAt:'2026-10-20'
 };
-const config = {production:true,siteApproved:true,approvals:{[slug]:approved}};
+const config = {production:true,siteApproved:true,approvals:{[slug]:approved},verifyEvidence:(record, s)=>s===slug && record===approved};
 test('unknown and unapproved QA fail closed', () => {
   assert.equal(eligible('qa/cat-dandruff',{production:true,siteApproved:true}),false);
   assert.equal(robots('qa/cat-dandruff',{production:true,siteApproved:true}),'noindex,follow');
@@ -18,9 +19,14 @@ test('unknown and unapproved QA fail closed', () => {
 test('complete synthetic approval fixture passes only all gates', () => {
   assert.equal(qaApproved(approved,slug),true);
   assert.equal(eligible('qa/'+slug,config),true);
+  assert.equal(eligible('qa/'+slug,{...config,verifyEvidence:undefined}),false);
+  assert.equal(eligible('qa/'+slug,{...config,verifyEvidence:()=>false}),false);
+  assert.equal(eligible('qa/'+slug,{...config,verifyEvidence:()=>{throw Error('unavailable')}}),false);
   for (const patch of [
     {medicalHold:true},{founderPublishApproved:false},{founderIndexApproved:false},
     {indexEligible:false},{publicationState:'draft'},{firstPublishedAt:'2026-02-30'},
+    {founderPublishEvidenceRef:''},{founderIndexEvidenceRef:''},
+    {medicalReview:{...approved.medicalReview,evidenceRef:''}},
     {lastModifiedAt:''},{medicalReview:{...approved.medicalReview,status:'pending'}}
   ]) assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:{...approved,...patch}}}),false);
 });
