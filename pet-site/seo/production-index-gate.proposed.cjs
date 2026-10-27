@@ -22,6 +22,9 @@ function qaApproved(record, slug) {
     typeof record.medicalReview.reviewer === 'string' && record.medicalReview.reviewer.trim() &&
     typeof record.medicalReview.credentials === 'string' && record.medicalReview.credentials.trim() &&
     validDate(record.medicalReview.reviewedAt) &&
+    typeof record.medicalReview.evidenceRef === 'string' && record.medicalReview.evidenceRef.trim() &&
+    typeof record.founderPublishEvidenceRef === 'string' && record.founderPublishEvidenceRef.trim() &&
+    typeof record.founderIndexEvidenceRef === 'string' && record.founderIndexEvidenceRef.trim() &&
     record.medicalHold !== true &&
     record.founderPublishApproved === true &&
     record.founderIndexApproved === true &&
@@ -32,13 +35,17 @@ function qaApproved(record, slug) {
 }
 
 /** All three outputs must use this same predicate. */
-function eligible(path, {production = false, siteApproved = false, approvals = {}} = {}) {
+function eligible(path, {production = false, siteApproved = false, approvals = {}, verifyEvidence} = {}) {
   const p = normalizePath(path);
   if (!production || !siteApproved || NOINDEX_PATHS.has(p)) return false;
   if (CORE_PATHS.has(p)) return true;
   const match = /^qa\/([^/]+)$/.exec(p);
   if (!match || !SLUG_RE.test(match[1])) return false;
-  return qaApproved(Object.hasOwn(approvals, match[1]) ? approvals[match[1]] : null, match[1]);
+  const record = Object.hasOwn(approvals, match[1]) ? approvals[match[1]] : null;
+  if (!qaApproved(record, match[1]) || typeof verifyEvidence !== 'function') return false;
+  // Trust boundary: caller MUST provide an independent, trusted server-side verifier.
+  // A JSON-supplied callback or mere existence of evidenceRefs is NOT verification.
+  try { return verifyEvidence(record, match[1]) === true; } catch { return false; }
 }
 
 function robots(path, config) {
