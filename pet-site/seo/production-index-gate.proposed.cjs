@@ -2,6 +2,7 @@
  * No approval records are included. Empty catalog is intentionally fail-closed.
  */
 const {createHash} = require('node:crypto');
+const {templateVersionApproved} = require('./renderer-template-gate.proposed.cjs');
 const CORE_PATHS = new Set(['', 'cat', 'dog', 'qa', 'about']);
 const NOINDEX_PATHS = new Set(['new-drugs']);
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
@@ -47,19 +48,22 @@ function qaApproved(record, slug) {
 }
 
 /** All three outputs must use this same predicate. */
-function eligible(path, {production = false, siteApproved = false, approvals = {}, verifyEvidence, getTrustedContent} = {}) {
+function eligible(path, {production = false, siteApproved = false, approvals = {}, verifyEvidence, getTrustedContent, getTrustedRendererSource} = {}) {
   const p = normalizePath(path);
   if (!production || !siteApproved || NOINDEX_PATHS.has(p)) return false;
   if (CORE_PATHS.has(p)) return true;
   const match = /^qa\/([^/]+)$/.exec(p);
   if (!match || !SLUG_RE.test(match[1])) return false;
   const record = Object.hasOwn(approvals, match[1]) ? approvals[match[1]] : null;
-  if (!qaApproved(record, match[1]) || typeof verifyEvidence !== 'function' || typeof getTrustedContent !== 'function') return false;
+  if (!qaApproved(record, match[1]) || typeof verifyEvidence !== 'function' || typeof getTrustedContent !== 'function' || typeof getTrustedRendererSource !== 'function') return false;
   // Independently derive the digest from the trusted renderer-bound article source.
   // Never trust a digest provided by the approval record itself.
   let actualDigest;
   try { actualDigest = computeContentSha256(getTrustedContent(match[1])); } catch { return false; }
   if (actualDigest === null || actualDigest !== record.contentSha256) return false;
+  let rendererDigest;
+  try { rendererDigest = require('./renderer-template-gate.proposed.cjs').rendererTemplateSha256(getTrustedRendererSource()); } catch { return false; }
+  if (!templateVersionApproved(record, rendererDigest)) return false;
   // Trust boundary: caller MUST provide an independent, trusted server-side verifier.
   // A JSON-supplied callback or mere existence of evidenceRefs is NOT verification.
   try { return verifyEvidence(record, match[1]) === true; } catch { return false; }
