@@ -21,10 +21,10 @@ const noPerArticleGate=/const INDEX_ELIGIBLE_PATHS\s*=\s*\{\s*has:\s*p\s*=>\s*CO
 const sitemapAll=/function sitemap\(\)[\s\S]*?articles\.map\(a=>'qa\/'\+a\.slug\)/.test(src);
 const sitemapUsesGlobalLastmod=/function sitemap\(\)[^\n]*<lastmod>\$\{UPDATED\}<\/lastmod>/.test(src);
 const hasPerArticleLastmod=rows.some(r=>Boolean(r.modified));
-const htmlRobotsUsesSharedGate=/meta name=\\"robots\\" content=\\"\\$\\{robotsFor\\(path\\)\\}\\"/.test(src);
-const httpRobotsUsesSharedGate=/setHeader\\('X-Robots-Tag',robotsFor\\(path\\)/.test(src);
-const productionImportsReleasePolicy=/require\\([^)]*release-policy|from ['\"][^'\"]*release-policy/.test(src);
-const productionUsesMedicalIndexEligibility=/\\bisIndexEligible\\s*\\(/.test(src);
+const htmlRobotsUsesSharedGate=src.includes('content="${robotsFor(path)}"');
+const httpRobotsUsesSharedGate=src.includes("setHeader('X-Robots-Tag',robotsFor(path)");
+const productionImportsReleasePolicy=src.includes('release-policy.mjs');
+const productionUsesMedicalIndexEligibility=src.includes('isIndexEligible(');
 const productionPerArticleGateIntegrated=productionImportsReleasePolicy && productionUsesMedicalIndexEligibility && !noPerArticleGate && !sitemapAll;
 // These flags are evidence, NOT release authorization. Any production change requires a separate review.
 const requiresManualProductionReview=true;
