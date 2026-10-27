@@ -39,6 +39,7 @@ jobs:
           node --check pet-site/seo/production-index-gate.proposed.test.cjs
           node --check pet-site/seo/article-snapshot.proposed.cjs
           node --check pet-site/seo/article-snapshot.proposed.test.cjs
+          node --check pet-site/seo/renderer-template-gate.proposed.cjs
       - name: Verify content mapping against renderer
         run: node pet-site/seo/audit-current-site.mjs
       - name: Test release policy
