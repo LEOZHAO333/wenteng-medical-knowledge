@@ -19,7 +19,11 @@ if(policy.guardrails?.noAutoIndexing!==true)failures.push('auto indexing guard m
 if(policy.scope?.activeDraftPr!==35)failures.push('active Draft PR mismatch');
 if(!plan.includes('582/582')||!plan.includes('40')||!plan.includes('45'))failures.push('draft vs production population distinction missing');
 if(!handoff.includes('pending_licensed_veterinarian'))failures.push('professional Hold boundary missing');
-const recordText=JSON.stringify(corrections);
-for(const id of ['0635','0643','0648','0649'])if(!recordText.includes(id))failures.push('missing correction history '+id);
+for(const id of ['0635','0643','0648','0649']){
+  const record=corrections.items?.find(item=>item.id===id);
+  if(!record)failures.push('missing correction history '+id);
+  else if(record.medicalHold!==true || record.medicalReviewStatus!=='pending_licensed_veterinarian' || record.releaseAuthorized!==false)
+    failures.push('unsafe medical review or release status for '+id);
+}
 console.log(JSON.stringify({audit:'risk-priority-remediation',mode:'read-only',medicalApprovedByThisAudit:0,productionModified:false,failures},null,2));
 if(failures.length)process.exitCode=1;
