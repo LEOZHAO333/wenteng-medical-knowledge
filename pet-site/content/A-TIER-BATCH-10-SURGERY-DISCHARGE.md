@@ -85,15 +85,17 @@
 ## 0635｜宠物术后便秘，哪些药物和进食信息要反馈？
 - Slug：`pet-postoperative-constipation-information`
 - 优先级：A
-- 直接回答：告诉医生手术后吃了多少、喝了多少、多久没排便，以及正在使用的止痛药和其他药物。
+- 直接回答：告诉手术医院宠物术后进食、饮水、排便与排尿情况，以及正在使用的止痛药和其他药物；不要单凭用力姿势判断是便秘。
 
-术后活动减少、进食减少和某些药物都可能让排便变慢。
+术后进食、活动及用药变化可能影响排便，但排便减少不自动等于已确诊便秘，仍须结合具体术式和恢复情况判断。
 
-但如果宠物频繁用力却排不出、腹部明显不适或同时呕吐，就不能只按普通便秘观察。
+如果宠物反复用力却没有排出物，先核对是否有正常排尿；犬猫排尿困难可能被误认成便秘。若疑似完全无法排尿，应立即联系动物急诊，不要按普通便秘在家等待。若伴明显腹痛、反复呕吐或精神显著变差，也应及时联系手术医院或急诊。
 
-不要自行使用人的泻药或灌肠产品。
+不要自行使用人的泻药或灌肠产品；尤其含磷酸钠的灌肠剂对猫有严重中毒风险。
 
-医生需要结合手术类型、进食量和用药决定是否需要调整护理方案。
+具体复查时机、术后排便预期和处理方案应由手术医院按术式、进食量、用药及临床状态确定，本文不提供统一的术后无便天数或用药方案。
+
+编辑级逐主张依据：Merck Veterinary Manual—Obstructive Uropathy in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/obstructive-uropathy-in-dogs-and-cats）直接说明犬猫排尿用力可能被误认成便秘；Merck—Cathartic and Laxative Drugs Used in Monogastric Animals（https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-digestive-system/cathartic-and-laxative-drugs-used-in-monogastric-animals）明确警示猫不应使用磷酸盐灌肠剂。两页**不直接支持所有术式的排便恢复时限**，该部分保持证据不足并交由真实执业兽医核对。医学终审：pending；Hold，不发布。
 
 ---
 
