@@ -83,3 +83,17 @@ test('unapproved QA with absent lastmod stays omitted, not implicitly authorized
  const xml=buildApprovedQaSitemap([item]);
  assert.equal((xml.match(/<url>/g)||[]).length,0);
 });
+
+test('each approved QA uses its own lastModifiedAt, never a shared site date',()=>{
+ const first={...fixture(),id:'TEST-101',canonicalSlug:'cat-ear-first',lastModifiedAt:'2026-10-16'};
+ const second={...fixture(),id:'TEST-102',canonicalSlug:'dog-ear-second',lastModifiedAt:'2026-10-21'};
+ const xml=buildApprovedQaSitemap([first,second]);
+ assert.match(xml,/<loc>https:\/\/pet\.japanmedai\.com\/qa\/cat-ear-first\/<\/loc><lastmod>2026-10-16<\/lastmod>/);
+ assert.match(xml,/<loc>https:\/\/pet\.japanmedai\.com\/qa\/dog-ear-second\/<\/loc><lastmod>2026-10-21<\/lastmod>/);
+ assert.equal((xml.match(/<url>/g)||[]).length,2);
+});
+test('one approved QA with missing date blocks the entire sitemap rather than partial output',()=>{
+ const valid={...fixture(),id:'TEST-201',canonicalSlug:'cat-ear-valid'};
+ const missing={...fixture(),id:'TEST-202',canonicalSlug:'cat-ear-missing-date',lastModifiedAt:undefined};
+ assert.throws(()=>buildApprovedQaSitemap([valid,missing]),/Invalid editorial lastModifiedAt/);
+});
