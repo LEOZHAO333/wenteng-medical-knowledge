@@ -67,3 +67,19 @@ test('medical Hold does not suppress separately approved QA entries',()=>{
  assert.equal(xml.includes('/qa/cat-ear-held/'),false);
  assert.equal(xml.includes('/qa/cat-ear-test/'),true);
 });
+
+test('approved QA with missing or invalid per-article lastmod fails closed',()=>{
+ for(const lastModifiedAt of [undefined,null,'','2026-02-30','2026-10-17T12:00:00Z']){
+  const item={...fixture(),lastModifiedAt};
+  assert.throws(()=>buildApprovedQaSitemap([item]),/Invalid editorial lastModifiedAt/);
+ }
+});
+test('site-level UPDATED or publication date cannot substitute for missing article lastmod',()=>{
+ const item={...fixture(),lastModifiedAt:undefined,UPDATED:'2026-10-17',published:'2026-10-15'};
+ assert.throws(()=>buildApprovedQaSitemap([item]),/Invalid editorial lastModifiedAt/);
+});
+test('unapproved QA with absent lastmod stays omitted, not implicitly authorized',()=>{
+ const item={...fixture(),medicalHold:true,lastModifiedAt:undefined};
+ const xml=buildApprovedQaSitemap([item]);
+ assert.equal((xml.match(/<url>/g)||[]).length,0);
+});
