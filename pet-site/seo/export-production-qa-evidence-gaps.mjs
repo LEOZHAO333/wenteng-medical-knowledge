@@ -18,10 +18,21 @@ const rows=lines.map((line,i)=>({
   sourcePublished:get(line,'published'),
   sourceModified:get(line,'modified'),
   publicationDateEvidence:'not_verified',
+  publicationEvidenceRef:'',
+  publicationEvidenceReviewer:'',
   modifiedDateEvidence:'not_verified',
+  modifiedEvidenceRef:'',
+  modifiedEvidenceReviewer:'',
   licensedVetSignoff:'not_verified',
+  vetReviewerName:'',
+  vetCredentialsRef:'',
+  vetSignoffDate:'',
+  vetSignoffEvidenceRef:'',
   founderPublishApproval:'not_verified',
+  founderPublishEvidenceRef:'',
   founderIndexApproval:'not_verified',
+  founderIndexEvidenceRef:'',
+  medicalHoldResolutionRef:'',
   eligibility:'not_determined_do_not_approve'
 }));
 const errors=[];
