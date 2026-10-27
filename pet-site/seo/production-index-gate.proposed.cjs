@@ -1,6 +1,7 @@
 /** Draft-only production indexing gate; NOT imported by the live renderer.
  * No approval records are included. Empty catalog is intentionally fail-closed.
  */
+const {createHash} = require('node:crypto');
 const CORE_PATHS = new Set(['', 'cat', 'dog', 'qa', 'about']);
 const NOINDEX_PATHS = new Set(['new-drugs']);
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
@@ -15,6 +16,12 @@ function validDate(value) {
   if (typeof value !== 'string' || !DATE_RE.test(value)) return false;
   const date = new Date(value + 'T00:00:00.000Z');
   return !Number.isNaN(date.getTime()) && date.toISOString().slice(0, 10) === value;
+}
+
+function computeContentSha256(content) {
+  if (typeof content !== 'string') return null;
+  // UTF-8 of the exact renderer-bound source string; no trim or hidden normalization.
+  return createHash('sha256').update(content, 'utf8').digest('hex');
 }
 
 function qaApproved(record, slug) {
@@ -40,14 +47,19 @@ function qaApproved(record, slug) {
 }
 
 /** All three outputs must use this same predicate. */
-function eligible(path, {production = false, siteApproved = false, approvals = {}, verifyEvidence} = {}) {
+function eligible(path, {production = false, siteApproved = false, approvals = {}, verifyEvidence, getTrustedContent} = {}) {
   const p = normalizePath(path);
   if (!production || !siteApproved || NOINDEX_PATHS.has(p)) return false;
   if (CORE_PATHS.has(p)) return true;
   const match = /^qa\/([^/]+)$/.exec(p);
   if (!match || !SLUG_RE.test(match[1])) return false;
   const record = Object.hasOwn(approvals, match[1]) ? approvals[match[1]] : null;
-  if (!qaApproved(record, match[1]) || typeof verifyEvidence !== 'function') return false;
+  if (!qaApproved(record, match[1]) || typeof verifyEvidence !== 'function' || typeof getTrustedContent !== 'function') return false;
+  // Independently derive the digest from the trusted renderer-bound article source.
+  // Never trust a digest provided by the approval record itself.
+  let actualDigest;
+  try { actualDigest = computeContentSha256(getTrustedContent(match[1])); } catch { return false; }
+  if (actualDigest === null || actualDigest !== record.contentSha256) return false;
   // Trust boundary: caller MUST provide an independent, trusted server-side verifier.
   // A JSON-supplied callback or mere existence of evidenceRefs is NOT verification.
   try { return verifyEvidence(record, match[1]) === true; } catch { return false; }
@@ -69,4 +81,4 @@ function sitemapPaths(slugs, config) {
   return [...core, ...qa];
 }
 
-module.exports = {eligible, robots, sitemapPaths, qaApproved, validDate};
+module.exports = {eligible, robots, sitemapPaths, qaApproved, validDate, computeContentSha256};
