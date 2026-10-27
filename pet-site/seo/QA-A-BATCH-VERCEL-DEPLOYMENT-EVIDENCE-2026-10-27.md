@@ -55,3 +55,22 @@
 - 保持生产页面、索引策略、正式日期字段、兽医签署和Founder批准不变。
 
 **进一步核验所需：** 历史域名分配/访问日志或可访问的部署快照，附带URL、HTTP状态、响应时间、环境和部署SHA。单靠Vercel部署 `READY` 与项目域名配置 `verified` 不能推出逐篇正式发布日期。
+
+## 第三轮：正式域名HTTP访问与现行索引实现核对
+
+**网络验证结果（本轮实际请求）：** 从当前执行环境分别向以下URL发起HTTPS GET：
+- `https://pet.japanmedai.com/qa/cat-dandruff`
+- `https://pet.japanmedai.com/qa/dog-itch-med-response`
+- `https://pet.japanmedai.com/robots.txt`
+- `https://pet.japanmedai.com/sitemap.xml`
+
+四次请求均在DNS名称解析阶段失败（`NameResolutionError`），**没有得到HTTP响应**，不能据此认定网站故障、返回404、页面不可公开或已/未被搜索引擎收录。当前环境的DNS限制应与网站真实服务状态分开记录。
+
+**主分支源码独立复核：**
+- `INDEX_APPROVED = true`，生产环境 `INDEXABLE` 为真时，`robotsFor` 依据 `INDEX_ELIGIBLE_PATHS.has` 决定 `index,follow`。
+- `INDEX_ELIGIBLE_PATHS.has` 对所有存在于 `articles` 的 `qa/<slug>` 返回真，**没有逐篇兽医审签或Founder逐篇索引许可的检查**。
+- `sitemap()` 在生产索引开关为真时，将全部 `articles` 追加至5个核心路径，且统一使用 `UPDATED = '2026-10-17'` 作为 `lastmod`。
+- 源码注释声称“正式授权目录建立前索引资格为空”，但实际表达式仍按Slug存在与否放行，**注释与实现不一致**。这是待治理的生产索引策略缺口，不代表已实际抓取到线上HTTP头。
+- 这些事实是**源码静态核验**，不是在线响应验证或兽医审核结果。
+
+**建议P0交接：** 另开受控生产修复PR，将同一份逐篇批准目录用于HTML robots、HTTP X-Robots-Tag及sitemap，逐篇缺少正式兽医审签或Founder授权时默认不索引；保留5个核心页面的独立策略、`new-drugs` noindex、Preview及404 noindex。此修复涉及已上线生产行为，必须由Founder审核具体变更后另行授权合并和部署，本Draft仅记录证据，不触碰生产文件。
