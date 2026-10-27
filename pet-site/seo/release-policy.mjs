@@ -12,6 +12,8 @@ export function isMedicalEditorialReady(item){
   // Explicit clinical Hold and release blocks always override otherwise complete fields.
   if(item.medicalHold===true || item.releaseAuthorized===false) return false;
   if(item.medicalReviewStatus==='pending_licensed_veterinarian' || item.medicalReviewStatus==='rejected') return false;
+  // Any other explicitly supplied non-approved status also blocks release (fail closed).
+  if(item.medicalReviewStatus!==undefined && item.medicalReviewStatus!=='approved') return false;
   if(!hasText(item.id)||!hasText(item.canonicalSlug)||!hasText(item.directAnswer)) return false;
   if(!hasText(item.applicability)||!hasText(item.emergencyBoundary)) return false;
   if(!validDate(item.sourceCheckedAt)||!Array.isArray(item.sourceRefs)||!item.sourceRefs.length) return false;

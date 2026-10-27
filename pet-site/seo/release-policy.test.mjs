@@ -111,3 +111,35 @@ test('显式医学Hold或禁止发布优先于所有其他批准字段',()=>{
   assert.deepEqual(indexableSlugs([item]),[]);
  }
 });
+
+test('any explicitly supplied non-approved medical review status blocks indexing',()=>{
+ const a=verified();
+ a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ for(const status of ['hold','blocked','pending','needs_review','',null,false]){
+  const item={...a,medicalReviewStatus:status};
+  assert.equal(isMedicalEditorialReady(item),false);
+  assert.equal(isIndexEligible(item),false);
+ }
+ assert.equal(isIndexEligible({...a,medicalReviewStatus:'approved'}),true);
+});
+
+test('top-level approved status cannot override missing or pending formal veterinary signoff',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.founderPublishApproved=true;a.founderIndexApproved=true;a.indexEligible=true;
+ for(const medicalReview of [undefined,null,{status:'pending'},{status:'rejected'},{status:'approved',reviewer:'',credentials:'TEST',reviewedAt:'2026-10-18'}]){
+  const item={...a,medicalReviewStatus:'approved',medicalReview};
+  assert.equal(isMedicalEditorialReady(item),false);
+  assert.equal(mayBePublic(item),false);
+  assert.equal(isIndexEligible(item),false);
+ }
+});
+test('Founder permissions must both be literal true even with full medical approval',()=>{
+ const a=verified();a.publicationState='published';a.firstPublishedAt='2026-10-18';
+ a.medicalReviewStatus='approved';a.indexEligible=true;
+ for(const bad of [undefined,null,false,'true',1]){
+  assert.equal(isIndexEligible({...a,founderPublishApproved:bad,founderIndexApproved:true}),false);
+  assert.equal(isIndexEligible({...a,founderPublishApproved:true,founderIndexApproved:bad}),false);
+ }
+ assert.equal(isIndexEligible({...a,founderPublishApproved:true,founderIndexApproved:true}),true);
+});
