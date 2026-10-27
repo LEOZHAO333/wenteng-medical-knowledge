@@ -28,7 +28,7 @@
 
 如果药物已经被碾碎、混食且实际摄入量不明，应保留包装并联系开药兽医核实，不要自行再给一次；如出现呼吸困难、意识异常等，应立即急诊。
 
-编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs）。医学终审：pending。
+编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）在面向饲主的用药错误预防建议中直接要求：未经兽医指示，不应剪切、碾碎或拆开药片与胶囊；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs，页面标示2026年7月更新）支持剂型会影响释放、吸收与安全性的一般药剂学原理，但不提供每种药物的碾碎许可。具体产品、剂型与补服判断仍待执业兽医核对。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -42,7 +42,7 @@
 
 如果狗持续呕吐、精神差，或服用的是对剂量要求严格的药物，应及时联系原治疗兽医，而不是自行重复给药。不同药品甚至同一种药品的不同制剂可能有不同补服规则，不能将某种药物的补服时间窗口照搬到所有处方；在未核实药品说明与医嘱前不作补服判断。
 
-编辑级依据：VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner），此为**药品特定示例**，并不授权对其他药物推断补服规则。医学审核：pending。
+编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）明确把“宠物吐出或呕吐药物后怎么办”列为应向开药兽医询问的用药安全问题；VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner）仅是特定犬用药物示例，不能推导所有药物的补服时机或剂量。呕吐严重程度、是否吸收及具体补服决定仍待兽医审核。医学审核：pending；Hold，不发布。
 
 ---
 
@@ -56,7 +56,7 @@
 
 长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。漏服胰岛素、抗癫痫药等时间敏感药物时，应立即按具体处方联系兽医确认，不能擅自补双倍或自行推算下次剂量。
 
-编辑级参考：VCA Animal Hospitals—Insulin Treatment in Dogs and Cats（https://vcahospitals.com/know-your-pet/diabetes-mellitus-insulin-treatment-in-dogs）。本条不提供具体漏服补救方案；医学审核：pending。
+编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）将“漏服后怎么办”列为应向兽医确认的问题；VCA Animal Hospitals—Insulin（https://vcahospitals.com/know-your-pet/insulin）明确针对犬猫等动物提醒漏用胰岛素应联系兽医，且不应一次给双倍。旧引文实际是**犬糖尿病胰岛素治疗专页**，不应标作犬猫通用资料。以上不能替代不同抗癫痫药或其他处方药的具体漏服规则；逐产品处置仍待兽医审核。医学审核：pending；Hold，不发布。
 
 ---
 
