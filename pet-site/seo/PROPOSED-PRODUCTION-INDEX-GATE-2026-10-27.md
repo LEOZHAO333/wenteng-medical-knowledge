@@ -1,0 +1,13 @@
+# 日宠通生产逐篇索引门槛：隔离式候选实现
+
+此PR仅新增 `pet-site/seo/production-index-gate.proposed.cjs` 和独立测试。**没有接入 `pet-site/api/pet.js`，没有部署或改变当前线上索引状态。**
+
+候选规则：
+- Preview、站点总开关关闭、未知QA、缺少逐篇证据、医疗Hold、缺少任一Founder授权时，默认 `noindex,follow`。
+- 5个核心路径 `/ /cat /dog /qa /about` 保留独立索引策略；`new-drugs` 始终 `noindex`。
+- 只有明确的逐篇兽医批准、审签人/资质、有效审核日期、Founder发布及索引批准、真实发布及修改日期、published状态和indexEligible标志全部齐备时，QA才具备候选索引资格。
+- 测试中 `Test Reviewer` 仅为**合成测试数据**，不是真实兽医签署或已批准文章。
+- sitemap与robots均引用同一个候选谓词；正式接入时HTTP `X-Robots-Tag`、HTML meta robots和sitemap必须一致。
+- 本候选模块**不保证**审签凭据真实性；上线前必须绑定可信、可审计的授权台账，校验签署凭据，防止仅凭JSON自报字段通过。
+
+**上线阻断：** 真实兽医及Founder逐篇审核、40篇证据核对、现网HTTP与回滚验证、Founder批准具体生产变更之前，不得把本候选模块接入生产或合并上线。
