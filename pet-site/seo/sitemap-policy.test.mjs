@@ -67,3 +67,33 @@ test('medical Hold does not suppress separately approved QA entries',()=>{
  assert.equal(xml.includes('/qa/cat-ear-held/'),false);
  assert.equal(xml.includes('/qa/cat-ear-test/'),true);
 });
+
+test('approved QA with missing or invalid per-article lastmod fails closed',()=>{
+ for(const lastModifiedAt of [undefined,null,'','2026-02-30','2026-10-17T12:00:00Z']){
+  const item={...fixture(),lastModifiedAt};
+  assert.throws(()=>buildApprovedQaSitemap([item]),/Invalid editorial lastModifiedAt/);
+ }
+});
+test('site-level UPDATED or publication date cannot substitute for missing article lastmod',()=>{
+ const item={...fixture(),lastModifiedAt:undefined,UPDATED:'2026-10-17',published:'2026-10-15'};
+ assert.throws(()=>buildApprovedQaSitemap([item]),/Invalid editorial lastModifiedAt/);
+});
+test('unapproved QA with absent lastmod stays omitted, not implicitly authorized',()=>{
+ const item={...fixture(),medicalHold:true,lastModifiedAt:undefined};
+ const xml=buildApprovedQaSitemap([item]);
+ assert.equal((xml.match(/<url>/g)||[]).length,0);
+});
+
+test('each approved QA uses its own lastModifiedAt, never a shared site date',()=>{
+ const first={...fixture(),id:'TEST-101',canonicalSlug:'cat-ear-first',lastModifiedAt:'2026-10-16'};
+ const second={...fixture(),id:'TEST-102',canonicalSlug:'dog-ear-second',lastModifiedAt:'2026-10-21'};
+ const xml=buildApprovedQaSitemap([first,second]);
+ assert.match(xml,/<loc>https:\/\/pet\.japanmedai\.com\/qa\/cat-ear-first\/<\/loc><lastmod>2026-10-16<\/lastmod>/);
+ assert.match(xml,/<loc>https:\/\/pet\.japanmedai\.com\/qa\/dog-ear-second\/<\/loc><lastmod>2026-10-21<\/lastmod>/);
+ assert.equal((xml.match(/<url>/g)||[]).length,2);
+});
+test('one approved QA with missing date blocks the entire sitemap rather than partial output',()=>{
+ const valid={...fixture(),id:'TEST-201',canonicalSlug:'cat-ear-valid'};
+ const missing={...fixture(),id:'TEST-202',canonicalSlug:'cat-ear-missing-date',lastModifiedAt:undefined};
+ assert.throws(()=>buildApprovedQaSitemap([valid,missing]),/Invalid editorial lastModifiedAt/);
+});
