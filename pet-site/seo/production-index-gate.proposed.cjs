@@ -5,6 +5,7 @@ const CORE_PATHS = new Set(['', 'cat', 'dog', 'qa', 'about']);
 const NOINDEX_PATHS = new Set(['new-drugs']);
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const SHA256_RE = /^[a-f0-9]{64}$/;
 
 function normalizePath(path) {
   return String(path || '').replace(/^\/+|\/+$/g, '');
@@ -19,6 +20,10 @@ function validDate(value) {
 function qaApproved(record, slug) {
   return Boolean(record && record.slug === slug &&
     record.medicalReview?.status === 'approved' &&
+    typeof record.contentSha256 === 'string' && SHA256_RE.test(record.contentSha256) &&
+    record.medicalReview.contentSha256 === record.contentSha256 &&
+    record.founderPublishContentSha256 === record.contentSha256 &&
+    record.founderIndexContentSha256 === record.contentSha256 &&
     typeof record.medicalReview.reviewer === 'string' && record.medicalReview.reviewer.trim() &&
     typeof record.medicalReview.credentials === 'string' && record.medicalReview.credentials.trim() &&
     validDate(record.medicalReview.reviewedAt) &&
