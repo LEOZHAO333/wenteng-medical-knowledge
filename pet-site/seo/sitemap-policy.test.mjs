@@ -37,3 +37,33 @@ test('false editorial lastmod is not silently indexed',()=>{
  const a={...fixture(),lastModifiedAt:'2026-02-30'};
  assert.throws(()=>buildApprovedQaSitemap([a]),/Invalid editorial lastModifiedAt/);
 });
+
+test('explicit medical Hold overrides otherwise fully approved QA in sitemap',()=>{
+ const a=fixture();
+ const blockers=[
+  {medicalHold:true},
+  {releaseAuthorized:false},
+  {medicalReviewStatus:'pending_licensed_veterinarian'},
+  {medicalReviewStatus:'rejected'}
+ ];
+ for(const blocked of blockers){
+  const xml=buildApprovedQaSitemap([{...a,...blocked}]);
+  assert.equal((xml.match(/<url>/g)||[]).length,0);
+  assert.equal(xml.includes('/qa/cat-ear-test/'),false);
+ }
+});
+test('sitemap requires both independent Founder permissions',()=>{
+ const a=fixture();
+ for(const blocked of [{founderPublishApproved:false},{founderIndexApproved:false},{indexEligible:false}]){
+  const xml=buildApprovedQaSitemap([{...a,...blocked}]);
+  assert.equal((xml.match(/<url>/g)||[]).length,0);
+ }
+});
+test('medical Hold does not suppress separately approved QA entries',()=>{
+ const approved=fixture();
+ const held={...fixture(),id:'TEST-HOLD',canonicalSlug:'cat-ear-held',medicalHold:true};
+ const xml=buildApprovedQaSitemap([held,approved]);
+ assert.equal((xml.match(/<url>/g)||[]).length,1);
+ assert.equal(xml.includes('/qa/cat-ear-held/'),false);
+ assert.equal(xml.includes('/qa/cat-ear-test/'),true);
+});
