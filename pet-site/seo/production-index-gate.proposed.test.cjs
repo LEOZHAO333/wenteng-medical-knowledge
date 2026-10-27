@@ -2,8 +2,10 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const {eligible, robots, sitemapPaths, qaApproved} = require('./production-index-gate.proposed.cjs');
 const slug = 'cat-dandruff';
+const hash = 'a'.repeat(64);
 const approved = {
-  slug, medicalReview: {status:'approved', reviewer:'Test Reviewer',credentials:'Verified veterinary license evidence required',reviewedAt:'2026-10-20',evidenceRef:'synthetic-vet-proof'},
+  slug, contentSha256:hash, founderPublishContentSha256:hash, founderIndexContentSha256:hash,
+  medicalReview: {contentSha256:hash,status:'approved', reviewer:'Test Reviewer',credentials:'Verified veterinary license evidence required',reviewedAt:'2026-10-20',evidenceRef:'synthetic-vet-proof'},
   founderPublishEvidenceRef:'synthetic-publish-proof',founderIndexEvidenceRef:'synthetic-index-proof',
   medicalHold:false, founderPublishApproved:true,founderIndexApproved:true,indexEligible:true,
   publicationState:'published',firstPublishedAt:'2026-10-18',lastModifiedAt:'2026-10-20'
@@ -24,6 +26,10 @@ test('complete synthetic approval fixture passes only all gates', () => {
   assert.equal(eligible('qa/'+slug,{...config,verifyEvidence:()=>{throw Error('unavailable')}}),false);
   for (const patch of [
     {medicalHold:true},{founderPublishApproved:false},{founderIndexApproved:false},
+    {contentSha256:'b'.repeat(64)},
+    {founderPublishContentSha256:'b'.repeat(64)},
+    {founderIndexContentSha256:'b'.repeat(64)},
+    {medicalReview:{...approved.medicalReview,contentSha256:'b'.repeat(64)}},
     {indexEligible:false},{publicationState:'draft'},{firstPublishedAt:'2026-02-30'},
     {founderPublishEvidenceRef:''},{founderIndexEvidenceRef:''},
     {medicalReview:{...approved.medicalReview,evidenceRef:''}},
@@ -41,4 +47,12 @@ test('core, new-drugs and sitemap share policy', () => {
 test('duplicates and invalid slug rejected', () => {
   assert.throws(()=>sitemapPaths([slug,slug],config));
   assert.throws(()=>sitemapPaths(['../../bad'],config));
+});
+
+test('any changed body hash invalidates old approvals', () => {
+  const changed = {...approved,contentSha256:'b'.repeat(64)};
+  assert.equal(qaApproved(changed,slug),false);
+  assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:changed},verifyEvidence:()=>true}),false);
+  const invalid = {...approved,contentSha256:'not-a-hash',medicalReview:{...approved.medicalReview,contentSha256:'not-a-hash'},founderPublishContentSha256:'not-a-hash',founderIndexContentSha256:'not-a-hash'};
+  assert.equal(qaApproved(invalid,slug),false);
 });
