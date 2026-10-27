@@ -4,14 +4,17 @@ const {eligible, robots, sitemapPaths, qaApproved, computeContentSha256} = requi
 const slug = 'cat-dandruff';
 const source = 'renderer-bound synthetic article body';
 const hash = computeContentSha256(source);
+const rendererSource = 'synthetic renderer template';
+const rendererHash = computeContentSha256(rendererSource);
 const approved = {
-  slug, contentSha256:hash, founderPublishContentSha256:hash, founderIndexContentSha256:hash,
-  medicalReview: {contentSha256:hash,status:'approved', reviewer:'Test Reviewer',credentials:'Verified veterinary license evidence required',reviewedAt:'2026-10-20',evidenceRef:'synthetic-vet-proof'},
+  slug, rendererTemplateSha256:rendererHash, founderPublishRendererTemplateSha256:rendererHash, founderIndexRendererTemplateSha256:rendererHash,
+  contentSha256:hash, founderPublishContentSha256:hash, founderIndexContentSha256:hash,
+  medicalReview: {rendererTemplateSha256:rendererHash,contentSha256:hash,status:'approved', reviewer:'Test Reviewer',credentials:'Verified veterinary license evidence required',reviewedAt:'2026-10-20',evidenceRef:'synthetic-vet-proof'},
   founderPublishEvidenceRef:'synthetic-publish-proof',founderIndexEvidenceRef:'synthetic-index-proof',
   medicalHold:false, founderPublishApproved:true,founderIndexApproved:true,indexEligible:true,
   publicationState:'published',firstPublishedAt:'2026-10-18',lastModifiedAt:'2026-10-20'
 };
-const config = {production:true,siteApproved:true,approvals:{[slug]:approved},verifyEvidence:(record, s)=>s===slug && record===approved,getTrustedContent:()=>source};
+const config = {production:true,siteApproved:true,approvals:{[slug]:approved},verifyEvidence:(record, s)=>s===slug && record===approved,getTrustedContent:()=>source,getTrustedRendererSource:()=>rendererSource};
 test('unknown and unapproved QA fail closed', () => {
   assert.equal(eligible('qa/cat-dandruff',{production:true,siteApproved:true}),false);
   assert.equal(robots('qa/cat-dandruff',{production:true,siteApproved:true}),'noindex,follow');
@@ -24,6 +27,9 @@ test('complete synthetic approval fixture passes only all gates', () => {
   assert.equal(eligible('qa/'+slug,config),true);
   assert.equal(eligible('qa/'+slug,{...config,verifyEvidence:undefined}),false);
   assert.equal(eligible('qa/'+slug,{...config,getTrustedContent:undefined}),false);
+  assert.equal(eligible('qa/'+slug,{...config,getTrustedRendererSource:undefined}),false);
+  assert.equal(eligible('qa/'+slug,{...config,getTrustedRendererSource:()=>rendererSource+' changed'}),false);
+  assert.equal(eligible('qa/'+slug,{...config,getTrustedRendererSource:()=>{throw Error('unavailable')}}),false);
   assert.equal(eligible('qa/'+slug,{...config,getTrustedContent:()=>source+' changed'}),false);
   assert.equal(eligible('qa/'+slug,{...config,getTrustedContent:()=>null}),false);
   assert.equal(eligible('qa/'+slug,{...config,getTrustedContent:()=>{throw Error('unavailable')}}),false);
@@ -67,4 +73,13 @@ test('hash is derived from exact UTF-8 content bytes', () => {
   assert.notEqual(computeContentSha256(source),computeContentSha256(source+' '));
   assert.notEqual(computeContentSha256('é'),computeContentSha256('e\u0301'));
   assert.equal(computeContentSha256(null),null);
+});
+
+test('renderer template version is bound to each approval',()=>{
+  for(const key of ['rendererTemplateSha256','founderPublishRendererTemplateSha256','founderIndexRendererTemplateSha256']){
+    const altered={...approved,[key]:'b'.repeat(64)};
+    assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:altered},verifyEvidence:()=>true}),false);
+  }
+  const altered={...approved,medicalReview:{...approved.medicalReview,rendererTemplateSha256:'b'.repeat(64)}};
+  assert.equal(eligible('qa/'+slug,{...config,approvals:{[slug]:altered},verifyEvidence:()=>true}),false);
 });
