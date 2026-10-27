@@ -25,3 +25,10 @@
 `PASS / BLOCK`，按P0/P1/P2列出具体文件、触发路径、可复现测试与建议修复；明确是否允许继续Draft技术工作，**不授权合并、部署、改noindex或医学审核通过**。
 
 > 本文件仅为已保存的交接包，不表示Claude已收到或审完。需要通过既有双AI交接渠道实际提交并取得可追溯回复。
+
+## 第八轮补充：撤销与失效的测试语义
+
+- 候选测试新增可变的可信验证器状态：授权时 `eligible=true`、`robots=index,follow`、Sitemap包含QA；撤销后立即切换为 `eligible=false`、`robots=noindex,follow`、Sitemap移除QA。
+- 测试拒绝 `verifyEvidence` 返回 `false/undefined/null/0/Promise`，及异常；兽医 `revoked/pending`、审核人空值、资质空值、非法日期和medicalHold都阻断。
+- **注意：** 此测试只证明每次调用纯函数时，验证器结果会重新检查；真实服务可能存在CDN/HTML/Sitemap缓存、构建时静态化或搜索引擎抓取延迟，故**不能声称线上撤销即时生效**。正式设计需要缓存失效、部署/撤回操作、审计日志及真实HTTP验证。
+- **关键审计问题：** 当前 `verifyEvidence` 由调用方提供。必须确认生产环境使用独立、可信、可撤销的授权来源，且不存在用 `()=>true` 或静态缓存绕过的路径。
