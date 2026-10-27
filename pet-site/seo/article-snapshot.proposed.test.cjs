@@ -19,6 +19,10 @@ test('missing required fields and malformed body fail closed',()=>{
   assert.throws(()=>strictArticleSnapshot({...base,body:[{h:'标题',li:[42]}]}));
   assert.throws(()=>strictArticleSnapshot({...base,refs:[{name:'no url'}]}));
 });
-test('nonmedical derived chrome is excluded explicitly',()=>{
-  assert.equal(articleDigest(base),articleDigest({...base,relatedLinks:['not included'],runtimeCache:123}));
+test('unreviewed fields fail closed rather than silently bypass version hash',()=>{
+  assert.throws(()=>articleDigest({...base,drugDose:'new medical advice'}),/Unreviewed article fields/);
+  assert.throws(()=>articleDigest({...base,relatedLinks:['unreviewed related text']}),/Unreviewed article fields/);
+  assert.throws(()=>articleDigest({...base,body:[{h:'观察',li:['红斑'],medicalNote:'new claim'}]}),/invalid body block/);
+  assert.throws(()=>articleDigest({...base,refs:[{name:'资料',url:'https://example.org',note:'medical caveat'}]}),/invalid refs/);
+  assert.throws(()=>articleDigest({...base,body:['']}),/empty body paragraph/);
 });
