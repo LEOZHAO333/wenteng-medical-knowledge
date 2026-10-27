@@ -35,3 +35,9 @@
 新增隔离的 `article-snapshot.proposed.cjs` 和单元测试。根据当前 `pet-site/api/pet.js` 的 `articlePage(a)`，候选摘要字段包含：`slug/species/topic/title/summary/answer/body/refs/published/modified`。采用固定字段顺序、JSON.stringify生成UTF-8字符串，再计算SHA-256。测试覆盖字段顺序不变性及标题、答案、正文、列表、来源、日期等变化导致摘要失效。
 
 **已知范围缺口：** 当前渲染还包含全局固定免责声明、模板、结构化数据、关联问答、站点品牌/作者等信息；候选摘要尚未覆盖这些模板级或关联内容变化。正式上线前须另行定义模板版本摘要及动态关联内容的审签策略，确保没有会改变医学含义的未受控渲染内容。当前候选快照**不直接读取真实生产文章对象**，仍属于Draft纯函数，不能宣称已完成生产绑定或真实审核。
+
+## 第六轮：生产模板摘要绑定（隔离候选）
+
+新增 `renderer-template-gate.proposed.cjs`，并让候选 `eligible` 要求可信 `getTrustedRendererSource()` 的实际源码SHA-256与兽医、Founder发布、Founder索引记录中的模板版本摘要一致。任一模板摘要失配或来源不可读，拒绝索引。扩展测试覆盖模板变化和三个批准记录的失配。
+
+**范围与剩余风险：** 当前以整个renderer源码作为模板版本候选，属于保守方案；非医学代码变更也可能导致失效，需要未来定义模板变更审批流程。它尚未接入真实生产renderer，也尚未从运行环境验证页面动态相关链接的最终HTML；不能据此声称已经核实生产页面或获得医疗审签。生产代码 `pet-site/api/pet.js` 未被修改。
