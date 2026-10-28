@@ -10,7 +10,7 @@ const source=fs.readFileSync(path.join(__dirname,'../api/pet.js'),'utf8');
 const start=source.indexOf('const articles = [');
 const end=source.indexOf('];',start);
 if(start<0||end<start)throw new Error('Production article array boundary not found');
-const literal=source.slice(start+'const articles = '.length,end+2);
+const literal=source.slice(start+'const articles = '.length,end+1);
 const articles=vm.runInNewContext('('+literal+')',Object.create(null),{timeout:1000});
 if(!Array.isArray(articles)||articles.length===0)throw new Error('Empty or malformed production articles');
 const seen=new Set(), failures=[];
