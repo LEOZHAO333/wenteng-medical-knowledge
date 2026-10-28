@@ -33,6 +33,7 @@ jobs:
           node --check pet-site/seo/audit-approval-boundaries.mjs
           node --check pet-site/seo/sitemap-policy.mjs
           node --check pet-site/seo/audit-priority-remediation.mjs
+          node --check pet-site/seo/audit-postop-evidence-20261028.mjs
           node --check pet-site/seo/audit-production-index-gap.mjs
           node --check pet-site/seo/export-production-qa-evidence-gaps.mjs
       - name: Verify content mapping against renderer
@@ -51,6 +52,8 @@ jobs:
         run: node pet-site/seo/audit-approval-boundaries.mjs
       - name: Verify priority medical Hold handoff (read-only)
         run: node pet-site/seo/audit-priority-remediation.mjs
+      - name: Guard postoperative editorial corrections and Hold (read-only)
+        run: node pet-site/seo/audit-postop-evidence-20261028.mjs
       - name: Inventory production index eligibility and Article dates (read-only)
         run: node pet-site/seo/audit-production-index-gap.mjs
       - name: Inventory 40 production QA evidence gaps (no synthetic approval)
