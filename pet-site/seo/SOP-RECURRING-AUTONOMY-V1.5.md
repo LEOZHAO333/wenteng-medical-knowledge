@@ -1,5 +1,5 @@
 # 日宠通 GEO/SEO 标准执行流程 SOP V1.5
-版本：2026-10-18 · 状态：**Founder已确认日常执行授权**；原 PR #8 已于2026-10-18合并至 main，当前逐主张医学质控仅在 Draft PR #35（pet/sop15-claim-evidence-20261022）继续，未授权再次合并或部署。
+版本：2026-10-18 · 状态：**Founder已确认日常执行授权**；原 PR #8 已于2026-10-18合并至 main，PR #35已于2026-10-27合并；2026-10-28新一轮逐主张医学质控在Draft PR #39（pet/sop15-postop-safety-evidence-20261028）继续。独立索引技术PR #38仍为Draft，未授权合并或部署。
 
 > **总原则：重复性、可逆、已定标准且不触及正式发布或对外承诺的工作，GPT无需逐次询问Founder，直接执行并留下可追踪记录。涉及重大决策才交Founder裁决。** 任何机器检查、编辑审核、Founder批准均不能取代执业兽医医学审核。
 
@@ -68,6 +68,10 @@
 ## 7. 当前范围和具体边界（建立本流程时）
 
 - 唯一内容资产：A350 + S232 = **582条Draft**；来源编辑记录Batch01–27共582个不同ID；尚缺编辑来源记录0条（S0/A0）；下一阶段从来源存在性转为来源支撑范围复查、风险整改、合资格兽医审稿交接。数字随成功提交自动更新，不作为固定目标或上线成果。
-- PR #8 已于2026-10-18合并，不再是Draft；PR #13 经Founder另行批准并合并，生产代码在 Vercel Production 条件下允许首页/栏目/40条问答共45个URL候选进入索引白名单，`new-drugs`和Preview仍noindex。这45个渲染URL与582条S/A编辑草稿不是同一审核集合，白名单不等于逐篇执业兽医Medical Approved或搜索引擎已收录。当前PR #35保持Draft，不修改`pet-site/api/pet.js`或Production配置。
+- PR #8 已于2026-10-18合并，不再是Draft；PR #13 经Founder另行批准并合并，生产代码在 Vercel Production 条件下允许首页/栏目/40条问答共45个URL候选进入索引白名单，`new-drugs`和Preview仍noindex。这45个渲染URL与582条S/A编辑草稿不是同一审核集合，白名单不等于逐篇执业兽医Medical Approved或搜索引擎已收录。PR #35已合并；本轮仅PR #39保持Draft，不修改`pet-site/api/pet.js`或Production配置。
 - `pet-site/seo/approval-boundaries.json` 将本SOP转为机器检查字段；`audit-approval-boundaries.mjs`确保两个层级和停止规则存在。自动QA只能核对治理文件存在、字段格式，不可能推断现实中的Founder或执业兽医意图。
 - 本次是**用户对日常重复执行的授权**，不是对任意未来生产发布、资金支出、权限扩大或法律医学风险的无限授权。
+
+## 2026-10-28 状态校正（不改变权限）
+
+PR #8和PR #35均已合并至main，不得继续称其为Draft。当前术后医学证据工作在Draft PR #39；逐篇索引门槛技术候选在独立Draft PR #38。所有Founder发布/索引授权与执业兽医签署要求不变。当前自动审计仍只检查静态一致性，不代表生产医疗批准。
