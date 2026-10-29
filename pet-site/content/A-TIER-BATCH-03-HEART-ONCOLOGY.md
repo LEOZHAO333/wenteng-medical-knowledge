@@ -158,7 +158,7 @@
 判断保健品值不值得买，关键是适不适合这只狗、证据是否充分、会不会影响原有治疗。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
 
 - GEO关键词：犬心脏病、狗心脏保健品、犬心力衰竭、鱼油Omega-3、犬营养管理、宠物保健品相互作用。
-- 编辑来源：Tufts Cummings Veterinary Nutrition（https://vet.tufts.edu/clinical-care-services/nutrition）；ACVIM犬二尖瓣疾病共识（Omega-3仅适用特定犬群，个体判断待兽医审核）。
+- 编辑来源：Tufts Cummings HeartSmart—Heart Disease: Nutrition（https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/cardiology/heartsmart/heart-disease-nutrition）；ACVIM 2019犬二尖瓣疾病共识（https://academic.oup.com/jvim/article/33/3/1127/8448111，Stage C膳食建议仅涉及特定心衰犬，不得泛化；个体判断待兽医审核）。
 - 来源核对：2026-10-29，编辑级参考；未形成逐句执业兽医签审。
 
 ---
