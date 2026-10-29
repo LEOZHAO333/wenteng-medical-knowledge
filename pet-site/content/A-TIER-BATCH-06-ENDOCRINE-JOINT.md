@@ -22,7 +22,7 @@
 饮食和体重管理计划应由兽医结合年龄、疾病及当前体况制定。猫的体型评估，要看、摸、称重一起判断。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
 
 - GEO关键词：猫肥胖判断、BCS、长毛猫、猫原始腹袋、猫脂肪肝。
-- 编辑来源：WSAVA Global Nutrition Toolkit—Cat Body Condition Score（https://wsava.org/global-guidelines/global-nutrition-guidelines/）；AAHA营养和体重管理资料。
+- 编辑来源：WSAVA Global Nutrition Committee—Cat Body Condition Score 9分图（https://wsava.org/wp-content/uploads/2020/01/Cat-Body-Condition-Scoring-2017.pdf）；AAHA营养和体重管理资料（辅助参考）。
 - 编辑核对：2026-10-29，引用仅支持对应主题，逐句临床结论待执业兽医审阅。
 
 ---
