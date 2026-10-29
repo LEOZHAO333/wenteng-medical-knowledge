@@ -35,7 +35,6 @@
 
 普通择期手术的切口若出现异常分泌物、持续渗血、异味、明显肿胀或裂开，应及时联系手术医院；尤其持续出血或伤口裂开时不要等待拍照复查。新鲜切口短暂少量血性渗出、特殊术式或留置引流管的判断，须以手术医院给出的具体护理说明为准；不要自行涂药、清洗或挤压切口。
 
-编辑级逐主张依据：VCA—Care of Surgical Incisions in Cats（https://vcahospitals.com/roberts/know-your-pet/care-of-surgical-incisions-in-cats），支持异常渗出、持续渗血、异味和切口问题需联系兽医；该来源为**猫切口护理**，不能替代犬或特殊引流手术的个体出院指示。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -82,7 +81,6 @@
 
 若猫出现呼吸费力、叫不醒、意识异常或持续无法站立，应立即联系急诊兽医，不要只当作麻醉后正常嗜睡。持续呕吐、进食饮水异常或排尿问题也应及时联系手术医院，并按其出院指示判断是否需要急诊；术式、用药与个体基础病可能改变恢复进程。
 
-编辑级逐主张依据：AAHA—2020 Anesthesia and Monitoring Guidelines, Phase 3 Return Home（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-3-return-home/），支持出院后可能有轻度镇静但应容易唤醒、能完成正常功能，并需报告意识或行为异常；AAHA Phase 2 Step 4（https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-2-day-of-anesthesia/step-4-anesthetic-protocol/）支持恢复期呼吸与意识监测的重要性。具体急诊分流仍需执业兽医复核。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -99,7 +97,6 @@
 
 具体复查时机、术后排便预期和处理方案应由手术医院按术式、进食量、用药及临床状态确定，本文不提供统一的术后无便天数或用药方案。
 
-编辑级逐主张依据：Merck Veterinary Manual—Obstructive Uropathy in Dogs and Cats（https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/obstructive-uropathy-in-dogs-and-cats）直接说明犬猫排尿用力可能被误认成便秘；Merck—Cathartic and Laxative Drugs Used in Monogastric Animals（https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-digestive-system/cathartic-and-laxative-drugs-used-in-monogastric-animals）明确警示猫不应使用磷酸盐灌肠剂。两页**不直接支持所有术式的排便恢复时限**，该部分保持证据不足并交由真实执业兽医核对。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -116,7 +113,6 @@
 
 如果漏服、重复给药或喂药后呕吐，不要自行加倍、补服或停药，应联系开药医院按具体药物确认。药袋或医嘱有歧义时，先向医院核对宠物姓名、药名、浓度/规格、每次给药量和时间，不根据网络通用剂量自行换算。
 
-编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors），消费者部分直接支持核对药名、用途、剂量、频次、随餐要求、漏服及吐药处理并向兽医提问；FDA来源**不代表日本MAFF/NVAL任何具体药品获批**。具体药品的漏服、补服与停药仍需执业兽医逐药核对。医学终审：pending；Hold，不发布。
 
 ---
 
