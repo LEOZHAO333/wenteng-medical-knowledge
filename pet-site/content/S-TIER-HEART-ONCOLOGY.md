@@ -110,17 +110,39 @@
 
 ## 0418｜狗突然晕倒又很快恢复，还需要急诊吗？
 - Slug：`dog-collapse-syncope-heart`
-- 直接回答：需要尽快评估。突然倒地后很快恢复可能是晕厥，也可能有其他神经或代谢原因，不能因为恢复快就忽略。
+- 直接回答：即使数十秒后恢复，也应当天联系兽医评估；呼吸异常、反复倒地或意识未恢复时立即急诊。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-狗突然在走路、兴奋或运动时倒下，几秒到几分钟后又恢复，主人容易觉得“已经好了”。但这种表现可能和心律失常、心脏输出不足等有关，也可能来自神经、低血糖或其他问题。
+狗狗突然倒地，几十秒后又站起来，甚至像什么都没发生，主人很容易以为只是累了。实际上，短暂晕倒后快速恢复也不能排除严重疾病。即使只发生一次，也建议当天联系动物医院评估；若伴随危险表现，应立即急诊。
 
-如果能安全拍到视频，对医生区分晕厥和抽搐很有帮助。还要记录发生前是在运动、咳嗽还是静息，倒地多久，恢复后是否立即正常。
+这类突然倒地需要区分晕厥、癫痫样发作及其他全身问题。心律异常可能使脑部暂时供血不足，引起短暂意识丧失，但低血糖、呼吸问题等也可能出现相似表现。主人应回忆发作前是否正在散步、兴奋或咳嗽，倒下时身体是突然软倒还是四肢抽动，有没有失禁，以及多久恢复清醒。条件允许时可拍摄视频，但不要为了录像延误救助，更不能把手伸进狗狗嘴里。
 
-如果晕倒反复、持续时间变长，伴随呼吸困难、舌色异常或明显虚弱，应按更紧急的情况处理。
+发作后先让狗狗在安全、安静的地方休息，暂时避免奔跑和兴奋，观察呼吸、牙龈颜色及精神状态。若持续意识不清、呼吸费力、牙龈苍白或发青、反复晕倒、明显虚弱，或跌倒受伤，应立刻联系急诊。即便已经恢复，也要尽快把发作时间、持续时长、视频、既往心脏检查和正在使用的药物清单带给兽医，由医生判断是否需要心电图等检查。
 
-即使第一次发生后恢复正常，也应尽快联系兽医评估；若反复倒地、伴明显呼吸困难、牙龈苍白或持续反应异常，应直接联系急诊。仅凭短暂恢复不能排除心律失常等严重原因。
+恢复得快不等于风险已经解除，尤其有心脏病史的狗狗，更不能只在家等待下次发作。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
 
-编辑来源：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients），将倒地及意识异常列为需立即评估的急诊主诉；晕厥具体鉴别仍待兽医复核。医学审核：pending。
+- GEO关键词：犬晕厥、狗突然晕倒、犬心律失常、犬急诊、犬心脏病。
+- 编辑来源：Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients（https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients）；原0418来源记录保留。
+- 来源核对：2026-10-29，编辑级参考；未形成逐句执业兽医签审。
+
+---
+
+## 0419｜狗心脏病又有肾病，为什么复查更重要？
+- Slug：`dog-heart-kidney-disease-followup`
+- 直接回答：心肾疾病和用药可能相互影响，复查需同时评估呼吸循环、肾功能、电解质与血压，而非只观察精神。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗同时查出心脏病和肾病，主人常疑惑：明明药一直按时吃，为什么还要频繁复查？原因是心脏、肾脏都参与维持血液循环和水分平衡。一边需要控制心衰引起的积液，一边又要避免脱水和肾功能恶化，不能只看狗狗当天精神好不好。
+
+犬心力衰竭治疗中，兽医可能使用利尿药帮助排出多余水分，但排水过多也可能导致脱水、肾脏灌注减少或电解质异常。部分心脏药物还会影响血压和肾脏相关指标。肾病也可能让用药与饮食安排更复杂，因此复查不只是再听一次心跳，通常还需要结合血压、肌酐、尿素氮、电解质、尿液检查，必要时复查胸部影像或心脏超声。开始用药、调整药物或病情变化后，兽医可能安排更密切追踪，不能套用统一复查间隔。
+
+在家最实用的是做一张简单记录表：每天观察食欲、饮水与排尿、体重、精神及活动能力，并在狗狗熟睡时记录呼吸次数。复诊时带上近期化验单、心超、药物清单和记录，帮助兽医判断变化来自心脏、肾脏还是治疗本身。若出现呼吸费力、无法平躺、突然虚脱等情况应立即急诊；持续不吃、反复呕吐、尿量明显减少也应尽快联系医院。不要自行停利尿药、限水、补液或更换处方粮。
+
+心肾同时患病时，复查的价值是尽早发现变化，让治疗既照顾呼吸和循环，也兼顾肾功能。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：犬心肾共病、狗心脏病、犬肾功能复查、利尿药、电解质、犬心力衰竭。
+- 编辑来源：Tufts Cummings School—Monitoring Heart Disease Treatment at Home（https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/cardiology/heartsmart/heart-disease-treatments/monitoring-heart-disease-treatment-home）；ACVIM MMVD共识指引（临床与用药监测适用范围待执业兽医复核）。
+- 来源核对：2026-10-29，编辑级参考；未形成逐句执业兽医签审。
 
 ---
 
