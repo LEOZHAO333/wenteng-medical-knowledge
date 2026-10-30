@@ -16,7 +16,7 @@ const warnings=[];
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 async function get(url){
   const safe=new URL(url);
-  if(safe.origin!==BASE||!['/','/sitemap.xml'].includes(safe.pathname)&&!/^\/(?:qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/)$/.test(safe.pathname)){
+  if(safe.origin!==BASE||!['/','/qa/','/sitemap.xml'].includes(safe.pathname)&&!/^\/(?:qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/)$/.test(safe.pathname)){
     throw new Error('disallowed audit path '+url);
   }
   for(let attempt=1;attempt<=2;attempt++){
