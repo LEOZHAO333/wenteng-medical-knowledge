@@ -11,7 +11,7 @@
 - [狗健康知识](https://pet.japanmedai.com/dog/)
 - [90篇健康问答目录](https://pet.japanmedai.com/qa/)
 - [关于日宠通](https://pet.japanmedai.com/about/)
-- [完整AI阅读说明与90篇链接索引](https://pet.japanmedai.com/llms-full.txt/)
+- [完整AI阅读说明与90篇链接索引](https://pet.japanmedai.com/llms-full.txt)
 
 ## 高风险问题示例
 - [猫眼睛表面发白，能自己买眼药水吗？](https://pet.japanmedai.com/qa/cat-cloudy-eye/)
