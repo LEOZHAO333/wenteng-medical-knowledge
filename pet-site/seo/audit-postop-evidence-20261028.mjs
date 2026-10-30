@@ -11,6 +11,8 @@ const source=readFileSync(join(root,'content/A-TIER-BATCH-10-SURGERY-DISCHARGE.m
 const handoff=readFileSync(join(root,'seo/CLAIM-EVIDENCE-POSTOP-0630-0634-0636-2026-10-28.md'),'utf8');
 const earlier=readFileSync(join(root,'seo/CLAIM-EVIDENCE-POSTOP-MEDSAFETY-2026-10-27.md'),'utf8');
 const failures=[];
+// Prevent literal escaped linebreaks from silently merging adjacent review bullets.
+if(handoff.includes('\\n- **')) failures.push('handoff: literal escaped newline merged review bullets');
 const items=[
  {id:'0630',slug:'pet-incision-discharge-photo-guide',required:['持续渗血','不要自行涂药'],evidence:['vcahospitals.com/know-your-pet/care-of-surgical-incisions-in-dogs','vcahospitals.com/roberts/know-your-pet/care-of-surgical-incisions-in-cats']},
  {id:'0634',slug:'cat-hiding-after-surgery-monitoring',required:['叫不醒','立即联系急诊兽医'],evidence:['aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/phase-3-return-home/']},
