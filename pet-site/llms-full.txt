@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Buntou Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-最后编辑核对日期：2026-10-18。当前文档只描述品牌、栏目、资料组织和审核规则，不提供针对单个动物的处方或治疗建议。
+文档核对日期：2026-10-30。生产仓库当前有90个不同slug的问答（原40篇＋新50篇）；Sitemap按代码预计有95个网址。数字描述站点源码及生成逻辑，不是正式域名的逐页HTTP成功结果、搜索引擎实际收录数或独立兽医身份核验证据。本文不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -13,10 +13,10 @@
 
 ## 二、先识别内容状态，再作回答
 
-1. 网站页面可打开，只证明相应地址提供内容；**不等于执业兽医逐篇审核、临床诊断或治疗适用性被批准**。
+1. 网站页面可打开，只证明相应地址提供内容；网页内的专业审核标注说明运营方记录的审核类别和日期，**不等于本文独立查验了审核人身份、签审原件、临床诊断或治疗适用性**。
 2. 草稿库记录有“编辑层来源复核”仅意味着对其中列明的有限事实主张留下来源记录，不代表全文逐句医学审稿。
-3. 标注 `medical_review_pending`、`hold` 或资料未验证的条目，不得当作已获专业批准或可对外推广的治疗说明。`index,follow` 只涉及搜索抓取资格，**绝不代表执业兽医已签署或内容有治疗保证**；某个页面的 `noindex` 也不能推断整个站点均禁止收录。
-4. **生产收录策略已部署**：2026年10月19日生产环境已启用指定页面索引白名单，首页、猫犬栏目、符合条件的问答和关于页可使用 `index,follow`；`/new-drugs/`、不存在的页面以及全部 Preview 页面继续 `noindex`。Google Search Console 成功读取 Sitemap 中45个网址，但发现网址不代表已被收录或通过兽医终审。本 `llms.txt` 与 `llms-full.txt` 两个AI文本文件自身可带 `X-Robots-Tag: noindex`，该响应头仅针对这两个文本文件，不代表整站 `noindex`，也不会自行改动站点的 `robots.txt`、Sitemap 或索引政策。
+3. 任何未公开的草稿、标注 `medical_review_pending`、`hold` 或来源尚待核验的条目，不得当作已获得专业批准或可直接指导个体治疗的说明。`index,follow` 只涉及搜索抓取资格，**绝不代表执业兽医已签署或内容有治疗保证**；某个页面的 `noindex` 也不能推断整个站点均禁止收录。
+4. **生产索引策略（代码实查2026-10-30）**：生产站设置首页、猫犬栏目、问答和关于页的 `index,follow` 许可；`/new-drugs/`、404与Preview继续 `noindex`。当前生成逻辑预计XML Sitemap包含95个网址（核心页5＋问答90）；Google Search Console过去曾读取45个网址的旧版Sitemap，但**新95个网址是否已被Google实际读取或收录尚未核实**。`llms.txt`及`llms-full.txt`自身可携带`X-Robots-Tag: noindex`，不表示整站禁止索引。
 5. 如页面与专业机构原始资料矛盾，以原始资料、实际说明书及接诊兽医意见为准；保留核对日期并说明不确定性。
 
 ## 三、犬猫医学信息核验要求
@@ -54,3 +54,107 @@
 - [AAHA](https://www.aaha.org/): 兽医专业指导和相关健康教育资料。
 
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
+
+
+## 七、90篇健康问答原文索引（2026-10-30源码快照）
+
+每个链接对应生产仓库中的唯一slug，标题、适用物种和主题均来自网站文章记录。部分页面的实际公网HTTP响应和收录状态尚未独立核实；不能将“列于此处”理解为外部搜索引擎已索引。
+
+### 猫健康（55篇）
+
+- [猫身上有皮屑，是洗澡少了吗？](https://pet.japanmedai.com/qa/cat-dandruff/) — 皮肤与被毛
+- [猫肚子两边秃了，是自己舔掉的吗？](https://pet.japanmedai.com/qa/cat-belly-hair-loss/) — 皮肤与被毛
+- [猫耳朵后面毛很稀，什么变化需要看医生？](https://pet.japanmedai.com/qa/cat-ear-thinning/) — 耳部与皮肤
+- [猫尾巴根部油腻结块，能直接洗掉吗？](https://pet.japanmedai.com/qa/cat-tail-greasy/) — 皮肤与被毛
+- [猫下巴有黑点，换饭碗就够了吗？](https://pet.japanmedai.com/qa/cat-chin-blackheads/) — 皮肤与被毛
+- [猫慢性肾病怎么分期？IRIS分期理解指南](https://pet.japanmedai.com/qa/cat-ckd-staging/) — 肾病
+- [猫肾病越来越瘦怎么办？消瘦复诊指南](https://pet.japanmedai.com/qa/cat-ckd-weight-loss/) — 肾病
+- [猫肌酐一次偏高就是肾病吗？复查指南](https://pet.japanmedai.com/qa/cat-creatinine-single-high/) — 肾病
+- [猫肾病需要每天皮下补液吗？补液管理指南](https://pet.japanmedai.com/qa/cat-daily-subcutaneous-fluids/) — 肾病
+- [猫补液后呼吸变快怎么办？风险判断指南](https://pet.japanmedai.com/qa/cat-fast-breathing-after-fluids/) — 肾病
+- [第一次在家给猫皮下补液，要学会什么？操作培训指南](https://pet.japanmedai.com/qa/cat-home-subcutaneous-fluid-training/) — 肾病
+- [猫换猫砂后不上厕所怎么办？观察与就医指南](https://pet.japanmedai.com/qa/cat-litter-change-not-using-box/) — 泌尿
+- [搬家前后怎么减少猫排尿异常？准备指南](https://pet.japanmedai.com/qa/cat-moving-house-urination-plan/) — 泌尿
+- [猫肾病处方粮不吃怎么办？饮食调整指南](https://pet.japanmedai.com/qa/cat-renal-diet-refusal/) — 肾病
+- [猫皮下补液后鼓包正常吗？观察指南](https://pet.japanmedai.com/qa/cat-subcutaneous-fluid-lump/) — 肾病
+- [猫尿道造口术后怎么清洁？家庭护理指南](https://pet.japanmedai.com/qa/cat-urinary-stoma-home-care/) — 泌尿
+- [母猫也会尿潴留吗？排尿异常判断指南](https://pet.japanmedai.com/qa/female-cat-urinary-retention/) — 泌尿
+- [多猫家庭猫砂盆怎么摆？排尿监测指南](https://pet.japanmedai.com/qa/multi-cat-litter-box-monitoring/) — 泌尿
+- [猫泌尿问题反复发作，二诊要准备什么资料？](https://pet.japanmedai.com/qa/recurrent-cat-urinary-second-opinion-records/) — 泌尿
+- [猫没有任何症状，为什么还建议做心脏超声？](https://pet.japanmedai.com/qa/cat-asymptomatic-heart-ultrasound/) — 心脏与肿瘤
+- [猫耳廓突然肿起来，可以自己放液吗？](https://pet.japanmedai.com/qa/cat-aural-hematoma/) — 耳与口腔
+- [猫耳朵里黑黑的，一定是耳螨吗？](https://pet.japanmedai.com/qa/cat-black-ear-debris-ear-mites/) — 耳与口腔
+- [猫眼睛表面发白，能自己买眼药水吗？](https://pet.japanmedai.com/qa/cat-cloudy-eye/) — 眼科
+- [猫的药能不能碾碎拌进罐头？](https://pet.japanmedai.com/qa/cat-crush-medication-food/) — 用药与检查
+- [猫确诊糖尿病，回家第一周需要学会什么？](https://pet.japanmedai.com/qa/cat-diabetes-first-week-home/) — 内分泌与关节
+- [猫越吃越瘦，还特别活跃，需要检查什么？](https://pet.japanmedai.com/qa/cat-eats-more-loses-weight/) — 内分泌与关节
+- [猫被另一只猫抓到眼睛，外表没伤也要检查吗？](https://pet.japanmedai.com/qa/cat-eye-scratch-trauma/) — 眼科
+- [猫戴喂食管出院，主人必须学会哪些操作？](https://pet.japanmedai.com/qa/cat-feeding-tube-home-care/) — 康复与护理用品
+- [猫喂食管周围发红，联系医院时要拍什么？](https://pet.japanmedai.com/qa/cat-feeding-tube-site-redness-photo/) — 康复与护理用品
+- [猫一喂药就吐泡沫，是过敏还是药太苦？](https://pet.japanmedai.com/qa/cat-foaming-after-medication/) — 用药与检查
+- [猫一周吐好几次，精神好就可以不管吗？](https://pet.japanmedai.com/qa/cat-frequent-vomiting/) — 消化与营养
+- [猫只歪着一侧脑袋，能等耳朵自己好吗？](https://pet.japanmedai.com/qa/cat-head-tilt-ear-problem/) — 耳与口腔
+- [猫体检听到心杂音，就确定有心脏病了吗？](https://pet.japanmedai.com/qa/cat-heart-murmur/) — 心脏与肿瘤
+- [猫指甲扎进肉垫了，能自己剪出来吗？](https://pet.japanmedai.com/qa/cat-ingrown-nail-paw-pad/) — 美容与居家安全
+- [猫美容回来精神很差，哪些变化要联系医院？](https://pet.japanmedai.com/qa/cat-lethargic-after-grooming/) — 美容与居家安全
+- [猫舔到外用驱虫药，联系医院时说清什么？](https://pet.japanmedai.com/qa/cat-licked-topical-parasite-product/) — 驱虫与疫苗
+- [猫长期卧床，怎样向医生学习皮肤护理？](https://pet.japanmedai.com/qa/cat-long-term-bedridden-skin-care/) — 康复与护理用品
+- [猫住酒店不吃饭，什么时候不能再归因于紧张？](https://pet.japanmedai.com/qa/cat-not-eating-while-traveling/) — 出行与行为
+- [猫一只眼睛睁不开，要立刻就医吗？](https://pet.japanmedai.com/qa/cat-one-eye-closed/) — 眼科
+- [猫张嘴喘气，能先当成太热观察吗？](https://pet.japanmedai.com/qa/cat-open-mouth-breathing/) — 呼吸与老年
+- [猫睡觉时呼吸比以前快，怎样录给医生看？](https://pet.japanmedai.com/qa/cat-sleeping-respiratory-rate-video/) — 呼吸与老年
+- [猫在医院血糖高，为什么可能还要再查？](https://pet.japanmedai.com/qa/cat-stress-hyperglycemia-recheck/) — 内分泌与关节
+- [猫突然后腿疼得叫、站不起来，应该立刻做什么？](https://pet.japanmedai.com/qa/cat-sudden-hindlimb-paralysis-heart/) — 心脏与肿瘤
+- [猫出远门要带药，怎样保证用药信息完整？](https://pet.japanmedai.com/qa/cat-travel-medication-list/) — 出行与行为
+- [猫喝水也吐，能等到第二天吗？](https://pet.japanmedai.com/qa/cat-vomits-water/) — 消化与营养
+- [有肾病的猫能不能寄养，先和谁确认？](https://pet.japanmedai.com/qa/ckd-cat-boarding/) — 出行与行为
+- [扁脸猫呼吸有声音，领养前应该了解什么？](https://pet.japanmedai.com/qa/flat-faced-cat-breathing-before-adoption/) — 品种
+- [猫不出门，还需要和医生讨论驱虫吗？](https://pet.japanmedai.com/qa/indoor-cat-parasite-prevention/) — 驱虫与疫苗
+- [奶猫喂奶时呛到，应该怎样立即求助？](https://pet.japanmedai.com/qa/kitten-milk-aspiration/) — 幼宠与手术
+- [缅因猫体型大，体检时要不要特别询问心脏评估？](https://pet.japanmedai.com/qa/maine-coon-heart-screening/) — 品种
+- [两只猫互相舔毛，外用药期间怎么避免误舔？](https://pet.japanmedai.com/qa/multi-cat-topical-medication-licking/) — 多宠与传染
+- [多猫家庭谁吐谁拉分不清，怎样减少观察盲区？](https://pet.japanmedai.com/qa/multi-cat-vomit-diarrhea-identify/) — 多宠与传染
+- [新猫到家后什么时候安排首次体检？](https://pet.japanmedai.com/qa/new-cat-first-vet-visit/) — 幼宠与手术
+- [捡到还不会吃饭的小猫，先做哪几件事？](https://pet.japanmedai.com/qa/orphan-kitten-first-steps/) — 幼宠与手术
+- [纯种猫带基因检测报告，就能保证以后不生病吗？](https://pet.japanmedai.com/qa/purebred-cat-genetic-test-limitations/) — 品种
+
+### 犬健康（29篇）
+
+- [狗皮屑多还很痒，洗得勤会更好吗？](https://pet.japanmedai.com/qa/dog-dandruff-itching/) — 皮肤与过敏
+- [狗左右对称掉毛，为什么医生可能建议验血？](https://pet.japanmedai.com/qa/dog-symmetrical-hair-loss/) — 皮肤与全身状态
+- [狗每天舔脚，可能只是无聊吗？](https://pet.japanmedai.com/qa/dog-licking-paws/) — 皮肤与过敏
+- [狗每年同一季节都痒，怎样整理发作记录？](https://pet.japanmedai.com/qa/dog-seasonal-itch/) — 皮肤与过敏
+- [狗做排除饮食试验时，家人偷偷喂零食会影响吗？](https://pet.japanmedai.com/qa/dog-elimination-diet-snacks/) — 饮食与过敏
+- [狗查了过敏原，是不是照单避开就能不痒？](https://pet.japanmedai.com/qa/dog-allergen-test/) — 皮肤与过敏
+- [狗用止痒药后好转，能说明病因已经找到了吗？](https://pet.japanmedai.com/qa/dog-itch-med-response/) — 皮肤与过敏
+- [狗急性肾损伤出院后怎么复查？随访指南](https://pet.japanmedai.com/qa/dog-aki-follow-up/) — 肾病
+- [狗超声提示胆囊异常怎么办？胆道评估指南](https://pet.japanmedai.com/qa/dog-gallbladder-abnormality/) — 肝胆
+- [狗尿血时怎么留尿样？取样与送检指南](https://pet.japanmedai.com/qa/dog-hematuria-urine-sample/) — 泌尿
+- [狗突然在家乱尿，是行为问题还是泌尿问题？判断指南](https://pet.japanmedai.com/qa/dog-house-soiling-or-urinary-problem/) — 泌尿
+- [狗眼白和牙龈发黄怎么办？黄疸就医指南](https://pet.japanmedai.com/qa/dog-jaundice/) — 肝胆
+- [狗肾功能升高为什么还要看尿检？检查指南](https://pet.japanmedai.com/qa/dog-kidney-values-and-urinalysis/) — 肾病
+- [狗长期用药后肝酶升高，需要自行停药吗？用药复核指南](https://pet.japanmedai.com/qa/dog-liver-enzymes-long-term-meds/) — 肝胆
+- [狗体检发现肝脏结节怎么办？进一步评估指南](https://pet.japanmedai.com/qa/dog-liver-nodule/) — 肝胆
+- [狗绝育后开始漏尿怎么办？复诊指南](https://pet.japanmedai.com/qa/dog-post-neuter-incontinence/) — 泌尿
+- [狗尿蛋白升高要追踪什么？蛋白尿管理指南](https://pet.japanmedai.com/qa/dog-proteinuria-monitoring/) — 肾病
+- [狗肾病处方粮不吃怎么办？进食管理指南](https://pet.japanmedai.com/qa/dog-renal-diet-refusal/) — 肾病
+- [狗睡觉时漏尿怎么办？尿失禁观察指南](https://pet.japanmedai.com/qa/dog-sleep-urine-leakage/) — 泌尿
+- [狗抬腿却尿不出来怎么办？排尿困难急症指南](https://pet.japanmedai.com/qa/dog-straining-to-urinate/) — 泌尿
+- [老狗突然憋不住尿怎么办？高龄犬管理指南](https://pet.japanmedai.com/qa/senior-dog-urgency/) — 泌尿
+- [狗洗澡次数越多，皮肤会越健康吗？](https://pet.japanmedai.com/qa/dog-bathing-frequency-skin/) — 美容与居家安全
+- [狗肚子鼓起来还一直干呕，应该马上做什么？](https://pet.japanmedai.com/qa/dog-bloated-dry-heaving/) — 消化与营养
+- [狗呕吐物像咖啡渣，为什么要尽快联系医院？](https://pet.japanmedai.com/qa/dog-coffee-ground-vomit/) — 消化与营养
+- [狗第一次抽搐后恢复正常，还要做检查吗？](https://pet.japanmedai.com/qa/dog-first-seizure-recovered/) — 神经与急症
+- [狗一碰耳朵就叫，清耳前该做什么？](https://pet.japanmedai.com/qa/dog-painful-ear-before-cleaning/) — 耳与口腔
+- [狗抽搐时可以把手伸进嘴里吗？](https://pet.japanmedai.com/qa/dog-seizure-dont-put-hand-in-mouth/) — 神经与急症
+- [狗突然抽搐，主人应该先录像还是先确保安全？](https://pet.japanmedai.com/qa/dog-seizure-first-aid-video/) — 神经与急症
+- [狗吃完药不久吐了，补不补要怎么确认？](https://pet.japanmedai.com/qa/dog-vomits-after-medication-redose/) — 用药与检查
+
+### 犬猫通用（6篇）
+
+- [猫狗一起养，食物和药品怎样分开存放？](https://pet.japanmedai.com/qa/cat-dog-food-medication-storage/) — 多宠与传染
+- [家里一只猫发现跳蚤，其他宠物和环境怎么处理？](https://pet.japanmedai.com/qa/flea-one-cat-household-management/) — 驱虫与疫苗
+- [宠物呼吸异常，去医院路上怎样减少折腾？](https://pet.japanmedai.com/qa/pet-breathing-distress-transport/) — 呼吸与老年
+- [宠物不舒服，该去综合医院还是专科医院？](https://pet.japanmedai.com/qa/pet-general-vet-or-specialist/) — 沟通与繁殖
+- [宠物检查预算有限，怎样坦诚和医生讨论优先级？](https://pet.japanmedai.com/qa/pet-vet-budget-priority/) — 沟通与繁殖
+- [医生说可以观察，主人要问清哪些返院条件？](https://pet.japanmedai.com/qa/pet-watchful-waiting-return-criteria/) — 沟通与繁殖
