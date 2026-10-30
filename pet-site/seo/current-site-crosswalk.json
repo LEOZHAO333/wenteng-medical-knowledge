@@ -1,12 +1,12 @@
 {
-  "title": "日宠通现有40条渲染内容与知识库ID候选对照",
-  "checkedAt": "2026-10-18",
+  "title": "日宠通生产90条问答与知识库ID候选对照",
+  "checkedAt": "2026-10-30",
   "status": "draft_crosswalk_not_publication_approval",
-  "scope": "main分支pet-site/api/pet.js共90条（2026-10-30 新增 PET-QA-NEW50 50条，exact_slug）rendered article records; 不是全库和上线文章数量",
+  "scope": "生产主分支pet-site/api/pet.js目前包含90篇问答（原40＋2026-10-30新增50）；本表是知识库条目对应关系的编辑审计，不是对生产状态、搜索收录或医疗审核真实性的独立认证。",
   "rules": [
     "exact_slug仅说明站内slug和某知识节点slug相同；正文/审核仍需逐项核对",
     "similar_question_needs_editorial_review与related_only只保留候选ID，不自动建立永久同一身份，不执行301或覆盖旧URL",
-    "以上记录全部保留noindex，不暗示已经获医学审核或正式发布"
+    "本表不赋予任何文章医学审批、发布或索引授权；90篇目前已进入生产仓库，实际索引标记以生产响应及独立HTTP验收为准，医疗审核以运营方记录与原始专业凭证核实为准。每个item的pending/not_authorized字段仅代表本crosswalk审计没有独立授予授权，不能据此声称线上全站noindex或未发布。"
   ],
   "counts": {
     "runtime": 90,
