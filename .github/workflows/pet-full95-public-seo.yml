@@ -1,0 +1,31 @@
+name: Pet full 95 URL public SEO audit
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'pet-site/seo/audit-full-public-qa-catalog.mjs'
+      - '.github/workflows/pet-full95-public-seo.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  full-public-crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Checkout (read-only)
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Crawl exactly the live sitemap's 95 URLs
+        run: node pet-site/seo/audit-full-public-qa-catalog.mjs
+      - name: Archive read-only per-page JSON and CSV results
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: pet-full95-live-seo-report
+          path: pet-site/seo/audit-output/
+          retention-days: 7
+          if-no-files-found: warn
