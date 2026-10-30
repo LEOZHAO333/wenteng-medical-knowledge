@@ -14,7 +14,7 @@ const lines=src.slice(start,end).split('\n').filter(s=>/^\s+\{(?:slug:|"slug":)/
 const get=(s,k)=>(s.match(new RegExp('(?:\\b'+k+':|"'+k+'":)\\s*["\\x27]([^"\\x27]*)["\\x27]'))||[])[1]||null;
 const rows=lines.map(s=>({slug:get(s,'slug'),published:get(s,'published'),modified:get(s,'modified')}));
 const errors=[];
-if(rows.length!==40)errors.push('renderer count changed; re-audit required');
+if(rows.length!==90)errors.push('renderer count changed; re-audit required');
 if(new Set(rows.map(r=>r.slug)).size!==rows.length)errors.push('duplicate slug');
 if(policy.guardrails?.noMedicalApprovalByAI!==true||policy.guardrails?.noAutoIndexing!==true)errors.push('governance guard missing');
 const noPerArticleGate=/const INDEX_ELIGIBLE_PATHS\s*=\s*\{\s*has:\s*p\s*=>\s*CORE_INDEX_PATHS\.includes\(p\)\s*\|\|\s*\(\/\^qa/.test(src);
