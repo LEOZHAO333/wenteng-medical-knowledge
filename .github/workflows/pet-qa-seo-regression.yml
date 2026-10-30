@@ -1,0 +1,33 @@
+name: Pet QA local SEO regression
+
+on:
+  pull_request:
+    paths:
+      - 'pet-site/api/pet.js'
+      - 'pet-site/llms-full.txt'
+      - 'pet-site/seo/check-qa-production-renderer.mjs'
+      - '.github/workflows/pet-qa-seo-regression.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'pet-site/api/pet.js'
+      - 'pet-site/llms-full.txt'
+      - 'pet-site/seo/check-qa-production-renderer.mjs'
+      - '.github/workflows/pet-qa-seo-regression.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  local-renderer-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Read only checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9ca718 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Check Node and verify 90-page route, sitemap, JSON-LD and preview gates
+        run: |
+          node --version
+          node pet-site/seo/check-qa-production-renderer.mjs
