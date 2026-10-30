@@ -13,6 +13,7 @@ const dir=dirname(fileURLToPath(import.meta.url));
 const require=createRequire(import.meta.url);
 const modulePath=require.resolve('../api/pet.js');
 const BASE='https://pet.japanmedai.com';
+const isArticleUrl=url=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/$/.test(url);
 const errors=[];
 let checks=0;
 const check=(name,fn)=>{try{fn();checks++;}catch(e){errors.push(name+': '+e.message);}};
@@ -46,7 +47,7 @@ check('production sitemap HTTP response and 95 URL entries',()=>{
   assert.match(sitemap.headers['content-type'],/application\/xml/);
   assert.equal(links.length,95);
   assert.equal(byUrl.size,95,'duplicate sitemap URL');
-  assert.equal(links.filter(x=>x.url.startsWith(BASE+'/qa/')).length,90);
+  assert.equal(links.filter(x=>isArticleUrl(x.url)).length,90);
   assert.ok(links.every(x=>x.url.startsWith(BASE+'/')));
 });
 check('four updated directory lastmod, About unchanged',()=>{
@@ -54,7 +55,7 @@ check('four updated directory lastmod, About unchanged',()=>{
   assert.equal(byUrl.get(BASE+'/about/'),'2026-10-17');
 });
 check('90 article URL records resolve to HTTP 200 and correct canonical',()=>{
-  const qa=links.filter(x=>x.url.startsWith(BASE+'/qa/'));
+  const qa=links.filter(x=>isArticleUrl(x.url));
   for(const {url} of qa){
     const slug=url.slice(BASE.length+1,-1);
     const page=render(prod,slug);
@@ -107,7 +108,7 @@ check('AI static index covers all 90 sitemap article URLs exactly once',()=>{
     .map(m=>BASE+'/qa/'+m[1]+'/');
   assert.equal(indexed.length,90);
   assert.equal(new Set(indexed).size,90);
-  const sitemapQA=new Set(links.filter(x=>x.url.startsWith(BASE+'/qa/')).map(x=>x.url));
+  const sitemapQA=new Set(links.filter(x=>isArticleUrl(x.url)).map(x=>x.url));
   for(const url of indexed)assert.ok(sitemapQA.has(url),url);
 });
 check('preview pages noindex and preview sitemap empty',()=>{
@@ -118,5 +119,5 @@ check('preview pages noindex and preview sitemap empty',()=>{
   const previewMap=render(preview,'sitemap.xml');
   assert.equal(extractSitemap(previewMap.body).length,0);
 });
-console.log(JSON.stringify({audit:'pet-local-renderer-SEO-contract',mode:'local-renderer-only-no-network',checks,expectedChecks:7,articleSitemapCount:links.filter(x=>x.url.startsWith(BASE+'/qa/')).length,errors},null,2));
+console.log(JSON.stringify({audit:'pet-local-renderer-SEO-contract',mode:'local-renderer-only-no-network',checks,expectedChecks:7,articleSitemapCount:links.filter(x=>isArticleUrl(x.url)).length,errors},null,2));
 if(errors.length)process.exitCode=1;
