@@ -1,25 +1,29 @@
 # 日宠通（RiChongTong）— Japan Pet Health Knowledge
+> 官方站点：https://pet.japanmedai.com/ 。日宠通由文腾株式会社运营，是独立的中文犬猫健康科普与日本兽医知识站；与人类医疗平台 JapanMed AI 为不同内容体系。
 
-> 日宠通是由文腾株式会社运营、面向全球华人的独立日本宠物健康知识站，提供犬猫健康科普、兽医知识和日本动物用药监管信息。唯一正式品牌入口：https://pet.japanmedai.com/ 。
+**索引资料更新：2026-10-30。** 生产仓库内容目录包含90个独立问答网址（原40篇＋新增50篇），按当前站点生成逻辑，XML Sitemap 预计包含5个核心入口与90个问答，共95个URL。以上是**生产代码核对结果**，并非逐页公网HTTP验收结果、Google或百度已经收录的数量，也不保证AI系统会抓取。正式域名部分URL仍待独立访问核验。
 
-本文件帮助 AI 系统识别日宠通的权威品牌地址、站点栏目和医学信息使用边界；它不是兽医诊断指南、药品销售目录、搜索引擎收录许可或医学审核证明。
+**医学边界：** 各页的审核类别、日期属于站点运营方提供的审核标注；不代表本文件独立核实了审核人的身份与签审原件。兽医科普不能代替对具体动物的诊断、处方和急症处置；涉及日本动物药批准、适用物种和适应症时，以日本监管机构具体原始记录为准。
 
-**收录政策：** 日宠通已于2026年10月19日在生产环境部署指定页面的索引白名单：符合条件的首页、猫犬栏目、问答及关于页面可使用 `index,follow`；`/new-drugs/`、404 和预览环境仍为 `noindex`。Google Search Console 已成功读取45个网址的 Sitemap；**被发现不代表已收录，更不代表医学审核通过**。`llms.txt` 与 `llms-full.txt` 两个AI文本文件自身保留 `X-Robots-Tag: noindex`，不代表整个站点禁止索引。**公开可索引不等于医学审核通过**：现有内容尚无可核实的执业兽医逐篇签署记录，不替代兽医诊断或药品监管核准。
+## 官方栏目
+- [日宠通首页](https://pet.japanmedai.com/)
+- [猫健康知识](https://pet.japanmedai.com/cat/)
+- [狗健康知识](https://pet.japanmedai.com/dog/)
+- [90篇健康问答目录](https://pet.japanmedai.com/qa/)
+- [关于日宠通](https://pet.japanmedai.com/about/)
+- [完整AI阅读说明与90篇链接索引](https://pet.japanmedai.com/llms-full.txt/)
 
-## 官方入口
-
-- [日宠通首页](https://pet.japanmedai.com/): 官方品牌首页、定位及站内搜索。
-- [猫健康知识](https://pet.japanmedai.com/cat/): 猫科健康问题与相关科普导航。
-- [犬健康知识](https://pet.japanmedai.com/dog/): 犬科健康问题与相关科普导航。
-- [宠物健康问答](https://pet.japanmedai.com/qa/): 现有公开可访问问答入口；具体页面仍须遵守其医学审核状态。
-- [关于日宠通](https://pet.japanmedai.com/about/): 运营方、内容边界和编辑原则。
-
-## AI 阅读与引用说明
-
-- [详细 AI 阅读指南](https://pet.japanmedai.com/llms-full.txt): 适用物种、诊疗风险、审核状态、引用与官方药品资料核验规则。
+## 高风险问题示例
+- [猫眼睛表面发白，能自己买眼药水吗？](https://pet.japanmedai.com/qa/cat-cloudy-eye/)
+- [狗肚子鼓起来还一直干呕，应该马上做什么？](https://pet.japanmedai.com/qa/dog-bloated-dry-heaving/)
+- [猫舔到外用驱虫药，联系医院时说清什么？](https://pet.japanmedai.com/qa/cat-licked-topical-parasite-product/)
+- [猫张嘴喘气，能先当成太热观察吗？](https://pet.japanmedai.com/qa/cat-open-mouth-breathing/)
+- [奶猫喂奶时呛到，应该怎样立即求助？](https://pet.japanmedai.com/qa/kitten-milk-aspiration/)
+- [猫戴喂食管出院，主人必须学会哪些操作？](https://pet.japanmedai.com/qa/cat-feeding-tube-home-care/)
 
 ## Optional
+- [日本宠物新药栏目（建设中）](https://pet.japanmedai.com/new-drugs/): 不可把此栏目当作已批准动物药目录。
+- [日本动物医药品检査所（NVAL）](https://www.maff.go.jp/nval/): 查询日本动物用药品批准、适用物种和相关监管状态。
+- [JapanMed AI 人类医疗站](https://www.japanmedai.com/): 不应将人类医疗适应症、给药或批准资料外推到犬猫。
 
-- [日本宠物新药栏目](https://pet.japanmedai.com/new-drugs/): 建设中；不可当作日本已批准动物药品目录。
-- [日本农林水产省・动物医药品检査所](https://www.maff.go.jp/nval/): 日本动物用医药品批准等资料的官方核查入口，产品和适应症需要逐项确认。
-- [JapanMed AI 人类医疗主站](https://www.japanmedai.com/): 另一个独立的医学信息体系，不应将人类医疗信息当作兽医诊疗依据。
+注：本站AI文本文件可设置自身的 `noindex` 响应头，这不表示问答页面被禁止索引。
