@@ -35,10 +35,23 @@ jobs:
           node --check pet-site/seo/audit-priority-remediation.mjs
           node --check pet-site/seo/audit-production-index-gap.mjs
           node --check pet-site/seo/export-production-qa-evidence-gaps.mjs
+          node --check pet-site/seo/production-index-gate.proposed.cjs
+          node --check pet-site/seo/production-index-gate.proposed.test.cjs
+          node --check pet-site/seo/article-snapshot.proposed.cjs
+          node --check pet-site/seo/article-snapshot.proposed.test.cjs
+          node --check pet-site/seo/renderer-template-gate.proposed.cjs
+          node --check pet-site/seo/audit-proposed-renderer-field-coverage.cjs
+          node --check pet-site/seo/audit-production-article-snapshot-compat.cjs
       - name: Verify content mapping against renderer
         run: node pet-site/seo/audit-current-site.mjs
       - name: Test release policy
         run: node --test pet-site/seo/release-policy.test.mjs pet-site/seo/sitemap-policy.test.mjs
+      - name: Test proposed fail-closed production index gate (isolated, no deployment)
+        run: node --test pet-site/seo/production-index-gate.proposed.test.cjs pet-site/seo/article-snapshot.proposed.test.cjs
+      - name: Audit production renderer field mapping (read-only)
+        run: node pet-site/seo/audit-proposed-renderer-field-coverage.cjs
+      - name: Audit actual production QA snapshot compatibility (read-only)
+        run: node pet-site/seo/audit-production-article-snapshot-compat.cjs
       - name: Check full S/A draft inventory and editorial ledger
         run: node pet-site/seo/export-content-inventory.mjs --check
       - name: Prioritize remaining source-review backlog (no publish permission)
