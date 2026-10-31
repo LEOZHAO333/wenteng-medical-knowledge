@@ -16,7 +16,7 @@ for(const id of ['0635','0643','0648','0649']){
 }
 if(policy.guardrails?.noMedicalApprovalByAI!==true)failures.push('AI approval guard missing');
 if(policy.guardrails?.noAutoIndexing!==true)failures.push('auto indexing guard missing');
-if(policy.scope?.activeDraftPr!==35)failures.push('active Draft PR mismatch');
+if(policy.scope?.activeDraftPr!==39)failures.push('active Draft PR mismatch');
 if(!plan.includes('582/582')||!plan.includes('40')||!plan.includes('45'))failures.push('draft vs production population distinction missing');
 if(!handoff.includes('pending_licensed_veterinarian'))failures.push('professional Hold boundary missing');
 for(const id of ['0635','0643','0648','0649']){
