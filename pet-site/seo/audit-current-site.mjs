@@ -37,7 +37,7 @@ for(const row of site){
 }
 if(crosswalk.items.length!==site.length)fail('Crosswalk count differs from runtime '+crosswalk.items.length+' vs '+site.length);
 const linked=new Set();
-const matched={exact_slug:0,similar_question_needs_editorial_review:0,related_only:0};
+const matched={exact_slug:0,similar_question_needs_editorial_review:0,related_only:0,new_topic_no_library_id:0};
 for(const item of crosswalk.items){
  if(linked.has(item.rendererSlug))fail('duplicate crosswalk slug: '+item.rendererSlug);
  linked.add(item.rendererSlug);
@@ -65,6 +65,7 @@ const reviewed=JSON.parse(readFileSync(resolve(seoDir,'title-intent-reconciliati
 const reviewBySlug=new Map(reviewed.items.map(x=>[x.rendererSlug,x]));
 const sourceCache=new Map();
 for(const item of crosswalk.items){
+  if(item.matchStatus==='new_topic_no_library_id')continue;
   const path=item.candidateSourcePath;
   if(!/^pet-site\/content\/(?:S-TIER-[A-Z0-9-]+|A-TIER-BATCH-\d+-[A-Z0-9-]+)\.md$/.test(path||'')){
     fail('unexpected source location for '+item.rendererSlug);continue;
@@ -94,7 +95,7 @@ for(const item of crosswalk.items){
       fail('unexpected publication/redirect status '+item.rendererSlug);
   }
 }
-if(reviewBySlug.size!==crosswalk.items.filter(x=>x.matchStatus!=='exact_slug').length)
+if(reviewBySlug.size!==crosswalk.items.filter(x=>x.matchStatus!=='exact_slug'&&x.matchStatus!=='new_topic_no_library_id').length)
   fail('editorial review should cover every non-exact slug mapping');
 
 for(const row of site)if(!linked.has(row.slug))fail('renderer article omitted from crosswalk: '+row.slug);
