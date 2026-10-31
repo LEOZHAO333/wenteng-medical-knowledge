@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Buntou Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-10-30。本站共有90篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-10-31。本站共有188篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -55,12 +55,11 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、90篇健康问答索引（2026-10-30）
+## 七、188篇健康问答索引（2026-10-31）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
-### 猫健康（55篇）
-
+### 猫健康（93篇）
 - [猫身上有皮屑，是洗澡少了吗？](https://pet.japanmedai.com/qa/cat-dandruff/) — 皮肤与被毛
 - [猫肚子两边秃了，是自己舔掉的吗？](https://pet.japanmedai.com/qa/cat-belly-hair-loss/) — 皮肤与被毛
 - [猫耳朵后面毛很稀，什么变化需要看医生？](https://pet.japanmedai.com/qa/cat-ear-thinning/) — 耳部与皮肤
@@ -116,9 +115,46 @@
 - [新猫到家后什么时候安排首次体检？](https://pet.japanmedai.com/qa/new-cat-first-vet-visit/) — 幼宠与手术
 - [捡到还不会吃饭的小猫，先做哪几件事？](https://pet.japanmedai.com/qa/orphan-kitten-first-steps/) — 幼宠与手术
 - [纯种猫带基因检测报告，就能保证以后不生病吗？](https://pet.japanmedai.com/qa/purebred-cat-genetic-test-limitations/) — 品种
+- [猫拔除导尿管回家后，如何观察排尿是否恢复？](https://pet.japanmedai.com/qa/cat-after-urinary-catheter-removal/) — 术后与康复
+- [猫两个瞳孔大小不一样，应该怎么办？](https://pet.japanmedai.com/qa/cat-anisocoria/) — 眼科
+- [猫皮肤出现圆形掉毛，怎样检查是不是猫癣？](https://pet.japanmedai.com/qa/cat-circular-hair-loss-ringworm/) — 皮肤与过敏
+- [肾病猫的血磷高，和选粮有什么关系？](https://pet.japanmedai.com/qa/cat-ckd-high-phosphorus-food/) — 肾病
+- [猫肾病合并高血压，家里怎么配合监测？](https://pet.japanmedai.com/qa/cat-ckd-hypertension-home-monitoring/) — 肾病
+- [肾病猫突然看不清东西，需要立即就医吗？](https://pet.japanmedai.com/qa/cat-ckd-sudden-vision-loss/) — 肾病
+- [猫几天没正常排便，是便秘还是排尿困难？](https://pet.japanmedai.com/qa/cat-constipation-versus-urinary/) — 消化与营养
+- [糖尿病猫血糖仪读数与精神状态不一致，怎样向兽医报告？](https://pet.japanmedai.com/qa/cat-diabetes-cgm-symptom-mismatch/) — 内分泌与代谢
+- [猫拉稀带血，能先只喂益生菌观察吗？](https://pet.japanmedai.com/qa/cat-diarrhea-blood/) — 消化与营养
+- [猫最近喝水明显增多，需要准备哪些检查信息？](https://pet.japanmedai.com/qa/cat-drinking-more-than-usual/) — 内分泌与代谢
+- [猫流口水又躲着吃饭，应该先检查哪里？](https://pet.japanmedai.com/qa/cat-drooling-avoids-food/) — 口腔与牙齿
+- [猫耳尖反复结痂，是抓伤还是皮肤病？](https://pet.japanmedai.com/qa/cat-ear-tip-crusting/) — 皮肤与耳科
+- [猫第一次出现抽搐，恢复正常也要检查吗？](https://pet.japanmedai.com/qa/cat-first-seizure-evaluation/) — 神经与运动
+- [猫吐出毛团和真正频繁呕吐，怎样记录区别？](https://pet.japanmedai.com/qa/cat-hairball-versus-vomit/) — 消化与营养
+- [猫心脏病复诊，主人应整理哪些变化？](https://pet.japanmedai.com/qa/cat-heart-disease-followup-log/) — 心脏与呼吸
+- [甲亢猫治疗后食欲变了，复诊要看哪些指标？](https://pet.japanmedai.com/qa/cat-hyperthyroid-followup/) — 内分泌与代谢
+- [猫接触了百合花，是否需要马上联系急诊？](https://pet.japanmedai.com/qa/cat-lily-exposure-emergency/) — 神经与急症
+- [猫走路一瘸一拐，却不叫疼，也要检查吗？](https://pet.japanmedai.com/qa/cat-limping-no-crying/) — 内分泌与关节
+- [猫乳房附近摸到小硬结，要尽快检查吗？](https://pet.japanmedai.com/qa/cat-mammary-lump/) — 心脏与肿瘤
+- [猫张嘴疼、拒绝干粮，口炎和牙病怎么区分？](https://pet.japanmedai.com/qa/cat-mouth-pain-stomatitis/) — 口腔与牙齿
+- [猫突然一直绕圈走，需要记录什么症状？](https://pet.japanmedai.com/qa/cat-new-circling-behavior/) — 神经与运动
+- [猫皮肤突然摸到小包，怎样记录变化给兽医？](https://pet.japanmedai.com/qa/cat-new-skin-lump/) — 皮肤与耳科
+- [猫一天没怎么吃东西，什么时候该去医院？](https://pet.japanmedai.com/qa/cat-not-eating-when-vet/) — 消化与营养
+- [猫手术后总想舔伤口，什么时候需要回院？](https://pet.japanmedai.com/qa/cat-postop-incision-licking/) — 术后与康复
+- [猫不愿跳上沙发，怎样记录关节疼痛迹象？](https://pet.japanmedai.com/qa/cat-reluctant-to-jump/) — 高龄宠物
+- [猫一次血检异常，为什么需要结合尿检和症状？](https://pet.japanmedai.com/qa/cat-single-abnormal-blood-test/) — 检查与医患沟通
+- [猫不肯跳上沙发，是懒了还是腿疼？](https://pet.japanmedai.com/qa/cat-stops-jumping-pain/) — 内分泌与关节
+- [猫量血压时很紧张，怎样理解单次偏高？](https://pet.japanmedai.com/qa/cat-stress-blood-pressure/) — 检查与医患沟通
+- [猫突然不吃东西，为什么不能只靠换口味？](https://pet.japanmedai.com/qa/cat-sudden-appetite-loss/) — 消化与营养
+- [家里猫被怀疑猫癣，人与其他宠物怎样配合检查？](https://pet.japanmedai.com/qa/cat-suspected-ringworm-household/) — 皮肤与耳科
+- [猫咬断逗猫棒吞了线，能自己拉出来吗？](https://pet.japanmedai.com/qa/cat-swallowed-string-dont-pull/) — 神经与急症
+- [猫身上发现蜱虫，哪些信息要告诉兽医？](https://pet.japanmedai.com/qa/cat-tick-found-on-skin/) — 疫苗与寄生虫
+- [猫口臭越来越明显，为什么不只是食物味道？](https://pet.japanmedai.com/qa/cat-worsening-bad-breath/) — 口腔与牙齿
+- [糖尿病猫突然发抖站不稳，应该怎样紧急求助？](https://pet.japanmedai.com/qa/diabetic-cat-shaking-weak-hypoglycemia/) — 内分泌与关节
+- [猫冠状病毒阳性，就代表猫传腹吗？](https://pet.japanmedai.com/qa/feline-coronavirus-positive-not-fip/) — 多宠与传染
+- [猫被怀疑传腹，为什么通常要综合多项证据？](https://pet.japanmedai.com/qa/fip-diagnosis-multiple-evidence/) — 多宠与传染
+- [幼猫疫苗记录不全，如何向医院核对补种计划？](https://pet.japanmedai.com/qa/kitten-unknown-vaccine-history/) — 疫苗与寄生虫
+- [老猫夜里叫个不停，如何区分认知变化与身体不适？](https://pet.japanmedai.com/qa/senior-cat-night-vocalizing/) — 高龄宠物
 
-### 犬健康（29篇）
-
+### 犬健康（70篇）
 - [狗皮屑多还很痒，洗得勤会更好吗？](https://pet.japanmedai.com/qa/dog-dandruff-itching/) — 皮肤与过敏
 - [狗左右对称掉毛，为什么医生可能建议验血？](https://pet.japanmedai.com/qa/dog-symmetrical-hair-loss/) — 皮肤与全身状态
 - [狗每天舔脚，可能只是无聊吗？](https://pet.japanmedai.com/qa/dog-licking-paws/) — 皮肤与过敏
@@ -148,12 +184,72 @@
 - [狗抽搐时可以把手伸进嘴里吗？](https://pet.japanmedai.com/qa/dog-seizure-dont-put-hand-in-mouth/) — 神经与急症
 - [狗突然抽搐，主人应该先录像还是先确保安全？](https://pet.japanmedai.com/qa/dog-seizure-first-aid-video/) — 神经与急症
 - [狗吃完药不久吐了，补不补要怎么确认？](https://pet.japanmedai.com/qa/dog-vomits-after-medication-redose/) — 用药与检查
+- [母狗发情结束后喝水多、没精神，要及时就医吗？](https://pet.japanmedai.com/qa/dog-after-heat-thirst-lethargy-pyometra/) — 沟通与繁殖
+- [狗需要协助排尿，为什么必须接受现场指导？](https://pet.japanmedai.com/qa/dog-assisted-bladder-expression-training/) — 康复与护理用品
+- [狗吃了葡萄，目前正常就能放心吗？](https://pet.japanmedai.com/qa/dog-ate-grapes-no-symptoms/) — 神经与急症
+- [狗拉黑色便便，是食物颜色还是需要就医？](https://pet.japanmedai.com/qa/dog-black-stool/) — 消化与营养
+- [狗拉稀带血但还活跃，什么情况不能等？](https://pet.japanmedai.com/qa/dog-bloody-diarrhea-triage/) — 消化与营养
+- [狗眼睛鼓出来或明显肿大，怎么尽快求助？](https://pet.japanmedai.com/qa/dog-bulging-eye-emergency/) — 眼科
+- [狗啃硬物后牙齿缺了一角，需要看医生吗？](https://pet.japanmedai.com/qa/dog-chipped-tooth-chewing/) — 口腔与牙齿
+- [狗运动后突然晕倒，恢复了还要急诊吗？](https://pet.japanmedai.com/qa/dog-collapse-after-exercise/) — 心脏与呼吸
+- [狗眼睛干，医生为什么要测泪液？](https://pet.japanmedai.com/qa/dog-dry-eye-tear-test/) — 眼科
+- [狗抓痒发现跳蚤，是否就能认定是过敏？](https://pet.japanmedai.com/qa/dog-fleas-itch-allergy/) — 疫苗与寄生虫
+- [狗心脏病回家后，怎样学会数睡眠呼吸次数？](https://pet.japanmedai.com/qa/dog-heart-disease-sleeping-respiratory-rate/) — 心脏与肿瘤
+- [狗听到心杂音，是否需要心脏超声？](https://pet.japanmedai.com/qa/dog-heart-murmur-ultrasound/) — 心脏与呼吸
+- [狗开始预防心丝虫前为什么可能要检查？](https://pet.japanmedai.com/qa/dog-heartworm-screen-before-prevention/) — 疫苗与寄生虫
+- [狗夏天喘得厉害、流口水，怎么紧急联系医院？](https://pet.japanmedai.com/qa/dog-heatstroke-emergency/) — 美容与居家安全
+- [狗精神差又怕冷，就一定是甲状腺功能低下吗？](https://pet.japanmedai.com/qa/dog-hypothyroid-symptoms-testing/) — 内分泌与代谢
+- [狗皮肤没明显红疹，却不停抓挠，需要检查吗？](https://pet.japanmedai.com/qa/dog-itch-no-rash/) — 皮肤与过敏
+- [狗尿量少又没精神，能先多喂水看看吗？](https://pet.japanmedai.com/qa/dog-low-urine-lethargic/) — 泌尿
+- [狗皮肤出现红湿的一片，为什么不应自己乱涂药？](https://pet.japanmedai.com/qa/dog-moist-skin-lesion/) — 皮肤与耳科
+- [狗早晨起身僵硬，活动后又好了，是关节问题吗？](https://pet.japanmedai.com/qa/dog-morning-stiffness-joints/) — 内分泌与关节
+- [狗后腿无力，上楼困难时怎样区分急症？](https://pet.japanmedai.com/qa/dog-new-hindleg-weakness/) — 神经与运动
+- [狗晚上咳嗽，怎样向兽医描述而不自行判断心衰？](https://pet.japanmedai.com/qa/dog-night-cough-heart-check/) — 心脏与呼吸
+- [狗口腔里摸到肿块，拍照观察就够了吗？](https://pet.japanmedai.com/qa/dog-oral-lump-evaluation/) — 口腔与牙齿
+- [狗打疫苗后脸肿或呼吸异常，应如何求助？](https://pet.japanmedai.com/qa/dog-post-vaccine-facial-swelling/) — 疫苗与寄生虫
+- [狗术后食欲差，哪些变化不能只归因于麻醉？](https://pet.japanmedai.com/qa/dog-postop-not-eating/) — 术后与康复
+- [狗长期用药后腹部变圆，复诊为什么要核对用药史？](https://pet.japanmedai.com/qa/dog-potbelly-after-steroid-history/) — 内分泌与代谢
+- [狗耳朵反复有异味，为什么每次清洁都不够？](https://pet.japanmedai.com/qa/dog-recurrent-ear-odor/) — 皮肤与耳科
+- [狗耳朵反复发炎，为什么医生还问皮肤和食物？](https://pet.japanmedai.com/qa/dog-recurrent-otitis-allergy/) — 耳与口腔
+- [狗尿路感染总复发，为什么可能要做尿培养？](https://pet.japanmedai.com/qa/dog-recurrent-uti-urine-culture/) — 泌尿
+- [狗睡觉时呼吸变快，视频怎么帮助医生判断？](https://pet.japanmedai.com/qa/dog-sleep-breathing-log/) — 心脏与呼吸
+- [老狗突然走路歪、眼球晃动，能当成衰老吗？](https://pet.japanmedai.com/qa/dog-sudden-balance-loss/) — 神经与运动
+- [狗突然后腿无力，需要紧急评估吗？](https://pet.japanmedai.com/qa/dog-sudden-hindlimb-weakness/) — 内分泌与关节
+- [狗手术切口渗液，拍照时要注意什么？](https://pet.japanmedai.com/qa/dog-surgery-incision-drainage/) — 术后与康复
+- [狗疑似椎间盘问题，为什么不能继续跑跳？](https://pet.japanmedai.com/qa/dog-suspected-disc-pain/) — 神经与运动
+- [狗可能吞了袜子，没吐也要联系医院吗？](https://pet.japanmedai.com/qa/dog-swallowed-sock/) — 消化与营养
+- [狗超声发现异常，复查时应该比较什么？](https://pet.japanmedai.com/qa/dog-ultrasound-followup-questions/) — 检查与医患沟通
+- [狗误吃含木糖醇的食品，需要带包装就医吗？](https://pet.japanmedai.com/qa/dog-xylitol-package-emergency/) — 神经与急症
+- [母狗哺乳时突然发抖喘气，能等一等吗？](https://pet.japanmedai.com/qa/lactating-dog-trembling-panting-eclampsia/) — 沟通与繁殖
+- [老狗在家经常撞家具，视力变化要查什么？](https://pet.japanmedai.com/qa/senior-dog-bumping-furniture/) — 高龄宠物
+- [高龄狗需要洗牙，麻醉前该和医生讨论什么？](https://pet.japanmedai.com/qa/senior-dog-dental-anesthesia/) — 高龄宠物
+- [老狗体重缓慢下降，为什么不能只说年纪大了？](https://pet.japanmedai.com/qa/senior-dog-unexplained-weight-loss/) — 高龄宠物
+- [小型幼犬突然没精神发抖，要立即求助吗？](https://pet.japanmedai.com/qa/small-puppy-lethargic-shaking/) — 幼宠与手术
 
-### 犬猫通用（6篇）
-
+### 犬猫通用（25篇）
 - [猫狗一起养，食物和药品怎样分开存放？](https://pet.japanmedai.com/qa/cat-dog-food-medication-storage/) — 多宠与传染
 - [家里一只猫发现跳蚤，其他宠物和环境怎么处理？](https://pet.japanmedai.com/qa/flea-one-cat-household-management/) — 驱虫与疫苗
 - [宠物呼吸异常，去医院路上怎样减少折腾？](https://pet.japanmedai.com/qa/pet-breathing-distress-transport/) — 呼吸与老年
 - [宠物不舒服，该去综合医院还是专科医院？](https://pet.japanmedai.com/qa/pet-general-vet-or-specialist/) — 沟通与繁殖
 - [宠物检查预算有限，怎样坦诚和医生讨论优先级？](https://pet.japanmedai.com/qa/pet-vet-budget-priority/) — 沟通与繁殖
 - [医生说可以观察，主人要问清哪些返院条件？](https://pet.japanmedai.com/qa/pet-watchful-waiting-return-criteria/) — 沟通与繁殖
+- [人的止痛药能不能临时给猫狗用？](https://pet.japanmedai.com/qa/human-painkillers-dogs-cats/) — 用药与检查
+- [宠物抗菌药吃几天好了，可以自行停吗？](https://pet.japanmedai.com/qa/pet-antibiotic-stop-early/) — 用药与检查
+- [宠物肿瘤需要第二意见，哪些材料比口头描述更重要？](https://pet.japanmedai.com/qa/pet-cancer-second-opinion-records/) — 心脏与肿瘤
+- [宠物肿瘤分期和分级，分别影响哪些决定？](https://pet.japanmedai.com/qa/pet-cancer-stage-vs-grade/) — 心脏与肿瘤
+- [宠物术后戴防舔圈，怎样确认没有影响吃喝？](https://pet.japanmedai.com/qa/pet-cone-after-surgery/) — 术后与康复
+- [宠物细针穿刺和切一块组织检查，有什么区别？](https://pet.japanmedai.com/qa/pet-fna-vs-biopsy/) — 用药与检查
+- [宠物跨境搬家，为什么要提前核对检疫时间线？](https://pet.japanmedai.com/qa/pet-international-move-quarantine-timeline/) — 出行与行为
+- [宠物血小板低，为什么医生可能建议复核？](https://pet.japanmedai.com/qa/pet-low-platelets-recheck/) — 用药与检查
+- [宠物肿块不痛不痒，就一定是良性吗？](https://pet.japanmedai.com/qa/pet-lump-benign-or-malignant/) — 心脏与肿瘤
+- [宠物药忘喂一次，为什么不要凭感觉补双倍？](https://pet.japanmedai.com/qa/pet-missed-dose-no-double/) — 用药与检查
+- [宠物同时看两家医院，药单怎样避免冲突？](https://pet.japanmedai.com/qa/pet-multiple-vets-medication-list/) — 用药与检查
+- [宠物影像发给海外医生，只有手机照片够吗？](https://pet.japanmedai.com/qa/pet-overseas-second-opinion-dicom/) — 日本兽医信息
+- [宠物病理报告拿到后，第二意见需要哪些资料？](https://pet.japanmedai.com/qa/pet-pathology-second-opinion/) — 检查与医患沟通
+- [宠物需要第二意见，原始影像怎么向医院索取？](https://pet.japanmedai.com/qa/pet-second-opinion-original-imaging-dicom/) — 用药与检查
+- [两只宠物症状一样，能共用上次剩下的药吗？](https://pet.japanmedai.com/qa/pet-share-leftover-medication/) — 用药与检查
+- [带宠物就诊前，怎样拍出有用的症状视频？](https://pet.japanmedai.com/qa/pet-symptom-video-for-vet/) — 检查与医患沟通
+- [宠物肿瘤手术后，病理报告为什么值得保存？](https://pet.japanmedai.com/qa/pet-tumor-pathology-report/) — 心脏与肿瘤
+- [宠物超声报告写“占位”，就等于癌症吗？](https://pet.japanmedai.com/qa/pet-ultrasound-mass-not-always-cancer/) — 用药与检查
+- [看到日本有宠物新药，怎样确认它治疗的具体疾病？](https://pet.japanmedai.com/qa/verify-japan-veterinary-new-drug-indication/) — 日本兽医信息
+

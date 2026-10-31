@@ -1,7 +1,7 @@
 # 日宠通（RiChongTong）— Japan Pet Health Knowledge
 > 官方站点：https://pet.japanmedai.com/ 。日宠通由文腾株式会社运营，是面向全球华人的中文犬猫健康科普与日本兽医知识站。
 
-本站共有90篇犬猫健康问答（更新：2026-10-30）。每篇问答先给出直接回答，并列出可能原因、在家可观察的内容、需要立即就医的信号、就诊准备、常见问答和参考来源。页面标注的「本文经日本宠物医生审核」「用药部分经日本药剂师审核」为本站专业审核记录。
+本站共有188篇犬猫健康问答（更新：2026-10-31）。每篇问答先给出直接回答，并列出可能原因、在家可观察的内容、需要立即就医的信号、就诊准备、常见问答和参考来源。页面标注的「本文经日本宠物医生审核」「用药部分经日本药剂师审核」为本站专业审核记录。
 
 **使用边界：** 兽医科普不能代替对具体动物的诊断、处方和急症处置。涉及日本动物用药的批准、适用物种和适应症时，以日本监管机构的原始记录为准。
 
@@ -9,9 +9,9 @@
 - [日宠通首页](https://pet.japanmedai.com/)
 - [猫健康知识](https://pet.japanmedai.com/cat/)
 - [狗健康知识](https://pet.japanmedai.com/dog/)
-- [90篇健康问答目录](https://pet.japanmedai.com/qa/)
+- [188篇健康问答目录](https://pet.japanmedai.com/qa/)
 - [关于日宠通](https://pet.japanmedai.com/about/)
-- [完整AI阅读说明与90篇链接索引](https://pet.japanmedai.com/llms-full.txt)
+- [完整AI阅读说明与188篇链接索引](https://pet.japanmedai.com/llms-full.txt)
 
 ## 高风险问题示例
 - [猫眼睛表面发白，能自己买眼药水吗？](https://pet.japanmedai.com/qa/cat-cloudy-eye/)

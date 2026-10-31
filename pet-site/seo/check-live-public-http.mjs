@@ -32,12 +32,12 @@ for(const path of paths){
   });
 }
 const xml=results['/sitemap.xml'];
-check('live production sitemap 95 canonical URLs',()=>{
+check('live production sitemap 193 canonical URLs',()=>{
   assert.match(xml.contentType,/xml/);
   const locs=[...xml.body.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
-  assert.equal(locs.length,95,'live sitemap URL count');
-  assert.equal(new Set(locs).size,95,'live sitemap duplicate URLs');
-  assert.equal(locs.filter(x=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/$/.test(x)).length,90,'live QA URLs');
+  assert.equal(locs.length,193,'live sitemap URL count');
+  assert.equal(new Set(locs).size,193,'live sitemap duplicate URLs');
+  assert.equal(locs.filter(x=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/$/.test(x)).length,188,'live QA URLs');
 });
 check('live production sitemap core directory date changes',()=>{
   for(const p of ['/','/qa/','/cat/','/dog/']){
@@ -48,10 +48,10 @@ check('live production sitemap core directory date changes',()=>{
 check('live robots references canonical sitemap',()=>{
   assert.match(results['/robots.txt'].body,/Sitemap: https:\/\/pet\.japanmedai\.com\/sitemap\.xml/);
 });
-check('live AI index contains 90 unique QA article links',()=>{
+check('live AI index contains 188 unique QA article links',()=>{
   const urls=[...results['/llms-full.txt'].body.matchAll(/https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/\)/g)].map(m=>m[0].slice(0,-1));
-  assert.equal(urls.length,90);
-  assert.equal(new Set(urls).size,90);
+  assert.equal(urls.length,188);
+  assert.equal(new Set(urls).size,188);
 });
 check('non-indexable new-drugs and missing page',()=>{
   const drugs=results['/new-drugs/'],missing=results['/qa/nonexistent-seo-audit-probe-404/'];

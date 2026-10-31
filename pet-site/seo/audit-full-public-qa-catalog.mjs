@@ -8,7 +8,7 @@ import {mkdirSync,writeFileSync} from 'node:fs';
 import {resolve} from 'node:path';
 
 const BASE='https://pet.japanmedai.com';
-const EXPECTED=95, EXPECTED_QA=90;
+const EXPECTED=193, EXPECTED_QA=188;
 const RUN_AT=new Date().toISOString();
 const reportDir=process.env.AUDIT_OUTPUT_DIR||'pet-site/seo/audit-output';
 const errors=[];
