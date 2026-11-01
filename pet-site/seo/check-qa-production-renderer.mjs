@@ -42,11 +42,11 @@ const sitemap=render(prod,'sitemap.xml');
 const links=extractSitemap(sitemap.body);
 const byUrl=new Map(links.map(x=>[x.url,x.lastmod]));
 
-check('production sitemap HTTP response and 193 URL entries',()=>{
+check('production sitemap HTTP response and 215 URL entries',()=>{
   assert.equal(sitemap.statusCode,200);
   assert.match(sitemap.headers['content-type'],/application\/xml/);
-  assert.equal(links.length,193);
-  assert.equal(byUrl.size,193,'duplicate sitemap URL');
+  assert.equal(links.length,215);
+  assert.equal(byUrl.size,215,'duplicate sitemap URL');
   assert.equal(links.filter(x=>isArticleUrl(x.url)).length,188);
   assert.ok(links.every(x=>x.url.startsWith(BASE+'/')));
 });

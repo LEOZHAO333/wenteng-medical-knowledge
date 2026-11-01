@@ -45,6 +45,30 @@
 - [关于与编辑原则](https://pet.japanmedai.com/about/)
 - [精简 AI 入口](https://pet.japanmedai.com/llms.txt)
 
+## 主题专题（20个）
+- [专题总览](https://pet.japanmedai.com/topics/)
+- [猫犬肾病｜检查、饮食与复诊](https://pet.japanmedai.com/topics/kidney/)
+- [泌尿与排尿异常｜猫狗实用问答](https://pet.japanmedai.com/topics/urinary/)
+- [皮肤与过敏｜瘙痒、脱毛及皮肤检查](https://pet.japanmedai.com/topics/skin-allergy/)
+- [耳部问题｜耳炎、耳螨与头歪](https://pet.japanmedai.com/topics/ear/)
+- [眼科警讯｜角膜、瞳孔与视力变化](https://pet.japanmedai.com/topics/eye/)
+- [口腔与牙齿｜牙痛、口臭和牙科影像](https://pet.japanmedai.com/topics/dental/)
+- [心脏与血压｜杂音、呼吸监测和急症](https://pet.japanmedai.com/topics/heart/)
+- [呼吸问题｜咳嗽、张口呼吸与就医准备](https://pet.japanmedai.com/topics/respiratory/)
+- [消化与营养｜食欲、换粮和饮食管理](https://pet.japanmedai.com/topics/digestive-nutrition/)
+- [急症与中毒｜必须先求助的猫狗警讯](https://pet.japanmedai.com/topics/emergency/)
+- [神经与抽搐｜发作记录、瘫软和紧急转运](https://pet.japanmedai.com/topics/neurology/)
+- [宠物用药安全｜处方、误服与药剂师核对](https://pet.japanmedai.com/topics/medication-safety/)
+- [检查、化验与复诊沟通｜把问题问清楚](https://pet.japanmedai.com/topics/tests-followups/)
+- [肿瘤、病理与专科第二意见｜不只看一个肿块](https://pet.japanmedai.com/topics/tumor-pathology/)
+- [内分泌与代谢｜糖尿病、甲状腺及体重变化](https://pet.japanmedai.com/topics/endocrine-metabolic/)
+- [关节、骨科与康复｜行走困难的安全管理](https://pet.japanmedai.com/topics/joints-rehab/)
+- [行为与环境｜应激、护食和多猫相处](https://pet.japanmedai.com/topics/behavior-environment/)
+- [老年猫狗｜体重、关节与日常功能](https://pet.japanmedai.com/topics/senior-pets/)
+- [多宠家庭｜资源分配、传染风险与观察记录](https://pet.japanmedai.com/topics/multi-pet-households/)
+- [幼猫幼犬与初次就医｜新成员到家和危险信号](https://pet.japanmedai.com/topics/young-pets-first-visit/)
+- [审核与编辑标准](https://pet.japanmedai.com/editorial-standards/)
+
 ## 六、官方外部资料核对入口
 
 - [日本农林水产省 动物医药品检査所（NVAL）](https://www.maff.go.jp/nval/): 日本动物用药品监管原始资料。
