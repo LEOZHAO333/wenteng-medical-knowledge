@@ -167,6 +167,29 @@
 
 ## 0473｜猫皮肤抽动、疯狂舔背，需要排查哪些方向？
 - Slug：`cat-skin-rippling-back-licking`
+- 优先级：A（皮肤、疼痛及神经急症相关风险需专业核对）
+- 直接回答：猫腰背皮肤波浪式抽动、疯狂舔背，不等于单凭症状确诊猫感觉过敏综合征；先排查寄生虫、过敏、皮肤感染及疼痛，再考虑局灶性发作、行为因素。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+猫背部皮肤突然像波浪一样抽动，接着猛舔、回头咬背或追尾巴，主人看到“猫感觉过敏综合征”就容易对号入座。其实这只是某些猫会出现的一组表现，不是单凭视频就能确诊的疾病。皮肤瘙痒、疼痛、局灶性神经发作和异常重复行为，都可能表现相似，应先找出能解释症状的具体原因。
+
+通常先从皮肤方向排查：跳蚤或其他体外寄生虫、跳蚤过敏、食物或环境过敏、皮肤感染及皮肤癣菌病等。猫即使一直生活在室内，也不能完全排除寄生虫。如果尾根掉毛、发红、有结痂或咬破皮肤，要告诉兽医。随后还应评估腰背、脊柱、尾巴及关节疼痛，必要时检查肛门囊；不要自行掰尾巴、按摩背部或挤肛门囊。
+
+如果每次突然发作、动作几乎一样，伴随瞳孔放大、异常叫声、意识反应改变或其他神经症状，兽医可能进一步考虑局灶性癫痫等原因。焦虑和环境刺激也可能加重症状，但只有在评估身体疾病之后，才适合讨论行为治疗。主人应记录每天发生次数、持续时间、触碰或噪声等诱因，以及发作后是否迅速恢复；安全时拍原速视频。
+
+不要为拍摄反复摸猫背、抓住它或故意诱发发作。若舔咬已经造成出血、伤口，或频率迅速增加，应尽快就医；若伴持续抽搐、明显意识异常、呼吸困难或无法站立，应立即急诊。检查可能涉及皮肤、疼痛和神经评估，具体按兽医判断进行。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫皮肤抽动、猫疯狂舔背、猫感觉过敏综合征、猫尾根瘙痒、猫跳蚤过敏、猫神经病理性疼痛、猫局灶性癫痫、猫异常重复行为。
+- 编辑级权威资料与支持范围：
+  - Cornell Feline Health Center—Hyperesthesia Syndrome：背部皮肤波浪式抽动、过度舔咬可能关联皮肤寄生虫、过敏、皮肤癣菌病、脊柱疼痛或神经问题；https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hyperesthesia-syndrome
+  - Merck Veterinary Manual—Behavior Problems of Cats：Hyperesthesia可能是多病因体征，并可见神经病理性疼痛、皮肤病、肌病和局灶性癫痫；https://www.merckvetmanual.com/behavior/behavior-of-cats/behavior-problems-of-cats
+  - Today's Veterinary Practice（2026）—Answering FAQs About Feline Hyperesthesia Syndrome：排除皮肤炎症、脊柱/尾部或肛门囊疼痛、发作性神经异常后才考虑行为成分；https://todaysveterinarypractice.com/behavior/answering-faqs-about-feline-hyperesthesia-syndrome/
+  - VCA—Cat Behavior Problems: Compulsive Disorders：猫过度梳理、追咬尾部与反复舔背可能有医学及行为原因；https://vcahospitals.com/know-your-pet/cat-behavior-problems-compulsive-disorders-in-cats
+- 编辑边界：正常猫偶尔背部皮肤抽动亦可出现，不能据单一体征确诊；禁在家反复刺激背部或自行药物试验；急诊指征需具体兽医评估。本次仅编辑级证据核对，未取得日本执业兽医医学签审。
+
+---
+
+
 - 优先级：A
 - 直接回答：先排查皮肤瘙痒、跳蚤等寄生虫、疼痛和环境刺激，再由兽医判断是否需要考虑神经或行为方向。
 
