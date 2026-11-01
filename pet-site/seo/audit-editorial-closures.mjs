@@ -23,6 +23,16 @@ for(const item of registry.items){
   if(i<0){errors.push(item.id+': current ID absent');continue;}
   const block=source.slice(nodes[i].index,nodes[i+1]?.index??source.length);
   if(!block.includes(item.requiredText))errors.push(item.id+': fix missing or modified');
+  if(item.evidenceHandoffFile){
+    let archive;
+    try{archive=readFileSync(join(repoDir,item.evidenceHandoffFile),'utf8');}
+    catch(e){errors.push(item.id+': archived evidence handoff absent');continue;}
+    const section=archive.split(/^##\\s+/m).find(x=>x.startsWith(item.id+'｜'));
+    if(!section || !item.archivedRequiredText || !section.includes(item.archivedRequiredText))
+      errors.push(item.id+': archived original correction evidence missing');
+    if(!section || !section.includes(item.supportingReference))
+      errors.push(item.id+': supporting reference missing from archived evidence');
+  }
   if(block.includes(item.forbiddenBodyText))errors.push(item.id+': old medical attribution regressed');
   if(item.status!=='editorial_correction_applied_medical_review_pending')
     errors.push(item.id+': closure must not masquerade as medical approval');
