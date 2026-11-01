@@ -239,6 +239,31 @@
 
 ---
 
+## 0475｜猫走路像喝醉，主人要回想哪些接触史？
+- Slug：`cat-wobbly-walk-exposure-history`
+- 直接回答：猫突然步态不稳应立即联系兽医；重点回想犬用含氯菊酯驱虫滴剂、近期药物、灭虫或清洁化学品、植物、食物、外伤与耳病，并带上包装。意识/呼吸异常、抽搐、不能站立应急诊。
+- 医学审核：pending / Hold（P0 中毒及神经急症）；发布：knowledge-base Draft / noindex。
+
+猫突然走路摇晃、脚步踩不准，像喝醉一样，可能是共济失调。问题可能来自内耳和前庭系统，也可能涉及脑部、脊髓、代谢异常或毒物接触。不要因为猫还能吃东西就认为不严重，应立即联系兽医，说明症状何时开始、是否持续加重，以及能否自己站立。突然跌倒、意识异常或抽搐时，应直接联系动物急诊。
+
+最重要的接触史是近期有没有用过驱虫滴剂，是否误用犬用产品，或舔到刚做完驱虫的狗。含氯菊酯的犬用除蚤药对猫危险，可能引起震颤和步态失衡。再回想人用药、兽医处方药或误服药片，家里是否新用了杀虫剂、灭鼠药、清洁剂、防冻液；不要遗漏猫舔毛时可能接触的物质。
+
+还应告诉医院最近是否换食物、接触植物、翻过垃圾、外出或跌落撞伤，是否有耳病、歪头、眼球快速摆动、呕吐或流口水。记录体重、接触物的名称、浓度、时间和大概数量，带上包装或照片。安全时拍下自然步态，但不要让猫反复试走以便录像，也不要强行扳头测试平衡。并非所有走路不稳都是中毒。
+
+把猫安置在安静、防滑、远离楼梯和高处的地方，避免跌落。怀疑毒物接触时，先阻止继续接触并立即打电话咨询兽医；不要自行催吐、灌水、喂解毒药或随意洗澡，具体去污方式由专业人员指导。若出现抽搐、呼吸异常、意识下降或无法站立，应直接急诊，不必等证实接触了什么。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫走路像喝醉、猫共济失调、猫步态不稳、猫驱虫药中毒、猫氯菊酯接触、猫毒物接触史、猫前庭综合征、猫神经急症。
+- 编辑级医学来源与支持范围：
+  - VCA Animal Hospitals—Ataxia in Cats（共济失调涉及前庭、脑/脊髓、低血糖/电解质及部分药物等多重原因）：https://vcahospitals.com/know-your-pet/ataxia-in-cats
+  - Cornell Feline Health Center—Poisons（突然步态异常、流口水、呕吐、抽搐等可提示中毒；接触杀虫剂、灭鼠药、清洁剂、防冻液等需急诊）：https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/poisons
+  - PDSA—Permethrin toxicity in cats（误用犬用含氯菊酯驱虫滴剂或接触刚滴药的狗均可中毒，表现含颤抖、失衡、抽搐和流涎）：https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/conditions/permethrin-toxicity-in-cats
+  - Merck Veterinary Manual—Diagnosis of Poisoning（必须记录体重、症状时间线、既往疾病、用药、环境与接触时间、包装等）：https://www.merckvetmanual.com/special-pet-topics/poisoning/diagnosis-of-poisoning
+  - PDSA—First aid for poisons and toxins（立即电话联系兽医、带包装或照片，未经专业建议不要催吐）：https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/first-aid-for-poisons-and-toxins
+  - Cornell Feline Health Center—Vestibular Syndrome（内耳与中枢前庭病也可导致突然失衡，不能直接推断中毒）：https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/vestibular-syndrome
+- 编辑边界：本稿只给接触史核对和急症分诊，不将所有共济失调视为中毒。特别是氯菊酯去污方式应由兽医按照实际药剂、症状与身体状况指导；严禁在家自行催吐、给药及延误急诊。2026-11-01编辑级来源核对，不代表日本执业兽医审核通过或日本药品审批事实。
+
+---
+
 ## 0485｜猫咬断逗猫棒吞了线，能自己拉出来吗？
 - Slug：`cat-swallowed-string-dont-pull`
 - 直接回答：不要拉。线性异物可能一端卡在舌根或胃肠道，强行拉扯可能造成肠道损伤，应尽快联系兽医。
