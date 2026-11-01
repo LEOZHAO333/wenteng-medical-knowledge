@@ -6,7 +6,7 @@
 
 | ID | 原选题 | 正文文件 | 级别与编辑核验 |
 |---|---|---|---|
-| 0474 | 猫头歪了但能吃饭，要及时看医生吗？ | S-TIER-NEURO-EMERGENCY.md | S；source_verified_editorial；P0 Hold |
+| 0474 | 猫头歪了但能吃饭，要及时看医生吗？ | S-TIER-NEURO-EMERGENCY.md | source_verified_editorial |
 
 ### 0474｜猫歪头但仍进食的病因鉴别与就医分诊
 
