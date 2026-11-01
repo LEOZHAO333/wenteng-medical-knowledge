@@ -16,7 +16,7 @@ const warnings=[];
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 async function get(url){
   const safe=new URL(url);
-  if(safe.origin!==BASE||!['/','/qa/','/sitemap.xml'].includes(safe.pathname)&&!/^\/(?:qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/)$/.test(safe.pathname)){
+  if(safe.origin!==BASE||!['/','/qa/','/sitemap.xml'].includes(safe.pathname)&&!/^\/(?:qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/|topics\/|topics\/[a-z0-9-]+\/|editorial-standards\/)$/.test(safe.pathname)){
     throw new Error('disallowed audit path '+url);
   }
   for(let attempt=1;attempt<=2;attempt++){
@@ -82,7 +82,7 @@ for(let i=0;i<entries.length;i+=batchSize){
     if(schemaError)issues.push('INVALID_JSON_LD');
     if(isQA&&!html.includes('立即就医信号'))issues.push('NO_EMERGENCY_SECTION');
     if(isQA&&html.includes('review_questions'))issues.push('INTERNAL_REVIEW_FIELDS_LEAK');
-    if(isQA&&!/2026-10-(?:15|29|30)/.test(html))issues.push('NO_VISIBLE_REVIEW_DATE'); // advisory only
+    if(isQA&&!/2026-1[01]-(?:01|15|29|30|31)/.test(html))issues.push('NO_VISIBLE_REVIEW_DATE'); // advisory only
     row.issues=issues;
     return row;
   }));
