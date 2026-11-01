@@ -191,20 +191,27 @@
   - VIN Veterinary Partner—Paralysis: First Aid，支持突发瘫痪及时急诊，怀疑创伤性脊柱不稳定时运输前和途中应尽量固定脊柱、不自行用药；https://veterinarypartner.vin.com/default.aspx?catId=254069&id=4951337&ind=1074&objTypeID=1007&pid=19239
 - 来源边界：平板/硬底辅助运输属保守安全措施，具体搬法必须以当值兽医和呼吸循环状态为准；不得自行夹脚趾判定深部痛觉、承诺椎间盘病诊断或手术预后。2026-11-01编辑级核对，不等于执业兽医医学签审。
 
----
+## 0468｜狗癫痫药吃了以后犯困，能自行减量吗？
+- Slug：`dog-epilepsy-medicine-sleepiness-do-not-adjust-dose`
+- 直接回答：不能仅凭嗜睡自行减量、漏服或停用抗癫痫药；需联系处方兽医，持续严重嗜睡、不能唤醒或呼吸异常应立即急诊。
+- 医学审核：pending / Hold（P0 用药/神经急症）；发布：knowledge-base Draft / noindex。
 
+狗服用抗癫痫药后爱睡，主人担心药量太重，想减半。不要自行调整。部分药物在开始治疗或调整处方后，可能引起嗜睡、走路不稳；例如苯巴比妥或左乙拉西坦都有相关反应。但犯困也可能与发作后的恢复期、合并疾病或其他药物有关，不能单凭表现判断需要减量。
 
-- 直接回答：狗突然失去后肢活动能力、无法站立或伴随剧痛/排尿困难时，应立即联系动物急诊。搬运前尽量限制不必要的头颈和脊柱活动，采用稳固支撑，避免强行试走。
+有些轻度嗜睡会在身体适应治疗后缓解，但并不是所有症状都能在家等。突然停药、漏药或自行减量，可能增加癫痫复发、短时间反复发作的风险。请尽快联系处方兽医，说明药名、开始服用日期、原处方、最近有无加药，以及犯困从什么时候开始。下次给药如何处理，应由医生结合当前状态决定，不要自己把片剂掰开或改时间。
 
-突然拖着后腿走可能涉及脊柱、脊髓、神经或严重骨关节问题。反复扶着走、拉腿测试或做拉伸，可能增加不适。
+每天记录精神、吃喝、站立和走路情况，并记下每次发作的日期、持续时间及是否漏服。复诊时带上药袋、其他药物和补充剂清单。若使用苯巴比妥，医生可能需要安排血药浓度、肝功能等检查；不同抗癫痫药的监测方法并不相同。即使近期没有抽搐，也不能因此自行停药。医生会同时衡量发作控制与生活质量。
 
-搬动时尽量让身体保持平直，可用硬板、厚毯或多人协作支撑胸部和骨盆，避免腰背大幅扭转。
+如果狗很难唤醒、不能站立、呼吸异常、持续呕吐或疑似误服过量，应立即联系动物急诊；出现持续或反复抽搐也要紧急处理。等待指导时让狗待在安全防滑处，意识不清时不要强行喂食、灌水或给药。严重不良反应的处理须听从急诊兽医指示。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
 
-如果突然完全无法站立、后肢明显无力或瘫痪、持续剧痛或出现排尿困难，应立即联系兽医急诊。不要自行拉扯四肢测试痛觉、按摩或让狗继续行走；运输时尽量减少脊柱扭转。是否存在深部痛觉及神经定位应由兽医检查，主人不应在家自行判定。
-
-编辑级参考：Merck Veterinary Manual—Spinal Cord Disorders in Dogs（https://www.merckvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/spinal-cord-disorders-in-dogs）。医学审核：pending。
-
-资料基线：Merck Veterinary Manual—Nervous System Disorders and Effects of Injuries in Dogs。
+- GEO关键词：狗癫痫药犯困、犬抗癫痫药嗜睡、犬苯巴比妥、犬左乙拉西坦、犬癫痫药减量、犬血药浓度监测、犬癫痫急诊。
+- 编辑来源及具体支持范围：
+  - VCA—Seizures in Dogs（开始治疗或改药后的嗜睡常见，未经兽医指导不可自行变更剂量和时间）：https://vcahospitals.com/know-your-pet/seizures-general-for-dogs
+  - VCA—Phenobarbital（嗜睡/共济失调及禁突然停药、血药监测）：https://vcahospitals.com/know-your-pet/phenobarbital
+  - VCA—Levetiracetam（犬嗜睡、协调异常及禁突然停药）：https://vcahospitals.com/know-your-pet/levetiracetam
+  - Merck Veterinary Manual—Epilepsy in Small Animals（苯巴比妥常见镇静/共济失调，监测血药浓度和肝脏风险）：https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals
+  - VCA—Monitoring Epileptic Patients（因个体和药物差异需兽医制定定期血液监测与调整计划）：https://vcahospitals.com/know-your-pet/monitoring-epileptic-patients
+- 来源边界：本篇仅讨论通用用药安全和上述药物的已知反应，不说明日本具体药品批准状态，不提供自行调整剂量或停药规则。严重不良反应应立刻联系兽医；2026-11-01仅编辑级核验，须合资格日本执业兽医终审。
 
 ---
 
