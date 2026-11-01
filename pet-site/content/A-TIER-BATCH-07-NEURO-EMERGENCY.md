@@ -81,6 +81,30 @@
 
 ## 0470｜狗神经检查正常，为什么还可能建议进一步影像检查？
 - Slug：`dog-normal-neuro-exam-why-imaging`
+- 优先级：A（临床影像决策与急症分诊需高风险专业审核）
+- 直接回答：神经查体仅反映当次检查功能表现，间歇性或部分结构性疾病仍可能存在。是否做MRI/CT应由症状、发病年龄、基础检查及结果对治疗的影响决定。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗在诊室里走得稳、反射正常，医生却建议进一步做MRI或CT，主人难免疑惑。神经检查主要评估就诊当时的意识、步态、姿势反应和反射；但某些症状间歇出现，狗到医院时已经恢复。少数脑部或脊髓结构性病变在早期也可能没有明显查体异常，所以一次正常结果不能等于完全排除神经疾病。
+
+例如反复抽搐的狗，发作间神经检查可能正常。兽医仍会结合首次发作年龄、发作频率、病史和血液检查，判断是否需要排除脑部病变。持续或反复疼痛、后腿拖行、步态变化，也可能需要检查脊髓或周围结构。通常MRI更适合观察脑和脊髓等软组织，CT在骨骼、创伤及部分结构评估中更有价值；选择取决于怀疑的问题。
+
+影像不是查得越多越好。主人可以询问：医生最担心哪种病变？MRI还是CT能回答这个问题？检查结果会改变用药、手术或后续观察吗？需要麻醉或镇静吗，风险如何评估？是否应先做血尿检查，或转诊神经专科？即使影像显示异常，也要判断它是否真正解释症状，不能把所有影像发现都当作病因。
+
+就诊前带上自然发作的视频、时间记录、既往用药和化验单，说明是突然出现、反复发作还是逐渐加重。若持续抽搐、短时间重复抽搐、突然无法站立或意识异常，应立即联系急诊，不为预约影像延误处理。若情况稳定，可与兽医充分讨论检查的必要性和顺序。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：犬神经检查正常、狗MRI必要性、狗CT检查、犬脑部影像、犬脊髓MRI、犬抽搐影像检查、神经系统疾病鉴别、宠物影像麻醉。
+- 编辑级参考及断言边界：
+  - Merck Veterinary Manual—The Neurologic Evaluation of Dogs（2026更新），神经查体与血尿、MRI/CT等辅助检查： https://www.merckvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/the-neurologic-evaluation-of-dogs
+  - IVETF consensus proposal—Diagnostic approach to epilepsy in dogs（2015），正常发作间期神经检查不等于可一律排除脑结构异常；影像检查适应性还应结合年龄、密集发作、难治性等风险；https://pmc.ncbi.nlm.nih.gov/articles/PMC4552251/
+  - Phillipps & Goncalves（2025）—High-field MRI findings in epileptic dogs with a normal inter-ictal neurological examination，412犬回顾性样本，正常查体仍有少数结构性病因，影像异常也可能偶然发现；https://pubmed.ncbi.nlm.nih.gov/39881720/
+  - Cornell University College of Veterinary Medicine—Imaging Service，MRI适用于脑脊髓等软组织，CT适用于部分骨结构、创伤及其他检查；https://www.vet.cornell.edu/hospitals/services/imaging-service
+  - Cornell University College of Veterinary Medicine—Diseased Spinal Disks，常规X光不能单独排除椎间盘问题，是否采用MRI依临床情形决定；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/diseased-spinal-disks
+- 编辑边界：不宣称神经检查正常就一定有隐匿病灶，不推销所有犬MRI/CT；特发性癫痫需要排除其他诱因，麻醉风险与检查优先级由临床医生讨论。2026-11-01编辑级医学来源核对，并非真实执业兽医终审。
+
+---
+
+
 - 优先级：A
 - 直接回答：神经检查反映的是就诊当下的功能表现，间歇性问题或某些结构性病变并不一定在一次检查中表现明显。
 
