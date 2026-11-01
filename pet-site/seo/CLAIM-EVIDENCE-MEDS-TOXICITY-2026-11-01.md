@@ -93,3 +93,12 @@
 ## SEO与发布阻断
 
 本次未修改 `pet-site/api/pet.js`、Article日期、相关问答、canonical、robots、noindex、sitemap、生产45 URL候选白名单；582个S/A草稿与40个生产问答仍是不同集合。来源核对/机器CI不等于执业兽医签署；本轮没有搜索引擎实际收录核验。产品级MAFF/NVAL批准核验数=0。
+
+## 2026-11-01 生产SEO源代码快照（仅静态，非线上收录）
+
+- 本Draft最新CI的 `audit-production-index-gap.mjs` 从当前合并基线报告 **188条生产渲染问答**，不再是旧40条；PR #52（2026-10-31已合并）说明由90条增至188条，计划白名单为 **188篇问答+5个核心页=193个候选URL**。这是源码与PR证据，**不是已上线HTTP验收或搜索引擎实际收录**。
+- 同一CI报告 `missingPublished=12`、`missingModified=188`、`unverifiedPublishedDate=176`，不得自动补造发布日期/修改日期；`productionPerArticleGateIntegrated=false`，生产索引仍依Slug白名单，不读取本Draft的兽医Hold/Founder逐篇授权。
+- 主分支 `pet-site/api/pet.js` 中188条均带 `reviewLabel="本文经日本宠物医生审核"` 与 `reviewedAt`；其审核来源在已合并PR #43/#44/#45/#52记为Founder对实际日本宠物医生审核的确认。**本次只读检查没有独立读取签署原件/执业证照，也不能据此否定Founder确认**；应将这些已公开批次与本次仍Hold的582个S/A私有草稿分开管理。不能用这188个页面的标签反向给582条草稿赋予Medical Approved。
+- `related`链接仍为渲染器自动按物种/主题生成，不能由代码通过推断每一条医学语义关联已逐项复核。PR #38逐篇索引闸门仍为隔离Draft，不应误报已部署。
+
+相关仓库PR：https://github.com/LEOZHAO333/wenteng-medical-knowledge/pull/52 、https://github.com/LEOZHAO333/wenteng-medical-knowledge/pull/38 。
