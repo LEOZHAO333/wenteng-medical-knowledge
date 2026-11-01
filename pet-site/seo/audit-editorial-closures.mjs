@@ -27,7 +27,7 @@ for(const item of registry.items){
     let archive;
     try{archive=readFileSync(join(repoDir,item.evidenceHandoffFile),'utf8');}
     catch(e){errors.push(item.id+': archived evidence handoff absent');continue;}
-    const section=archive.split(/^##\\s+/m).find(x=>x.startsWith(item.id+'｜'));
+    const section=archive.split(/^##\s+/m).find(x=>x.startsWith(item.id+'｜'));
     if(!section || !item.archivedRequiredText || !section.includes(item.archivedRequiredText))
       errors.push(item.id+': archived original correction evidence missing');
     if(!section || !section.includes(item.supportingReference))
