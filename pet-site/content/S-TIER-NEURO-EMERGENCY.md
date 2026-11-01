@@ -215,6 +215,30 @@
 
 ---
 
+## 0474｜猫头歪了但能吃饭，要及时看医生吗？
+- Slug：`cat-head-tilt-eating-normally-vet-check`
+- 直接回答：持续或新发生歪头即使食欲正常，也应当天联系兽医尽快检查；需区分耳部/外周前庭与中枢神经疾病，突发无法站立、意识异常或抽搐等立即急诊。
+- 医学审核：pending / Hold（P0 神经前庭急症）；发布：knowledge-base Draft / noindex。
+
+猫咪忽然把头歪向一边，但仍会吃饭，主人以为是耳朵痒。持续歪头可能是前庭系统异常的信号，问题可能发生在内耳、前庭神经，也可能涉及脑干或小脑。中耳或内耳感染、耳部息肉、特发性前庭综合征以及其他神经疾病，都可能有相似表现。能吃饭不能证明病情轻，出现新的持续歪头应当天联系兽医检查。
+
+观察是左歪还是右歪，眼球是否快速摆动，有没有转圈、呕吐、跌倒或听力变化。外耳没有红肿异味，也不能排除中耳和内耳问题。兽医结合耳道、神经及平衡检查判断病变方向，必要时进行血液检查或CT、MRI等影像检查；并非所有歪头的猫都必须做磁共振。不要靠自己观察眼球方向确诊病因。
+
+就诊前把猫安置在防滑、无高处跌落风险的安静空间，暂时阻隔楼梯、阳台和高家具。不要强迫它走直线、旋转头部测试平衡，也不要自行清洗耳朵、滴耳药或喂人用药。记录症状从何时开始、是否突然发生、近期耳病与用药情况。如果猫能安全地自然活动，可从远处拍摄歪头、行走及眼球变化，不能为拍摄延迟就诊。
+
+若突然无法站立、连续跌倒、反复剧烈呕吐、抽搐、意识异常或呼吸困难，应直接联系动物急诊。即使只有持续歪头、食欲仍好，也不能自行等几天看会不会恢复。部分特发性前庭疾病确实可能逐渐好转，但应先由兽医排除其他重要病因。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫头歪但能吃饭、猫持续歪头、猫前庭综合征、猫内耳炎、猫眼球震颤、猫神经异常、猫歪头急诊、猫耳道检查。
+- 编辑级医学来源与支持范围：
+  - Cornell Feline Health Center—Vestibular Syndrome（头倾、眼震、失衡，特发性与感染、肿瘤等鉴别，出现症状须联系兽医）：https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/vestibular-syndrome
+  - VCA—Vestibular Disease in Cats（外周/中枢前庭组成、突发歪头、跌倒、呕吐、检查与护理）：https://vcahospitals.com/know-your-pet/feline-vestibular-disease
+  - Merck Veterinary Manual—Otitis Media and Interna in Cats（中内耳病可出现歪头、失衡，外耳表现不一定明显，变化应尽快检查）：https://www.merckvetmanual.com/cat-owners/ear-disorders-of-cats/otitis-media-and-interna-in-cats-middle-and-inner-ear-infections
+  - Merck Veterinary Manual—Otitis Media and Interna in Animals（内耳感染可见食欲良好或清醒，不能据此排除前庭病；脑内并发症可能伴意识变化）：https://www.merckvetmanual.com/ear-disorders/otitis-media-and-interna/otitis-media-and-interna-in-animals
+  - Merck Veterinary Manual—The Neurologic Examination of Animals（头倾与头转、扭颈需区别，单一体征不能自行定位）：https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+- 编辑边界：持续歪头并非全为内耳炎，特发性前庭疾病也不能自行确诊；眼震方向和食欲不能独立定位或排除脑部疾病。MRI/CT和急诊安排由兽医综合判断；不提供自行滴耳药或药物治疗方案。编辑来源核对2026-11-01，未获日本执业兽医医学签审。
+
+---
+
 ## 0485｜猫咬断逗猫棒吞了线，能自己拉出来吗？
 - Slug：`cat-swallowed-string-dont-pull`
 - 直接回答：不要拉。线性异物可能一端卡在舌根或胃肠道，强行拉扯可能造成肠道损伤，应尽快联系兽医。
