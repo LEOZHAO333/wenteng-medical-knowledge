@@ -19,7 +19,7 @@ const expected=[
  ['0659','japan-china-pet-medicine-active-ingredient','不能据此自行换药']
 ];
 const failures=[];
-const headings=[...source.matchAll(/^##\\s+(\\d{4})｜/gm)];
+const headings=[...source.matchAll(/^##\s+(\d{4})｜/gm)];
 const seen=new Set();
 for(const h of headings){if(seen.has(h[1]))failures.push('duplicate source ID '+h[1]);seen.add(h[1]);}
 for(const [id,slug,safety] of expected){
@@ -30,7 +30,7 @@ for(const [id,slug,safety] of expected){
  if(!block.includes(safety))failures.push(id+': safety phrase missing');
  if(/^编辑级(?:依据|证据|参考|逐主张依据)|医学(?:审核|终审)：|Medical Approved=|pending_licensed_veterinarian/m.test(block))
    failures.push(id+': internal review metadata leaked into article');
- const section=handoff.split(/^##\\s+/m).find(x=>x.startsWith(id+'｜'));
+ const section=handoff.split(/^##\s+/m).find(x=>x.startsWith(id+'｜'));
  if(!section){failures.push(id+': missing vet handoff');continue;}
  if(!section.includes('从正文原样迁出的内部注记')||!section.includes('https://'))
    failures.push(id+': source/history not preserved');
