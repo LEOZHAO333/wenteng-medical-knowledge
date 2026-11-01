@@ -40,7 +40,7 @@ const articleURLs=entries.filter(e=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-
 if(articleURLs.length!==EXPECTED_QA)errors.push('QA article count '+articleURLs.length+' expected '+EXPECTED_QA);
 const dateCount=Object.create(null);
 for(const item of entries){
-  if(!/^https:\/\/pet\.japanmedai\.com\/(?:|qa\/|qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/)$/.test(item.url))errors.push('unexpected URL '+item.url);
+  if(!/^https:\/\/pet\.japanmedai\.com\/(?:|qa\/|qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/|topics\/|topics\/[a-z0-9-]+\/|editorial-standards\/)$/.test(item.url))errors.push('unexpected URL '+item.url);
   if(!/^\d{4}-\d{2}-\d{2}$/.test(item.lastmod))errors.push('invalid lastmod '+item.url);
   dateCount[item.lastmod]=(dateCount[item.lastmod]||0)+1;
 }
