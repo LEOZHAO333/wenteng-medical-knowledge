@@ -51,13 +51,15 @@
       "bodyFile": "pet-site/content/S-TIER-MEDS-LABS.md",
       "status": "editorial_correction_applied_medical_review_pending",
       "supportingReference": "https://www.vet.cornell.edu/hospitals/pharmacy/consumer-clinical-care-guidelines-animals/giving-your-cat-oral-medications",
-      "requiredText": "Cornell University College of Veterinary Medicine—Giving Your Cat Oral Medications",
+      "requiredText": "不要自行补喂",
       "forbiddenBodyText": "VCA Animal Hospitals—Sarolaner",
-      "notes": "2026-10-25: 原猫给药后流涎文章错配犬用sarolaner补服示例；改用Cornell猫给药与Merck猫流涎病因资料，避免将犬用产品证据误归因到猫。医学原因与补服判断仍待执业兽医逐句复核。",
+      "notes": "2026-10-25: 原猫给药后流涎文章错配犬用sarolaner补服示例；改用Cornell猫给药与Merck猫流涎病因资料，避免将犬用产品证据误归因到猫。医学原因与补服判断仍待执业兽医逐句复核。 2026-11-01：内部证据注记迁移至独立兽医交接文件；正文保留安全措辞，审计同时核对正文与原始注记。",
       "medicalHold": true,
       "medicalReviewStatus": "pending_licensed_veterinarian",
       "releaseAuthorized": false,
-      "holdReason": "给药后流涎的鉴别诊断、过敏/毒性边界与急诊阈值尚未获得兽医签署"
+      "holdReason": "给药后流涎的鉴别诊断、过敏/毒性边界与急诊阈值尚未获得兽医签署",
+      "archivedRequiredText": "Cornell University College of Veterinary Medicine—Giving Your Cat Oral Medications",
+      "evidenceHandoffFile": "pet-site/seo/CLAIM-EVIDENCE-MEDS-TOXICITY-2026-11-01.md"
     },
     {
       "id": "0651",
@@ -100,9 +102,11 @@
       "historicFile": "pet-site/content/SOURCE-VERIFICATION-BATCH-02.md",
       "bodyFile": "pet-site/content/S-TIER-MEDS-LABS.md",
       "supportingReference": "https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors",
-      "requiredText": "未经兽医指示，不应剪切、碾碎或拆开药片与胶囊",
+      "requiredText": "未确认前不要自行改变剂型",
       "forbiddenBodyText": "编辑级证据：美国FDA—Veterinary Medication Errors",
-      "notes": "2026-10-27：将不应自行碾碎的直接依据准确归于FDA消费者安全建议；Merck剂型资料仅支持一般原理，不替代产品说明书。Hold待执业兽医。"
+      "notes": "2026-10-27：将不应自行碾碎的直接依据准确归于FDA消费者安全建议；Merck剂型资料仅支持一般原理，不替代产品说明书。Hold待执业兽医。 2026-11-01：内部证据注记迁移至独立兽医交接文件；正文保留安全措辞，审计同时核对正文与原始注记。",
+      "archivedRequiredText": "未经兽医指示，不应剪切、碾碎或拆开药片与胶囊",
+      "evidenceHandoffFile": "pet-site/seo/CLAIM-EVIDENCE-MEDS-TOXICITY-2026-11-01.md"
     },
     {
       "historicalStatus": "source_verified_editorial",
@@ -115,9 +119,11 @@
       "historicFile": "pet-site/content/SOURCE-VERIFICATION-BATCH-02.md",
       "bodyFile": "pet-site/content/S-TIER-MEDS-LABS.md",
       "supportingReference": "https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors",
-      "requiredText": "美国FDA—Veterinary Medication Errors",
+      "requiredText": "不能将某种药物的补服时间窗口照搬到所有处方",
       "forbiddenBodyText": "编辑级依据：VCA Animal Hospitals—Sarolaner",
-      "notes": "2026-10-27：VCA Sarolaner仅为特定犬药示例；新增FDA关于宠物吐药后应咨询兽医的通用安全问答，保留不能通用补服的边界。Hold。"
+      "notes": "2026-10-27：VCA Sarolaner仅为特定犬药示例；新增FDA关于宠物吐药后应咨询兽医的通用安全问答，保留不能通用补服的边界。Hold。 2026-11-01：内部证据注记迁移至独立兽医交接文件；正文保留安全措辞，审计同时核对正文与原始注记。",
+      "archivedRequiredText": "美国FDA—Veterinary Medication Errors",
+      "evidenceHandoffFile": "pet-site/seo/CLAIM-EVIDENCE-MEDS-TOXICITY-2026-11-01.md"
     },
     {
       "historicalStatus": "source_verified_editorial",
@@ -130,9 +136,11 @@
       "historicFile": "pet-site/content/SOURCE-VERIFICATION-BATCH-02.md",
       "bodyFile": "pet-site/content/S-TIER-MEDS-LABS.md",
       "supportingReference": "https://vcahospitals.com/know-your-pet/insulin",
-      "requiredText": "VCA Animal Hospitals—Insulin（",
+      "requiredText": "不能擅自补双倍",
       "forbiddenBodyText": "Insulin Treatment in Dogs and Cats",
-      "notes": "2026-10-27：原链接为犬胰岛素治疗页却误标犬猫；换用VCA Insulin跨物种资料支持漏用胰岛素联系兽医及不得双倍，其他药物漏服规则仍无直接支持并Hold。"
+      "notes": "2026-10-27：原链接为犬胰岛素治疗页却误标犬猫；换用VCA Insulin跨物种资料支持漏用胰岛素联系兽医及不得双倍，其他药物漏服规则仍无直接支持并Hold。 2026-11-01：内部证据注记迁移至独立兽医交接文件；正文保留安全措辞，审计同时核对正文与原始注记。",
+      "archivedRequiredText": "VCA Animal Hospitals—Insulin（",
+      "evidenceHandoffFile": "pet-site/seo/CLAIM-EVIDENCE-MEDS-TOXICITY-2026-11-01.md"
     }
   ],
   "consolidationNote": "PR #26 合并时 requiredText 随 #14 同步更新为\"不要在家自行催吐\"（依据 Merck Veterinary Manual—Xylitol Toxicosis in Dogs）；这是同步修改校验规则，不是原句原封保留。医学终审 pending，不代表 Medical Approved。 2026-10-24新增0472/0488编辑级纠错非回归条目，旧Batch06不改写，执业兽医Medical Approved仍为0。 2026-10-27对0635/0643/0648/0649追加逐主张来源适配及非回归记录，既有来源批次不覆盖；医学状态保持Hold。"
