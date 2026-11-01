@@ -9,6 +9,29 @@
 
 ## 0465｜狗睡觉抖腿，怎样和真正的抽搐区别开？
 - Slug：`dog-sleep-twitching-vs-seizure`
+- 优先级：A（神经急症相关，医学复核P0）
+- 直接回答：睡梦中的短暂不规律抖腿常属正常睡眠动作，但真正癫痫也可在睡眠发生；结合动作、反应、恢复情况和视频，按风险就医。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗睡着后偶尔抖腿、轻轻踢脚，还发出呜咽，未必是癫痫。狗在快速眼动睡眠阶段可能出现短暂、不规则的肌肉抽动，看起来像在奔跑。若身体放松，动作断断续续，醒后很快恢复平常状态，更支持正常睡梦活动。但只凭“发生在睡觉时”不能排除抽搐，真正的癫痫也可能在睡眠中出现。
+
+观察时先保持距离，不要拍打身体、抓住四肢或伸手碰嘴巴。如果担心，可以从旁边轻声叫名字，看狗是否自然醒来并回应；不要突然惊吓。能醒来通常更支持做梦，但一时没有回应不能直接判定为癫痫。安全情况下拍下全身短视频，记录开始时间、持续多久，动作是间歇抖动还是持续僵硬，以及醒来后是否正常。
+
+更需要警惕的表现包括全身明显僵硬、持续有力的划腿动作、意识或反应异常、流口水、大小便失禁，以及结束后明显迷糊或站不稳。不过，局灶性癫痫有时只表现为脸部或一条腿抽动，仍可能保持意识；因此没有全身抽搐，也不能自行排除。反复出现相似异常、醒着时也发作，建议尽快让兽医结合视频检查。
+
+如果怀疑正在抽搐，先清开危险物、立即计时，不要强行叫醒或按住身体。持续超过两分钟应立即联系兽医；接近五分钟、二十四小时内再次发作，或发作间未恢复意识，应紧急联系动物急诊。第一次可疑发作即使已恢复也应咨询兽医，不为拍视频延误求助。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：狗睡觉抖腿、犬睡梦抽动、犬睡眠与癫痫鉴别、犬局灶性癫痫、犬抽搐急诊、犬发作录像、犬REM睡眠。
+- 编辑医学来源及支持范围：
+  - VCA Animal Hospitals—Do Dogs Dream?（REM睡眠、短暂肌肉抽动）：https://vcahospitals.com/know-your-pet/do
+  - American Kennel Club（兽医撰稿）—Is My Dog Dreaming or Having a Seizure?（轻微间歇抽动/身体僵直/醒后混乱区分，呼名而不触碰）：https://www.akc.org/expert-advice/health/dreaming-vs-seizures-in-dogs/
+  - Cornell University College of Veterinary Medicine—Managing Seizures（局灶发作可仅局部抽动，危险时间界限及安全防护）：https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/managing-seizures
+  - PDSA—Seizures and Epilepsy in Dogs（首次发作就医、>2分钟立即联系兽医，持续约5分钟急症）：https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/symptoms/seizures-in-dogs
+- 来源边界：睡梦中能否唤醒仅为辅助线索，不是癫痫排除诊断；时间阈值为求助提示，并非等待指示。2026-11-01编辑级核对，未取得执业兽医签审。
+
+---
+
+
 - 优先级：A
 - 直接回答：睡梦中轻微抖腿常与做梦有关，但如果出现全身僵硬、反复划动、流口水、失去反应或醒后长时间异常，应尽快让兽医评估。
 
