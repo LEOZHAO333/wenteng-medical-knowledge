@@ -11,6 +11,8 @@
 ### 0466｜犬持续歪头、转圈和站立不稳
 
 - Canonical ID：`0466`；Slug：`dog-head-tilt-circling-unsteady-vestibular-check`；分类：S级神经急症分诊；医学风险：P0；发布：Hold。
+- 已核对断言：持续头倾、转圈、眼球震颤与站不稳是前庭或其他神经系统异常的警示症状，可能涉及内耳、中枢神经系统；中内耳炎和特发性前庭综合征均需专业鉴别，并非仅凭症状即可确诊。
+- 编辑边界：突然不能站立、意识改变、抽搐、严重呕吐等需紧急联系兽医；即使高龄或耳道外观正常，也不能自行排除脑部和内耳病。所列求助分诊为保守安全提示，尚待真实日本执业兽医审核，不提供独立用药与MRI处方。
 - 原始问题为现有 `ROUND5-ENDOCRINE-JOINT-NEURO-EMERGENCY-PRIORITY.md` 的既定0466，原S级正文先前留空；本批填充唯一Canonical ID，非新造同题。
 - VCA Animal Hospitals—Vestibular Disease in Dogs：https://vcahospitals.com/know-your-pet/vestibular-disease-in-dogs
   - 支持：前庭功能涉及外周内耳和中枢结构；歪头、转圈、眼震、呕吐和失衡为常见表现；病因包括内耳感染、脑部异常及特发性综合征。
