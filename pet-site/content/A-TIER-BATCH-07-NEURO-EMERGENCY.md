@@ -262,6 +262,8 @@
   - Cornell University—Imaging Service（犬猫MRI几乎总需全麻以保持不动）：https://www.vet.cornell.edu/hospitals/services/imaging-service
   - Cornell—Anesthesiology（麻醉前病史评估与苏醒监护）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
   - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（无电离辐射、金属兼容性和伪影）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
+  - Johns Hopkins Radiology—Veterinary MRI（犬猫MRI全麻、造影和磁场安全）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
+  - AVMA—When Your Pet Needs Anesthesia（术前风险评估、生命体征监测、苏醒护理）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
 
 ---
 
