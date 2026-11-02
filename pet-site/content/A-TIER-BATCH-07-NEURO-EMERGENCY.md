@@ -257,6 +257,10 @@
 2. **检查前要禁食禁水几个小时？** 不使用统一数字；各院具体要求不同，幼龄、有糖尿病或其他基础病时，务必向检查医院确认专属安排。
 3. **正在吃抗癫痫药或植入芯片怎么办？** 不要自行停药，也不要把芯片一概当作MRI禁忌；把完整药单、芯片和金属植入信息提前交给医院判断。
 
+- 医学编辑来源（事实与适用边界）：
+  - 仙台兽医师会综合动物医院（日本真实MRI准备规则、麻醉和药物个体咨询）：https://www.svet.jp/sougou-ah/imaging/confirmation.php
+  - Cornell University—Imaging Service（犬猫MRI几乎总需全麻以保持不动）：https://www.vet.cornell.edu/hospitals/services/imaging-service
+
 ---
 
 ## 0479｜宠物疑似脑部疾病，第二意见需要哪些原始资料？
