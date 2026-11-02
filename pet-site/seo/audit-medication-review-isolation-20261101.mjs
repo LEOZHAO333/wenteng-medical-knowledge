@@ -7,7 +7,8 @@ import {dirname,join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 const dir=dirname(fileURLToPath(import.meta.url));
 const source=readFileSync(join(dir,'../content/S-TIER-MEDS-LABS.md'),'utf8');
-const handoff=readFileSync(join(dir,'CLAIM-EVIDENCE-MEDS-TOXICITY-2026-11-01.md'),'utf8');
+const legacyHandoff=readFileSync(join(dir,'CLAIM-EVIDENCE-MEDS-TOXICITY-2026-11-01.md'),'utf8');
+const nextHandoff=readFileSync(join(dir,'CLAIM-EVIDENCE-STEROID-MEDLIST-LEUKOGRAM-2026-11-02.md'),'utf8');
 const expected=[
  ['0641','cat-foaming-after-medication','张口呼吸'],
  ['0643','cat-crush-medication-food','不要自行改变剂型'],
@@ -16,13 +17,17 @@ const expected=[
  ['0650','pet-share-leftover-medication','不要共用'],
  ['0651','human-painkillers-dogs-cats','不要自行催吐'],
  ['0652','pet-antibiotic-stop-early','不要自行停药或延长'],
- ['0659','japan-china-pet-medicine-active-ingredient','不能据此自行换药']
+ ['0659','japan-china-pet-medicine-active-ingredient','不能据此自行换药'],
+ ['0653','pet-steroid-increased-thirst','不要未经开药兽医指导自行停药',true],
+ ['0654','pet-multiple-vets-medication-list','药单至少记录',true],
+ ['0663','dog-high-white-blood-cells-antibiotics','白细胞分类的绝对计数',true]
 ];
 const failures=[];
 const headings=[...source.matchAll(/^##\s+(\d{4})｜/gm)];
 const seen=new Set();
 for(const h of headings){if(seen.has(h[1]))failures.push('duplicate source ID '+h[1]);seen.add(h[1]);}
-for(const [id,slug,safety] of expected){
+for(const [id,slug,safety,useNext] of expected){
+ const handoff=useNext?nextHandoff:legacyHandoff;
  const index=headings.findIndex(h=>h[1]===id);
  if(index<0){failures.push('missing article '+id);continue;}
  const block=source.slice(headings[index].index,headings[index+1]?.index??source.length);
@@ -37,8 +42,11 @@ for(const [id,slug,safety] of expected){
  if(!section.includes('pending_licensed_veterinarian')||!section.includes('Hold'))
    failures.push(id+': medical Hold missing');
 }
-if(!handoff.includes('Medical Approved=0')||!handoff.includes('releaseAuthorized=false'))
- failures.push('handoff approval boundary missing');
-if(!handoff.includes('产品级核验数=0'))failures.push('MAFF/NVAL product-level status missing');
+for(const [name,handoff] of [['legacy',legacyHandoff],['2026-11-02',nextHandoff]]){
+ if(!handoff.includes('Medical Approved=0')||!handoff.includes('releaseAuthorized=false'))
+  failures.push(name+': handoff approval boundary missing');
+}
+if(!legacyHandoff.includes('产品级核验数=0')||!nextHandoff.includes('产品级批准本次新增核验数=0'))
+ failures.push('MAFF/NVAL product-level status missing');
 console.log(JSON.stringify({audit:'medication-toxicity-review-isolation',checked:expected.length,medicalApprovedByAudit:0,productionModified:false,failures},null,2));
 if(failures.length)process.exitCode=1;
