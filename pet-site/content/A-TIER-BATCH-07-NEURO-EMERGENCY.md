@@ -99,6 +99,8 @@
   - IVETF consensus proposal—Diagnostic approach to epilepsy in dogs（2015），正常发作间期神经检查不等于可一律排除脑结构异常；影像检查适应性还应结合年龄、密集发作、难治性等风险；https://pmc.ncbi.nlm.nih.gov/articles/PMC4552251/
   - Phillipps & Goncalves（2025）—High-field MRI findings in epileptic dogs with a normal inter-ictal neurological examination，412犬回顾性样本，正常查体仍有少数结构性病因，影像异常也可能偶然发现；https://pubmed.ncbi.nlm.nih.gov/39881720/
   - Cornell University College of Veterinary Medicine—Imaging Service，MRI适用于脑脊髓等软组织，CT适用于部分骨结构、创伤及其他检查；https://www.vet.cornell.edu/hospitals/services/imaging-service
+  - Cornell University—Anesthesiology Services（全病史、用药、麻醉反应及术后监测）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
+  - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（MRI无电离辐射，金属可带来安全或成像伪影问题）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
   - Cornell University College of Veterinary Medicine—Diseased Spinal Disks，常规X光不能单独排除椎间盘问题，是否采用MRI依临床情形决定；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/diseased-spinal-disks
 - 编辑边界：不宣称神经检查正常就一定有隐匿病灶，不推销所有犬MRI/CT；特发性癫痫需要排除其他诱因，麻醉风险与检查优先级由临床医生讨论。2026-11-01编辑级医学来源核对，并非真实执业兽医终审。
 
