@@ -101,6 +101,8 @@
   - Cornell University College of Veterinary Medicine—Imaging Service，MRI适用于脑脊髓等软组织，CT适用于部分骨结构、创伤及其他检查；https://www.vet.cornell.edu/hospitals/services/imaging-service
   - Cornell University—Anesthesiology Services（全病史、用药、麻醉反应及术后监测）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
   - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（MRI无电离辐射，金属可带来安全或成像伪影问题）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
+  - Johns Hopkins Radiology—Veterinary MRI（安全环境、金属风险、钆造影剂可选择使用）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
+  - AVMA—When Your Pet Needs Anesthesia（术前体检和风险评估、术中生命体征监测及复苏观察）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
   - Cornell University College of Veterinary Medicine—Diseased Spinal Disks，常规X光不能单独排除椎间盘问题，是否采用MRI依临床情形决定；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/diseased-spinal-disks
 - 编辑边界：不宣称神经检查正常就一定有隐匿病灶，不推销所有犬MRI/CT；特发性癫痫需要排除其他诱因，麻醉风险与检查优先级由临床医生讨论。2026-11-01编辑级医学来源核对，并非真实执业兽医终审。
 
