@@ -260,6 +260,7 @@
 - 医学编辑来源（事实与适用边界）：
   - 仙台兽医师会综合动物医院（日本真实MRI准备规则、麻醉和药物个体咨询）：https://www.svet.jp/sougou-ah/imaging/confirmation.php
   - Cornell University—Imaging Service（犬猫MRI几乎总需全麻以保持不动）：https://www.vet.cornell.edu/hospitals/services/imaging-service
+  - Cornell—Anesthesiology（麻醉前病史评估与苏醒监护）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
 
 ---
 
