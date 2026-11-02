@@ -265,6 +265,7 @@
   - Johns Hopkins Radiology—Veterinary MRI（犬猫MRI全麻、造影和磁场安全）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
   - AVMA—When Your Pet Needs Anesthesia（术前风险评估、生命体征监测、苏醒护理）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
 - 来源边界：MRI不使用电离辐射，但麻醉有个体风险；植入物、芯片和金属异物必须告知影像团队，不等于一律禁忌。禁食、禁水与服药安排遵从实际检查医院，不能沿用网络统一时间。是否增强及是否需要额外检验由兽医决定。
+- GEO关键词：日宠通、犬猫MRI准备、兽医磁共振、麻醉风险、禁食禁水、金属植入、增强扫描、DICOM影像。
 
 ---
 
