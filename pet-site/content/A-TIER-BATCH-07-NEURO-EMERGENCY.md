@@ -330,6 +330,8 @@
   - ACVIM—Small Animal Consensus on Seizure Management in Dogs：剂量调整、治疗反应、药物浓度及不良反应需联合评估，不能只用固定血检周期判断。https://pmc.ncbi.nlm.nih.gov/articles/PMC4913615/
   - VCA Animal Hospitals—Phenobarbital：部分病例嗜睡、运动不协调、饮水和食欲变化，需监测药物浓度与不良反应。https://vcahospitals.com/valley/know-your-pet/phenobarbital
   - VCA Animal Hospitals—Levetiracetam：强调发作记录、个体肾病风险及按兽医指示监测，通常不能照搬苯巴比妥血药监测。https://vcahospitals.com/companion/know-your-pet/levetiracetam
+  - 富士フイルム（日本）動物医療—血中薬物検査：日本兽医检测机构提供苯巴比妥、唑尼沙胺及溴化钾等不同药物的浓度检测，强调采血时间及药物适用范围。https://www.fujifilm.com/jp/ja/healthcare/veterinary/examination/blood-concentration/blood-drug-test
+  - ACVIM 2024—Dogs and Cats Status Epilepticus / Cluster Seizures：持续性或簇集发作属于紧急神经风险，家庭监测不能替代紧急处置。https://pmc.ncbi.nlm.nih.gov/articles/PMC10800221/
 
 ---
 
