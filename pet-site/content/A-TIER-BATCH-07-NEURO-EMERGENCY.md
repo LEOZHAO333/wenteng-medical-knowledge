@@ -203,6 +203,31 @@
 
 ## 0477｜猫神经症状时好时坏，症状日记要记什么？
 - Slug：`cat-intermittent-neuro-symptom-diary`
+- 优先级：A（脑神经症状及抽搐急症分诊关键断言需P0复核）
+- 直接回答：逐次记录发生时间、时长、次数、动作、意识、药物/毒物等背景及完整恢复时间，安全时拍原速全身视频；症状加重/紧急征象不应等候常规复诊。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+猫有时走路摇晃、歪头或凝视不动，过一会儿又像没事一样，到医院反而看不出异常。间歇性症状可能与前庭、神经发作或其他疾病有关，不能因为恢复就排除问题。症状日记用于还原时间线，不是让主人自行诊断癫痫。首次出现或反复发生时应联系兽医，不必等下次发作才咨询。
+
+给每次异常编一个编号，写下日期、开始与结束时间、持续多久，一天出现几次。记录发作前正在睡觉、吃饭、玩耍还是刚用药，是否接触驱虫剂、植物或清洁剂，有无跌落或撞伤。发作时观察头是否倾斜、哪侧肢体抽动、步态是否失衡、眼球有无异常摆动、瞳孔或意识反应有何变化，不要凭视频直接写上诊断名称。
+
+安全时从稍远处拍摄原速视频，让全身、头部和四肢入镜，并保留声音。记下猫对自然呼唤的反应、是否流口水或失禁，以及结束后多久恢复行走、进食与日常互动。记录当天药名和实际服药时间，包括漏服、调整或补充剂。不要为拍摄而刺激、按住或强迫猫行走，也不能自行调整抗癫痫药。
+
+复诊时把按日期排列的记录、原始视频及用药清单交给医生，比较症状次数、时长和恢复情况。若发作更频繁或更严重，应提前联系医院；疑似抽搐超过两分钟或一天内再次发作，应立即联系兽医。抽搐接近五分钟、两次发作间不清醒、突然无法站立、呼吸异常或失明，应直接急诊。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫间歇性神经症状、猫症状日记、猫发作记录、猫抽搐视频、猫眼球震颤记录、猫共济失调、猫局灶性癫痫、猫复诊资料。
+- 编辑级权威医学来源与支持范围：
+  - Merck Veterinary Manual—The Neurologic Examination of Animals（症状时间线、起病方式、复发/缓解、用药、创伤或毒物接触史对神经鉴别的重要性）：https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+  - Merck Veterinary Manual—The Neurologic Evaluation in Cats（疾病史、姿势、步态与神经检查联合评估；猫症状间期正常不等于无需检查）：https://www.merckvetmanual.com/cat-owners/brain-spinal-cord-and-nerve-disorders-of-cats/the-neurologic-evaluation-in-cats
+  - VCA Animal Hospitals—Seizures and Epilepsy in Cats（发作前、中、后及睡眠、进食、活动、用药、毒物接触等记录，有助临床鉴别与后续监测；发作可能间歇呈现）：https://vcahospitals.com/know-your-pet/seizures-and-epilepsy-in-cats
+  - PDSA—Vet Q&As: What to Know About Epilepsy in Cats（抽搐现场先防伤、计时、在安全前提下录像；超过2分钟或24小时内再次发作即联系兽医）：https://www.pdsa.org.uk/what-we-do/blog/vet-qas-what-to-know-about-epilepsy-in-cats
+  - Cornell Feline Health Center—Neurological Disorders（走路异常、平衡、意识/行为变化需要及时兽医评估，并非只有发生抽搐才需就诊）：https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/neurological-disorders
+  - VCA—Focal Seizures and Fly-Biting in Cats（局灶性短暂异常未必伴意识丧失，需排除其他原因，不能单凭主人视频确诊）：https://vcahospitals.com/know-your-pet/focal-seizures-and-fly-biting-in-cats
+- 编辑边界：本稿为记录和分诊指导，不假定所有歪头、晃动、舔咬、凝视都是癫痫；不以个别发作间正常推断无需临床检查。禁自行强行诱发、暂停/改变处方药。具体急诊风险由接诊兽医确认。2026-11-02编辑核对，不代表日本执业兽医医学签审。
+
+---
+
+
 - 优先级：A
 - 直接回答：记录每次发作的时间、持续时间、具体动作、意识状态、诱因、恢复时间以及当天用药和进食情况。
 
