@@ -101,11 +101,10 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 用药后可以记录每天饮水、尿量、食欲、体重、喘气、精神状态以及是否出现呕吐、腹泻或感染迹象。
 
-不要因为喝水变多就自行限水，也不要突然停激素。部分激素类药物需要逐步调整，突然停药可能带来风险。
+不要因为喝水变多就自行限水，也不要未经开药兽医指导自行停药或调整。部分长期糖皮质激素治疗需要逐步调整，具体方案取决于药物、剂量、疗程及个体情况。
 
 复诊时把变化发生在用药后第几天、药名和当前剂量一起告诉医生，更方便判断是否属于预期反应或需要调整。若同时出现明显虚弱、反复呕吐、虚脱或呼吸异常，应及时联系急诊；不能仅凭饮水增加自行判断是正常药物反应，也不要擅自停药或限水。
 
-编辑级参考：Merck Veterinary Manual—Glucocorticoids（https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids）。医学审核：pending。
 
 ---
 
@@ -119,7 +118,6 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 每次转诊或加新药前，把最新药单交给医生审核，比只凭记忆说“有吃几种药”可靠得多。尤其应让兽医核对不同商品名是否含相同活性成分、同类止痛药或其他潜在相互作用；不得仅凭品牌名称判断可安全合用。
 
-编辑级参考：AAHA/AAFP Pain Management Guidelines（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；具体相互作用需逐产品核对，医学审核：pending。
 
 ---
 
@@ -156,11 +154,10 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 血常规只是线索，不是“白细胞高=细菌感染”的自动处方。
 
-兽医会结合分类计数、症状、体检，以及尿检、影像、培养等其他证据判断感染可能性。
+兽医会结合白细胞分类的绝对计数、血涂片、症状、体检，以及尿检、影像、培养等其他证据判断感染可能性。
 
 2022 AAFP/AAHA抗菌药管理指南要求尽可能依据病因和诊断证据用药；单独白细胞升高不能作为抗菌药的充分指征。
 
-编辑级证据：AAFP/AAHA — Therapeutic antimicrobial use in the clinical setting（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/therapeutic-antimicrobial-use-in-the-clinical-setting/）。医学终审：pending。
 
 ---
 
