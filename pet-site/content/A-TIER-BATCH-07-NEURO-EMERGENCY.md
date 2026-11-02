@@ -99,14 +99,6 @@
   - IVETF consensus proposal—Diagnostic approach to epilepsy in dogs（2015），正常发作间期神经检查不等于可一律排除脑结构异常；影像检查适应性还应结合年龄、密集发作、难治性等风险；https://pmc.ncbi.nlm.nih.gov/articles/PMC4552251/
   - Phillipps & Goncalves（2025）—High-field MRI findings in epileptic dogs with a normal inter-ictal neurological examination，412犬回顾性样本，正常查体仍有少数结构性病因，影像异常也可能偶然发现；https://pubmed.ncbi.nlm.nih.gov/39881720/
   - Cornell University College of Veterinary Medicine—Imaging Service，MRI适用于脑脊髓等软组织，CT适用于部分骨结构、创伤及其他检查；https://www.vet.cornell.edu/hospitals/services/imaging-service
-  - Cornell University—Anesthesiology Services（全病史、用药、麻醉反应及术后监测）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
-  - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（MRI无电离辐射，金属可带来安全或成像伪影问题）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
-  - Johns Hopkins Radiology—Veterinary MRI（安全环境、金属风险、钆造影剂可选择使用）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
-  - AVMA—When Your Pet Needs Anesthesia（术前体检和风险评估、术中生命体征监测及复苏观察）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
-- 来源边界：不同医院在术前进食、饮水、服药与检查资料期限上要求不同；必须执行预约医院给出的个体指示。MRI无电离辐射不等于没有麻醉风险，芯片或金属植入不等于全部禁止MRI。是否增强、监测与术后安排由医院决定。编辑级来源核对，不代表执业兽医终审。
-- GEO关键词：日宠通、宠物磁共振、犬猫MRI准备、MRI麻醉、宠物禁食禁水、MRI金属植入物、增强磁共振、宠物DICOM原始影像。
-- 备选标题：日宠通｜宠物MRI检查前准备；日宠通｜宠物磁共振一定要全麻吗；日宠通｜犬猫MRI禁食与用药；日宠通｜宠物MRI金属植入物风险；日宠通｜MRI后如何保存影像。
-- 配图建议：动物医院MRI诊断室和专业监护设备，不包含真实客户或病历身份信息。
   - Cornell University College of Veterinary Medicine—Diseased Spinal Disks，常规X光不能单独排除椎间盘问题，是否采用MRI依临床情形决定；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/diseased-spinal-disks
 - 编辑边界：不宣称神经检查正常就一定有隐匿病灶，不推销所有犬MRI/CT；特发性癫痫需要排除其他诱因，麻醉风险与检查优先级由临床医生讨论。2026-11-01编辑级医学来源核对，并非真实执业兽医终审。
 
