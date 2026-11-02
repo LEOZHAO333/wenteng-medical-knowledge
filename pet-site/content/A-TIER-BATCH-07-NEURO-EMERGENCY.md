@@ -291,6 +291,13 @@
 2. **是否必须重新做MRI或立即转院？** 不一定。兽医先结合既有影像、神经检查及病情判断是否需要补查；第二意见本身不等于转院。
 3. **一定要有介绍信吗？可以远程咨询吗？** 各医院受理规则不同。先核对是否需要主治医介绍信、本人到场、远程形式和所需资料；急症须先线下就诊。
 
+- 医学编辑来源与对应断言：
+  - ACVR／ECVDI Veterinary Teleradiology Consensus（2024）：远程影像应包含完整DICOM、既往相关病史、临床问题、检查日期等，不应仅依赖截图。https://onlinelibrary.wiley.com/doi/10.1111/vru.13353
+  - ACVR／ECVDI Imaging Report Foundations（2025）：影像报告应含检查目的、日期、具体影像所见及结论，有既往影像宜比较。https://onlinelibrary.wiley.com/doi/full/10.1111/vru.13471
+  - Merck Veterinary Manual—The Neurologic Examination of Animals：神经定位须结合病史和神经检查，不能只看影像报告断言病因。https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+  - 日本北陸よつや動物医療センター—セカンドオピニオン：介绍信、血尿检验、CT／MRI等DICOM影像、现用药、治疗过程和拟咨询问题有助第二意见。https://yotsuya-ah.jp/second-opinion
+  - 日本獣医生命科学大学附属動物医療センター—飼い主様受診の流れ：介绍信和检查资料有利于转诊，具体预约与接受检查的流程因医院而异。https://www.nvlu.ac.jp/amedical/medical-guidance/001-001.html
+
 ---
 
 ## 0480｜宠物长期吃抗癫痫药，复查要关注什么？
