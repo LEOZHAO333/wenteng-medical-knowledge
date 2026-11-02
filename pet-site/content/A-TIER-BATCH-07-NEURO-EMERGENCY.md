@@ -264,6 +264,7 @@
   - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（无电离辐射、金属兼容性和伪影）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
   - Johns Hopkins Radiology—Veterinary MRI（犬猫MRI全麻、造影和磁场安全）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
   - AVMA—When Your Pet Needs Anesthesia（术前风险评估、生命体征监测、苏醒护理）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
+- 来源边界：MRI不使用电离辐射，但麻醉有个体风险；植入物、芯片和金属异物必须告知影像团队，不等于一律禁忌。禁食、禁水与服药安排遵从实际检查医院，不能沿用网络统一时间。是否增强及是否需要额外检验由兽医决定。
 
 ---
 
