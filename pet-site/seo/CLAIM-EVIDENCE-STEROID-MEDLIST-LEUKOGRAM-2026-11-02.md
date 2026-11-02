@@ -9,6 +9,7 @@
 - **主张A（饮水/排尿增加是糖皮质激素可能的不良反应）**：`supported`，Merck *Hormonal Treatment for Integumentary Disease in Animals* 的 Glucocorticoids 部分列有 polyuria/polydipsia，并指出剂量、疗程及个体差异；页面标示 Last updated Jun 2026。<https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-integumentary-system/hormonal-treatment-for-integumentary-disease-in-animals>
 - **主张B（长期用药骤停风险、部分方案需减量）**：`supported_with_scope`，同一Merck章节在长期治疗背景下说明逐步减量及低肾上腺皮质功能风险；**不支持**所有短期/局部/单次激素均需同一减量流程。
 - **Hold / 待兽医**：犬猫、口服/注射/局部、原疾病、糖尿病/感染风险、饮水增加伴随急症症状的具体分流，需逐产品和病情签核。
+- **专业签署状态**：Hold / pending_licensed_veterinarian；Medical Approved=0；releaseAuthorized=false；不得自动索引。
 - **从正文原样迁出的内部注记（留档，不可直接发布）**：
 
 > 编辑级参考：Merck Veterinary Manual—Glucocorticoids（https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids）。医学审核：pending。
@@ -20,6 +21,7 @@
 - **主张B（相似商品名、处方抄写/标签可导致错误）**：`supported`，同一FDA页面有真实的药名混淆案例和药品标签风险，但**不能**从这些案例推断特定日本产品批准或两种具体药必然相互作用。
 - **编辑处理**：正文安全建议已有明确边界，未增写具体药物相互作用；将错配来源和审核状态从正文移至本交接资料。将FDA作为直接支持，AAHA仅作为特定疼痛管理的背景，不能替代药单规范来源。
 - **Hold / 待兽医**：核对犬猫药物类别、外用药、驱虫药、保健品相互作用、用药频率及特殊疾病；具体相互作用逐药审核。
+- **专业签署状态**：Hold / pending_licensed_veterinarian；Medical Approved=0；releaseAuthorized=false；不得自动索引。
 - **从正文原样迁出的内部注记（留档，不可直接发布）**：
 
 > 编辑级参考：AAHA/AAFP Pain Management Guidelines（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；具体相互作用需逐产品核对，医学审核：pending。
@@ -31,6 +33,7 @@
 - **主张B（抗菌药需符合临床指征，避免经验性滥用）**：`supported`，AAHA/AAFP 2022 *Therapeutic antimicrobial use in the clinical setting* 明确要求尽可能建立适当诊断、排除非细菌病因。<https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/therapeutic-antimicrobial-use-in-the-clinical-setting/>
 - **编辑修复**：将“分类计数”明确为“白细胞分类的绝对计数、血涂片”，保留不据单项WBC开药的安全边界，不给抗菌药名称/剂量/疗程。
 - **Hold / 待兽医**：具体血常规异常幅度、左移/毒性变化、发热及败血症高危表现、是否应立即就诊等均须结合个体签核；不能由本资料远程排除感染。
+- **专业签署状态**：Hold / pending_licensed_veterinarian；Medical Approved=0；releaseAuthorized=false；不得自动索引。
 - **从正文原样迁出的内部注记（留档，不可直接发布）**：
 
 > 编辑级证据：AAFP/AAHA — Therapeutic antimicrobial use in the clinical setting（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/therapeutic-antimicrobial-use-in-the-clinical-setting/）。医学终审：pending。
