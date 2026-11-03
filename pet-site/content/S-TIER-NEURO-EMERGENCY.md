@@ -264,6 +264,31 @@
 
 ---
 
+## 0476｜猫瞳孔变化伴随行为异常，应尽快联系谁？
+- Slug：`cat-pupil-changes-abnormal-behavior-urgent-vet`
+- 直接回答：若新出现两眼瞳孔不等大、持续明显散大，伴视力或行为异常，应立即联系能接诊的动物急诊/兽医医院；按检查结果由医院安排动物眼科或神经科转诊，不要自行等待专科排期。
+- 医学审核：pending / Hold（S级，P0 眼科/神经急症）；发布：knowledge-base Draft / noindex。
+
+猫的瞳孔会随光线和情绪变化，暗处变大不一定生病。但如果突然两眼瞳孔大小不一样，或在明亮环境仍明显散大，同时出现撞家具、躲藏或反应异常，就不能只当作受惊。瞳孔变化可能提示眼部、视神经或脑部问题，也可能与外伤有关。请立即联系能接诊的动物急诊医院。
+
+主人要观察是单眼还是双眼变化，有没有眯眼、流泪、角膜浑浊、红眼或碰撞物品；还要记录步态不稳、抽搐、意识改变及最近是否跌落撞头。猫高血压可能造成视网膜出血或脱离，引起突然失明，部分猫还会行为异常；老年猫或已有肾病、甲状腺病时尤其需要关注。兽医可能检查眼压、眼底、血压和神经功能。
+
+在电话里说明发现时间、两眼是否不等大、猫能否正常行走及避开障碍物，有无疼痛、呕吐、抽搐和近期用药或可能接触的化学品。安全时用自然室内光线拍下双眼和行为变化，不要用手电强照眼睛、反复碰触眼球或强迫测试视力。先让猫留在低处、防滑且无尖锐物的安静空间，不要自行滴眼药或喂人用药。
+
+若新出现两眼瞳孔明显不等大、疑似突然看不见或明显眼痛，应立即就医；若还伴意识不清、持续抽搐、无法站立或呼吸异常，直接急诊。通常先联系可接诊的兽医急诊，由医生决定是否转动物眼科或神经专科。即使猫还肯吃饭，也不能以此排除严重眼病。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫瞳孔不等大、猫瞳孔突然散大、猫行为异常、猫突然失明、猫高血压视网膜脱离、猫眼科急诊、猫神经急症、猫眼压检查。
+- 编辑级权威医学来源与对应事实：
+  - VCA—Anisocoria in Cats：突然出现大小瞳孔不等属应立即兽医就诊的紧急眼科情况，原因包括角膜、青光眼、葡萄膜炎、视网膜以及神经疾病；https://vcahospitals.com/orange/know-your-pet/anisocoria-in-cats
+  - Cornell Feline Health Center—Hypertension：猫高血压可出现视网膜脱离及突然失明，也可伴迷失方向、平衡与行为变化；慢性肾病和甲状腺功能亢进是应评估的基础病；https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hypertension
+  - Cornell Feline Health Center—Feline Vision Problems: A Host of Possible Causes：瞳孔不等、突然撞家具、找不到食盆等可提示视力异常，须及时就诊；https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-vision-problems-host-possible-causes
+  - Merck Veterinary Manual—The Neurologic Examination of Animals：需评估双侧瞳孔大小、光反射、眼底及脑神经功能；不能靠主人自行强光照射判断定位；https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+  - PDSA—Eye Problems in Cats：眼部外观或疼痛异常尽早联系兽医，以避免严重视力损伤；https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/symptoms/eye-problems-in-cats
+  - Merck Veterinary Manual—Initial Triage and Resuscitation of Small Animal Emergency Patients：意识异常、抽搐、呼吸困难属于急诊优先级评估信号；https://www.merckvetmanual.com/emergency-medicine-and-critical-care/evaluation-and-initial-treatment-of-small-animal-emergency-patients/initial-triage-and-resuscitation-of-small-animal-emergency-patients
+- 编辑边界：猫瞳孔对光线和情绪有正常反应，不能将任何瞳孔散大直接当作脑病或高血压。突发明显不等大或视力/意识改变才是紧急评估的关键；眼科/神经转诊由首诊兽医安排，不给自行滴眼药/强光照射/眼压测试等家庭操作。编辑级来源核对2026-11-01，不等于真实日本执业兽医审核通过或任何药品批准。
+
+---
+
 ## 0485｜猫咬断逗猫棒吞了线，能自己拉出来吗？
 - Slug：`cat-swallowed-string-dont-pull`
 - 直接回答：不要拉。线性异物可能一端卡在舌根或胃肠道，强行拉扯可能造成肠道损伤，应尽快联系兽医。
