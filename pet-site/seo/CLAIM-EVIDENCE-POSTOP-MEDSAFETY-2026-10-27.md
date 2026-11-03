@@ -49,3 +49,16 @@
 - **相关问答**：运行时按同物种或同topic自动选最多4条；不是从582个私有S/A草稿的 `relatedIds` 逐条批准映射，不能据此宣称医学语义相关性已由兽医复核。
 - **发布/索引资格**：`release-policy.mjs` 和 `sitemap-policy.mjs` 的纯函数要求医学审核及Founder发布/索引授权，并拒绝重复slug；其CI测试通过。但生产 `pet-site/api/pet.js` 的 `INDEX_ELIGIBLE_PATHS` 是独立的45 URL候选白名单，不读取逐篇 `medicalReview` 字段。该架构差异维持**治理Hold**，不在此Draft修改生产渲染器。
 - **实际收录**：没有Search Console或搜索引擎实际索引结果的本轮验证，不作收录数量断言。静态CI通过也不能证明页面外链、Article富结果或实际抓取状态。
+
+## 2026-10-31｜0635 原始证据重新读取与兽医审核补充（仅编辑层）
+
+**本次更新针对2026-10-30的“Merck原文读取HTTP 403”未解决项，不新增来源覆盖批次。** 通过公开网页读取工具成功打开同一Merck专业版原始URL，读取到完整的相关临床征象段落；此前单次HTTP 403是当时访问失败记录，不能再写成“截至本次仍无法读取”。原文页标注 Full Review Mar 2025、Last updated Oct 2026，核验日期2026-10-31。
+
+- **主张A（犬猫排尿用力可能被误认成便秘）**：`supported`。Merck *Obstructive Uropathy in Dogs and Cats* 原始页 Clinical Findings 段落直接说明尿道梗阻动物排尿用力可能被主人误当便秘；来源：https://www.merckvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/obstructive-uropathy-in-dogs-and-cats 。本次已读正文，不只是搜索摘要。
+- **主张B（疑似完全无尿应紧急就诊）**：`supported_for_safety_triage`。Merck *Urethral Obstruction in Small Animals*（Full Review May 2025，Last updated Oct 2026）明确尿道梗阻是泌尿急症、可出现反复无效排尿及严重代谢异常；来源：https://www.merckvetmanual.com/urinary-system/urolithiasis-in-small-animals/urethral-obstruction-in-small-animals 。**此处是怀疑急症的安全转诊，不是家庭自行确诊尿闭。**
+- **主张C（猫使用磷酸钠/高渗磷酸盐灌肠剂存在严重毒性风险）**：`supported`。除既有Merck泻药来源外，Jorgensen等1985年JAVMA两猫病例报告的PubMed摘要记录高磷血症、高钠血症和低钙血症；PMID 4086355：https://pubmed.ncbi.nlm.nih.gov/4086355/ 。这只是特定制剂的风险证据，**不意味着所有泻药或所有灌肠制剂均有相同毒性**。
+- **主张D（所有术后犬猫排便恢复时间、止痛药与术式个体风险）**：`insufficient_evidence / needs_vet_review`。上述资料不提供所有手术的统一术后排便时限、药物干预或家庭诊断规则，原文维持个体化联系手术医院的表述。
+
+**真实执业兽医待签核事项（0635）**：①对猫/犬、特别是雄猫排尿不出或排尿量不明的分诊措辞；②术后尿潴留、尿道梗阻、便秘、疼痛性努责的鉴别与是否应提高急诊提示；③含磷酸钠灌肠剂风险表述是否需增加具体药品辨识边界；④手术类型、阿片类镇痛药及恢复阶段对排便变化的个体化判断。保留原ID、Slug与现有正文，不增加家庭用药或操作细节。
+
+**发布状态不变**：0635仍为 `Hold / pending_licensed_veterinarian`；本轮Medical Approved=0、releaseAuthorized=false。上述原文证据的可访问与支持等级只消除一项编辑核验阻塞，不消除兽医签署、Founder发布授权或生产索引门槛。
