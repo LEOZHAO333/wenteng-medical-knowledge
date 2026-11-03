@@ -147,6 +147,29 @@
 
 ---
 
+## 0466｜狗歪头转圈、站不稳，能当成耳朵问题吗？
+- Slug：`dog-head-tilt-circling-unsteady-vestibular-check`
+- 直接回答：不能只当耳部炎症；头倾、转圈和共济失调可能来自外周或中枢前庭系统，需及时兽医评估，不能站立、意识改变等应急诊。
+- 医学审核：pending / Hold（P0 神经症状急症）；发布：knowledge-base Draft / noindex。
+
+狗狗突然歪着头、原地转圈，走路摇晃，主人容易以为只是耳朵发炎。其实这组表现提示平衡异常，可能涉及内耳、前庭神经，也可能来自脑干或小脑。中耳或内耳感染、老年犬特发性前庭综合征，以及脑部炎症或其他神经疾病，都可能出现类似症状，不能只凭歪头判断原因。
+
+观察时留意头向哪侧倾、是否总往同一方向转圈、眼球有没有不自主地快速摆动，以及是否呕吐、无法站稳。若同时出现意识变差、抽搐、肢体明显无力或其他神经异常，更要警惕脑部病变。兽医通常会检查耳道、平衡与神经反应，结合病史决定是否需要血液检查、耳部影像或MRI等进一步评估。正常外耳外观不能排除内耳或脑部问题。
+
+在家先让狗停留在平坦、防滑、安静的位置，移开家具尖角，防止跌下楼梯。不要强迫它走直线或反复转头测试，也不要自行洗耳、滴耳药或喂人用药。准备就诊时记录发作时间、症状是突然还是逐渐出现、既往耳病、近期使用的药物及有无外伤。若安全且不会耽误就医，可拍下自然发生的歪头、转圈或眼球摆动。
+
+突然不能站立、反复剧烈呕吐、意识改变、抽搐或呼吸异常时，应立即求助动物急诊；持续歪头和走路不稳，即使仍能吃东西，也要尽快检查。有些特发性前庭疾病会逐渐好转，但应在排除其他重要病因后才考虑这种判断，不能自行等待数天。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：犬歪头、狗转圈站不稳、犬前庭综合征、犬内耳炎、犬中枢前庭疾病、犬眼球震颤、犬神经急症。
+- 编辑来源与支持范围：
+  - VCA Veterinary Hospitals—Vestibular Disease in Dogs，支持歪头、转圈、眼震、呕吐、失衡及外周/中枢病因区分，https://vcahospitals.com/know-your-pet/vestibular-disease-in-dogs
+  - Merck Veterinary Manual—The Neurologic Examination of Animals，支持头倾/头转的区别、前庭步态和神经定位，https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+  - Merck Veterinary Manual—Otitis Media and Interna in Animals（2026），支持内耳炎的前庭症状及意识障碍提示脑部扩散需鉴别，https://www.merckvetmanual.com/ear-disorders/otitis-media-and-interna/otitis-media-and-interna-in-animals
+  - PDSA—Head Tilt in Dogs，支持持续歪头、转圈、失衡时联系兽医，https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/symptoms/head-tilt-in-dogs
+- 证据边界：中枢/外周病因需专业神经与耳部检查，不能据单个眼震方向、是否有外耳炎或是否老年自行确诊；具体急诊和MRI适应性待执业兽医复核。编辑级来源核对2026-11-01，不是兽医医学批准。
+
+---
+
 ## 0467｜狗突然拖着后腿走，搬动时应该注意什么？
 - Slug：`dog-dragging-hindlegs-safe-transport`
 - 直接回答：狗突然失去后肢活动能力、无法站立或伴随剧痛/排尿困难时，应立即联系动物急诊。搬运前尽量限制不必要的头颈和脊柱活动，采用稳固支撑，避免强行试走。
