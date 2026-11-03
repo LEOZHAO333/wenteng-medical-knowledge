@@ -19,6 +19,7 @@
 - 编辑来源：Cornell Feline Health Center—Hyperthyroidism in Cats（https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hyperthyroidism-cats）；AAHA 2023 feline hyperthyroidism diagnostic testing（https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/diagnostic-testing-and-monitoring-4/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
 
+
 ---
 
 ## 0424｜猫在医院血糖高，为什么可能还要再查？
@@ -37,6 +38,7 @@
 - GEO关键词：猫应激性高血糖、猫糖尿病复查、猫果糖胺、猫尿糖、猫血糖检测。
 - 编辑来源：2026 AAHA Diabetes Management Guidelines for Cats—Section 3（https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/section-3-diagnosing-dm-in-cats/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
+
 
 ---
 
@@ -57,6 +59,7 @@
 - 编辑来源：2026 AAHA Diabetes Management Guidelines for Cats—Section 11 Client Education（https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/section-11-client-education/）；Section 7（https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/section-7-insulin-treatment-and-monitoring/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
 
+
 ---
 
 ## 0426｜猫没吃饭，原定的胰岛素怎么向医生确认？
@@ -75,6 +78,7 @@
 - GEO关键词：猫拒食胰岛素、猫低血糖、猫糖尿病、猫漏餐、猫酮症酸中毒。
 - 编辑来源：2026 AAHA Diabetes Management Guidelines for Cats—Section 11 Client Education（https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/section-11-client-education/）；2025 iCatCare feline diabetes consensus（https://pmc.ncbi.nlm.nih.gov/articles/PMC12612538/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
+
 
 ---
 
@@ -95,6 +99,7 @@
 - 编辑来源：2026 AAHA Diabetes Management Guidelines for Cats—Section 11 Client Education（https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/section-11-client-education/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
 
+
 ---
 
 ## 0429｜糖尿病猫血糖变好了，就能自行停针吗？
@@ -113,6 +118,7 @@
 - GEO关键词：猫糖尿病缓解、猫胰岛素停针、猫低血糖、糖尿病复发、猫果糖胺。
 - 编辑来源：2026 AAHA Diabetes Management Guidelines for Cats—Section 9 Diabetic Remission（https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/section-9-diabetic-remission/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
+
 
 ---
 
@@ -133,6 +139,7 @@
 - 编辑来源：2023 AAHA Selected Endocrinopathies Guidelines—Feline Hyperthyroidism（https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/feline-hyperthyroidism/）；Cornell Feline Hyperthyroidism（https://www.vet.cornell.edu/hospitals/services/internal-medicine-0/feline-hyperthyroidism）。日本放射性碘治疗实际可及性未独立核实，不得据此发布预约声明。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
 
+
 ---
 
 ## 0431｜狗肚子越来越大、毛越来越稀，需要验什么？
@@ -152,49 +159,90 @@
 - 编辑来源：2023 AAHA Selected Endocrinopathies Guidelines—Canine Hypercortisolism（https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/）。
 - 来源核对：2026-10-29，编辑级证据关联，不代表兽医Medical Approved。
 
+
+---
+
+## 0434｜狗突然喝水多又吃得多，需要查糖尿病吗？
+- Slug：`dog-drinks-eats-more-diabetes-check`
+- 直接回答：多饮、多食伴多尿或消瘦应及时排查糖尿病，同时鉴别其他内分泌和内科疾病。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗最近突然喝水明显增多，饭量也比以前大，主人常以为是天气热或胃口变好。但如果同时尿量增加、体重下降，就不能只当作正常变化。糖尿病是需要优先排查的原因之一，尤其是中老年犬；不过，多喝水、多吃饭并不等于已经确诊糖尿病。
+
+糖尿病会影响身体利用葡萄糖，部分狗因此出现多饮、多尿、多食和消瘦。兽医一般先结合病史、体检、血糖和尿检判断，重点看是否同时存在高血糖与尿糖，必要时检查尿酮体、血液生化及电解质。若结果与症状不一致，医生可能安排复查或果糖胺检测。库欣综合征也会引起喝水多、食欲旺盛，有些狗还会腹部变圆、脱毛或容易喘。肾脏疾病、某些药物，特别是糖皮质激素，也可能影响饮水和食欲，需要一并评估。
+
+复诊前可以连续记录每天实际喝水量、排尿次数、食量及近期体重，并带上正在使用的药物和保健品清单。不要因为尿多就收走水碗，也不要自行减少食物或购买降糖药。如果出现精神明显变差、反复呕吐、拒食、虚弱或呼吸异常，应立即联系急诊，排查糖尿病酮症酸中毒等严重情况，而不是等待预约检查。
+
+越早弄清多饮多食的原因，越能避免错过处理时机。基础血尿检查往往比单靠猜测更有价值，专项激素检查则由兽医根据结果决定。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-dogs/section-2-recognizing-and-diagnosing-dm-in-dogs/；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/diabetes-dogs。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
+
 ---
 
 ## 0437｜狗被怀疑甲状腺功能低下，一次验血够吗？
 - Slug：`dog-hypothyroidism-one-blood-test`
-- 直接回答：通常不能只靠一次低T4就确诊。需要结合症状、常规化验，并根据情况参考游离T4、TSH等指标。
+- 直接回答：总T4一次偏低不能单独确诊犬甲减，结合fT4、TSH与疾病药物影响。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-犬甲状腺功能低下常见表现包括精神变差、容易发胖、怕冷、皮肤和被毛变化，但这些表现都不特异。
+狗狗变胖、精神变差、毛越来越稀，体检报告又出现“总T4偏低”，主人常会问：是不是已经得了甲状腺功能减退症？答案是单凭一次T4偏低不能确诊，但也不是每只狗都必须反复抽血。关键在于检查项目是否充分，以及结果是否与症状一致。
 
-Merck Veterinary Manual明确指出，单独一次总T4偏低并不足以确诊，因为其他疾病、药物和个体差异都可能让T4下降。
+犬甲减常见表现包括活动减少、体重增加、怕冷、被毛干枯或对称性脱毛，也可能出现反复皮肤问题。但这些变化不只见于甲减。感染、其他慢性疾病或应激，甚至使用糖皮质激素、苯巴比妥等药物，都可能使T4降低，却不代表甲状腺真的无法产生足够激素。有些犬种本身的T4参考范围就不同。若近期患病，兽医可能建议先处理其他疾病，待身体稳定后再评估复检。
 
-如果临床上确实怀疑，兽医会结合病史、体检、血常规和生化，再决定是否增加游离T4、TSH等检测。
+下一步可请医生解释总T4（TT4）处于什么范围，是否需要同时检测游离T4（fT4）与促甲状腺激素（TSH），必要时考虑甲状腺抗体检查。TSH正常也不能完全排除甲减；是否复检、何时采血，要由医生综合判断。复诊时带上全部化验单、近几个月体重记录、皮肤和被毛照片，以及处方药和补充剂清单，避免只凭单个低值下结论。
 
-不要因为一次“甲状腺低”就自行长期补充甲状腺激素。
+如果狗突然明显虚弱、无法站立或意识异常，应立即就医，不要当成普通甲减等待复诊。确诊前不应自行购买甲状腺激素试用，以免干扰后续判断；确诊后仍需定期监测。
 
-资料基线：Merck Veterinary Manual—Hypothyroidism in Animals。
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.aaha.org/resources/2023-aaha-selected-endocrinopathies-of-dogs-and-cats-guidelines/diagnostic-testing-and-monitoring/；https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/canine-thyroid-testing。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
 
 ---
 
 ## 0441｜猫不肯跳上沙发，是懒了还是腿疼？
 - Slug：`cat-stops-jumping-pain`
-- 直接回答：不能只当成懒。猫慢性关节痛常表现为“不再跳高、上下楼犹豫、睡得更久或不愿被抱”，而不是明显跛行或叫痛。
+- 直接回答：猫不愿跳跃可能提示关节疼痛，但也要鉴别肥胖、视力和环境因素。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-猫很少像人一样直接表现出“我关节痛”。尤其是老年猫，最常见的变化可能只是生活习惯一点点改变。
+猫咪以前轻松跳上沙发，最近却在下面犹豫、改走椅子，甚至干脆睡在地上。主人常觉得它变懒了，尤其年纪大时更容易忽略。其实，跳跃习惯改变可能是疼痛或活动受限的信号；也可能与肥胖、视力变化或环境打滑有关，不能只看一次动作就认定是关节炎。
 
-如果原来每天都会跳上沙发，现在总在下面等、改走矮凳，或者上下床时明显犹豫，就值得记录。主人拍的视频往往比在医院里看几步更能反映真实行动状态。
+猫的骨关节炎常不像狗那样明显跛行。它可能上跳前反复观察、借助中间平台、下跳时动作僵硬，或减少奔跑、梳毛和使用高边猫砂盆。观察猫是所有高处都不愿跳，还是只避开某一侧；是否突然出现、持续多久；有没有跌落、被抱时不高兴或触碰后退缩。尤其高龄、超重或曾受伤的猫，更值得评估。猫不叫疼并不说明不痛。
 
-AAHA疼痛管理指南强调，猫慢性肌肉骨骼疼痛的评估非常依赖主人对行为变化的长期观察。
+就诊前拍下自然状态的上下跳、走路、上下楼视频，记录体重、活动变化和最近是否受过伤。兽医会结合病史、步态、关节触诊及必要的影像检查判断；X光发现变化不等于疼痛一定来自该处，影像正常也不能完全排除疼痛。家里可先放稳固低台阶、防滑垫，把水碗和猫砂盆移到容易到达的位置，不要强迫反复跳跃测试。不要自行给猫服用人用止痛药。
 
-资料基线：2022 AAHA Pain Management Guidelines；2023 AAHA Senior Care Guidelines。
+若猫突然完全不敢落地、明显跛行、触碰剧痛，或跌落后行动异常，应尽快就医；伴后肢突然无力、脚掌冰凉、呼吸异常时需立即急诊。日常逐渐不跳也值得预约检查，不要只归咎衰老。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/chronic-pain-assessment-in-cats/；https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/your-cat-slowing-down。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
 
 ---
 
 ## 0443｜猫走路一瘸一拐，却不叫疼，也要检查吗？
 - Slug：`cat-limping-no-crying`
-- 直接回答：要。猫不叫疼并不能排除疼痛，持续跛行、减少负重或走姿改变都值得检查。
+- 直接回答：猫跛行即使不叫疼也应评估，后肢突然瘫痪或冰凉属急症。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-猫天生会隐藏疼痛，所以“还能吃、还能走、没有叫”并不是判断是否受伤的可靠标准。
+猫咪走路一瘸一拐，却没有叫疼，主人可能觉得只是扭了一下，过会儿就好。其实猫很少用叫声表达疼痛，跛行本身就值得重视。原因可能是指甲损伤、脚垫异物、扭伤、关节炎，也可能涉及骨折或神经问题。猫安静不叫，并不代表疼痛轻，不能仅凭它还能吃、还能走就排除受伤。
 
-跛行可能来自脚垫、指甲、软组织、关节、骨骼或神经问题。主人可以先观察是哪条腿、什么时候最明显、休息后是否加重，并拍自然走路视频。
+先留意异常是突然出现，还是几周内逐渐加重；是前腿还是后腿，是否不愿踩地、总舔某只脚、跳跃减少或躲起来。不要为了找痛点反复弯折关节，也不要强迫猫走几步测试。若刚从高处跌落、与其他动物打斗，或怀疑被门夹伤，即使皮肤没有明显伤口，也应尽快请兽医检查。
 
-如果突然完全不负重、触碰明显疼、肢体肿胀变形，或近期有跌落外伤，应尽快就医。
+在安全情况下拍下猫自然走动的视频，记录开始时间和是否曾受伤，观察脚垫、趾甲有无明显异常。就诊时兽医会检查步态、足部、关节和神经反应，必要时结合影像判断。等待就医期间让猫待在安静的小空间，减少跑跳，提供容易到达的水、食物和低入口猫砂盆。不要自行按摩、包扎，也不能给猫吃人用止痛药。
 
-资料基线：AAHA Pain Management Guidelines。
+如果突然完全无法负重、剧烈疼痛或出现明显肿胀，应尽快急诊；若后腿突然无力、脚掌冰凉或呼吸困难，更要立即送医，警惕血栓等急症。即使只是轻微跛行，也建议及时联系兽医商定检查时间。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/chronic-pain-assessment-in-cats/；https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/symptoms/limping-and-stiffness-in-cats。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
 
 ---
 
@@ -208,30 +256,150 @@ AAHA疼痛管理指南强调，猫慢性肌肉骨骼疼痛的评估非常依赖�
 
 如果出现呼吸加快、呼吸费力、持续躲藏、明显疼痛、跛行、精神差或食欲下降，应尽快检查。
 
+
+---
+
+## 0451｜狗走着走着抬起一条后腿，要拍哪种视频？
+- Slug：`dog-intermittent-hindlimb-skip-gait-video`
+- 直接回答：从侧面、后方、正面拍下自然步态及跳步，避免强迫运动。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗走着走着突然抬起一条后腿，跳着走几步又恢复正常，主人常觉得它只是踩空了。这种间歇性“跳步”可能见于膝盖骨脱位，也可能与韧带、足部或其他骨关节问题有关。狗回到诊室时未必还会跛行，因此拍下自然发生的异常动作，往往比单纯描述“偶尔抬腿”更有帮助。
+
+优先拍三种角度：从侧面拍全身，观察抬腿前后如何迈步；从后方拍两条后腿，比较落地与骨盆摆动；从正面拍迎面走来，补充整体步态。选平坦、防滑、光线好的路面，让家人牵绳按狗平常速度走，手机保持稳定，画面包含四只脚。每个角度拍一小段即可；如果异常恰好出现，尽量拍到抬腿、连续几步和恢复正常的过程。
+
+在视频旁注明是哪条腿、第一次出现的日期、每天大约几次、每次持续多久，以及是否在散步开始、休息后或活动中更明显。还要告诉兽医近期是否跌倒、跳下高处，是否有脚垫损伤、起身困难或不愿跳跃。可以保留原始正常速度视频，必要时附慢放版本；不要只交剪过的慢动作，否则医生难以判断真实节奏。
+
+拍摄只利用日常必要的短距离行走，不能为复现症状逼狗奔跑、反复转圈或上下楼梯，也不要自己扳动膝盖。即使抬腿后又能正常走，也建议预约兽医检查；若完全不能负重、明显疼痛、受过重大外伤或无法站立，应立即就医，不要为了录像拖延。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/patellar-luxation；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/what-to-expect-when-taking-your-limping-dog-to-the-veterinarian。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
+
 ---
 
 ## 0452｜狗早晨起身僵硬，活动后又好了，是关节问题吗？
 - Slug：`dog-morning-stiffness-joints`
-- 直接回答：有可能。休息后僵硬、活动一会儿稍微改善，是慢性关节疼痛常见表现之一，但仍需要结合体检和其他原因判断。
+- 直接回答：休息后僵硬可能是犬骨关节炎，但应结合步态、检查与鉴别诊断。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-很多狗的关节问题并不是一直跛，而是早晨起床慢、站起来困难、刚走几步僵硬，活动开以后看起来又“正常了”。
+狗狗早晨从窝里站起来，前几步僵硬、慢吞吞，走一会儿又像没事一样。主人可能以为只是睡久了。其实，休息后僵硬、活动后暂时缓解，是犬骨关节炎值得关注的表现之一，尤其见于年长、超重或曾有骨科损伤的狗。但这不是关节炎的专属症状，也不能因为走开了就排除疼痛。
 
-主人很容易因此低估疼痛。建议记录起床时间、上楼和跳车是否困难、散步后是否更累，以及天气变化时症状是否明显。
+留意它起身是否费力、后腿有没有发软或跛行，上下楼梯、跳上车和散步是否比以前犹豫。每天在自然起床时，从侧面或后方拍下最初几步，再拍正常短距离活动后的步态，注明日期、持续时间和哪条腿更明显。不要为了比较而强迫跑步、爬楼或拉伸关节；如果症状只在寒冷天气或运动后明显，也一并告诉医生。
 
-AAHA建议慢性疼痛评估重视主人观察的功能变化，而不能只看X光或一次门诊走路表现。
+就诊时带上视频、体重变化、既往受伤和用药记录。兽医会结合步态、神经与骨科检查，必要时安排影像或其他检验，区分关节退变、韧带损伤、脊背问题和其他原因。X光看到关节改变，不一定代表全部疼痛来自那里。家里可先铺防滑垫、减少高处跳跃，让饮食和休息区域容易到达，并与医生讨论适合的活动方式。
 
-资料基线：2022 AAHA Pain Management Guidelines。
+若突然不能负重、明显疼痛、关节肿胀或外伤后无法站立，应尽快就医；不能行走、肢体拖行或严重虚弱时需立即急诊。反复晨起僵硬即使活动后改善，也值得预约检查。不要自行使用人用止痛药或照视频进行康复训练。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/chronic-pain-assessment-in-dogs/；https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/conditions/arthritis-in-dogs。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
+
+---
+
+## 0453｜狗不愿意上楼，要不要逼它多走走？
+- Slug：`dog-refuses-stairs-avoid-forcing`
+- 直接回答：拒绝上楼不可强迫，先评估疼痛、骨科与神经问题，再决定运动。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗走到楼梯口突然停住、不肯往上走，主人可能以为它不爱运动，想催它多爬几趟“练腿”。先不要强迫。上楼需要后肢发力、关节屈伸并保持平衡，不愿上楼可能是骨关节炎、髋膝关节问题、脊背疼痛或神经异常的信号，也可能与楼梯光滑、视力变化有关，不能仅凭这个动作判断病因。
+
+先比较变化是突然发生还是逐渐出现，观察起身是否僵硬、散步时是否跛行、下楼是否也困难，哪条腿更不愿负重。记录年龄、体重、受伤史以及是否刚做过手术。可在日常活动中拍下狗自然走路和停在楼梯前的表现，但不必为了拍摄反复诱导它上楼，更不要拖牵引绳、推臀部或用零食逼它攀爬。
+
+在兽医评估前，尽量把食物、水和睡垫放在同一层，楼梯口用稳固护栏防止意外滑落，地面铺固定防滑垫。需要上下楼时，先向医生咨询安全的协助方法；体型大或疼痛明显的狗，切勿冒险独自抱举。疼痛原因明确后，适当的平地短距离牵绳散步或康复训练可能有益，但活动种类、强度和进度应按诊断制定，不能把爬楼当作锻炼任务。
+
+如果突然无法负重、持续哀叫、跌倒后不能走路，或后腿拖行、站立困难，应立即就医，尤其伴排尿障碍时要警惕神经问题。若只是逐渐不愿上楼，也应尽早预约骨科与神经系统评估。不要自行使用人用止痛药，也不要让狗靠忍痛“练出来”。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/osteoarthritis；https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/nonpharmacologic-modalities-for-pain-management/。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
+
+---
+
+## 0455｜小型犬膝盖问题，一定要手术吗？
+- Slug：`small-dog-patellar-luxation-surgery-decision`
+- 直接回答：髌骨脱位不一定手术，应综合分级、疼痛、跛行和合并损伤。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+小型犬走路时突然抬起一条后腿，跳几步又恢复正常，检查后听到“髌骨脱位”，主人最担心的是不是一定要手术。答案是不一定。髌骨脱位是膝盖骨偏离正常滑动位置，常见于贵宾、吉娃娃等小型犬，但膝部疼痛也可能来自十字韧带或其他损伤，需先弄清诊断。
+
+兽医通常通过骨科触诊判断髌骨是否容易脱位，并分为一级到四级，必要时拍X光了解骨骼排列与伴随问题。分级只是决策的一部分：没有症状、偶尔跳步且疼痛轻微的部分轻度病例，可先讨论体重管理、受控活动和定期复查。保守管理可能改善舒适度，却不能把异常的骨骼结构“练回正常”。
+
+如果跛行越来越频繁、明显疼痛、膝盖难以稳定复位，或属于较严重分级，医生通常会建议骨科手术评估。还要判断是否有十字韧带损伤、骨骼变形、双侧发病，以及年龄和麻醉风险。决定前带上自然走路、跳步的视频，记录发作次数、持续时间和是否影响散步，向医生确认不手术可能的进展与术后恢复限制。
+
+在明确方案前避免强迫爬楼、跳高或反复扳动膝盖，也不要自行喂止痛药。如果突然完全不敢落地、剧痛、外伤后不能站立，应及时就医。手术不是只看等级就拍板，也不是吃保健品就能代替矫正；目标是减少疼痛、保护活动能力。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.acvs.org/small-animal/patellar-luxation/；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/patellar-luxation。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
+
+---
+
+## 0456｜大型犬髋关节不好，日常地面怎么布置？
+- Slug：`large-dog-hip-dysplasia-home-nonslip-flooring`
+- 直接回答：为髋关节障碍犬建立连续防滑路线、减少跨楼层需求和跌倒风险。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+大型犬髋关节不好，主人常先想到换软床，却忽略了每天走过的地面。瓷砖、木地板太滑，狗起身、转弯时后腿容易打滑，可能增加疼痛和跌倒风险。髋关节发育不良、骨关节炎或其他神经骨科问题，都可能让狗走得小心；布置环境能降低负担，却不能代替兽医诊断。
+
+优先从睡窝到水碗、食盆、出入口铺出连续的防滑通道，用带防滑底的短绒地毯或牢固固定的地垫，不要只零散放几块。检查边角是否翘起，湿了及时擦干；家具间留出足够宽的转身空间，移走电线和杂物。狗经常站立进食的位置也要防滑，避免脚掌向两侧滑开。
+
+尽量让睡觉、喝水和主要活动集中在同一楼层；楼梯口可装安全护栏，避免无人看护时跌落。需要跨过门槛或上下车时，先请兽医判断是否适合使用稳固、坡度合适且表面防滑的坡道。休息处提供容易起卧、有支撑的软垫。定期检查趾甲及脚底毛是否影响抓地，必要时请专业人员处理，别自己拽着大狗硬上楼。
+
+可拍下狗在家起身、直行和转弯的视频，记录打滑次数、跛行、散步意愿及体重变化，复诊时一起提供。若突然无法站立、严重疼痛、外伤后不能负重或后肢明显拖行，应立即就医。防滑能帮助它走得更稳，但疼痛控制、体重和活动方案仍须医生评估。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/nonpharmacologic-modalities-for-pain-management/；https://www.acvs.org/small-animal/canine-hip-dysplasia/。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
 
 ---
 
 ## 0457｜狗突然后腿无力，需要紧急评估吗？
 - Slug：`dog-sudden-hindlimb-weakness`
-- 直接回答：如果是突然发生，尤其是站不起来、拖行、明显疼痛或伴随大小便异常，应尽快评估。
+- 直接回答：突发后肢无力尤其不能站立、拖行或排尿异常需紧急神经评估。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-突然后腿无力可能来自关节和骨骼，也可能涉及脊柱、神经、血管或其他全身性问题。是否疼痛、是否两条腿同时受影响、有没有跌倒外伤，都会影响判断。
+狗狗突然出现后腿发软、站不稳，甚至拖着脚走，不能只当成累了或关节老化。尤其是几分钟到几小时内出现异常的狗，应立即联系动物医院评估。椎间盘突出、脊髓损伤或脊髓血供障碍都可能引起急性无力，也可能有骨科损伤或全身性疾病，单靠外观不能确定原因。
 
-不要反复扶狗走动测试，也不要强行拉伸腿部。尽量减少搬动，并拍一段自然站立或尝试行走的视频给医院看。
+最需要警惕的是无法自行站立、后腿拖行或脚背着地、症状快速加重，以及同时出现背部剧痛、排尿困难、尿失禁或呼吸异常。这些情况应直接寻求急诊帮助。没有叫疼也不能放心：部分脊髓血管疾病发生后疼痛可能很快减轻，但仍会造成严重运动障碍。即使短暂恢复，也应尽快让兽医判断是否需要进一步检查。
 
-如果完全无法站立、后肢拖行、持续尖叫、呼吸或精神状态异常，应按急症处理。
+准备送医时先限制活动，不要让狗试着多走几步，也不要按摩、拉伸腿部或强行上下楼。怀疑脊椎受伤时，尽量保持躯干平稳，由多人协助用稳固的平板或硬底运输工具转移，并提前致电医院了解接诊安排。不要自行喂人用止痛药。若不耽误就医，可记录发作时间、单侧还是双侧无力、有无跌落、疼痛和排尿变化，保留自然发生的短视频。
 
-资料基线：Merck Veterinary Manual—Nervous System Disorders and Effects of Injuries in Dogs。
+兽医通常会结合一般检查、骨科与神经系统检查判断病变位置，必要时安排影像、血液检查或转诊；普通X光并不能排除所有脊髓问题。对突然出现的后腿无力，应及早识别需要紧急处理的原因，不应在家观察数天再决定。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.acvs.org/small-animal/intervertebral-disc-disease/；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/fibrocartilaginous-embolism-fce-dogs。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
+
+---
+
+## 0460｜狗用止痛药后能跑了，活动量可以马上恢复吗？
+- Slug：`dog-pain-medication-activity-recovery-limits`
+- 直接回答：止痛改善不等于组织愈合，术后运动限制依手术及临床复查决定。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗吃了止痛药，原本一瘸一拐，隔天就想奔跑，主人容易觉得已经好了。但疼痛减轻不等于关节、韧带或手术部位完成修复。止痛治疗是为了让狗更舒适地休息和恢复，不是解除活动限制的信号。尤其刚受伤、做过骨科手术的狗，过早跑跳仍可能造成二次损伤。
+
+先问兽医：目前诊断是什么，是否还需限制负重？能走多远、能否上下楼、什么时候复查，以及用什么标准逐步增加运动？术后应严格照出院计划执行，不能因为愿意跑就自行放开牵引绳。若是病情稳定的慢性骨关节炎，通常也更适合规律、低冲击、可控制的活动，而非突然追球、冲刺或剧烈玩耍。
+
+在家先保持防滑通道，按医生允许的范围牵绳活动，避免跳上沙发、追逐和急转弯。每天记录起身是否僵硬、走路是否跛行、活动后或次日有没有变差，也可拍摄相似条件下的原速步态视频。把药名、用药时间、活动变化一起交给医生，方便判断是疼痛控制改善，还是已经具备增加运动的条件。
+
+若再次明显跛行、关节肿胀或突然不能负重，应停止活动并及时就医。服用非甾体抗炎止痛药期间，如出现呕吐、腹泻、拒食或黑便，应停用该药并立即联系处方兽医；虚脱或呼吸困难需急诊。不要自行增减剂量，也不能加用人用止痛药。
+
+药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- 编辑来源：https://www.acvs.org/small-animal/postoperative-care-after-surgery-what-animal-owners-should-expect/；https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-about-pain-relievers-pets。
+- 来源边界：2026-10-31编辑级资料关联；未经逐主张专业审稿，不代表兽医Medical Approved。
+
