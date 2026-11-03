@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Buntou Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-10-31。本站共有188篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-03。本站共有238篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,7 +79,7 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、188篇健康问答索引（2026-10-31）
+## 七、238篇健康问答索引（2026-11-03）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
@@ -276,4 +276,54 @@
 - [宠物肿瘤手术后，病理报告为什么值得保存？](https://pet.japanmedai.com/qa/pet-tumor-pathology-report/) — 心脏与肿瘤
 - [宠物超声报告写“占位”，就等于癌症吗？](https://pet.japanmedai.com/qa/pet-ultrasound-mass-not-always-cancer/) — 用药与检查
 - [看到日本有宠物新药，怎样确认它治疗的具体疾病？](https://pet.japanmedai.com/qa/verify-japan-veterinary-new-drug-indication/) — 日本兽医信息
+- [猫拔牙回家后，出院单哪些事项必须确认？](https://pet.japanmedai.com/qa/cat-dental-discharge-instructions/) — 检查与复诊沟通
+- [猫牙科检查为什么可能需要牙科X线？](https://pet.japanmedai.com/qa/cat-dental-xray-purpose/) — 口腔家庭观察
+- [猫换饮水机后喝水变化，怎样判断是否需要检查？](https://pet.japanmedai.com/qa/cat-drinking-fountain-water/) — 营养与进食
+- [多猫家庭怎样确认每只猫实际吃了多少？](https://pet.japanmedai.com/qa/cat-food-portion-multicat/) — 营养与进食
+- [猫体检听到心杂音，为什么不能直接判断心脏病严重程度？](https://pet.japanmedai.com/qa/cat-heart-murmur-followup/) — 检查与复诊沟通
+- [猫搬家后一直躲藏，怎样区分应激与生病？](https://pet.japanmedai.com/qa/cat-hiding-after-moving/) — 行为与环境
+- [猫活动减少却仍能跳跃，为什么不能排除疼痛？](https://pet.japanmedai.com/qa/cat-hiding-pain-mobility/) — 运动与康复
+- [老猫进猫砂盆困难，如何评估入口高度？](https://pet.japanmedai.com/qa/cat-litter-box-low-entry/) — 运动与康复
+- [多猫家庭一只猫堵住猫砂盆，如何识别关系紧张？](https://pet.japanmedai.com/qa/cat-multicat-blocking-resources/) — 行为与环境
+- [猫体重稳定但肌肉变少，营养评估该问什么？](https://pet.japanmedai.com/qa/cat-muscle-loss-diet-review/) — 营养与进食
+- [家里有新生儿后猫行为改变，如何降低环境压力？](https://pet.japanmedai.com/qa/cat-new-baby-household/) — 行为与环境
+- [猫总用一侧咀嚼，怎样记录口腔疼痛线索？](https://pet.japanmedai.com/qa/cat-one-sided-chewing/) — 口腔家庭观察
+- [猫口腔溃疡反复出现，复诊要带哪些资料？](https://pet.japanmedai.com/qa/cat-oral-ulcer-recurrence/) — 口腔家庭观察
+- [猫过度舔毛露出皮肤，为什么不能直接认定是焦虑？](https://pet.japanmedai.com/qa/cat-overgrooming-stress/) — 行为与环境
+- [猫挑食越来越严重，什么时候应先查病而不是换粮？](https://pet.japanmedai.com/qa/cat-picky-eating-vs-illness/) — 营养与进食
+- [猫玩耍时突然躲起来，什么时候应该停止互动？](https://pet.japanmedai.com/qa/cat-play-stop-signs/) — 运动与康复
+- [猫上下高处吃力，坡道和台阶怎样安全安排？](https://pet.japanmedai.com/qa/cat-ramp-for-arthritis/) — 运动与康复
+- [猫抗拒刷牙，如何避免强迫造成口腔伤害？](https://pet.japanmedai.com/qa/cat-refuses-toothbrushing/) — 口腔家庭观察
+- [猫突然频繁抓家具，是否与健康或环境变化有关？](https://pet.japanmedai.com/qa/cat-scratching-furniture-change/) — 行为与环境
+- [猫转诊专科前，哪些原始检查资料最重要？](https://pet.japanmedai.com/qa/cat-specialist-referral-records/) — 检查与复诊沟通
+- [猫牙齿看着完整却吃饭疼，为什么要排查牙吸收？](https://pet.japanmedai.com/qa/cat-tooth-resorption-signs/) — 口腔家庭观察
+- [猫尿检前，如何向医院确认采样与保存要求？](https://pet.japanmedai.com/qa/cat-urine-sample-home-collection/) — 检查与复诊沟通
+- [超重猫开始互动游戏，怎样避免突然增加运动负担？](https://pet.japanmedai.com/qa/cat-weight-and-play-intensity/) — 运动与康复
+- [猫从干粮换湿粮，如何观察接受度和消化变化？](https://pet.japanmedai.com/qa/cat-wet-food-transition/) — 营养与进食
+- [狗康复训练后更跛，如何向兽医反馈？](https://pet.japanmedai.com/qa/dog-after-rehab-soreness/) — 运动与康复
+- [狗量血压数值不一致，复诊时应核对什么？](https://pet.japanmedai.com/qa/dog-blood-pressure-repeat/) — 检查与复诊沟通
+- [狗用洁牙咬胶后牙齿受损，怎么评估风险？](https://pet.japanmedai.com/qa/dog-dental-chew-tooth-fracture/) — 口腔家庭观察
+- [狗皮肤病反复，怎样整理照片与治疗时间线？](https://pet.japanmedai.com/qa/dog-dermatology-photo-timeline/) — 检查与复诊沟通
+- [狗换粮后大便变软，记录哪些变化便于复诊？](https://pet.japanmedai.com/qa/dog-diet-change-stool/) — 营养与进食
+- [狗耳朵反复发炎，为什么兽医可能建议耳道细胞学？](https://pet.japanmedai.com/qa/dog-ear-cytology-explained/) — 检查与复诊沟通
+- [狗怀疑食物过敏，为什么不能频繁随意换粮？](https://pet.japanmedai.com/qa/dog-food-allergy-elimination-trial/) — 营养与进食
+- [狗粮标注全价营养，主人应看懂哪些信息？](https://pet.japanmedai.com/qa/dog-food-label-complete-balanced/) — 营养与进食
+- [给狗长期自制饭，为什么要评估营养是否完整？](https://pet.japanmedai.com/qa/dog-homecooked-diet-nutrient-risk/) — 营养与进食
+- [狗化验单出现红字，怎样避免只凭箭头判断病情？](https://pet.japanmedai.com/qa/dog-lab-reference-range/) — 检查与复诊沟通
+- [狗长期用药复诊，怎样准备完整药物清单？](https://pet.japanmedai.com/qa/dog-longterm-medication-review/) — 检查与复诊沟通
+- [成年狗牙齿松动，为什么不应自行拔除？](https://pet.japanmedai.com/qa/dog-loose-adult-tooth/) — 口腔家庭观察
+- [狗洗牙后又出现口臭，哪些情况需要复查？](https://pet.japanmedai.com/qa/dog-mouth-odor-after-cleaning/) — 口腔家庭观察
+- [狗夜间来回踱步，行为问题和身体不适怎么区分？](https://pet.japanmedai.com/qa/dog-night-pacing-behavior/) — 行为与环境
+- [狗指甲太长走路打滑，为什么要让专业人员评估？](https://pet.japanmedai.com/qa/dog-paw-nail-floor-traction/) — 运动与康复
+- [狗受伤恢复期，散步记录应包含哪些信息？](https://pet.japanmedai.com/qa/dog-postinjury-walk-log/) — 运动与康复
+- [狗散步时频繁扑向其他狗，怎样安全记录触发因素？](https://pet.japanmedai.com/qa/dog-reactive-on-walks/) — 行为与环境
+- [狗护食越来越明显，家人怎样避免冲突升级？](https://pet.japanmedai.com/qa/dog-resource-guarding-food/) — 行为与环境
+- [老狗在光滑地板打滑，怎样减少跌倒风险？](https://pet.japanmedai.com/qa/dog-senior-slippery-floor/) — 运动与康复
+- [狗独自在家不停叫，记录什么有助于行为评估？](https://pet.japanmedai.com/qa/dog-separation-vocalization/) — 行为与环境
+- [狗突然不愿爬楼梯，关节痛与其他问题怎么区分？](https://pet.japanmedai.com/qa/dog-stairs-reluctance/) — 运动与康复
+- [狗突然害怕日常声音，为什么要先排查疼痛？](https://pet.japanmedai.com/qa/dog-sudden-noise-fear/) — 行为与环境
+- [狗牙结石明显，为什么不建议主人自行刮牙？](https://pet.japanmedai.com/qa/dog-tartar-home-scraping-risk/) — 口腔家庭观察
+- [狗刷牙时牙龈出血，应该暂停还是预约检查？](https://pet.japanmedai.com/qa/dog-toothbrushing-gum-bleeding/) — 口腔家庭观察
+- [狗零食越吃越多，怎样与兽医核对热量预算？](https://pet.japanmedai.com/qa/dog-treat-calorie-budget/) — 营养与进食
+- [带宠物申请第二诊疗意见，怎样整理三到五个核心问题？](https://pet.japanmedai.com/qa/pet-second-opinion-question-list/) — 检查与复诊沟通
 
