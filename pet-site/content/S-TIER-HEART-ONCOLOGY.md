@@ -66,6 +66,48 @@
 
 ---
 
+## 0414｜狗吃利尿药后尿多，要自行限水吗？
+- Slug：`dog-diuretic-increased-urination-water`
+- 直接回答：没有兽医针对个体病情作出明确限水医嘱时，通常不应因为服用利尿药后尿多而自行限制饮水；注意饮水、精神、排尿和呼吸变化。
+- 优先级：S
+- 编辑状态：source_verified_editorial（核心安全主张）；医学审核：pending / Hold；发布：draft / noindex。
+
+狗狗服用利尿药后，排尿次数增多，主人常担心：“喝水多会不会加重心脏负担？”没有兽医明确提出个体化限制时，通常不应自行限水。尿多往往是药物发挥作用的表现，不能单凭这一点判断治疗过量或病情恶化。
+
+在犬心脏病管理中，利尿药常用于控制充血性心力衰竭引起的体液潴留，帮助减轻肺水肿等问题。以呋塞米为例，它促进肾脏排出钠和水，因此服药后喝水、排尿增加并不罕见。若因为怕尿多而收走水碗，可能使狗狗无法补充排出的水分，增加脱水与肾功能异常风险。一般应让狗狗随时可以喝到新鲜清水，既不要强迫灌水，也不要因为室内排尿不方便而限制喝水。确有特殊病情需要控制饮水时，应由兽医提出个体化方案。
+
+比起只盯着尿量，更值得记录的是每天饮水变化、精神与食欲、体重，以及安静睡眠时的呼吸状态。服用利尿药期间，兽医可能根据病情复查肾功能、电解质，并判断治疗是否需要调整。如果狗狗明显乏力、反复呕吐、几乎不排尿，或出现呼吸费力、无法安睡等情况，应及时联系动物医院；呼吸困难或虚脱应立即急诊。不要单凭一次尿多就自行停药、减药。
+
+利尿药的目标不是让狗狗“少喝水”，而是在控制体液潴留与维持正常水合状态之间取得平衡。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：日本精准兽医、狗狗利尿药、犬心脏病、狗狗尿多、呋塞米、犬饮水管理、犬心力衰竭、宠物肾功能监测。
+- 编辑来源：VCA Animal Hospitals—Furosemide（https://vcahospitals.com/park/know-your-pet/furosemide）；Tufts Cummings—Monitoring Heart Disease Treatment at Home（https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/cardiology/heartsmart/heart-disease-treatments/monitoring-heart-disease-treatment-home）。
+- 证据边界：VCA支持呋塞米常见多尿和需保持饮水可及；Tufts支持呼吸及用药记录。资料均为美国来源，不用于证明日本具体兽药产品获批。个体限水条件与停/改药须由处方兽医判断。
+- 来源核对：2026-10-28；编辑级，非执业兽医Medical Approved。
+
+---
+
+## 0416｜狗夜间咳嗽加重，复诊时带哪些记录？
+- Slug：`dog-night-cough-cardiac-recheck-records`
+- 直接回答：带夜间咳嗽时间线与视频、熟睡呼吸频率、用药清单和既往检查结果；咳嗽不等于已发生心衰，出现呼吸困难须立即就诊。
+- 优先级：S
+- 编辑状态：source_verified_editorial（主要资料与风险主张）；医学审核：pending / Hold；发布：draft / noindex。
+
+狗狗原本有心脏病，最近一到夜里就咳得更频繁。复诊时只说“咳得厉害”，往往不足以帮助兽医判断原因。夜间咳嗽可能与心脏疾病有关，也可能来自气管、支气管等呼吸道问题，不能单凭咳嗽声认定心衰加重。
+
+主人可提前记录咳嗽从哪天开始、每晚出现几次、一次持续多久，以及睡前、躺下、起身、运动或喝水后是否更明显。最好用手机拍下完整的咳嗽和呼吸视频，留意是干咳、连续咳还是伴有干呕，并标注拍摄时间。复诊时带上既往心脏超声、胸部影像和血液检查结果，以及目前正在使用的药品名称、实际服药情况和漏服记录，便于医生比较前后变化。
+
+另一个重要记录是熟睡时的呼吸次数：在狗狗没有喘气、真正安静入睡时，数胸部起伏一分钟，一吸一呼算一次，连续几晚记录数值和变化。若持续高于平时基线，或超过主治兽医针对这只狗设定的警戒值，应尽早联系兽医。同时记下精神、食欲、散步耐力、睡眠姿势及是否难以平躺。若出现呼吸费力、牙龈发青、晕厥或无法安稳休息，应立即就诊，不要为了拍视频拖延，也不要自行加减心脏药或利尿药。
+
+复诊时带齐咳嗽视频、呼吸记录、用药清单和既往检查资料，更有助于兽医判断。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：日本精准兽医、犬心脏病、狗夜间咳嗽、犬心力衰竭、狗熟睡呼吸频率、犬心脏病复诊、狗咳嗽视频记录、宠物心脏健康监测。
+- 编辑来源：Tufts Cummings—Coughing（https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/cardiology/heartsmart/heart-disease-symptoms/coughing）；Tufts Cummings—Monitoring Heart Disease Treatment at Home（https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/cardiology/heartsmart/heart-disease-treatments/monitoring-heart-disease-treatment-home）；Tufts Cummings—Difficulty Sleeping or Altered Sleep Patterns（https://vet.tufts.edu/foster-hospital-small-animals/specialty-services/cardiology/heartsmart/heart-disease-symptoms/difficulty-sleeping-or-altered-sleep-patterns）。
+- 证据边界：心脏病犬咳嗽可有非心源性病因；Tufts明确支持咳嗽视频、时段、频率与呼吸记录。呼吸警戒值应按个体基线和医嘱判断，不将单一数值或咳嗽作为心衰诊断。
+- 来源核对：2026-10-28；编辑级，非执业兽医Medical Approved。
+
+---
+
 ## 0418｜狗突然晕倒又很快恢复，还需要急诊吗？
 - Slug：`dog-collapse-syncope-heart`
 - 直接回答：需要尽快评估。突然倒地后很快恢复可能是晕厥，也可能有其他神经或代谢原因，不能因为恢复快就忽略。
