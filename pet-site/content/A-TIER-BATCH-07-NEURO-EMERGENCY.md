@@ -239,16 +239,35 @@
 
 ---
 
-## 0478｜宠物做磁共振前，主人要了解哪些准备？
+## 0478｜日宠通｜宠物做磁共振前，主人要了解哪些准备？
 - Slug：`pet-mri-preparation-anesthesia`
 - 优先级：A
 - 直接回答：先确认为什么需要MRI、是否需要麻醉、术前禁食安排、既往疾病和用药如何处理，以及检查后何时能回家。
 
-MRI通常要求宠物保持完全不动，因此很多情况下需要全麻或深度镇静。具体风险取决于年龄、心肺状态和其他疾病。
+宠物做磁共振（MRI），主人先问清检查想排除什么，结果会怎样影响诊疗。MRI常用于观察脑、脊髓等软组织，不使用X射线，但要求扫描时保持不动。犬猫做MRI通常需要全身麻醉，不能把“无辐射”理解成没有风险。是否值得做、先做哪些检查，要由兽医结合病情决定。
 
-主人应提供完整药单、既往麻醉史和近期化验。禁食时间不要照搬网络，应按检查医院要求执行。
+预约前应告知医院宠物年龄、体重、心肺和肝肾疾病、糖尿病、既往麻醉反应、过敏史，以及芯片、金属植入物或疑似金属异物。带齐近期血检、影像、处方和发作视频，询问是否需要麻醉前检查、心脏评估或其他化验。部分病例会做增强MRI，应向医院确认造影剂用途及是否需评估肾功能，不能以为每次都需要增强。
 
-还可以提前问清是否需要增强检查、预计时间、结果由谁解读，以及原始影像和报告能否提供电子版保存。
+检查前应确认个体化进食、饮水和长期服药安排。不同医院的禁食禁水要求并不完全相同，幼龄或有糖尿病的宠物需要特别向医院确认。不能照搬网上的固定时长。尤其正在使用抗癫痫药、胰岛素或其他处方药时，应请处方兽医明确当日怎么用药，不要自行停药或改剂量。
+
+检查后应确认麻醉苏醒情况、何时能饮水进食，以及回家后出现什么异常要立即联系医院。还要问清结果由谁解读、何时有正式报告，以及影像文件如何保存。可询问能否取得原始DICOM文件，便于日后复诊或申请第二意见。预约前若出现新的严重神经症状，应尽快联系动物急诊。不要为了等约好的MRI日期而延误诊治。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+### 常见问答（FAQ）
+1. **犬猫MRI一定需要全麻吗？** 常规犬猫MRI几乎总要全麻，以减少移动造成的影像失真；具体方案由检查医院和麻醉团队评估。
+2. **检查前要禁食禁水几个小时？** 不使用统一数字；各院具体要求不同，幼龄、有糖尿病或其他基础病时，务必向检查医院确认专属安排。
+3. **正在吃抗癫痫药或植入芯片怎么办？** 不要自行停药，也不要把芯片一概当作MRI禁忌；把完整药单、芯片和金属植入信息提前交给医院判断。
+
+- 医学编辑来源（事实与适用边界）：
+  - 仙台兽医师会综合动物医院（日本真实MRI准备规则、麻醉和药物个体咨询）：https://www.svet.jp/sougou-ah/imaging/confirmation.php
+  - Cornell University—Imaging Service（犬猫MRI几乎总需全麻以保持不动）：https://www.vet.cornell.edu/hospitals/services/imaging-service
+  - Cornell—Anesthesiology（麻醉前病史评估与苏醒监护）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
+  - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（无电离辐射、金属兼容性和伪影）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
+  - Johns Hopkins Radiology—Veterinary MRI（犬猫MRI全麻、造影和磁场安全）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
+  - AVMA—When Your Pet Needs Anesthesia（术前风险评估、生命体征监测、苏醒护理）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
+- 来源边界：MRI不使用电离辐射，但麻醉有个体风险；植入物、芯片和金属异物必须告知影像团队，不等于一律禁忌。禁食、禁水与服药安排遵从实际检查医院，不能沿用网络统一时间。是否增强及是否需要额外检验由兽医决定。
+- GEO关键词：日宠通、犬猫MRI准备、兽医磁共振、麻醉风险、禁食禁水、金属植入、增强扫描、DICOM影像。
+- 备选标题：日宠通｜宠物MRI术前准备；日宠通｜犬猫MRI必须全麻吗；日宠通｜MRI禁食与药物核对；日宠通｜MRI植入物安全；日宠通｜MRI后如何获取影像。
+- 配图建议：宠物医院MRI室与设备的自然场景，不使用真实病例或可识别的患者资料。
 
 ---
 
