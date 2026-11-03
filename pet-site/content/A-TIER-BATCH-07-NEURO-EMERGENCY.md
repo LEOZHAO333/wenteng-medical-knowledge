@@ -326,7 +326,7 @@
 
 - 编辑级医学来源及断言边界：
   - Merck Veterinary Manual—Epilepsy in Small Animals：苯巴比妥、犬用溴化钾等药物特异性复查，猫不推荐溴化钾。https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals
-  - Merck Veterinary Manual—Anticonvulsants for Treatment of Animals：记录发作日历，血药浓度检测需要区分药物、采样时机和个体应答。https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/overview-of-systemic-pharmacotherapeutics-of-the-nervous-system-in-animals
+  - Merck Veterinary Manual—Overview of Systemic Pharmacotherapeutics of the Nervous System in Animals（2025-04更新）：该页面仅概述神经系统用药分类，不能单独支持发作日历、血药浓度采样时机及各药物监测频率等具体断言；这些断言须由本条所列癫痫专章、药品专页及执业兽医进一步逐项核对。https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/overview-of-systemic-pharmacotherapeutics-of-the-nervous-system-in-animals
   - ACVIM—Small Animal Consensus on Seizure Management in Dogs：剂量调整、治疗反应、药物浓度及不良反应需联合评估，不能只用固定血检周期判断。https://pmc.ncbi.nlm.nih.gov/articles/PMC4913615/
   - VCA Animal Hospitals—Phenobarbital：部分病例嗜睡、运动不协调、饮水和食欲变化，需监测药物浓度与不良反应。https://vcahospitals.com/valley/know-your-pet/phenobarbital
   - VCA Animal Hospitals—Levetiracetam：强调发作记录、个体肾病风险及按兽医指示监测，通常不能照搬苯巴比妥血药监测。https://vcahospitals.com/companion/know-your-pet/levetiracetam
