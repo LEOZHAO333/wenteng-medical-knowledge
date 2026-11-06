@@ -24,20 +24,6 @@
 
 ---
 
-
-- 直接回答：先确保安全，再在不影响安全的前提下录像和计时。不要把手伸进嘴里，也不要强行压住四肢。
-
-狗突然抽搐时，主人最重要的是避免二次受伤。把周围尖锐物品移开，防止从楼梯、沙发或高处跌落，并尽量保持环境安静。
-
-如果安全允许，可以开始计时并录一段视频。发作持续多久、是全身抽动还是只有局部抽动、有没有失去意识，对兽医判断很有帮助。
-
-不要把手伸进狗嘴里，也不要强行拉舌头或压住身体。多数发作会在数分钟内自行结束，但不能因此延误急救：若一次抽搐持续接近或达到5分钟，或反复发作、两次之间没有恢复正常意识，应立即联系急诊；无需等满5分钟才开始联系医院。发作期间不要喂水、食物或口服药。
-
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；ACVIM Consensus Statement on Status Epilepticus and Cluster Seizures（2024, DOI:10.1111/jvim.16928，https://pubmed.ncbi.nlm.nih.gov/37921621/）；Cornell University—Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。
-医学审核：编辑级复核；待真实执业兽医签署。
-
----
-
 ## 0462｜狗抽搐时可以把手伸进嘴里吗？
 - Slug：`dog-seizure-dont-put-hand-in-mouth`
 - 直接回答：不能把手、筷子或勺子伸进抽搐犬的口中，也不需拉舌头；应先保障安全并计时，发作持续或反复时立即求助。
@@ -55,22 +41,6 @@
 - 编辑来源：PDSA 急救指南（https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/first-aid-for-fitsseizures-in-pets）；PDSA 犬癫痫（https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/conditions/epilepsy-in-dogs）；Cornell 犬抽搐管理（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/managing-seizures）；ACVIM 癫痫急症共识（https://pmc.ncbi.nlm.nih.gov/articles/PMC10800221/）。
 - 核对重点：不伸手掰嘴、不按压、不要让取证延误急诊；接近五分钟并非建议等待五分钟。
 - 编辑来源边界：已查证公开资料支持主旨，具体急诊判断及居家救援处方仍须日本执业兽医逐主张签审；本次不产生医学批准。
-
----
-
-
-- 直接回答：不可以。狗抽搐时不会因为“吞舌头”而需要把手伸进去，强行开嘴反而容易让主人被咬伤。
-
-抽搐时狗的咀嚼肌可能出现强烈、不受控制的动作，即使平时非常温顺，也可能无意识咬伤靠近嘴部的人。
-
-主人应把重点放在清理周围危险物、计时、观察呼吸和记录发作表现，而不是试图拉舌头、塞东西或灌水。
-
-发作结束后，有些狗会短时间迷糊、乱走或看不清，这属于可能出现的发作后阶段，也要避免它撞到家具或楼梯。
-
-如果发作持续接近或达到5分钟、反复抽搐或两次间未恢复正常意识，应立即联系急诊，不要等待录像拍完；不要将手、工具、食物或药水放入狗的口中。
-
-资料基线：Merck Veterinary Manual—Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；Cornell University—Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）。
-医学审核：编辑级复核；待真实执业兽医签署。
 
 ---
 
@@ -96,20 +66,6 @@
 
 ---
 
-
-- 直接回答：建议检查。第一次抽搐并不等于已经确诊癫痫，还需要排除低血糖、中毒、代谢异常、脑部疾病等其他原因。
-
-狗发作后很快恢复正常，主人容易觉得“没事了”。但单次抽搐可能是反应性发作，也可能是癫痫或结构性脑病的第一次表现。
-
-兽医通常会先结合年龄、病史、接触史和神经检查，再决定是否需要血液、尿液或进一步影像检查。
-
-就诊前最好记录发作前在做什么、持续多久、有没有失去意识、排尿排便、发作后多久恢复，以及近期是否可能接触药物、毒物或异常食物。即使已经恢复，也应尽快联系兽医安排首次发作评估；若发作持续约5分钟或更久、短时间内重复发作、恢复期意识持续异常或疑似中毒，应立即联系急诊。不要自行给人用抗癫痫药。
-
-编辑级参考：Merck Veterinary Manual—Seizure Disorders in Dogs（https://www.merckvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/seizure-disorders-in-dogs）；Epilepsy in Small Animals（https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals）；VCA—Emergencies in Dogs（https://vcahospitals.com/premier/know-your-pet/common-emergencies-in-dogs）。
-医学审核：pending／编辑级复核；待真实执业兽医签署。
-
----
-
 ## 0464｜狗连续几次发作，去急诊前要告诉医院什么？
 - Slug：`dog-cluster-seizures-emergency-info`
 - 直接回答：连续或24小时内多次发作应立即联系急诊，先报发作次数/持续时间、两次间意识恢复和目前用药等关键信息。
@@ -130,20 +86,6 @@
   - ACVIM 2024 Consensus on SE/CS（持续发作、簇集性发作急诊风险和早期治疗）：https://pmc.ncbi.nlm.nih.gov/articles/PMC10800221/
   - 2024 Emergency Approach to Acute Seizures（家属需交代发作次数、时长、意识、病因、药物及最后使用时间）：https://pmc.ncbi.nlm.nih.gov/articles/PMC11209469/
 - 来源边界：不同专业资料对“cluster”研究定义的发作次数可能不同；采用“24小时内再次发作即联系急诊”作为面向主人的保守安全提示，而不是自行诊断标准。2026-11-01编辑级来源核对，不代表逐句医学审核或执业兽医批准。
-
----
-
-
-- 直接回答：连续或短时间内多次抽搐属于急诊信号，应立即联系动物急诊；同时准备24小时内的发作次数、每次时长、两次间是否恢复意识、目前用药和最后用药时间。
-
-短时间连续多次抽搐属于神经急症。按照ACVIM共识，持续抽搐接近或达到5分钟，或者连续发作且期间意识未完全恢复，均不应等待，应立即联系急诊动物医院。即使每次短暂、间歇恢复，短时间成簇反复发作也需要紧急兽医评估。
-
-打电话给急诊时，直接告诉医院：第一次发作时间、目前已经发作几次、最长一次多久、两次之间是否恢复意识，以及是否已知癫痫病史。
-
-如果平时服用抗癫痫药，也要说明药名、最后一次给药时间和是否漏服。不要自行加倍口服药物，除非治疗兽医事先给过明确的家庭急救方案；先确保环境安全，记录不能耽误出发。
-
-编辑级核对来源：Cornell University—Idiopathic Epilepsy in Dogs（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/idiopathic-epilepsy-dogs）；Managing Seizures（https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/managing-seizures）；ACVIM Consensus Statement on the management of status epilepticus and cluster seizures in dogs and cats（2024；https://pmc.ncbi.nlm.nih.gov/articles/PMC10800221/）。所述5分钟为临床急救识别阈值，不是允许主人在家等待5分钟的建议。
-医学审核：pending。
 
 ---
 
