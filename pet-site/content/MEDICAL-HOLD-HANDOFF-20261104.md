@@ -19,3 +19,10 @@
 ## CI核验
 修复提交 `7853b21` 对应Pet GEO SEO Draft QA运行 #322：completed/success。仅证明该工作流范围内的静态检查通过。
 链接：https://github.com/LEOZHAO333/wenteng-medical-knowledge/actions/runs/41746216860
+
+## 2026-11-06 增补：0461～0464犬抽搐急症稿
+- Draft分支中 `S-TIER-NEURO-EMERGENCY.md` 四篇完整Canonical正文后均存在无题号旧版重复正文；本轮仅删除四处孤立重复块（约3047字符），保留原Canonical ID、Slug、主正文、原来源、P0 Hold及Git历史。提交 `96c1d1719fc2594759e1dd73ed6f98a8ab7074da`。
+- **未做医学判断或改变急诊时间阈值**。兽医逐项核查：`>2分钟联系兽医`、`接近/达到5分钟急诊`、`24小时内再次发作` 的来源原文支持、物种和场景差异；首次发作/意识恢复/呼吸异常分诊；家庭救援处方仅依原医嘱。
+- 原始引用包括PDSA、Cornell、ACVIM；需确认各具体URL现时可达、旧链接是否已迁移以及原文直接支持范围，不能仅凭文献标题认定逐句核实。
+- 发布状态继续 `medical_review=pending/Hold`、noindex；SEO唯一ID/Slug、Article元数据、FAQ和sitemap生产资格未做全量验收，继续阻断。
+- CI必须以本次提交HEAD关联的真实Actions运行结论为准；静态成功不等于Medical Approved。
