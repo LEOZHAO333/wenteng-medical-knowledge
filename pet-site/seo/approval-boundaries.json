@@ -20,8 +20,8 @@
       "**/production/**"
     ],
     "workBranch": "gpt/pet-geo-seo-v1-governance",
-    "activeDraftPr": 35,
-    "activeDraftBranch": "pet/sop15-claim-evidence-20261022",
+    "activeDraftPr": 39,
+    "activeDraftBranch": "pet/sop15-postop-safety-evidence-20261028",
     "originPrMerged": true,
     "productionIndexWhitelistPr": 13,
     "productionIndexCandidateCount": 45,
@@ -83,5 +83,5 @@
     "p2": "autocorrect in draft, run tests, document",
     "major": "suspend only affected high-impact action; present options, risk, recommendation, exact approval object once"
   },
-  "status": "original PR #8 merged 2026-10-18; current edits draft PR #35 only; production index whitelist PR #13 separate; no merge/deploy/index authority conferred"
+  "status": "original PR #8 merged 2026-10-18; clinical PR #35 merged 2026-10-27; current medical evidence edits in Draft PR #39 only; independent index gate PR #38 remains Draft; no merge/deploy/index authority conferred"
 }
