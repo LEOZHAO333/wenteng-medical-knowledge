@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Bunto Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-11-03。本站共有238篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-08。本站共有248篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,11 +79,12 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、238篇健康问答索引（2026-11-03）
+## 七、248篇健康问答索引（2026-11-08）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
-### 猫健康（93篇）
+### 猫健康（100篇）
+
 - [猫身上有皮屑，是洗澡少了吗？](https://pet.japanmedai.com/qa/cat-dandruff/) — 皮肤与被毛
 - [猫肚子两边秃了，是自己舔掉的吗？](https://pet.japanmedai.com/qa/cat-belly-hair-loss/) — 皮肤与被毛
 - [猫耳朵后面毛很稀，什么变化需要看医生？](https://pet.japanmedai.com/qa/cat-ear-thinning/) — 耳部与皮肤
@@ -177,8 +178,16 @@
 - [猫被怀疑传腹，为什么通常要综合多项证据？](https://pet.japanmedai.com/qa/fip-diagnosis-multiple-evidence/) — 多宠与传染
 - [幼猫疫苗记录不全，如何向医院核对补种计划？](https://pet.japanmedai.com/qa/kitten-unknown-vaccine-history/) — 疫苗与寄生虫
 - [老猫夜里叫个不停，如何区分认知变化与身体不适？](https://pet.japanmedai.com/qa/senior-cat-night-vocalizing/) — 高龄宠物
+- [小猫总咬手，是换牙还是玩耍方式需要调整？](https://pet.japanmedai.com/qa/kitten-biting-hands-play/) — 幼宠与初次就医
+- [小猫还不会用猫砂盆，先检查哪些条件？](https://pet.japanmedai.com/qa/kitten-not-using-litterbox/) — 幼宠与初次就医
+- [两个月小猫能不能单独在家一整天？](https://pet.japanmedai.com/qa/two-month-kitten-home-alone/) — 幼宠与初次就医
+- [新猫到家几天不让摸，怎样分清害怕和疼痛？](https://pet.japanmedai.com/qa/new-cat-fear-vs-pain-touch/) — 幼宠与初次就医
+- [小猫总钻危险缝隙，家里怎么做安全检查？](https://pet.japanmedai.com/qa/kitten-home-safety-gaps/) — 幼宠与初次就医
+- [领养成猫比幼猫更难适应吗，准备重点有什么不同？](https://pet.japanmedai.com/qa/adult-cat-vs-kitten-adoption-adjustment/) — 幼宠与初次就医
+- [救助猫回家前，怎样向救助人了解健康史？](https://pet.japanmedai.com/qa/rescue-cat-health-history-checklist/) — 幼宠与初次就医
 
-### 犬健康（70篇）
+### 犬健康（73篇）
+
 - [狗皮屑多还很痒，洗得勤会更好吗？](https://pet.japanmedai.com/qa/dog-dandruff-itching/) — 皮肤与过敏
 - [狗左右对称掉毛，为什么医生可能建议验血？](https://pet.japanmedai.com/qa/dog-symmetrical-hair-loss/) — 皮肤与全身状态
 - [狗每天舔脚，可能只是无聊吗？](https://pet.japanmedai.com/qa/dog-licking-paws/) — 皮肤与过敏
@@ -249,6 +258,9 @@
 - [高龄狗需要洗牙，麻醉前该和医生讨论什么？](https://pet.japanmedai.com/qa/senior-dog-dental-anesthesia/) — 高龄宠物
 - [老狗体重缓慢下降，为什么不能只说年纪大了？](https://pet.japanmedai.com/qa/senior-dog-unexplained-weight-loss/) — 高龄宠物
 - [小型幼犬突然没精神发抖，要立即求助吗？](https://pet.japanmedai.com/qa/small-puppy-lethargic-shaking/) — 幼宠与手术
+- [幼犬夜里叫个不停，如何兼顾安抚和休息？](https://pet.japanmedai.com/qa/puppy-crying-at-night/) — 幼宠与初次就医
+- [小狗一兴奋就漏尿，是生病还是需要观察？](https://pet.japanmedai.com/qa/puppy-excitement-urination/) — 幼宠与初次就医
+- [小狗换牙期乱咬，哪些咬咬玩具更要留意？](https://pet.japanmedai.com/qa/puppy-teething-chew-toy-safety/) — 幼宠与初次就医
 
 ### 犬猫通用（25篇）
 - [猫狗一起养，食物和药品怎样分开存放？](https://pet.japanmedai.com/qa/cat-dog-food-medication-storage/) — 多宠与传染

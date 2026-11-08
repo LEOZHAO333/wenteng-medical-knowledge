@@ -42,19 +42,19 @@ const sitemap=render(prod,'sitemap.xml');
 const links=extractSitemap(sitemap.body);
 const byUrl=new Map(links.map(x=>[x.url,x.lastmod]));
 
-check('production sitemap HTTP response and 265 URL entries',()=>{
+check('production sitemap HTTP response and 275 URL entries',()=>{
   assert.equal(sitemap.statusCode,200);
   assert.match(sitemap.headers['content-type'],/application\/xml/);
-  assert.equal(links.length,265);
-  assert.equal(byUrl.size,265,'duplicate sitemap URL');
-  assert.equal(links.filter(x=>isArticleUrl(x.url)).length,238);
+  assert.equal(links.length,275);
+  assert.equal(byUrl.size,275,'duplicate sitemap URL');
+  assert.equal(links.filter(x=>isArticleUrl(x.url)).length,248);
   assert.ok(links.every(x=>x.url.startsWith(BASE+'/')));
 });
 check('four updated directory lastmod, About unchanged',()=>{
   for(const p of ['', 'cat/', 'dog/', 'qa/'])assert.equal(byUrl.get(BASE+'/'+p),'2026-10-30',p);
   assert.equal(byUrl.get(BASE+'/about/'),'2026-10-17');
 });
-check('238 article URL records resolve to HTTP 200 and correct canonical',()=>{
+check('248 article URL records resolve to HTTP 200 and correct canonical',()=>{
   const qa=links.filter(x=>isArticleUrl(x.url));
   for(const {url} of qa){
     const slug=url.slice(BASE.length+1,-1);
@@ -102,12 +102,12 @@ check('robots and non-indexable pages',()=>{
   assert.equal(unknown.statusCode,404);
   assert.equal(unknown.headers['x-robots-tag'],'noindex, follow');
 });
-check('AI static index covers all 238 sitemap article URLs exactly once',()=>{
+check('AI static index covers all 248 sitemap article URLs exactly once',()=>{
   const full=readFileSync(resolve(dir,'../llms-full.txt'),'utf8');
   const indexed=[...full.matchAll(/https:\/\/pet\.japanmedai\.com\/qa\/([a-z0-9-]+)\/\)/g)]
     .map(m=>BASE+'/qa/'+m[1]+'/');
-  assert.equal(indexed.length,238);
-  assert.equal(new Set(indexed).size,238);
+  assert.equal(indexed.length,248);
+  assert.equal(new Set(indexed).size,248);
   const sitemapQA=new Set(links.filter(x=>isArticleUrl(x.url)).map(x=>x.url));
   for(const url of indexed)assert.ok(sitemapQA.has(url),url);
 });
