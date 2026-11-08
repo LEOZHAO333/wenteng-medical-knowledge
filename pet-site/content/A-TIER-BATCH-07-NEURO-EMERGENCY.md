@@ -9,6 +9,29 @@
 
 ## 0465｜狗睡觉抖腿，怎样和真正的抽搐区别开？
 - Slug：`dog-sleep-twitching-vs-seizure`
+- 优先级：A（神经急症相关，医学复核P0）
+- 直接回答：睡梦中的短暂不规律抖腿常属正常睡眠动作，但真正癫痫也可在睡眠发生；结合动作、反应、恢复情况和视频，按风险就医。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗睡着后偶尔抖腿、轻轻踢脚，还发出呜咽，未必是癫痫。狗在快速眼动睡眠阶段可能出现短暂、不规则的肌肉抽动，看起来像在奔跑。若身体放松，动作断断续续，醒后很快恢复平常状态，更支持正常睡梦活动。但只凭“发生在睡觉时”不能排除抽搐，真正的癫痫也可能在睡眠中出现。
+
+观察时先保持距离，不要拍打身体、抓住四肢或伸手碰嘴巴。如果担心，可以从旁边轻声叫名字，看狗是否自然醒来并回应；不要突然惊吓。能醒来通常更支持做梦，但一时没有回应不能直接判定为癫痫。安全情况下拍下全身短视频，记录开始时间、持续多久，动作是间歇抖动还是持续僵硬，以及醒来后是否正常。
+
+更需要警惕的表现包括全身明显僵硬、持续有力的划腿动作、意识或反应异常、流口水、大小便失禁，以及结束后明显迷糊或站不稳。不过，局灶性癫痫有时只表现为脸部或一条腿抽动，仍可能保持意识；因此没有全身抽搐，也不能自行排除。反复出现相似异常、醒着时也发作，建议尽快让兽医结合视频检查。
+
+如果怀疑正在抽搐，先清开危险物、立即计时，不要强行叫醒或按住身体。持续超过两分钟应立即联系兽医；接近五分钟、二十四小时内再次发作，或发作间未恢复意识，应紧急联系动物急诊。第一次可疑发作即使已恢复也应咨询兽医，不为拍视频延误求助。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：狗睡觉抖腿、犬睡梦抽动、犬睡眠与癫痫鉴别、犬局灶性癫痫、犬抽搐急诊、犬发作录像、犬REM睡眠。
+- 编辑医学来源及支持范围：
+  - VCA Animal Hospitals—Do Dogs Dream?（REM睡眠、短暂肌肉抽动）：https://vcahospitals.com/know-your-pet/do
+  - American Kennel Club（兽医撰稿）—Is My Dog Dreaming or Having a Seizure?（轻微间歇抽动/身体僵直/醒后混乱区分，呼名而不触碰）：https://www.akc.org/expert-advice/health/dreaming-vs-seizures-in-dogs/
+  - Cornell University College of Veterinary Medicine—Managing Seizures（局灶发作可仅局部抽动，危险时间界限及安全防护）：https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/managing-seizures
+  - PDSA—Seizures and Epilepsy in Dogs（首次发作就医、>2分钟立即联系兽医，持续约5分钟急症）：https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/symptoms/seizures-in-dogs
+- 来源边界：睡梦中能否唤醒仅为辅助线索，不是癫痫排除诊断；时间阈值为求助提示，并非等待指示。2026-11-01编辑级核对，未取得执业兽医签审。
+
+---
+
+
 - 优先级：A
 - 直接回答：睡梦中轻微抖腿常与做梦有关，但如果出现全身僵硬、反复划动、流口水、失去反应或醒后长时间异常，应尽快让兽医评估。
 
@@ -22,6 +45,29 @@
 
 ## 0469｜狗总追尾巴转圈，是习惯还是需要检查？
 - Slug：`dog-tail-chasing-medical-or-behavior`
+- 优先级：A（神经急症相关疑似表现需P0分诊审查）
+- 直接回答：偶尔、容易转移的追尾动作可能只是玩耍；突然频繁、无法打断、追咬自伤需查皮肤、肛门囊、疼痛与神经疾病，排除身体原因后再评估强迫性行为。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗偶尔兴奋地追着尾巴转一圈，停下来又正常玩耍，不一定是生病。幼犬探索身体时也可能这样做。但如果近期突然开始、每天反复转圈，叫名字或用玩具也难以转移注意，甚至影响吃饭和休息，就不能只当作有趣的习惯。尤其追到咬破尾巴时，需要尽快请兽医检查。
+
+追尾巴可能是局部不舒服。跳蚤、皮肤过敏、尾根伤口、肛门囊问题，或尾部、腰背疼痛，都可能让狗反复回头追咬。焦虑、无聊、环境刺激也可能诱发重复动作；少数病例还涉及神经问题。兽医通常先检查皮肤、肛门周围、骨科和神经功能，排除身体原因后，才会进一步评估是否属于强迫性行为，不能看到转圈就直接诊断心理问题。
+
+主人可以记录每天发生几次、每次多久、是否在兴奋、独处或受惊后出现，以及能否通过平静呼唤自然中断。安全时拍摄原速视频，观察是否总向同一侧转、有没有舔咬尾根、掉毛、红肿或排便异常。不要故意逗狗追尾巴，也不要责骂、强行抓尾或自行挤肛门囊。平时可提供适量散步、嗅闻和玩具活动，但不能用这些替代必要检查。
+
+若尾部已破皮流血、转圈频率迅速增加，应尽快就诊；若突然持续向一侧转圈，同时歪头、站不稳、抽搐或意识异常，应立即联系动物急诊，警惕神经系统疾病。越早明确是否疼痛、瘙痒或异常重复行为，越容易制定合适的管理方案。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：犬追尾巴转圈、狗反复转圈、犬追咬尾巴、犬肛门囊不适、犬跳蚤与皮肤瘙痒、犬强迫性行为、犬神经异常、犬行为医学。
+- 编辑级权威来源与支持范围：
+  - AAHA—Why do dogs chase their tails?（2026-04-10）：偶发嬉戏常见，但持续、难中断和自伤需先排跳蚤、肛门囊、疼痛或神经疾病；https://www.aaha.org/resources/why-do-dogs-chase-their-tails/
+  - VCA—Compulsive Disorders in Dogs：重复追尾的诱因包括行为与医学病因，困难中断和干扰正常生活时应就诊，不鼓励强化行为；https://vcahospitals.com/know-your-pet/compulsive-disorders-in-dogs
+  - Merck Veterinary Manual—Behavior Problems of Dogs：强迫性行为属于排除诊断，应先排神经、皮肤及骨科等问题，可用视频补足诊间观察；https://www.merckvetmanual.com/behavior/behavior-of-dogs/behavior-problems-of-dogs
+  - VCA—Why Dogs Chase Their Tails：尾根损伤、寄生虫、过敏或肛门囊问题均可能造成追咬尾部；https://vcahospitals.com/westcreek/know-your-pet/why-do-dogs-chase-their-tails
+- 编辑边界：不能仅凭追尾动作或能否转移就自行诊断强迫症、癫痫或肛门囊疾病。歪头伴突然共济失调、抽搐或意识异常为急诊风险提示，不代表仅“转圈”即确诊脑病；任何处方或行为疗法均须合资格兽医评估。2026-11-01编辑核对，未取得执业兽医最终审核。
+
+---
+
+
 - 优先级：A
 - 直接回答：偶尔追尾巴可能是玩耍，但如果频繁、停不下来、咬伤自己或突然开始出现，应先排查皮肤、疼痛和神经问题，再考虑行为因素。
 
@@ -35,6 +81,30 @@
 
 ## 0470｜狗神经检查正常，为什么还可能建议进一步影像检查？
 - Slug：`dog-normal-neuro-exam-why-imaging`
+- 优先级：A（临床影像决策与急症分诊需高风险专业审核）
+- 直接回答：神经查体仅反映当次检查功能表现，间歇性或部分结构性疾病仍可能存在。是否做MRI/CT应由症状、发病年龄、基础检查及结果对治疗的影响决定。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+狗狗在诊室里走得稳、反射正常，医生却建议进一步做MRI或CT，主人难免疑惑。神经检查主要评估就诊当时的意识、步态、姿势反应和反射；但某些症状间歇出现，狗到医院时已经恢复。少数脑部或脊髓结构性病变在早期也可能没有明显查体异常，所以一次正常结果不能等于完全排除神经疾病。
+
+例如反复抽搐的狗，发作间神经检查可能正常。兽医仍会结合首次发作年龄、发作频率、病史和血液检查，判断是否需要排除脑部病变。持续或反复疼痛、后腿拖行、步态变化，也可能需要检查脊髓或周围结构。通常MRI更适合观察脑和脊髓等软组织，CT在骨骼、创伤及部分结构评估中更有价值；选择取决于怀疑的问题。
+
+影像不是查得越多越好。主人可以询问：医生最担心哪种病变？MRI还是CT能回答这个问题？检查结果会改变用药、手术或后续观察吗？需要麻醉或镇静吗，风险如何评估？是否应先做血尿检查，或转诊神经专科？即使影像显示异常，也要判断它是否真正解释症状，不能把所有影像发现都当作病因。
+
+就诊前带上自然发作的视频、时间记录、既往用药和化验单，说明是突然出现、反复发作还是逐渐加重。若持续抽搐、短时间重复抽搐、突然无法站立或意识异常，应立即联系急诊，不为预约影像延误处理。若情况稳定，可与兽医充分讨论检查的必要性和顺序。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：犬神经检查正常、狗MRI必要性、狗CT检查、犬脑部影像、犬脊髓MRI、犬抽搐影像检查、神经系统疾病鉴别、宠物影像麻醉。
+- 编辑级参考及断言边界：
+  - Merck Veterinary Manual—The Neurologic Evaluation of Dogs（2026更新），神经查体与血尿、MRI/CT等辅助检查： https://www.merckvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/the-neurologic-evaluation-of-dogs
+  - IVETF consensus proposal—Diagnostic approach to epilepsy in dogs（2015），正常发作间期神经检查不等于可一律排除脑结构异常；影像检查适应性还应结合年龄、密集发作、难治性等风险；https://pmc.ncbi.nlm.nih.gov/articles/PMC4552251/
+  - Phillipps & Goncalves（2025）—High-field MRI findings in epileptic dogs with a normal inter-ictal neurological examination，412犬回顾性样本，正常查体仍有少数结构性病因，影像异常也可能偶然发现；https://pubmed.ncbi.nlm.nih.gov/39881720/
+  - Cornell University College of Veterinary Medicine—Imaging Service，MRI适用于脑脊髓等软组织，CT适用于部分骨结构、创伤及其他检查；https://www.vet.cornell.edu/hospitals/services/imaging-service
+  - Cornell University College of Veterinary Medicine—Diseased Spinal Disks，常规X光不能单独排除椎间盘问题，是否采用MRI依临床情形决定；https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/diseased-spinal-disks
+- 编辑边界：不宣称神经检查正常就一定有隐匿病灶，不推销所有犬MRI/CT；特发性癫痫需要排除其他诱因，麻醉风险与检查优先级由临床医生讨论。2026-11-01编辑级医学来源核对，并非真实执业兽医终审。
+
+---
+
+
 - 优先级：A
 - 直接回答：神经检查反映的是就诊当下的功能表现，间歇性问题或某些结构性病变并不一定在一次检查中表现明显。
 
@@ -48,6 +118,29 @@
 
 ## 0471｜猫身体突然一阵抖动，怎样记录发作过程？
 - Slug：`cat-episodic-tremor-video-log`
+- 优先级：A（急症阈值/神经鉴别按P0医学审核）
+- 直接回答：先安全保护和计时，再在不耽误救护时录像，记录涉及部位、意识、时长、次数、触发/药物毒物暴露史和恢复状态；首次可疑发作也需兽医评估。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+猫咪突然抖了一阵，几秒后又恢复正常，主人常以为只是受凉或受到惊吓。实际上，发抖、局部肌肉抽动和癫痫发作的表现可能相似，也可能与疼痛、药物或毒物接触、代谢异常有关。有些猫的局灶性发作只涉及脸部或一条腿，并不一定倒地失去意识，因此不能仅凭短暂恢复就判断没事。
+
+看到异常时先清开周围硬物，防止猫跌落，立即记录开始时间。不要抱紧、按住四肢、掰嘴或用声音和触碰强行刺激它。在保证安全、不耽误求助的情况下，从稍远处拍摄原速视频，尽量让头部、身体和四肢都入镜，保留声音。记录动作是持续颤抖、间歇抽动还是身体僵硬，眼神和呼唤反应如何，是否流口水或失禁。
+
+在发作记录里写清日期、持续时间、一天出现几次、发作前在睡觉还是活动，结束后多久恢复走路、食欲和反应。还要注明近期使用的处方药、驱虫滴剂，以及可能接触的清洁剂、植物、食物或其他物品。不要为了让症状再出现而摸背、追赶或摆弄猫；把拍到的视频及包装信息交给兽医，比事后猜测更有帮助。
+
+若疑似抽搐持续超过两分钟，或二十四小时内再次出现，应立即联系兽医；接近五分钟、意识不能恢复、呼吸异常、倒地无法站立或疑似中毒，应立即求助动物急诊。第一次出现可疑发作，即使已经恢复也应尽快咨询兽医，不为录像延误就医。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫阵发性抖动、猫突然肌肉抽动、猫局灶性癫痫、猫抽搐视频、猫发作日记、猫皮肤过敏综合征鉴别、猫抽搐急诊、猫可能中毒。
+- 编辑级来源及证据边界：
+  - PDSA｜Vet Q&As: What to know about epilepsy in cats：猫局灶/全身性发作表现、安全防护、计时录像、24小时内重复发作及超过2分钟求助；https://www.pdsa.org.uk/what-we-do/blog/vet-qas-what-to-know-about-epilepsy-in-cats
+  - VCA｜Seizures and Epilepsy in Cats：部分局灶性发作可见仅局部或异常行为改变，详记发作前/中/后的意识、肢体、排泄及接触史；https://vcahospitals.com/know-your-pet/seizures-and-epilepsy-in-cats
+  - Merck Veterinary Manual｜Behavior Problems of Cats：背部皮肤抽动/过度舔咬还须鉴别皮肤病、神经痛、局灶性癫痫，不能据单一抖动动作直接确诊；https://www.merckvetmanual.com/behavior/behavior-of-cats/behavior-problems-of-cats
+  - Cornell University｜Emergency and Critical Care：发作、活动性颤抖、呼吸困难、中毒、丧失平衡等需紧急就诊风险分层；https://www.vet.cornell.edu/hospitals/services/emergency-and-critical-care-0
+- 编辑边界：发抖不等于癫痫；不靠家庭刺激、夹捏或叫醒测试诊断；时间与录像仅辅助临床判断，不能延误急诊；不提供药物、剂量或禁忌等处方细节。2026-11-01编辑来源初审，未获真实日本执业兽医医学签署。
+
+---
+
+
 - 优先级：A
 - 直接回答：尽量在保证安全的前提下拍视频，并记录开始时间、持续多久、意识是否正常、身体哪些部位在动以及发作后状态。
 
@@ -74,19 +167,55 @@
 
 ## 0473｜猫皮肤抽动、疯狂舔背，需要排查哪些方向？
 - Slug：`cat-skin-rippling-back-licking`
-- 优先级：A
-- 直接回答：先排查皮肤瘙痒、跳蚤等寄生虫、疼痛和环境刺激，再由兽医判断是否需要考虑神经或行为方向。
+- 优先级：A（皮肤、疼痛及神经急症相关风险需专业核对）
+- 直接回答：猫腰背皮肤波浪式抽动、疯狂舔背，不等于单凭症状确诊猫感觉过敏综合征；先排查寄生虫、过敏、皮肤感染及疼痛，再考虑局灶性发作、行为因素。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-猫背部皮肤波动、突然回头咬背、狂舔尾根，并不等于一定是某一种综合征。皮肤病和寄生虫是更常见、也更容易先排查的方向。
+猫背部皮肤突然像波浪一样抽动，接着猛舔、回头咬背或追尾巴，主人看到“猫感觉过敏综合征”就容易对号入座。其实这只是某些猫会出现的一组表现，不是单凭视频就能确诊的疾病。皮肤瘙痒、疼痛、局灶性神经发作和异常重复行为，都可能表现相似，应先找出能解释症状的具体原因。
 
-记录发作位置、触碰是否诱发、是否伴随瞳孔放大、奔跑、叫声或攻击行为，并拍视频。
+通常先从皮肤方向排查：跳蚤或其他体外寄生虫、跳蚤过敏、食物或环境过敏、皮肤感染及皮肤癣菌病等。猫即使一直生活在室内，也不能完全排除寄生虫。如果尾根掉毛、发红、有结痂或咬破皮肤，要告诉兽医。随后还应评估腰背、脊柱、尾巴及关节疼痛，必要时检查肛门囊；不要自行掰尾巴、按摩背部或挤肛门囊。
 
-不要因为看到网络上相似视频就自行确诊。若猫出现自伤、频率增加、明显疼痛或其他神经症状，应尽快检查。
+如果每次突然发作、动作几乎一样，伴随瞳孔放大、异常叫声、意识反应改变或其他神经症状，兽医可能进一步考虑局灶性癫痫等原因。焦虑和环境刺激也可能加重症状，但只有在评估身体疾病之后，才适合讨论行为治疗。主人应记录每天发生次数、持续时间、触碰或噪声等诱因，以及发作后是否迅速恢复；安全时拍原速视频。
+
+不要为拍摄反复摸猫背、抓住它或故意诱发发作。若舔咬已经造成出血、伤口，或频率迅速增加，应尽快就医；若伴持续抽搐、明显意识异常、呼吸困难或无法站立，应立即急诊。检查可能涉及皮肤、疼痛和神经评估，具体按兽医判断进行。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫皮肤抽动、猫疯狂舔背、猫感觉过敏综合征、猫尾根瘙痒、猫跳蚤过敏、猫神经病理性疼痛、猫局灶性癫痫、猫异常重复行为。
+- 编辑级权威资料与支持范围：
+  - Cornell Feline Health Center—Hyperesthesia Syndrome：背部皮肤波浪式抽动、过度舔咬可能关联皮肤寄生虫、过敏、皮肤癣菌病、脊柱疼痛或神经问题；https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/hyperesthesia-syndrome
+  - Merck Veterinary Manual—Behavior Problems of Cats：Hyperesthesia可能是多病因体征，并可见神经病理性疼痛、皮肤病、肌病和局灶性癫痫；https://www.merckvetmanual.com/behavior/behavior-of-cats/behavior-problems-of-cats
+  - Today's Veterinary Practice（2026）—Answering FAQs About Feline Hyperesthesia Syndrome：排除皮肤炎症、脊柱/尾部或肛门囊疼痛、发作性神经异常后才考虑行为成分；https://todaysveterinarypractice.com/behavior/answering-faqs-about-feline-hyperesthesia-syndrome/
+  - VCA—Cat Behavior Problems: Compulsive Disorders：猫过度梳理、追咬尾部与反复舔背可能有医学及行为原因；https://vcahospitals.com/know-your-pet/cat-behavior-problems-compulsive-disorders-in-cats
+- 编辑边界：正常猫偶尔背部皮肤抽动亦可出现，不能据单一体征确诊；禁在家反复刺激背部或自行药物试验；急诊指征需具体兽医评估。本次仅编辑级证据核对，未取得日本执业兽医医学签审。
 
 ---
 
 ## 0477｜猫神经症状时好时坏，症状日记要记什么？
 - Slug：`cat-intermittent-neuro-symptom-diary`
+- 优先级：A（脑神经症状及抽搐急症分诊关键断言需P0复核）
+- 直接回答：逐次记录发生时间、时长、次数、动作、意识、药物/毒物等背景及完整恢复时间，安全时拍原速全身视频；症状加重/紧急征象不应等候常规复诊。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
+
+猫有时走路摇晃、歪头或凝视不动，过一会儿又像没事一样，到医院反而看不出异常。间歇性症状可能与前庭、神经发作或其他疾病有关，不能因为恢复就排除问题。症状日记用于还原时间线，不是让主人自行诊断癫痫。首次出现或反复发生时应联系兽医，不必等下次发作才咨询。
+
+给每次异常编一个编号，写下日期、开始与结束时间、持续多久，一天出现几次。记录发作前正在睡觉、吃饭、玩耍还是刚用药，是否接触驱虫剂、植物或清洁剂，有无跌落或撞伤。发作时观察头是否倾斜、哪侧肢体抽动、步态是否失衡、眼球有无异常摆动、瞳孔或意识反应有何变化，不要凭视频直接写上诊断名称。
+
+安全时从稍远处拍摄原速视频，让全身、头部和四肢入镜，并保留声音。记下猫对自然呼唤的反应、是否流口水或失禁，以及结束后多久恢复行走、进食与日常互动。记录当天药名和实际服药时间，包括漏服、调整或补充剂。不要为拍摄而刺激、按住或强迫猫行走，也不能自行调整抗癫痫药。
+
+复诊时把按日期排列的记录、原始视频及用药清单交给医生，比较症状次数、时长和恢复情况。若发作更频繁或更严重，应提前联系医院；疑似抽搐超过两分钟或一天内再次发作，应立即联系兽医。抽搐接近五分钟、两次发作间不清醒、突然无法站立、呼吸异常或失明，应直接急诊。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+- GEO关键词：猫间歇性神经症状、猫症状日记、猫发作记录、猫抽搐视频、猫眼球震颤记录、猫共济失调、猫局灶性癫痫、猫复诊资料。
+- 编辑级权威医学来源与支持范围：
+  - Merck Veterinary Manual—The Neurologic Examination of Animals（症状时间线、起病方式、复发/缓解、用药、创伤或毒物接触史对神经鉴别的重要性）：https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+  - Merck Veterinary Manual—The Neurologic Evaluation in Cats（疾病史、姿势、步态与神经检查联合评估；猫症状间期正常不等于无需检查）：https://www.merckvetmanual.com/cat-owners/brain-spinal-cord-and-nerve-disorders-of-cats/the-neurologic-evaluation-in-cats
+  - VCA Animal Hospitals—Seizures and Epilepsy in Cats（发作前、中、后及睡眠、进食、活动、用药、毒物接触等记录，有助临床鉴别与后续监测；发作可能间歇呈现）：https://vcahospitals.com/know-your-pet/seizures-and-epilepsy-in-cats
+  - PDSA—Vet Q&As: What to Know About Epilepsy in Cats（抽搐现场先防伤、计时、在安全前提下录像；超过2分钟或24小时内再次发作即联系兽医）：https://www.pdsa.org.uk/what-we-do/blog/vet-qas-what-to-know-about-epilepsy-in-cats
+  - Cornell Feline Health Center—Neurological Disorders（走路异常、平衡、意识/行为变化需要及时兽医评估，并非只有发生抽搐才需就诊）：https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/neurological-disorders
+  - VCA—Focal Seizures and Fly-Biting in Cats（局灶性短暂异常未必伴意识丧失，需排除其他原因，不能单凭主人视频确诊）：https://vcahospitals.com/know-your-pet/focal-seizures-and-fly-biting-in-cats
+- 编辑边界：本稿为记录和分诊指导，不假定所有歪头、晃动、舔咬、凝视都是癫痫；不以个别发作间正常推断无需临床检查。禁自行强行诱发、暂停/改变处方药。具体急诊风险由接诊兽医确认。2026-11-02编辑核对，不代表日本执业兽医医学签审。
+
+---
+
+
 - 优先级：A
 - 直接回答：记录每次发作的时间、持续时间、具体动作、意识状态、诱因、恢复时间以及当天用药和进食情况。
 
@@ -98,42 +227,104 @@
 
 ---
 
-## 0478｜宠物做磁共振前，主人要了解哪些准备？
+## 0478｜日宠通｜宠物做磁共振前，主人要了解哪些准备？
 - Slug：`pet-mri-preparation-anesthesia`
 - 优先级：A
 - 直接回答：先确认为什么需要MRI、是否需要麻醉、术前禁食安排、既往疾病和用药如何处理，以及检查后何时能回家。
 
-MRI通常要求宠物保持完全不动，因此很多情况下需要全麻或深度镇静。具体风险取决于年龄、心肺状态和其他疾病。
+宠物做磁共振（MRI），主人先问清检查想排除什么，结果会怎样影响诊疗。MRI常用于观察脑、脊髓等软组织，不使用X射线，但要求扫描时保持不动。犬猫做MRI通常需要全身麻醉，不能把“无辐射”理解成没有风险。是否值得做、先做哪些检查，要由兽医结合病情决定。
 
-主人应提供完整药单、既往麻醉史和近期化验。禁食时间不要照搬网络，应按检查医院要求执行。
+预约前应告知医院宠物年龄、体重、心肺和肝肾疾病、糖尿病、既往麻醉反应、过敏史，以及芯片、金属植入物或疑似金属异物。带齐近期血检、影像、处方和发作视频，询问是否需要麻醉前检查、心脏评估或其他化验。部分病例会做增强MRI，应向医院确认造影剂用途及是否需评估肾功能，不能以为每次都需要增强。
 
-还可以提前问清是否需要增强检查、预计时间、结果由谁解读，以及原始影像和报告能否提供电子版保存。
+检查前应确认个体化进食、饮水和长期服药安排。不同医院的禁食禁水要求并不完全相同，幼龄或有糖尿病的宠物需要特别向医院确认。不能照搬网上的固定时长。尤其正在使用抗癫痫药、胰岛素或其他处方药时，应请处方兽医明确当日怎么用药，不要自行停药或改剂量。
+
+检查后应确认麻醉苏醒情况、何时能饮水进食，以及回家后出现什么异常要立即联系医院。还要问清结果由谁解读、何时有正式报告，以及影像文件如何保存。可询问能否取得原始DICOM文件，便于日后复诊或申请第二意见。预约前若出现新的严重神经症状，应尽快联系动物急诊。不要为了等约好的MRI日期而延误诊治。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+### 常见问答（FAQ）
+1. **犬猫MRI一定需要全麻吗？** 常规犬猫MRI几乎总要全麻，以减少移动造成的影像失真；具体方案由检查医院和麻醉团队评估。
+2. **检查前要禁食禁水几个小时？** 不使用统一数字；各院具体要求不同，幼龄、有糖尿病或其他基础病时，务必向检查医院确认专属安排。
+3. **正在吃抗癫痫药或植入芯片怎么办？** 不要自行停药，也不要把芯片一概当作MRI禁忌；把完整药单、芯片和金属植入信息提前交给医院判断。
+
+- 医学编辑来源（事实与适用边界）：
+  - 仙台兽医师会综合动物医院（日本真实MRI准备规则、麻醉和药物个体咨询）：https://www.svet.jp/sougou-ah/imaging/confirmation.php
+  - Cornell University—Imaging Service（犬猫MRI几乎总需全麻以保持不动）：https://www.vet.cornell.edu/hospitals/services/imaging-service
+  - Cornell—Anesthesiology（麻醉前病史评估与苏醒监护）：https://www.vet.cornell.edu/hospitals/services/anesthesia-and-pain-medicine/anesthesiology-services
+  - Merck Veterinary Manual—Magnetic Resonance Imaging in Animals（无电离辐射、金属兼容性和伪影）：https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals
+  - Johns Hopkins Radiology—Veterinary MRI（犬猫MRI全麻、造影和磁场安全）：https://www.hopkinsmedicine.org/radiology/vctn/veterinary-mri
+  - AVMA—When Your Pet Needs Anesthesia（术前风险评估、生命体征监测、苏醒护理）：https://avma.org/resources-tools/pet-owners/petcare/when-your-pet-needs-anesthesia
+- 来源边界：MRI不使用电离辐射，但麻醉有个体风险；植入物、芯片和金属异物必须告知影像团队，不等于一律禁忌。禁食、禁水与服药安排遵从实际检查医院，不能沿用网络统一时间。是否增强及是否需要额外检验由兽医决定。
+- GEO关键词：日宠通、犬猫MRI准备、兽医磁共振、麻醉风险、禁食禁水、金属植入、增强扫描、DICOM影像。
+- 备选标题：日宠通｜宠物MRI术前准备；日宠通｜犬猫MRI必须全麻吗；日宠通｜MRI禁食与药物核对；日宠通｜MRI植入物安全；日宠通｜MRI后如何获取影像。
+- 配图建议：宠物医院MRI室与设备的自然场景，不使用真实病例或可识别的患者资料。
 
 ---
 
-## 0479｜宠物疑似脑部疾病，第二意见需要哪些原始资料？
+## 0479｜日宠通｜宠物疑似脑部疾病，第二意见需要哪些原始资料？
 - Slug：`pet-neurology-second-opinion-records`
-- 优先级：A
-- 直接回答：优先准备原始MRI/CT影像、影像报告、神经检查记录、血液检查、用药时间线和发作视频。
+- 优先级：A（影像资料、转诊与急症分诊需医学复核）
+- 原规划问题：宠物疑似脑部疾病，第二意见需要哪些原始资料？
+- 直接回答：优先准备完整原始MRI/CT DICOM全序列、正式影像报告、神经查体/化验与病历、用药变化、发作时间线和视频；先核对接收医院的介绍信和资料形式要求。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-只有手机拍的报告截图，往往不足以让第二位医生重新判断。影像最好保留原始DICOM文件，而不是只发几张关键截图。
+宠物疑似脑部疾病，想找另一位兽医评估诊断和治疗选择，不要只发影像报告截图。第二意见是让医生结合病史、神经检查和既往结果重新评估证据，并不等于必须转院。资料越完整，越有助于判断诊断是否充分、还缺什么检查。先询问拟咨询的医院需要哪些文件、是否要求主治兽医提供介绍信。
 
-如果已经使用抗癫痫药、激素或其他神经用药，要写清药名、开始时间、调整过程和症状变化。
+如果做过MRI或CT，应向原检查医院申请完整原始影像，保留DICOM格式的全部序列、检查日期及增强前后图像，同时取得正式影像报告。手机拍屏、单张截图或报告结论，不能替代原始图像；旧影像也要按时间保存，便于比较变化。尚未做影像时不必为了咨询自行预约MRI，是否需要检查由兽医评估。
 
-第二意见最有价值的问题应具体，例如：诊断证据是否充分、还需排查什么、目前方案有哪些替代选择，而不是只问“还有没有更好的治疗”。
+整理主治兽医的病历摘要、神经检查记录、血尿检查，以及已做的脑脊液、感染或病理检查结果。按日期写下首次症状、发作频率、意识变化、走路和视力异常，以及每次恢复情况；安全时保留原速视频。把全部处方、服药时间、调整经过和效果写清，包括是否用过抗癫痫药、激素或补充剂，不要自行停药。
+
+提交前把问题归纳成三到五个，例如病灶定位是否一致、影像能否支持诊断、下一步有哪些选择。不同医院对介绍信、到场及资料传输的要求不一样，应按接收方规则准备，并通过指定安全渠道交付。若持续抽搐、意识恶化或突然无法站立，应先去急诊，不可等第二意见回复。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+### 常见问答（FAQ）
+1. **只有MRI检查报告，没有原始影像可以申请第二意见吗？** 可以先向接收医院咨询是否能受理，但如果需要重新阅片，应向原医院申请完整DICOM影像，报告和几张截图不能完全替代。
+2. **是否必须重新做MRI或立即转院？** 不一定。兽医先结合既有影像、神经检查及病情判断是否需要补查；第二意见本身不等于转院。
+3. **一定要有介绍信吗？可以远程咨询吗？** 各医院受理规则不同。先核对是否需要主治医介绍信、本人到场、远程形式和所需资料；急症须先线下就诊。
+
+- 编辑边界：不同日本动物医院对介绍信、远程咨询和到场要求各不相同；不得承诺仅凭影像必能明确病因或必须接受某家机构会诊。第二意见不是转院、重复做MRI或替代急诊。不得将未经授权的完整病历上传公开平台或通用AI服务；应按接收机构指定渠道传送。
+- 备选标题：日宠通｜宠物脑部疾病第二意见资料；日宠通｜宠物MRI原始影像怎么准备；日宠通｜宠物神经科复诊带什么；日宠通｜犬猫第二意见需要介绍信吗；日宠通｜宠物DICOM影像有什么用。
+- GEO关键词：日宠通、宠物脑部疾病第二意见、犬猫神经科第二意见、宠物MRI原始影像、兽医DICOM、宠物神经检查报告、犬猫抽搐视频、动物医院转诊资料。
+- 配图建议：桌面上有兽医影像报告、DICOM光盘及匿名化记录清单，无实际宠物主人身份、医疗隐私或未经许可的医院标识。
+- 医学编辑来源与对应断言：
+  - ACVR／ECVDI Veterinary Teleradiology Consensus（2024）：远程影像应包含完整DICOM、既往相关病史、临床问题、检查日期等，不应仅依赖截图。https://onlinelibrary.wiley.com/doi/10.1111/vru.13353
+  - ACVR／ECVDI Imaging Report Foundations（2025）：影像报告应含检查目的、日期、具体影像所见及结论，有既往影像宜比较。https://onlinelibrary.wiley.com/doi/full/10.1111/vru.13471
+  - Merck Veterinary Manual—The Neurologic Examination of Animals：神经定位须结合病史和神经检查，不能只看影像报告断言病因。https://www.merckvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals
+  - 日本北陸よつや動物医療センター—セカンドオピニオン：介绍信、血尿检验、CT／MRI等DICOM影像、现用药、治疗过程和拟咨询问题有助第二意见。https://yotsuya-ah.jp/second-opinion
+  - 日本獣医生命科学大学附属動物医療センター—飼い主様受診の流れ：介绍信和检查资料有利于转诊，具体预约与接受检查的流程因医院而异。https://www.nvlu.ac.jp/amedical/medical-guidance/001-001.html
 
 ---
 
-## 0480｜宠物长期吃抗癫痫药，复查要关注什么？
+## 0480｜日宠通｜宠物长期吃抗癫痫药，复查要关注什么？
 - Slug：`pet-long-term-antiseizure-medication-monitoring`
-- 优先级：A
-- 直接回答：除了发作次数，还要记录药物副作用、体重和必要的血液检查，具体监测项目和频率由所用药物决定。
+- 优先级：A（神经慢病及处方药复查，药物监测断言优先医学复核）
+- 原规划题目：宠物长期吃抗癫痫药，复查要关注什么？
+- 直接回答：复查应结合发作日历、频率与恢复变化、嗜睡/步态/饮水食欲等不良反应、药物特异性血检和血药浓度；采血时机及复查周期由接诊兽医决定，不能自行停药/减量。
+- 医学审核：pending / Hold；发布：knowledge-base Draft / noindex。
 
-主人可以做发作日历，记录日期、持续时间、是否成簇以及是否漏药。这样比只说“最近好像少了”更有价值。
+宠物长期吃抗癫痫药，复查不能只问“最近有没有发作”。主人应记录每次抽搐的日期、时长、是否在短时间内反复发作、结束后多久恢复，并保存安全拍摄的原速视频。写清药名、实际给药时间、漏服情况及近期处方调整。医生会对比治疗前后的发作频率和严重程度，而不是只凭一次血检判断疗效。
 
-部分抗癫痫药需要监测血药浓度或肝脏等指标，但不同药物要求不同，不应套用统一复查表。
+在家还要观察精神、走路、食欲、饮水、排尿和体重变化。嗜睡、步态不稳、食量或饮水增加，可能与某些抗癫痫药有关，也可能是原有疾病变化。若出现明显黄疸、持续呕吐、严重虚弱或无法正常行走，应尽快联系兽医。不要因为宠物犯困就自行减药，也不要把所有异常都解释成副作用。
 
-不要因为几个月没发作就自行减量或停药。突然调整可能增加复发风险，应由治疗兽医制定计划。
+不同药物的复查重点并不相同。苯巴比妥通常需要结合血药浓度、血常规及肝脏相关指标评估；犬使用溴化钾时，可能监测血溴浓度，并留意饮食盐分变化，猫一般不推荐使用溴化钾。左乙拉西坦则更重视发作记录、不良反应及个体肾功能，血药浓度检测并非所有病例都常规需要。采血时机和复查间隔由处方兽医确定。
+
+复诊时带上发作日记、药盒、用药清单及上次化验结果，询问目前方案是否达到目标、哪些指标复测、何时再诊。若短时间连续抽搐、发作间不清醒或出现呼吸异常，应立即联系动物急诊，不必等预约日。即使长期没有发作，也不能突然停药或自行调整剂量。药物是否适合使用及具体治疗方案，应由专业兽医结合宠物病情综合评估，本文不作展开。
+
+### 常见问答（FAQ）
+1. **几个月没有抽搐，还需要复查吗？** 需要。复查还要评估体重、行为、不良反应及必要血检；无发作不等于可自行停药。
+2. **每种抗癫痫药都必须测血药浓度吗？** 不一定。苯巴比妥和犬用溴化钾通常有血药浓度监测要求；左乙拉西坦按个体情况决定，不能套用同一套方案。
+3. **验血当天要空腹或先停一次药吗？** 不能自行停药或安排空腹。采血相对服药时间可能影响解释，应提前询问检查医院并告知实际上次服药时间。
+
+- 编辑级医学来源及断言边界：
+  - Merck Veterinary Manual—Epilepsy in Small Animals：苯巴比妥、犬用溴化钾等药物特异性复查，猫不推荐溴化钾。https://www.merckvetmanual.com/nervous-system/epilepsy-in-small-animals/epilepsy-in-small-animals
+  - Merck Veterinary Manual—Overview of Systemic Pharmacotherapeutics of the Nervous System in Animals（2025-04更新）：该页面仅概述神经系统用药分类，不能单独支持发作日历、血药浓度采样时机及各药物监测频率等具体断言；这些断言须由本条所列癫痫专章、药品专页及执业兽医进一步逐项核对。https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/overview-of-systemic-pharmacotherapeutics-of-the-nervous-system-in-animals
+  - ACVIM—Small Animal Consensus on Seizure Management in Dogs：剂量调整、治疗反应、药物浓度及不良反应需联合评估，不能只用固定血检周期判断。https://pmc.ncbi.nlm.nih.gov/articles/PMC4913615/
+  - VCA Animal Hospitals—Phenobarbital：部分病例嗜睡、运动不协调、饮水和食欲变化，需监测药物浓度与不良反应。https://vcahospitals.com/valley/know-your-pet/phenobarbital
+  - VCA Animal Hospitals—Levetiracetam：强调发作记录、个体肾病风险及按兽医指示监测，通常不能照搬苯巴比妥血药监测。https://vcahospitals.com/companion/know-your-pet/levetiracetam
+  - 富士フイルム（日本）動物医療—血中薬物検査：日本兽医检测机构提供苯巴比妥、唑尼沙胺及溴化钾等不同药物的浓度检测，强调采血时间及药物适用范围。https://www.fujifilm.com/jp/ja/healthcare/veterinary/examination/blood-concentration/blood-drug-test
+  - ACVIM 2024—Dogs and Cats Status Epilepticus / Cluster Seizures：持续性或簇集发作属于紧急神经风险，家庭监测不能替代紧急处置。https://pmc.ncbi.nlm.nih.gov/articles/PMC10800221/
+
+- 备选标题：日宠通｜宠物抗癫痫药复查关注什么；日宠通｜犬猫长期服用癫痫药如何监测；日宠通｜苯巴比妥复查要查什么；日宠通｜宠物癫痫发作日历怎么记；日宠通｜宠物癫痫药有副作用怎么办。
+- GEO关键词：日宠通、宠物癫痫长期管理、犬猫抗癫痫药复查、宠物发作日记、苯巴比妥血药浓度、犬用溴化钾监测、左乙拉西坦复查、宠物抗癫痫药副作用。
+- 配图建议：兽医复诊桌面摆放匿名化发作日历、药盒和化验报告，不展示真实主人身份或药物剂量。
+- 编辑边界：以上为医学科普及就诊资料提示，不提供任何宠物给药剂量、复查固定天数、补服/停药表；犬猫物种与药物差异必须保留。血药浓度、肝功能、肾功能及血常规的检测组合和采血时机由处方兽医决定。日本检测服务不等于某具体药品已经获日本批准；编辑来源核对不等于执业兽医审核。
 
 ---
 

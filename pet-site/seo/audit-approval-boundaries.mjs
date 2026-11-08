@@ -49,7 +49,7 @@ for(const [key,items] of [
 for(const k of criticalGuards)if(policy.guardrails?.[k]!==true)fail('safety guardrail disabled: '+k);
 if(policy.scope?.workingPr!==8||policy.scope?.workBranch!=='gpt/pet-geo-seo-v1-governance')
   fail('original SOP authorization provenance mismatch');
-if(policy.scope?.activeDraftPr!==35||policy.scope?.activeDraftBranch!=='pet/sop15-claim-evidence-20261022'||policy.scope?.originPrMerged!==true)
+if(policy.scope?.activeDraftPr!==39||policy.scope?.activeDraftBranch!=='pet/sop15-postop-safety-evidence-20261028'||policy.scope?.originPrMerged!==true)
   fail('active draft status / merged origin status missing');
 if(policy.scope?.productionIndexWhitelistPr!==13||policy.scope?.productionIndexCandidateCount!==45||policy.scope?.productionWhitelistNotEquivalentToMedicalApproval!==true)
   fail('separate production whitelist governance fact missing');

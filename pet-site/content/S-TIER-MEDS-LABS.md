@@ -12,7 +12,6 @@
 
 如果反应反复出现，应联系开药兽医核对药物及喂药过程，并由兽医判断是否需要调整剂型或给药安排；不能仅凭口腔泡沫远程确诊过敏。
 
-编辑级依据：Cornell University College of Veterinary Medicine—Giving Your Cat Oral Medications（https://www.vet.cornell.edu/hospitals/pharmacy/consumer-clinical-care-guidelines-animals/giving-your-cat-oral-medications）支持猫给药后可能流涎；Merck Veterinary Manual—Causes of Excessive Salivation in Cats（https://www.merckvetmanual.com/multimedia/table/causes-of-excessive-salivation-in-cats）支持给药、药物或毒物、口腔刺激等不同原因。以上资料不能单独证明具体药物的过敏诊断、补服规则或全部急诊阈值；此类判断须由执业兽医审核。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -28,7 +27,6 @@
 
 如果药物已经被碾碎、混食且实际摄入量不明，应保留包装并联系开药兽医核实，不要自行再给一次；如出现呼吸困难、意识异常等，应立即急诊。
 
-编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）在面向饲主的用药错误预防建议中直接要求：未经兽医指示，不应剪切、碾碎或拆开药片与胶囊；Merck Veterinary Manual—Routes of Administration and Dosage Forms of Drugs（https://www.merckvetmanual.com/pharmacology/pharmacology-introduction/routes-of-administration-and-dosage-forms-of-drugs，页面标示2026年7月更新）支持剂型会影响释放、吸收与安全性的一般药剂学原理，但不提供每种药物的碾碎许可。具体产品、剂型与补服判断仍待执业兽医核对。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -42,7 +40,6 @@
 
 如果狗持续呕吐、精神差，或服用的是对剂量要求严格的药物，应及时联系原治疗兽医，而不是自行重复给药。不同药品甚至同一种药品的不同制剂可能有不同补服规则，不能将某种药物的补服时间窗口照搬到所有处方；在未核实药品说明与医嘱前不作补服判断。
 
-编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）明确把“宠物吐出或呕吐药物后怎么办”列为应向开药兽医询问的用药安全问题；VCA Animal Hospitals—Sarolaner（https://vcahospitals.com/foster/know-your-pet/sarolaner）仅是特定犬用药物示例，不能推导所有药物的补服时机或剂量。呕吐严重程度、是否吸收及具体补服决定仍待兽医审核。医学审核：pending；Hold，不发布。
 
 ---
 
@@ -56,7 +53,6 @@
 
 长期用药家庭最好建立简单药表或手机提醒，特别是心脏、癫痫、糖尿病等需要规律给药的宠物。漏服胰岛素、抗癫痫药等时间敏感药物时，应立即按具体处方联系兽医确认，不能擅自补双倍或自行推算下次剂量。
 
-编辑级逐主张依据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）将“漏服后怎么办”列为应向兽医确认的问题；VCA Animal Hospitals—Insulin（https://vcahospitals.com/know-your-pet/insulin）明确针对犬猫等动物提醒漏用胰岛素应联系兽医，且不应一次给双倍。旧引文实际是**犬糖尿病胰岛素治疗专页**，不应标作犬猫通用资料。以上不能替代不同抗癫痫药或其他处方药的具体漏服规则；逐产品处置仍待兽医审核。医学审核：pending；Hold，不发布。
 
 ---
 
@@ -70,7 +66,6 @@
 
 如果家里有剩药，可以把原包装、药名、规格、原处方及两只动物的物种、体重和疾病资料带给兽医核对；未经兽医确认，不要共用。若已经误给另一只动物，应尽快联系兽医说明具体药物、用量和时间，不要自行补救或诱吐。若出现明显呼吸困难、倒地、意识异常等，应立即前往急诊。
 
-编辑级证据：美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）；Merck Veterinary Manual—Evaluation and Initial Treatment of Dog and Cat Emergencies（https://www.merckvetmanual.com/special-pet-topics/emergencies/evaluation-and-initial-treatment-of-dog-and-cat-emergencies）。医学终审：pending。
 
 ---
 
@@ -84,7 +79,6 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 如果已经误喂，应立即联系动物医院或动物毒物咨询机构，并告知药名、规格、估计摄入量、宠物体重与摄入时间；不要等待出现症状，也不要自行催吐或给予其他药物。尤其猫对乙酰氨基酚中毒可能出现呼吸困难、黏膜异常颜色等危急表现；对犬猫的风险不能按人类常用剂量推算。
 
-编辑级证据：Merck Veterinary Manual—Toxicoses From Human Analgesics in Animals（https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals）支持人用镇痛药犬猫中毒风险；美国FDA—Get the Facts about Pain Relievers for Pets（https://www.fda.gov/animal-veterinary/animal-health-literacy/get-facts-about-pain-relievers-pets）支持先咨询兽医的安全建议。FDA批准状态仅限美国，不代表日本MAFF/NVAL产品批准。医学终审：pending；Hold，不发布。
 
 ---
 
@@ -98,7 +92,6 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 如果用药后出现疑似明显不良反应，应及时联系开药兽医，必要时急诊处理；是否暂停、更换或调整药物由治疗兽医结合情况指导。不要只根据症状消退自行缩短或延长疗程。
 
-编辑级证据：2022 AAFP/AAHA Antimicrobial Stewardship Guidelines（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/how-to-practice-antimicrobial-stewardship/）。医学终审：pending。
 
 ---
 
@@ -108,11 +101,10 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 用药后可以记录每天饮水、尿量、食欲、体重、喘气、精神状态以及是否出现呕吐、腹泻或感染迹象。
 
-不要因为喝水变多就自行限水，也不要突然停激素。部分激素类药物需要逐步调整，突然停药可能带来风险。
+不要因为喝水变多就自行限水，也不要未经开药兽医指导自行停药或调整。部分长期糖皮质激素治疗需要逐步调整，具体方案取决于药物、剂量、疗程及个体情况。
 
 复诊时把变化发生在用药后第几天、药名和当前剂量一起告诉医生，更方便判断是否属于预期反应或需要调整。若同时出现明显虚弱、反复呕吐、虚脱或呼吸异常，应及时联系急诊；不能仅凭饮水增加自行判断是正常药物反应，也不要擅自停药或限水。
 
-编辑级参考：Merck Veterinary Manual—Glucocorticoids（https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids）。医学审核：pending。
 
 ---
 
@@ -126,7 +118,6 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 每次转诊或加新药前，把最新药单交给医生审核，比只凭记忆说“有吃几种药”可靠得多。尤其应让兽医核对不同商品名是否含相同活性成分、同类止痛药或其他潜在相互作用；不得仅凭品牌名称判断可安全合用。
 
-编辑级参考：AAHA/AAFP Pain Management Guidelines（https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/）；具体相互作用需逐产品核对，医学审核：pending。
 
 ---
 
@@ -140,7 +131,6 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 日宠通知识库后续涉及日本药品时，优先核对日本官方批准信息、产品说明书及监管数据库，不依据电商页面或二手介绍做替代判断。即使有效成分相同，不同国家产品的浓度、剂型、辅料、适用物种和批准用途也可能不同，不能据此自行换药、换算剂量或跨物种使用；处方变更须由兽医逐项确认。
 
-编辑级参考：日本农林水产省 动物医药品检査所（https://www.maff.go.jp/nval/）；美国FDA—Veterinary Medication Errors（https://www.fda.gov/animal-veterinary/product-safety-information/veterinary-medication-errors）。医学审核：pending。
 
 ---
 
@@ -164,11 +154,10 @@ Merck Veterinary Manual记录了犬猫摄入人用镇痛药后的中毒风险；
 
 血常规只是线索，不是“白细胞高=细菌感染”的自动处方。
 
-兽医会结合分类计数、症状、体检，以及尿检、影像、培养等其他证据判断感染可能性。
+兽医会结合白细胞分类的绝对计数、血涂片、症状、体检，以及尿检、影像、培养等其他证据判断感染可能性。
 
 2022 AAFP/AAHA抗菌药管理指南要求尽可能依据病因和诊断证据用药；单独白细胞升高不能作为抗菌药的充分指征。
 
-编辑级证据：AAFP/AAHA — Therapeutic antimicrobial use in the clinical setting（https://www.aaha.org/resources/2022-aafpaaha-antimicrobial-stewardship-guidelines/therapeutic-antimicrobial-use-in-the-clinical-setting/）。医学终审：pending。
 
 ---
 

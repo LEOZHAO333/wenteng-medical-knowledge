@@ -53,8 +53,16 @@ const items=[...canonical.values()].map(x=>({
 for(const id of ledger.keys())if(!canonical.has(id))issues.push('orphaned editorial record '+id);
 const missing=items.filter(x=>x.editorialReview==='NO_LEDGER');
 if(missing.length)issues.push(missing.length+' articles without editorial ledger');
-if(items.length!==582)issues.push('expected 582 unique IDs; got '+items.length);
-if(ledger.size!==582)issues.push('expected 582 unique ledger IDs; got '+ledger.size);
+// Preserve the validated 582-node baseline while allowing explicitly added
+// new editorial drafts; every new ID must have its own unique ledger row.
+// The inventory audit separately rejects duplicate canonical IDs/Slugs.
+const baselineMinimum=582;
+if(items.length<baselineMinimum)issues.push('baseline regression: expected at least 582 unique IDs; got '+items.length);
+if(ledger.size!==items.length)issues.push('editorial ledger and canonical ID counts differ: '+ledger.size+' versus '+items.length);
+for(const newlyAddedId of ['0414','0416']){
+ if(!canonical.has(newlyAddedId))issues.push('authorized new canine cardiac draft missing: '+newlyAddedId);
+ if(!ledger.has(newlyAddedId))issues.push('authorized new canine cardiac ledger missing: '+newlyAddedId);
+}
 const counts=items.reduce((o,x)=>(o[x.priority]=(o[x.priority]??0)+1,o),{});
 const summary={
  articles:items.length,editorialEvidenceIds:ledger.size,missingEvidenceLedger:missing.length,
