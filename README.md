@@ -1,6 +1,6 @@
 # JapanMed AI｜日本先进医疗知识库
 
-## Buntou Medical Japan｜日本文腾医疗
+## Bunto Co., Ltd.｜文腾株式会社
 
 本仓库用于自动沉淀和整理日本先进医疗、临床研究、新药与医学论文内容，是 JapanMed AI 内容体系的一部分。
 
