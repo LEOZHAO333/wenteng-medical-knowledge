@@ -1,0 +1,39 @@
+name: Pet IndexNow - approved public URLs
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Exactly one approved, already-public URL"
+        required: true
+        default: "https://pet.japanmedai.com/"
+        type: string
+  push:
+    branches: [main]
+    paths:
+      - pet-site/indexnow-approved-urls.txt
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pet-indexnow
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Notify approved live pages only
+        env:
+          REQUESTED_URL: ${{ inputs.url }}
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+        run: python pet-site/scripts/indexnow_notify.py
