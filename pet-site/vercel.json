@@ -23,7 +23,7 @@
       "destination": "/api/pet?path="
     },
     {
-      "source": "/:path((?!pet/|api/|assets/|llms\\.txt$|llms-full\\.txt$|baidu_verify_codeva-oEF0P4n4lu\\.html$).*)",
+      "source": "/:path((?!pet/|api/|assets/|llms\\.txt$|llms-full\\.txt$|baidu_verify_codeva-oEF0P4n4lu\\.html$|02665677707787c9ab712f090a86e364\\.txt$).*)",
       "destination": "/api/pet?path=:path"
     }
   ],
