@@ -1,0 +1,3 @@
+# Only approved, public, indexable pages. No pending veterinary review pages.
+# Adding a line is an explicit release notification: require editorial sign-off.
+https://pet.japanmedai.com/
