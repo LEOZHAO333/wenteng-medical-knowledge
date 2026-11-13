@@ -13,6 +13,7 @@ ORIGIN = "https://pet.japanmedai.com"
 KEY = "02665677707787c9ab712f090a86e364"
 KEY_URL = f"{ORIGIN}/{KEY}.txt"
 ALLOWLIST = Path("pet-site/indexnow-approved-urls.txt")
+MAX_BATCH = 300  # Founder 2026-11-13: one-time backfill of all approved sitemap URLs
 
 class MetaRules(HTMLParser):
     def __init__(self):
@@ -59,8 +60,8 @@ def main():
     if not urls:
         print("No newly approved URL. No request sent.")
         return
-    if len(urls) > 5 or any(url not in approved for url in urls):
-        raise SystemExit("HOLD: unapproved URL or >5 URLs")
+    if len(urls) > MAX_BATCH or any(url not in approved for url in urls):
+        raise SystemExit(f"HOLD: unapproved URL or >{MAX_BATCH} URLs")
     status, resolved, headers, data = fetch(KEY_URL)
     if status != 200 or resolved != KEY_URL or data.decode("utf-8").strip() != KEY:
         raise SystemExit("HOLD: public domain key check failed")
@@ -78,17 +79,18 @@ def main():
         if head.noindex or (head.canonical and head.canonical != url):
             raise SystemExit(f"HOLD: HTML noindex/canonical mismatch: {url}")
         safe.append(url)
-    for url in safe:
-        from urllib.parse import urlencode
-        api = "https://api.indexnow.org/indexnow?" + urlencode({"url": url, "key": KEY})
-        try:
-            with urllib.request.urlopen(urllib.request.Request(api, headers={"User-Agent":"RiChongTong-IndexNow/1.0"}), timeout=20) as r:
-                code = r.status
-        except urllib.error.HTTPError as e:
-            code = e.code
-        print(f"IndexNow: {url} => HTTP {code}")
-        if code not in (200, 202):
-            raise SystemExit(f"IndexNow did not accept: HTTP {code}")
+    import json
+    body = json.dumps({"host": "pet.japanmedai.com", "key": KEY, "keyLocation": KEY_URL, "urlList": safe}).encode("utf-8")
+    req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, method="POST",
+                                 headers={"Content-Type": "application/json; charset=utf-8", "User-Agent": "RiChongTong-IndexNow/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            code = r.status
+    except urllib.error.HTTPError as e:
+        code = e.code
+    print(f"IndexNow batch: {len(safe)} URLs => HTTP {code}")
+    if code not in (200, 202):
+        raise SystemExit(f"IndexNow did not accept: HTTP {code}")
 
 if __name__ == "__main__":
     main()
