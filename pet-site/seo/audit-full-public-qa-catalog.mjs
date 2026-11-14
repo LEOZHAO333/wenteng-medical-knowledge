@@ -8,7 +8,7 @@ import {mkdirSync,writeFileSync} from 'node:fs';
 import {resolve} from 'node:path';
 
 const BASE='https://pet.japanmedai.com';
-const EXPECTED=275, EXPECTED_QA=248;
+const EXPECTED=277, EXPECTED_QA=248; // +2: /food/ 栏目与 MamaCook 01（Founder 11/14）
 const RUN_AT=new Date().toISOString();
 const reportDir=process.env.AUDIT_OUTPUT_DIR||'pet-site/seo/audit-output';
 const errors=[];
@@ -16,7 +16,7 @@ const warnings=[];
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 async function get(url){
   const safe=new URL(url);
-  if(safe.origin!==BASE||!['/','/qa/','/sitemap.xml'].includes(safe.pathname)&&!/^\/(?:qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/|topics\/|topics\/[a-z0-9-]+\/|editorial-standards\/)$/.test(safe.pathname)){
+  if(safe.origin!==BASE||!['/','/qa/','/sitemap.xml'].includes(safe.pathname)&&!/^\/(?:qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/|food\/|food\/[a-z0-9-]+\/|topics\/|topics\/[a-z0-9-]+\/|editorial-standards\/)$/.test(safe.pathname)){
     throw new Error('disallowed audit path '+url);
   }
   for(let attempt=1;attempt<=2;attempt++){
@@ -40,7 +40,7 @@ const articleURLs=entries.filter(e=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-
 if(articleURLs.length!==EXPECTED_QA)errors.push('QA article count '+articleURLs.length+' expected '+EXPECTED_QA);
 const dateCount=Object.create(null);
 for(const item of entries){
-  if(!/^https:\/\/pet\.japanmedai\.com\/(?:|qa\/|qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/|topics\/|topics\/[a-z0-9-]+\/|editorial-standards\/)$/.test(item.url))errors.push('unexpected URL '+item.url);
+  if(!/^https:\/\/pet\.japanmedai\.com\/(?:|qa\/|qa\/[a-z0-9-]+\/|cat\/|dog\/|about\/|food\/|food\/[a-z0-9-]+\/|topics\/|topics\/[a-z0-9-]+\/|editorial-standards\/)$/.test(item.url))errors.push('unexpected URL '+item.url);
   if(!/^\d{4}-\d{2}-\d{2}$/.test(item.lastmod))errors.push('invalid lastmod '+item.url);
   dateCount[item.lastmod]=(dateCount[item.lastmod]||0)+1;
 }

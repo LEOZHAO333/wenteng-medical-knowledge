@@ -276,3 +276,6 @@ https://pet.japanmedai.com/qa/rescue-cat-health-history-checklist/
 https://pet.japanmedai.com/qa/puppy-crying-at-night/
 https://pet.japanmedai.com/qa/puppy-excitement-urination/
 https://pet.japanmedai.com/qa/puppy-teething-chew-toy-safety/
+# 2026-11-14 Founder 批准：日本宠物食品栏目
+https://pet.japanmedai.com/food/
+https://pet.japanmedai.com/food/mamacook-cat-freeze-dried-chicken/

@@ -32,11 +32,11 @@ for(const path of paths){
   });
 }
 const xml=results['/sitemap.xml'];
-check('live production sitemap 275 canonical URLs',()=>{
+check('live production sitemap 277 canonical URLs',()=>{
   assert.match(xml.contentType,/xml/);
   const locs=[...xml.body.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
-  assert.equal(locs.length,275,'live sitemap URL count');
-  assert.equal(new Set(locs).size,275,'live sitemap duplicate URLs');
+  assert.equal(locs.length,277,'live sitemap URL count');
+  assert.equal(new Set(locs).size,277,'live sitemap duplicate URLs');
   assert.equal(locs.filter(x=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/$/.test(x)).length,248,'live QA URLs');
 });
 check('live production sitemap core directory date changes',()=>{
