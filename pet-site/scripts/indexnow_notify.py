@@ -33,10 +33,18 @@ def url_allowed(url):
     return (parsed.scheme == "https" and parsed.netloc == "pet.japanmedai.com"
             and not parsed.query and not parsed.fragment and url == ORIGIN + (parsed.path or "/"))
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "RiChongTong-IndexNow/1.0"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        return resp.status, resp.geturl(), resp.headers, resp.read()
+def fetch(url, tries=10, wait=20):
+    """The workflow starts on push, before Vercel finishes deploying: retry 404/5xx for up to ~3 minutes."""
+    import time
+    for i in range(tries):
+        req = urllib.request.Request(url, headers={"User-Agent": "RiChongTong-IndexNow/1.0"})
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                return resp.status, resp.geturl(), resp.headers, resp.read()
+        except urllib.error.HTTPError as e:
+            if e.code not in (404, 500, 502, 503, 504) or i == tries - 1:
+                raise
+            time.sleep(wait)
 
 def main():
     approved = {line.strip() for line in ALLOWLIST.read_text(encoding="utf-8").splitlines()
