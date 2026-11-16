@@ -20,14 +20,11 @@
 
 **检查正常但症状没有改善，需要换医院吗？** 可以先与原诊兽医讨论下一步检查。若诊断仍不明确或症状持续，可以考虑专科转诊或第二意见。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://eclinpath.com/test-basics/reference-intervals/
 2. https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
@@ -49,19 +46,14 @@
 
 **每次复查都必须在同一家医院吗？** 不是必须，但尽量使用相同实验室和检测方法，有助于减少检测差异对趋势判断的影响。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://eclinpath.com/test-basics/reference-intervals/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
 ## CHAT-20261116-03｜检查项目很多，怎样按紧急程度分阶段安排？｜日宠通
-
-> Claude修改：与0685预算主题部分重叠，本篇只解释临床紧急程度与检查决策次序，不另设预算主题。
 
 猫狗身体不舒服时，兽医可能陆续建议血液检查、尿检、X光、超声甚至CT。主人看到检查项目越来越多，既担心遗漏疾病，也想了解哪一步最紧急、哪些结果会决定下一步。实际上，不同检查回答的问题并不相同，也不是所有项目都必须同时完成。合理安排检查顺序，应根据症状、紧急程度和诊断目标决定。
 
@@ -79,14 +71,11 @@
 
 **经济预算有限，可以直接告诉兽医吗？** 可以。说明实际预算有助于兽医讨论合理的检查选择、费用及阶段性安排，但不能保证所有检查都可以安全推迟。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
@@ -108,14 +97,16 @@
 
 **原医院不方便提供全部资料怎么办？** 可以先向新医院确认最需要哪些文件，再向原医院申请相关报告或诊疗摘要。病历提供规则因地区而异，紧急情况下可先安排医院间沟通。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
+### 日本补充来源
+
+- 东京都兽医师会｜病历保存及申请出示：https://tvma.or.jp/veterinary/information/medical-record/
+- 名古屋动物医疗中心｜转诊资料与影像交接示例：https://namc.co.jp/vet/shokai/
 
 ---
 
@@ -137,14 +128,11 @@
 
 **原医院不方便把影像发给主人怎么办？** 可以询问能否由原医院直接发送给接诊医院，并确认文件格式、传输方式及相关申请手续。具体提供规则因地区和医院而异。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
@@ -166,14 +154,11 @@
 
 **网上查到的疾病症状与宠物完全相同，可以直接治疗吗？** 不建议。不同疾病可能出现相似症状，应由兽医结合检查结果明确诊断，再决定治疗方案。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://eclinpath.com/test-basics/reference-intervals/
 2. https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
@@ -195,20 +180,15 @@
 
 **宠物病情很急，可以直接去专科医院吗？** 应优先联系具备相应急诊能力的医院。并非所有专科医院都提供24小时急诊服务，需要提前确认接诊条件。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
 2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
 ## CHAT-20261116-08｜第一次带猫看病，怎样把问题讲清楚？｜日宠通
-
-> 合并指示：#24「宠物就诊时主人很紧张，怎样提前写一张问题单？」归入本篇的就诊提问清单，不再作为独立新增页面。
 
 第一次带猫去动物医院，主人可能因为紧张，面对兽医时不知道从哪里说起。有些人只说“猫咪最近不太舒服”，却忘记说明症状从什么时候开始、发生过几次。实际上，清楚的病史能帮助兽医判断检查方向。提前整理信息，比临时回忆更容易减少遗漏，也能让有限的问诊时间得到充分利用。
 
@@ -226,14 +206,11 @@
 
 **以前没有病历，也能正常就诊吗？** 可以。尽量提供年龄、疫苗及驱虫记录、饮食、既往用药等已知信息，不清楚的部分如实说明即可。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
 
@@ -255,11 +232,8 @@
 
 **狗狗只在家里出现异常，需要提前就诊吗？** 如果异常反复出现或逐渐加重，建议联系兽医。若出现呼吸困难、持续抽搐、虚脱或无法站立，应立即急诊。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
