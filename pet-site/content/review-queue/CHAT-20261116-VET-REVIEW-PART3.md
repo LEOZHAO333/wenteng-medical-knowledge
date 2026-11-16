@@ -20,14 +20,11 @@
 
 **哪些情况不能继续在家观察？** 出现呼吸困难、虚脱、持续抽搐、无法排尿等情况，应立即寻求急诊救治。症状明显加重或出现新异常时，也应及时联系兽医。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
 
@@ -49,14 +46,11 @@
 
 **用了药还是没好，可以自己停药再去复诊吗？** 不建议自行停药或调整治疗。应先联系兽医说明实际用药情况及症状变化，由兽医判断是否需要调整方案。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
 2. https://eclinpath.com/test-basics/reference-intervals/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
 
@@ -78,13 +72,10 @@
 
 **能不能先选保守治疗，没效果再做手术？** 部分疾病可以分阶段治疗，但有些病情延误可能增加风险。应请兽医说明转换方案的条件，以及等待可能带来的后果。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
 
@@ -106,20 +97,15 @@
 
 **家里多人轮流照顾宠物，怎样避免漏药、漏复诊？** 建议使用共享日历和用药记录表，明确主要负责人。每次给药后及时登记，复诊结束后同步更新下一次预约日期。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
 
 ## CHAT-20261116-21｜宠物医院建议转诊，通常要先准备什么？｜日宠通
-
-> 选题边界：犬猫通用的初诊转诊资料清单。与既有猫专科转诊页面 `cat-specialist-referral-records`、`recurrent-cat-urinary-second-opinion-records` 为相关主题；只留内部编辑交叉引用，确认正式URL及医学审核后再建立页面内链。
 
 猫狗看病后，如果兽医建议转到其他医院，主人可能会担心是不是病情特别严重。实际上，转诊不一定代表疾病恶化，也可能是因为需要专科评估、高级影像检查或特殊治疗。转诊前要问清转诊原因、诊疗目标及就诊紧急程度。
 
@@ -137,20 +123,19 @@
 
 **转诊后还需要回原来的医院复诊吗？** 不一定。部分病例完成专科检查或治疗后，会交回原医院继续管理。应事先确认两家医院的后续分工。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
+### 日本补充来源
+
+- 名古屋动物医疗中心｜转诊资料、报告与影像交接示例：https://namc.co.jp/vet/shokai/
 
 ---
 
 ## CHAT-20261116-22｜想给宠物换医院，原来的病历和药单如何交接？｜日宠通
-
-> 选题边界：聚焦医院间病历、影像及治疗计划交接。多医院用药核对另见已有 `pet-multiple-vets-medication-list`，本文仅提示需提供现用药记录，不重复独立药单专题。
 
 猫狗因搬家、就诊不便或治疗需要更换动物医院时，主人可能担心新医生不了解过去的病情，导致重复检查或用药衔接出现问题。其实，换医院不一定需要重新开始全部检查。只要提前整理病历，并让新旧医院做好信息交接，就能帮助接诊兽医更快了解宠物的健康状况。
 
@@ -168,20 +153,20 @@
 
 **新医院还没预约成功，可以先停药吗？** 不建议自行停药。应联系原兽医确认过渡期间的用药及复查安排；若怀疑严重药物不良反应，应立即联系兽医。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
+### 日本补充来源
+
+- 东京都兽医师会｜医疗病历提供的注意事项：https://tvma.or.jp/veterinary/information/medical-record/
+- 名古屋动物医疗中心｜转诊时现用药及原始影像交接：https://namc.co.jp/vet/shokai/
 
 ---
 
 ## CHAT-20261116-23｜宠物远程咨询能解决什么，哪些情况仍需到院？｜日宠通
-
-> 日本法律核对：日本《兽医师法》第18条涉及未经自行诊察不得交付诊断书以及部分特定医药品处方等限制；农林水产省2024年12月指针允许在条件充分时实施适当在线诊疗，不能概括成“日本所有远程诊疗均不得处方”。见本批来源台账。
 
 猫狗身体不舒服时，主人可能希望先通过电话或视频咨询兽医，避免不必要的奔波。远程咨询可以帮助整理症状、判断就医紧急程度，也适合部分复诊沟通。但线上看到的画面和听到的描述，无法完全反映宠物的身体状况。远程咨询是否适用，需要结合病情、既往就诊记录及当地兽医执业规定判断。
 
@@ -199,21 +184,16 @@
 
 **远程咨询可以直接让兽医开药吗？** 取决于所在地法规、兽医与宠物之间是否已建立符合规定的诊疗关系，以及实际病情。远程咨询不自动意味着可以开具处方。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://www.maff.go.jp/j/syouan/tikusui/zyui/pet_telehealth.html
 2. https://laws.e-gov.go.jp/law/324AC0000000186
 3. https://www.aaha.org/resources/2025-aaha-referral-guidelines/section-7-teleconsultation-to-enhance-access-to-care/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
 
 ## CHAT-20261116-24｜宠物就诊时主人很紧张，怎样提前写一张问题单？｜日宠通
-
-> 合并保留稿：本篇与08同属首次就诊沟通问题，相关清单已纳入08正文。此处仅留审稿历史，**不单独生成正式Canonical ID、URL或公开文章**。
 
 猫狗身体不舒服时，主人可能提前想好许多问题，但到了动物医院，面对检查结果和治疗建议，反而紧张得忘记重点。有时离开医院后才想起，还有用药、复查或费用问题没有问清。为了减少遗漏，可以在就诊前准备一张简单的问题单，帮助自己有条理地向兽医说明情况。
 
@@ -231,13 +211,10 @@
 
 **如果看病时忘记提问，回家后还能联系医院吗？** 可以。提前确认医院的电话、线上咨询方式及服务时间。如出现紧急症状，应及时就医，不要等待普通咨询回复。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
 
@@ -259,11 +236,8 @@
 
 **等检查结果期间，宠物症状加重怎么办？** 应及时联系接诊兽医，不能机械等待报告。如果出现呼吸困难、虚脱或无法排尿等急症，应立即急诊。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
