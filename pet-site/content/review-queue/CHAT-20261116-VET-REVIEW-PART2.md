@@ -20,6 +20,13 @@
 
 **急诊过程中增加费用，医院会提前通知吗？** 可以事先确认追加费用的沟通与授权方式。具体程序受当地规定及医院制度影响，紧急救治也可能存在特殊情况。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
 ---
@@ -41,6 +48,13 @@
 **预算有限，可以要求先做最重要的检查吗？** 可以。建议请兽医根据病情紧急程度、检查目的和结果对治疗决策的影响，安排优先顺序。
 
 **检查过程中费用超过预算怎么办？** 可以提前约定费用上限及追加项目的沟通方式，并要求说明可能增加的费用。紧急情况下，应优先考虑宠物安全。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+2. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
@@ -64,6 +78,13 @@
 
 **发现报价单有不明项目，可以要求解释吗？** 可以。建议请医院说明每项费用对应的服务、是否必要，以及追加费用的沟通和确认方式。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
 ---
@@ -85,6 +106,13 @@
 **比较报价时，最需要关注哪几个项目？** 建议重点核对手术范围、术前评估、麻醉监护、术后止痛、住院护理及复诊安排。
 
 **报价没有包含并发症处理费用，正常吗？** 部分并发症无法提前预测，因此可能单独计费。应询问追加费用的估算方式，以及医院如何通知主人并取得同意。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/
+2. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
@@ -110,6 +138,12 @@
 
 **换一家保险公司，原来的既往病史就不算了吗？** 不能这样理解。新保险公司可能重新审核既往病史，原来已经出现的疾病或症状仍可能影响承保及赔付。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
 ---
@@ -134,6 +168,13 @@
 
 **拒赔后可以直接要求医院修改诊断证明吗？** 不能要求医院改变真实病历。发现记录存在事实错误时，可以申请依法更正，并保留更正过程及说明。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://faq.petfamilyins.co.jp/%E4%BF%9D%E9%99%BA%E9%87%91%E8%AB%8B%E6%B1%82%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E6%9B%B8%E9%A1%9E%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-65404f98e3944e001b7d5649
+2. https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
 ---
@@ -155,5 +196,12 @@
 **医院晚上没有兽医值班，还能让宠物住院吗？** 要根据病情判断。部分稳定患者可以接受相应级别的住院护理，但需要持续监测或紧急救治的宠物，应由兽医评估是否需要转至具备相应能力的医院。
 
 **主人可以每天探望住院的宠物吗？** 取决于医院政策和宠物状态。有些医院允许预约探视，有些会限制探视时间，重症或隔离患者可能有额外规定。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/animal-owners/help-and-advice/treatment-and-care
+2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
