@@ -20,6 +20,13 @@
 
 **检查正常但症状没有改善，需要换医院吗？** 可以先与原诊兽医讨论下一步检查。若诊断仍不明确或症状持续，可以考虑专科转诊或第二意见。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://eclinpath.com/test-basics/reference-intervals/
+2. https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
@@ -41,6 +48,12 @@
 **复查结果比上次低，就说明病情好转了吗？** 不一定。需要结合变化幅度、检测方法、临床症状及治疗情况判断，不能只看数字下降。
 
 **每次复查都必须在同一家医院吗？** 不是必须，但尽量使用相同实验室和检测方法，有助于减少检测差异对趋势判断的影响。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://eclinpath.com/test-basics/reference-intervals/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
@@ -66,6 +79,13 @@
 
 **经济预算有限，可以直接告诉兽医吗？** 可以。说明实际预算有助于兽医讨论合理的检查选择、费用及阶段性安排，但不能保证所有检查都可以安全推迟。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
@@ -87,6 +107,13 @@
 **转诊时需要提供X光、CT等原始影像吗？** 建议提供。影像报告与原始影像的信息并不完全相同，接诊兽医可能需要重新查看影像。
 
 **原医院不方便提供全部资料怎么办？** 可以先向新医院确认最需要哪些文件，再向原医院申请相关报告或诊疗摘要。病历提供规则因地区而异，紧急情况下可先安排医院间沟通。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
@@ -110,6 +137,13 @@
 
 **原医院不方便把影像发给主人怎么办？** 可以询问能否由原医院直接发送给接诊医院，并确认文件格式、传输方式及相关申请手续。具体提供规则因地区和医院而异。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
@@ -132,6 +166,13 @@
 
 **网上查到的疾病症状与宠物完全相同，可以直接治疗吗？** 不建议。不同疾病可能出现相似症状，应由兽医结合检查结果明确诊断，再决定治疗方案。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://eclinpath.com/test-basics/reference-intervals/
+2. https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
@@ -153,6 +194,13 @@
 **什么情况下建议去专科医院？** 疾病诊断困难、反复治疗无明显改善，或需要高级影像、复杂手术及专门治疗时，可以与兽医讨论转诊。
 
 **宠物病情很急，可以直接去专科医院吗？** 应优先联系具备相应急诊能力的医院。并非所有专科医院都提供24小时急诊服务，需要提前确认接诊条件。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
@@ -178,6 +226,13 @@
 
 **以前没有病历，也能正常就诊吗？** 可以。尽量提供年龄、疫苗及驱虫记录、饮食、既往用药等已知信息，不清楚的部分如实说明即可。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
 
 ---
@@ -199,5 +254,12 @@
 **拍摄异常视频，需要注意什么？** 尽量保持画面稳定、光线充足，记录完整动作及症状发生前后的情况。不要为了拍摄而强迫运动或诱发症状。
 
 **狗狗只在家里出现异常，需要提前就诊吗？** 如果异常反复出现或逐渐加重，建议联系兽医。若出现呼吸困难、持续抽搐、虚脱或无法站立，应立即急诊。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学待审、来源链接待核、正式ID及去重映射待核；不公开。
