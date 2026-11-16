@@ -20,6 +20,13 @@
 
 **哪些情况不能继续在家观察？** 出现呼吸困难、虚脱、持续抽搐、无法排尿等情况，应立即寻求急诊救治。症状明显加重或出现新异常时，也应及时联系兽医。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
@@ -41,6 +48,13 @@
 **宠物有些症状改善了，有些没有，需要全部记录吗？** 需要。请分别说明哪些改善、哪些没有变化、哪些加重，以及是否出现新症状。
 
 **用了药还是没好，可以自己停药再去复诊吗？** 不建议自行停药或调整治疗。应先联系兽医说明实际用药情况及症状变化，由兽医判断是否需要调整方案。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. https://eclinpath.com/test-basics/reference-intervals/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
@@ -64,6 +78,12 @@
 
 **能不能先选保守治疗，没效果再做手术？** 部分疾病可以分阶段治疗，但有些病情延误可能增加风险。应请兽医说明转换方案的条件，以及等待可能带来的后果。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
@@ -85,6 +105,13 @@
 **工作忙，可以用线上问诊代替所有复查吗？** 不能。部分随访可以通过电话或线上方式完成，但体格检查、采血和影像检查等仍需要到院，具体由兽医判断。
 
 **家里多人轮流照顾宠物，怎样避免漏药、漏复诊？** 建议使用共享日历和用药记录表，明确主要负责人。每次给药后及时登记，复诊结束后同步更新下一次预约日期。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
@@ -110,6 +137,13 @@
 
 **转诊后还需要回原来的医院复诊吗？** 不一定。部分病例完成专科检查或治疗后，会交回原医院继续管理。应事先确认两家医院的后续分工。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
@@ -133,6 +167,13 @@
 **只有药盒，没有以前的处方怎么办？** 可以先携带药盒及标签，并联系原医院补充处方和用药记录。尤其要说明实际服药情况，不要凭记忆猜测剂量。
 
 **新医院还没预约成功，可以先停药吗？** 不建议自行停药。应联系原兽医确认过渡期间的用药及复查安排；若怀疑严重药物不良反应，应立即联系兽医。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
@@ -158,6 +199,14 @@
 
 **远程咨询可以直接让兽医开药吗？** 取决于所在地法规、兽医与宠物之间是否已建立符合规定的诊疗关系，以及实际病情。远程咨询不自动意味着可以开具处方。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.maff.go.jp/j/syouan/tikusui/zyui/pet_telehealth.html
+2. https://laws.e-gov.go.jp/law/324AC0000000186
+3. https://www.aaha.org/resources/2025-aaha-referral-guidelines/section-7-teleconsultation-to-enhance-access-to-care/
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
@@ -182,6 +231,12 @@
 
 **如果看病时忘记提问，回家后还能联系医院吗？** 可以。提前确认医院的电话、线上咨询方式及服务时间。如出现紧急症状，应及时就医，不要等待普通咨询回复。
 
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
+
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
 
 ---
@@ -203,5 +258,12 @@
 **检查已经有初步结果，可以先让医生解释吗？** 可以询问是否存在可供临床判断的初步结果。但部分检测必须等最终报告，初步结果也可能发生变化。
 
 **等检查结果期间，宠物症状加重怎么办？** 应及时联系接诊兽医，不能机械等待报告。如果出现呼吸困难、虚脱或无法排尿等急症，应立即急诊。
+
+### 参考来源（编辑级候选，待逐句证据审核）
+
+1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
+2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+
+> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
 **审核状态：** 医学/来源待核，正式ID与已有题目去重映射待核；不公开。
