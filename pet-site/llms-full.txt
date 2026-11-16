@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Bunto Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-11-08。本站共有248篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-16。本站共有268篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,7 +79,7 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、248篇健康问答索引（2026-11-08）
+## 七、268篇健康问答索引（2026-11-16）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
@@ -339,3 +339,24 @@
 - [狗零食越吃越多，怎样与兽医核对热量预算？](https://pet.japanmedai.com/qa/dog-treat-calorie-budget/) — 营养与进食
 - [带宠物申请第二诊疗意见，怎样整理三到五个核心问题？](https://pet.japanmedai.com/qa/pet-second-opinion-question-list/) — 检查与复诊沟通
 
+### 检查、费用与复诊沟通（2026-11-16新增20篇）
+- [宠物尿检和血检正常，但症状还在，下一步怎么办？](https://pet.japanmedai.com/qa/pet-normal-tests-persistent-symptoms/) — 检查与复诊沟通
+- [医生建议复查同一项目，是在观察什么变化？](https://pet.japanmedai.com/qa/pet-recheck-same-test-purpose/) — 检查与复诊沟通
+- [检查项目很多，怎样按紧急程度分阶段安排？](https://pet.japanmedai.com/qa/pet-staged-tests-by-urgency/) — 检查与复诊沟通
+- [宠物检验报告只有截图，转诊够用吗？](https://pet.japanmedai.com/qa/pet-lab-report-screenshot-referral/) — 检查与复诊沟通
+- [看宠物检查报告时，哪些结论不适合自己上网对号入座？](https://pet.japanmedai.com/qa/pet-lab-report-self-interpretation-limits/) — 检查与复诊沟通
+- [第一次带猫看病，怎样把问题讲清楚？](https://pet.japanmedai.com/qa/cat-first-vet-visit-history/) — 检查与复诊沟通
+- [狗到医院就兴奋，平时的异常怎样让医生看见？](https://pet.japanmedai.com/qa/dog-excited-at-clinic-show-symptoms/) — 检查与复诊沟通
+- [宠物夜间急诊费用高，电话里先问什么？](https://pet.japanmedai.com/qa/pet-night-emergency-phone-questions/) — 检查与医患沟通
+- [宠物医院报价单，哪些项目需要逐项确认？](https://pet.japanmedai.com/qa/pet-vet-estimate-line-items/) — 检查与医患沟通
+- [同一种手术两家报价不同，应该比较哪些服务？](https://pet.japanmedai.com/qa/pet-surgery-quotes-compare/) — 检查与医患沟通
+- [宠物保险买之前，既往病史条款怎么理解？](https://pet.japanmedai.com/qa/pet-insurance-preexisting-conditions/) — 检查与医患沟通
+- [宠物保险报销被拒，哪些原始材料应该保留？](https://pet.japanmedai.com/qa/pet-insurance-claim-denied-records/) — 检查与医患沟通
+- [宠物住院是否需要陪护，怎样了解医院安排？](https://pet.japanmedai.com/qa/pet-hospitalization-visiting-overnight-care/) — 检查与医患沟通
+- [宠物看完病还是没好，复诊时如何整理变化？](https://pet.japanmedai.com/qa/pet-not-improving-recheck-log/) — 检查与复诊沟通
+- [宠物治疗方案有两个，怎样问清各自的取舍？](https://pet.japanmedai.com/qa/pet-two-treatment-options-tradeoffs/) — 检查与复诊沟通
+- [主人工作忙，怎样安排宠物长期复诊不容易漏？](https://pet.japanmedai.com/qa/pet-longterm-recheck-scheduling/) — 检查与复诊沟通
+- [宠物医院建议转诊，通常要先准备什么？](https://pet.japanmedai.com/qa/pet-referral-preparation/) — 检查与复诊沟通
+- [想给宠物换医院，原来的病历和药单如何交接？](https://pet.japanmedai.com/qa/pet-change-vet-records-handover/) — 检查与医患沟通
+- [宠物远程咨询能解决什么，哪些情况仍需到院？](https://pet.japanmedai.com/qa/pet-telehealth-limits/) — 检查与医患沟通
+- [宠物检查结果迟迟没出来，应该确认哪些信息？](https://pet.japanmedai.com/qa/pet-test-results-delayed/) — 检查与复诊沟通

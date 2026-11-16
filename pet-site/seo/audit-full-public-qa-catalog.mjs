@@ -8,7 +8,7 @@ import {mkdirSync,writeFileSync} from 'node:fs';
 import {resolve} from 'node:path';
 
 const BASE='https://pet.japanmedai.com';
-const EXPECTED=277, EXPECTED_QA=248; // +2: /food/ 栏目与 MamaCook 01（Founder 11/14）
+const EXPECTED=297, EXPECTED_QA=268; // +20: 检查与复诊沟通 QA（兽医审核 11/16）；+2: /food/ 栏目与 MamaCook 01（Founder 11/14）
 const RUN_AT=new Date().toISOString();
 const reportDir=process.env.AUDIT_OUTPUT_DIR||'pet-site/seo/audit-output';
 const errors=[];
