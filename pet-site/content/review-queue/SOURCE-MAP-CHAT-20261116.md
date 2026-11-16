@@ -38,6 +38,15 @@
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
+### 日本本土补充来源（2026-11-16增补）
+- 支持主题：东京都兽医师会：病历记录及主人申请阅览说明（日本，注意不存在一律强制交付全部病历的通则）
+  - 原始资料：https://tvma.or.jp/veterinary/information/medical-record/
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
+- 支持主题：日本转诊机构：转诊需提供检查结果与影像资料，属机构流程示例
+  - 原始资料：https://namc.co.jp/vet/shokai/
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
 ## CHAT-20261116-05
 
 1. **转诊与第二意见应分享影像报告等资料**
@@ -118,6 +127,11 @@
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
+### 日本本土补充来源（2026-11-16增补）
+- 支持主题：日本北海道官方：兽医诊疗广告指南强调风险、费用及诊疗信息准确表达，不能作为个别医院强制收费规则
+  - 原始资料：https://www.pref.hokkaido.lg.jp/ns/tss/kachikueisei/vet/koukoku.html
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
 ## CHAT-20261116-13
 
 1. **麻醉前评估、监护、苏醒连续管理**
@@ -128,10 +142,15 @@
    - 原始资料：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
+### 日本本土补充来源（2026-11-16增补）
+- 支持主题：日本兽医麻醉外科学会：犬猫麻醉监护人员与呼吸循环记录技术建议，不代表各院收费标准
+  - 原始资料：https://www.jsvas.net/committee/anesthanalg/download/MonitoringGuideline2021.pdf
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
 ## CHAT-20261116-14
 
 1. **日本保险公司实际健康告知、免责及等待期示例，非所有保单通则**
-   - 原始资料：https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
+   - 原始资料：https://faq.anicom-sompo.co.jp/faq/show/159?site_domain=default
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-15
@@ -141,7 +160,7 @@
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 2. **保单告知记录及保障条款**
-   - 原始资料：https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
+   - 原始资料：https://faq.anicom-sompo.co.jp/faq/show/159?site_domain=default
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-16
@@ -200,6 +219,15 @@
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
+### 日本本土补充来源（2026-11-16增补）
+- 支持主题：日本转诊医院实际要求：介绍信、检查结果、影像及现用药
+  - 原始资料：https://namc.co.jp/vet/shokai/
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
+- 支持主题：东京都兽医师会：诊疗病历的保存与出示边界
+  - 原始资料：https://tvma.or.jp/veterinary/information/medical-record/
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
 ## CHAT-20261116-22
 
 1. **跨院信息交接避免重复或冲突治疗**
@@ -209,6 +237,15 @@
 2. **病历和用药记录**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
+
+### 日本本土补充来源（2026-11-16增补）
+- 支持主题：日本病历提供实际法律与职业解释，不可承诺病历一定交付
+  - 原始资料：https://tvma.or.jp/veterinary/information/medical-record/
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
+
+- 支持主题：日本医院转诊时病历影像与现用药交接实例
+  - 原始资料：https://namc.co.jp/vet/shokai/
+  - 审核状态：编辑层已核对来源主题；具体逐句适用性、版本和专业复核仍 pending。
 
 ## CHAT-20261116-23
 
@@ -249,3 +286,10 @@
 - [ ] #23：日本 MAFF 在线诊疗指针 + e-Gov 第18条边界由合规/兽医复核，注意2026年更新内容。
 - [ ] #05/#07/#11/#17 已对应旧正式题号，更新旧文前须比对全文；#08/#24合并后只保留一篇新文候选。
 - [ ] 日本执业兽医医学终审及 Founder 单独发布授权。审核通过之前禁止公开。
+
+## 2026-11-16 二次审核整改标注
+
+- 康奈尔大学 eClinpath `reference-intervals`：已通过网页公开页面核对，可支持参考区间与实验室差异等说明；不能据此证明所有相关医学主张。
+- Anicom 旧 `announcement` 网址：撤换为可查的保险公司FAQ（2026-04-25更新），支持该公司现行公开承保筛查示例；具体商品与保单年份仍须逐一复核。
+- 英国 RCVS 相关引证必须在正式来源名称显示“英国”；绝不得暗示日本法律效力。
+- #04/#12/#13/#21/#22新增日本专业/监管或实际转诊医院资料；每条支持范围与适用限制已在上方列出。来源链接存在≠全文证据通过。
