@@ -20,14 +20,11 @@
 
 **急诊过程中增加费用，医院会提前通知吗？** 可以事先确认追加费用的沟通与授权方式。具体程序受当地规定及医院制度影响，紧急救治也可能存在特殊情况。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
 2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
 ---
 
@@ -49,14 +46,11 @@
 
 **检查过程中费用超过预算怎么办？** 可以提前约定费用上限及追加项目的沟通方式，并要求说明可能增加的费用。紧急情况下，应优先考虑宠物安全。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
-2. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
 
 ---
 
@@ -78,14 +72,15 @@
 
 **发现报价单有不明项目，可以要求解释吗？** 可以。建议请医院说明每项费用对应的服务、是否必要，以及追加费用的沟通和确认方式。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
-2. https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
+### 日本补充来源
+
+- 北海道政府｜日本兽医诊疗广告与费用信息指南：https://www.pref.hokkaido.lg.jp/ns/tss/kachikueisei/vet/koukoku.html
 
 ---
 
@@ -107,20 +102,19 @@
 
 **报价没有包含并发症处理费用，正常吗？** 部分并发症无法提前预测，因此可能单独计费。应询问追加费用的估算方式，以及医院如何通知主人并取得同意。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/
-2. https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
+2. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
+### 日本补充来源
+
+- 日本兽医麻醉外科学会｜犬猫麻醉监护指针：https://www.jsvas.net/committee/anesthanalg/download/MonitoringGuideline2021.pdf
 
 ---
 
 ## CHAT-20261116-14｜宠物保险买之前，既往病史条款怎么理解？｜日宠通
-
-> 地域边界：本文为合同阅读方法，不代表日本各保险公司具有统一既往病史或等待期规则；核对具体保单版本和健康告知书。
 
 给猫狗购买医疗保险时，主人常会看到“既往病史不予赔付”的条款。有些人以为只有确诊过的疾病才算既往病史，但实际认定范围可能更广。投保前已经出现的相关症状、接受过的检查或治疗，也可能影响后续理赔。保险公司定义和审核标准不同，须阅读具体合同。
 
@@ -138,19 +132,18 @@
 
 **换一家保险公司，原来的既往病史就不算了吗？** 不能这样理解。新保险公司可能重新审核既往病史，原来已经出现的疾病或症状仍可能影响承保及赔付。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
+### 日本补充来源
+
+- Anicom｜既往疾病与承保条件（日本特定保险公司）：https://faq.anicom-sompo.co.jp/faq/show/159?site_domain=default
 
 ---
 
 ## CHAT-20261116-15｜宠物保险报销被拒，哪些原始材料应该保留？｜日宠通
-
-> 地域边界：保险争议材料与申诉渠道按保单、签约国家和实际承保公司核对，不推断统一的日本理赔申诉程序。
 
 猫狗看病后申请宠物保险理赔，却收到拒赔通知，主人可能不知道问题出在哪里。有些拒赔与既往病史、等待期或保障范围有关，也可能是申请资料不完整。收到通知后，不建议立即认定保险公司处理错误，更不要丢弃原始文件。先保存拒赔理由及相关记录，才能判断是否需要补充资料或申请复核。
 
@@ -168,14 +161,15 @@
 
 **拒赔后可以直接要求医院修改诊断证明吗？** 不能要求医院改变真实病历。发现记录存在事实错误时，可以申请依法更正，并保留更正过程及说明。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
 1. https://faq.petfamilyins.co.jp/%E4%BF%9D%E9%99%BA%E9%87%91%E8%AB%8B%E6%B1%82%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E6%9B%B8%E9%A1%9E%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-65404f98e3944e001b7d5649
 2. https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
 
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
+### 日本补充来源
+
+- Anicom｜理赔时医疗费用明细与收据的要求（日本特定保险公司）：https://faq.anicom-sompo.co.jp/faq/show/4009?site_domain=default
 
 ---
 
@@ -197,11 +191,8 @@
 
 **主人可以每天探望住院的宠物吗？** 取决于医院政策和宠物状态。有些医院允许预约探视，有些会限制探视时间，重症或隔离患者可能有额外规定。
 
-### 参考来源（编辑级候选，待逐句证据审核）
+### 参考来源
 
-1. https://www.rcvs.org.uk/animal-owners/help-and-advice/treatment-and-care
+1. 英国皇家兽医学院（英国，职业参考指南）：https://www.rcvs.org.uk/animal-owners/help-and-advice/treatment-and-care
 2. https://www.aaha.org/resources/help-is-this-a-pet-emergency/
 
-> 来源仅说明可能支持相关主题，具体断言/版本/辖区尚须Claude及执业兽医核对；不等于Medical Approved。
-
-**审核状态：** 医学、保险辖区和来源待核；正式ID/Slug待查重；不公开。
