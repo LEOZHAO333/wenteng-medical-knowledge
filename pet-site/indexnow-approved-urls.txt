@@ -279,3 +279,23 @@ https://pet.japanmedai.com/qa/puppy-teething-chew-toy-safety/
 # 2026-11-14 Founder 批准：日本宠物食品栏目
 https://pet.japanmedai.com/food/
 https://pet.japanmedai.com/food/mamacook-cat-freeze-dried-chicken/
+https://pet.japanmedai.com/qa/pet-normal-tests-persistent-symptoms/
+https://pet.japanmedai.com/qa/pet-recheck-same-test-purpose/
+https://pet.japanmedai.com/qa/pet-staged-tests-by-urgency/
+https://pet.japanmedai.com/qa/pet-lab-report-screenshot-referral/
+https://pet.japanmedai.com/qa/pet-lab-report-self-interpretation-limits/
+https://pet.japanmedai.com/qa/cat-first-vet-visit-history/
+https://pet.japanmedai.com/qa/dog-excited-at-clinic-show-symptoms/
+https://pet.japanmedai.com/qa/pet-night-emergency-phone-questions/
+https://pet.japanmedai.com/qa/pet-vet-estimate-line-items/
+https://pet.japanmedai.com/qa/pet-surgery-quotes-compare/
+https://pet.japanmedai.com/qa/pet-insurance-preexisting-conditions/
+https://pet.japanmedai.com/qa/pet-insurance-claim-denied-records/
+https://pet.japanmedai.com/qa/pet-hospitalization-visiting-overnight-care/
+https://pet.japanmedai.com/qa/pet-not-improving-recheck-log/
+https://pet.japanmedai.com/qa/pet-two-treatment-options-tradeoffs/
+https://pet.japanmedai.com/qa/pet-longterm-recheck-scheduling/
+https://pet.japanmedai.com/qa/pet-referral-preparation/
+https://pet.japanmedai.com/qa/pet-change-vet-records-handover/
+https://pet.japanmedai.com/qa/pet-telehealth-limits/
+https://pet.japanmedai.com/qa/pet-test-results-delayed/
