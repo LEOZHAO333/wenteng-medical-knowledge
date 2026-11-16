@@ -20,7 +20,7 @@
 
 ## CHAT-20261116-03
 
-1. **检查目的、风险及合理替代方案说明**
+1. **检查目的、风险及合理替代方案说明（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -30,11 +30,11 @@
 
 ## CHAT-20261116-04
 
-1. **化验影像及病历完整记录**
+1. **化验影像及病历完整记录（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **转诊资料交接**
+2. **转诊资料交接（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -49,11 +49,11 @@
 
 ## CHAT-20261116-05
 
-1. **转诊与第二意见应分享影像报告等资料**
+1. **转诊与第二意见应分享影像报告等资料（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **诊断影像记录保留**
+2. **诊断影像记录保留（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -69,7 +69,7 @@
 
 ## CHAT-20261116-07
 
-1. **综合诊疗到专科的适用情形**
+1. **综合诊疗到专科的适用情形（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -83,13 +83,13 @@
    - 原始资料：https://www.merckvetmanual.com/urinary-system/urinary-system-introduction/the-urinary-system-in-animals
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **医患沟通和提问**
+2. **医患沟通和提问（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-09
 
-1. **主人提供实际病史与临床沟通**
+1. **主人提供实际病史与临床沟通（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -99,7 +99,7 @@
 
 ## CHAT-20261116-10
 
-1. **收费范围、追加费用、夜间接诊区别；英国职业规范仅示例**
+1. **收费范围、追加费用、夜间接诊区别；英国职业规范仅示例（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -109,21 +109,21 @@
 
 ## CHAT-20261116-11
 
-1. **讨论可行检查与预算限制**
+1. **讨论可行检查与预算限制（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **书面估算与费用透明**
+2. **书面估算与费用透明（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-12
 
-1. **报价包含项目和潜在额外费用**
+1. **报价包含项目和潜在额外费用（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **术前充分知情同意**
+2. **术前充分知情同意（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -138,7 +138,7 @@
    - 原始资料：https://www.aaha.org/resources/2020-aaha-anesthesia-and-monitoring-guidelines-for-dogs-and-cats/
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **比较服务而非单纯价格**
+2. **比较服务而非单纯价格（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/animal-owners/help-and-advice/fees-and-pricing
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -165,7 +165,7 @@
 
 ## CHAT-20261116-16
 
-1. **医院应说明非营业时间监护水平**
+1. **医院应说明非营业时间监护水平（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/animal-owners/help-and-advice/treatment-and-care
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -179,13 +179,13 @@
    - 原始资料：https://www.aaha.org/resources/help-is-this-a-pet-emergency/
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **复诊和观察方案需明确风险**
+2. **复诊和观察方案需明确风险（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-18
 
-1. **应记录诊断、用药、随访及症状**
+1. **应记录诊断、用药、随访及症状（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -195,27 +195,27 @@
 
 ## CHAT-20261116-19
 
-1. **不同合理方案收益风险与费用讨论**
+1. **不同合理方案收益风险与费用讨论（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-20
 
-1. **复诊计划与用药记录连续性**
+1. **复诊计划与用药记录连续性（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **诊疗交接与沟通**
+2. **诊疗交接与沟通（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-21
 
-1. **通用转诊与病例交接**
+1. **通用转诊与病例交接（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/1-referrals-and-second-opinions
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **包含检查、影像、治疗记录**
+2. **包含检查、影像、治疗记录（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -230,11 +230,11 @@
 
 ## CHAT-20261116-22
 
-1. **跨院信息交接避免重复或冲突治疗**
+1. **跨院信息交接避免重复或冲突治疗（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/5-communication-between-professional-colleagues
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **病历和用药记录**
+2. **病历和用药记录（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
@@ -263,17 +263,17 @@
 
 ## CHAT-20261116-24
 
-1. **清楚询问诊疗目标与选择；本稿并入08不独立成页**
+1. **清楚询问诊疗目标与选择；本稿并入08不独立成页（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
 ## CHAT-20261116-25
 
-1. **结果、复查与联系记录需保存**
+1. **结果、复查与联系记录需保存（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/13-clinical-and-client-records
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
-2. **询问何时需要复诊**
+2. **询问何时需要复诊（英国 RCVS）**
    - 原始资料：https://www.rcvs.org.uk/veterinary-professionals/conduct-and-guidance/supporting-guidance/11-communication-and-consent
    - 检验状态：主题对应的编辑级候选来源；**具体句子是否被直接支持：pending**。
 
