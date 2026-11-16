@@ -134,7 +134,7 @@
 
 ### 参考来源
 
-1. https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
+1. https://faq.anicom-sompo.co.jp/faq/show/159?site_domain=default
 
 
 ### 日本补充来源
@@ -164,7 +164,7 @@
 ### 参考来源
 
 1. https://faq.petfamilyins.co.jp/%E4%BF%9D%E9%99%BA%E9%87%91%E8%AB%8B%E6%B1%82%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E6%9B%B8%E9%A1%9E%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-65404f98e3944e001b7d5649
-2. https://cs.anicom-sompo.co.jp/ol-asset/html/announcement.html
+2. https://faq.anicom-sompo.co.jp/faq/show/159?site_domain=default
 
 
 ### 日本补充来源
