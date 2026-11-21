@@ -36,7 +36,7 @@ const rows=lines.map((line,i)=>({
   eligibility:'not_determined_do_not_approve'
 }));
 const errors=[];
-if(rows.length!==290)errors.push('Expected 290 renderer QAs; re-audit required');
+if(rows.length!==298)errors.push('Expected 298 renderer QAs; re-audit required');
 if(rows.some(r=>!r.slug||!r.species))errors.push('Missing slug/species');
 if(new Set(rows.map(r=>r.slug)).size!==rows.length)errors.push('Duplicate slugs');
 if(rows.filter(r=>!r.sourcePublished).length!==12)errors.push('Published-date baseline changed');
