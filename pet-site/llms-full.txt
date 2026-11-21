@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Bunto Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-11-21。本站共有280篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-21。本站共有290篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,7 +79,7 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、280篇健康问答索引（2026-11-21）
+## 七、290篇健康问答索引（2026-11-21）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
@@ -376,3 +376,15 @@
 - [狗能单独留在开着一点窗的车里吗？](https://pet.japanmedai.com/qa/dog-alone-in-car-window-cracked/) — 美容与居家安全
 - [夏天遛狗，怎样判断地面会不会烫脚？](https://pet.japanmedai.com/qa/dog-hot-pavement-paw-check/) — 美容与居家安全
 - [狗中暑疑似缓过来了，还需要兽医评估吗？](https://pet.japanmedai.com/qa/dog-heatstroke-recovered-still-vet/) — 出行与行为
+
+### 猫居家安全（2026-11-21新增10篇）
+- [家里消毒后多久能让猫进入，要看哪些产品说明？](https://pet.japanmedai.com/qa/cat-home-disinfectant-when-safe/) — 美容与居家安全
+- [猫在阳台晒太阳，怎样给它留退回阴凉处的选择？](https://pet.japanmedai.com/qa/cat-balcony-sun-shade-access/) — 美容与居家安全
+- [猫抓纱窗，普通纱窗能当防坠网吗？](https://pet.japanmedai.com/qa/cat-window-screen-fall-risk/) — 美容与居家安全
+- [猫会舔香薰和精油，家里该怎么摆放？](https://pet.japanmedai.com/qa/cat-essential-oil-diffuser-safety/) — 美容与居家安全
+- [猫喜欢咬绿植，买花前需要核对什么？](https://pet.japanmedai.com/qa/cat-houseplants-lily-check/) — 美容与居家安全
+- [猫靠近取暖器睡觉，怎么避免烫伤？](https://pet.japanmedai.com/qa/cat-heater-burn-prevention/) — 美容与居家安全
+- [猫冬天睡电热毯，应该考虑哪些安全问题？](https://pet.japanmedai.com/qa/cat-electric-blanket-safety/) — 美容与居家安全
+- [猫喜欢钻洗衣机，家里怎样建立开机前检查习惯？](https://pet.japanmedai.com/qa/cat-washing-machine-check-habit/) — 美容与居家安全
+- [猫夏天总躺地砖，怎么判断它是不是需要降温？](https://pet.japanmedai.com/qa/cat-lying-on-tiles-summer-heat/) — 美容与居家安全
+- [猫在家也会热得不舒服吗，主人观察什么？](https://pet.japanmedai.com/qa/indoor-cat-overheating-signs/) — 美容与居家安全
