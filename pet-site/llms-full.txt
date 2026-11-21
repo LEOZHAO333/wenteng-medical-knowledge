@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Bunto Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-11-21。本站共有306篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-21。本站共有320篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,7 +79,7 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、306篇健康问答索引（2026-11-21）
+## 七、320篇健康问答索引（2026-11-21）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
@@ -410,3 +410,21 @@
 - [猫夏天热，要不要把毛全部剃掉？](https://pet.japanmedai.com/qa/cat-summer-shave-coat/) — 美容与居家安全
 - [长毛猫屁股总沾便便，修毛需要注意什么？](https://pet.japanmedai.com/qa/longhair-cat-soiled-rear-trim/) — 美容与居家安全
 - [猫不出门，多久洗一次澡才有必要？](https://pet.japanmedai.com/qa/indoor-cat-bathing-frequency/) — 美容与居家安全
+
+### 肿块与肿瘤复查（2026-11-21新增5篇）
+- [宠物肿瘤切掉了，复查还在看什么？](https://pet.japanmedai.com/qa/pet-tumor-removed-recheck/) — 心脏与肿瘤
+- [狗脂肪瘤样的包越来越大，需要重新评估吗？](https://pet.japanmedai.com/qa/dog-lipoma-like-lump-growing/) — 皮肤与被毛
+- [猫打针部位出现肿块，复诊要告诉医生哪些时间信息？](https://pet.japanmedai.com/qa/cat-injection-site-lump-timeline/) — 心脏与肿瘤
+- [狗身上摸到一个包，怎样记录大小和位置？](https://pet.japanmedai.com/qa/dog-lump-record-size-location/) — 皮肤与被毛
+- [宠物治疗目标是控制还是治愈，怎样和医生说清楚？](https://pet.japanmedai.com/qa/pet-treatment-goal-control-or-cure/) — 检查与复诊沟通
+
+### 肿瘤治疗与临终照护（2026-11-21新增9篇）
+- [宠物生命末期，如何和兽医讨论疼痛及告别安排？](https://pet.japanmedai.com/qa/pet-end-of-life-pain-farewell-talk/) — 心脏与肿瘤
+- [家人对宠物临终照护意见不同，怎么围绕生活质量沟通？](https://pet.japanmedai.com/qa/family-disagree-end-of-life-care/) — 心脏与肿瘤
+- [宠物肿瘤复发后，怎样重新比较治疗和舒适照护？](https://pet.japanmedai.com/qa/pet-tumor-recurrence-treatment-vs-comfort/) — 心脏与肿瘤
+- [宠物年纪很大，肿瘤手术一定不值得做吗？](https://pet.japanmedai.com/qa/senior-pet-tumor-surgery-worth-it/) — 心脏与肿瘤
+- [网上说某种营养品能抗癌，主人该怎样核实？](https://pet.japanmedai.com/qa/pet-supplement-anticancer-claims/) — 心脏与肿瘤
+- [宠物肿瘤治疗太贵，怎样讨论可承受的方案？](https://pet.japanmedai.com/qa/pet-cancer-treatment-budget/) — 检查与复诊沟通
+- [猫肿瘤疼痛不明显，主人能观察哪些日常变化？](https://pet.japanmedai.com/qa/cat-tumor-hidden-pain-signs/) — 心脏与肿瘤
+- [宠物化疗期间，家里清洁要听哪些具体指导？](https://pet.japanmedai.com/qa/pet-chemo-home-cleaning/) — 心脏与肿瘤
+- [宠物化疗会不会很难受，怎样问清预期影响？](https://pet.japanmedai.com/qa/pet-chemo-side-effects-questions/) — 心脏与肿瘤
