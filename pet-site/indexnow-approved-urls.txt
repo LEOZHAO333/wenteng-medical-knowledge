@@ -302,3 +302,12 @@ https://pet.japanmedai.com/qa/pet-test-results-delayed/
 https://pet.japanmedai.com/qa/cat-boarding-shy-cat-environment/
 https://pet.japanmedai.com/qa/cat-sitter-home-care-checklist/
 https://pet.japanmedai.com/qa/cat-carrier-car-travel-training/
+https://pet.japanmedai.com/qa/pet-home-renovation-paint-return/
+https://pet.japanmedai.com/qa/pet-heating-pad-burn-risk/
+https://pet.japanmedai.com/qa/dog-thunderstorm-safe-space/
+https://pet.japanmedai.com/qa/dog-red-toes-after-rain-walk/
+https://pet.japanmedai.com/qa/dog-licking-ice-melt/
+https://pet.japanmedai.com/qa/dog-shivering-winter-coat/
+https://pet.japanmedai.com/qa/dog-alone-in-car-window-cracked/
+https://pet.japanmedai.com/qa/dog-hot-pavement-paw-check/
+https://pet.japanmedai.com/qa/dog-heatstroke-recovered-still-vet/
