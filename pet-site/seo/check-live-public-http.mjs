@@ -32,26 +32,26 @@ for(const path of paths){
   });
 }
 const xml=results['/sitemap.xml'];
-check('live production sitemap 297 canonical URLs',()=>{
+check('live production sitemap 300 canonical URLs',()=>{
   assert.match(xml.contentType,/xml/);
   const locs=[...xml.body.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
-  assert.equal(locs.length,297,'live sitemap URL count');
-  assert.equal(new Set(locs).size,297,'live sitemap duplicate URLs');
-  assert.equal(locs.filter(x=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/$/.test(x)).length,268,'live QA URLs');
+  assert.equal(locs.length,300,'live sitemap URL count');
+  assert.equal(new Set(locs).size,300,'live sitemap duplicate URLs');
+  assert.equal(locs.filter(x=>/^https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/$/.test(x)).length,271,'live QA URLs');
 });
 check('live production sitemap core directory date changes',()=>{
   for(const p of ['/','/qa/','/cat/','/dog/']){
-    assert.ok(xml.body.includes('<loc>'+BASE+p+'</loc><lastmod>2026-11-16</lastmod>'),'missing core date '+p);
+    assert.ok(xml.body.includes('<loc>'+BASE+p+'</loc><lastmod>2026-11-21</lastmod>'),'missing core date '+p);
   }
   assert.ok(xml.body.includes('<loc>'+BASE+'/about/</loc><lastmod>2026-10-17</lastmod>'));
 });
 check('live robots references canonical sitemap',()=>{
   assert.match(results['/robots.txt'].body,/Sitemap: https:\/\/pet\.japanmedai\.com\/sitemap\.xml/);
 });
-check('live AI index contains 268 unique QA article links',()=>{
+check('live AI index contains 271 unique QA article links',()=>{
   const urls=[...results['/llms-full.txt'].body.matchAll(/https:\/\/pet\.japanmedai\.com\/qa\/[a-z0-9-]+\/\)/g)].map(m=>m[0].slice(0,-1));
-  assert.equal(urls.length,268);
-  assert.equal(new Set(urls).size,268);
+  assert.equal(urls.length,271);
+  assert.equal(new Set(urls).size,271);
 });
 check('non-indexable new-drugs and missing page',()=>{
   const drugs=results['/new-drugs/'],missing=results['/qa/nonexistent-seo-audit-probe-404/'];
