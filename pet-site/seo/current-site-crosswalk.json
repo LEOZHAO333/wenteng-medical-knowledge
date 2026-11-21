@@ -1,5 +1,5 @@
 {
-  "title": "日宠通生产298条问答与知识库ID候选对照",
+  "title": "日宠通生产299条问答与知识库ID候选对照",
   "checkedAt": "2026-11-21",
   "status": "draft_crosswalk_not_publication_approval",
   "scope": "生产主分支pet-site/api/pet.js目前包含90篇问答（原40＋2026-10-30新增50）；本表是知识库条目对应关系的编辑审计，不是对生产状态、搜索收录或医疗审核真实性的独立认证。",
@@ -12,14 +12,15 @@
     "new_topic_no_library_id（2026-11-21）：猫出行与寄养3篇（寄养环境、上门照护清单、猫包与乘车适应），待日本宠物医生审核确认后上线。",
     "new_topic_no_library_id（2026-11-21）：狗与居家户外安全9篇，来源 review-hub PR #181，待日本宠物医生审核确认后上线。",
     "new_topic_no_library_id（2026-11-21）：猫居家安全10篇，来源 review-hub PR #181，待日本宠物医生审核确认后上线。",
-    "new_topic_no_library_id（2026-11-21）：犬美容与洗护8篇，来源 review-hub PR #181，待日本宠物医生审核确认后上线。"
+    "new_topic_no_library_id（2026-11-21）：犬美容与洗护8篇，来源 review-hub PR #181，待日本宠物医生审核确认后上线。",
+    "new_topic_no_library_id（2026-11-21）：犬剪指甲出血1篇，来源 review-hub PR #181，待日本宠物医生审核确认后上线。"
   ],
   "counts": {
-    "runtime": 298,
+    "runtime": 299,
     "exactSlug": 119,
     "similarQuestion": 27,
     "relatedOnly": 2,
-    "newTopic": 150
+    "newTopic": 151
   },
   "items": [
     {
@@ -4184,6 +4185,20 @@
       "rendererOrdinal": 298,
       "rendererSlug": "dog-still-smells-after-bath",
       "rendererTitle": "狗洗澡后身上还有味道，该查哪里？",
+      "rendererSpecies": "狗",
+      "rendererSource": "pet-site/api/pet.js",
+      "matchedKnowledgeId": null,
+      "candidateKnowledgeId": null,
+      "candidateSourcePath": null,
+      "matchStatus": "new_topic_no_library_id",
+      "canonicalAction": "keep_renderer_slug_unchanged_pending_review",
+      "medicalReviewStatus": "pending",
+      "publishDecision": "not_authorized"
+    },
+    {
+      "rendererOrdinal": 299,
+      "rendererSlug": "dog-nail-trim-bleeding-help",
+      "rendererTitle": "狗剪指甲剪出血了，怎样向专业人员求助？",
       "rendererSpecies": "狗",
       "rendererSource": "pet-site/api/pet.js",
       "matchedKnowledgeId": null,
