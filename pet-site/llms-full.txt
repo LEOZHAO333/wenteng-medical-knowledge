@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Bunto Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-11-21。本站共有280篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-21。本站共有320篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,7 +79,7 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、280篇健康问答索引（2026-11-21）
+## 七、320篇健康问答索引（2026-11-21）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
@@ -376,3 +376,55 @@
 - [狗能单独留在开着一点窗的车里吗？](https://pet.japanmedai.com/qa/dog-alone-in-car-window-cracked/) — 美容与居家安全
 - [夏天遛狗，怎样判断地面会不会烫脚？](https://pet.japanmedai.com/qa/dog-hot-pavement-paw-check/) — 美容与居家安全
 - [狗中暑疑似缓过来了，还需要兽医评估吗？](https://pet.japanmedai.com/qa/dog-heatstroke-recovered-still-vet/) — 出行与行为
+
+### 猫居家安全（2026-11-21新增10篇）
+- [家里消毒后多久能让猫进入，要看哪些产品说明？](https://pet.japanmedai.com/qa/cat-home-disinfectant-when-safe/) — 美容与居家安全
+- [猫在阳台晒太阳，怎样给它留退回阴凉处的选择？](https://pet.japanmedai.com/qa/cat-balcony-sun-shade-access/) — 美容与居家安全
+- [猫抓纱窗，普通纱窗能当防坠网吗？](https://pet.japanmedai.com/qa/cat-window-screen-fall-risk/) — 美容与居家安全
+- [猫会舔香薰和精油，家里该怎么摆放？](https://pet.japanmedai.com/qa/cat-essential-oil-diffuser-safety/) — 美容与居家安全
+- [猫喜欢咬绿植，买花前需要核对什么？](https://pet.japanmedai.com/qa/cat-houseplants-lily-check/) — 美容与居家安全
+- [猫靠近取暖器睡觉，怎么避免烫伤？](https://pet.japanmedai.com/qa/cat-heater-burn-prevention/) — 美容与居家安全
+- [猫冬天睡电热毯，应该考虑哪些安全问题？](https://pet.japanmedai.com/qa/cat-electric-blanket-safety/) — 美容与居家安全
+- [猫喜欢钻洗衣机，家里怎样建立开机前检查习惯？](https://pet.japanmedai.com/qa/cat-washing-machine-check-habit/) — 美容与居家安全
+- [猫夏天总躺地砖，怎么判断它是不是需要降温？](https://pet.japanmedai.com/qa/cat-lying-on-tiles-summer-heat/) — 美容与居家安全
+- [猫在家也会热得不舒服吗，主人观察什么？](https://pet.japanmedai.com/qa/indoor-cat-overheating-signs/) — 美容与居家安全
+
+### 犬美容与洗护（2026-11-21新增8篇）
+- [宠物美容时发生皮肤损伤，主人该保留哪些记录？](https://pet.japanmedai.com/qa/pet-grooming-skin-injury-records/) — 美容与居家安全
+- [狗皮肤病药浴，频率和停留时间该按谁的指导？](https://pet.japanmedai.com/qa/dog-medicated-bath-instructions/) — 皮肤与被毛
+- [狗美容后不停舔某个部位，怎样排查不适？](https://pet.japanmedai.com/qa/dog-licking-after-grooming/) — 美容与居家安全
+- [狗肉垫干裂，能随便抹家里的护手霜吗？](https://pet.japanmedai.com/qa/dog-cracked-paw-pads-hand-cream/) — 美容与居家安全
+- [狗毛打结很严重，美容前要不要先看皮肤？](https://pet.japanmedai.com/qa/dog-severe-matting-check-skin/) — 皮肤与被毛
+- [狗洗澡后脚趾缝没干，要注意什么？](https://pet.japanmedai.com/qa/dog-wet-toes-after-bath/) — 美容与居家安全
+- [狗能用人的洗发水或沐浴露吗？](https://pet.japanmedai.com/qa/dog-human-shampoo/) — 美容与居家安全
+- [狗洗澡后身上还有味道，该查哪里？](https://pet.japanmedai.com/qa/dog-still-smells-after-bath/) — 皮肤与被毛
+
+### 犬剪指甲出血（2026-11-21新增1篇）
+- [狗剪指甲剪出血了，怎样向专业人员求助？](https://pet.japanmedai.com/qa/dog-nail-trim-bleeding-help/) — 美容与居家安全
+
+### 猫美容与洗护（2026-11-21新增7篇）
+- [猫皮肤用药期间，还能送去洗澡吗？](https://pet.japanmedai.com/qa/cat-topical-treatment-bathing/) — 皮肤与被毛
+- [猫舔到湿巾里的成分，选清洁用品先看什么？](https://pet.japanmedai.com/qa/cat-licked-wet-wipes-ingredients/) — 美容与居家安全
+- [猫爪缝脏，日常需要天天擦吗？](https://pet.japanmedai.com/qa/cat-dirty-paws-daily-wiping/) — 美容与居家安全
+- [猫剪指甲一碰就咬，怎样慢慢适应？](https://pet.japanmedai.com/qa/cat-bites-during-nail-trim/) — 美容与居家安全
+- [猫夏天热，要不要把毛全部剃掉？](https://pet.japanmedai.com/qa/cat-summer-shave-coat/) — 美容与居家安全
+- [长毛猫屁股总沾便便，修毛需要注意什么？](https://pet.japanmedai.com/qa/longhair-cat-soiled-rear-trim/) — 美容与居家安全
+- [猫不出门，多久洗一次澡才有必要？](https://pet.japanmedai.com/qa/indoor-cat-bathing-frequency/) — 美容与居家安全
+
+### 肿块与肿瘤复查（2026-11-21新增5篇）
+- [宠物肿瘤切掉了，复查还在看什么？](https://pet.japanmedai.com/qa/pet-tumor-removed-recheck/) — 心脏与肿瘤
+- [狗脂肪瘤样的包越来越大，需要重新评估吗？](https://pet.japanmedai.com/qa/dog-lipoma-like-lump-growing/) — 皮肤与被毛
+- [猫打针部位出现肿块，复诊要告诉医生哪些时间信息？](https://pet.japanmedai.com/qa/cat-injection-site-lump-timeline/) — 心脏与肿瘤
+- [狗身上摸到一个包，怎样记录大小和位置？](https://pet.japanmedai.com/qa/dog-lump-record-size-location/) — 皮肤与被毛
+- [宠物治疗目标是控制还是治愈，怎样和医生说清楚？](https://pet.japanmedai.com/qa/pet-treatment-goal-control-or-cure/) — 检查与复诊沟通
+
+### 肿瘤治疗与临终照护（2026-11-21新增9篇）
+- [宠物生命末期，如何和兽医讨论疼痛及告别安排？](https://pet.japanmedai.com/qa/pet-end-of-life-pain-farewell-talk/) — 心脏与肿瘤
+- [家人对宠物临终照护意见不同，怎么围绕生活质量沟通？](https://pet.japanmedai.com/qa/family-disagree-end-of-life-care/) — 心脏与肿瘤
+- [宠物肿瘤复发后，怎样重新比较治疗和舒适照护？](https://pet.japanmedai.com/qa/pet-tumor-recurrence-treatment-vs-comfort/) — 心脏与肿瘤
+- [宠物年纪很大，肿瘤手术一定不值得做吗？](https://pet.japanmedai.com/qa/senior-pet-tumor-surgery-worth-it/) — 心脏与肿瘤
+- [网上说某种营养品能抗癌，主人该怎样核实？](https://pet.japanmedai.com/qa/pet-supplement-anticancer-claims/) — 心脏与肿瘤
+- [宠物肿瘤治疗太贵，怎样讨论可承受的方案？](https://pet.japanmedai.com/qa/pet-cancer-treatment-budget/) — 检查与复诊沟通
+- [猫肿瘤疼痛不明显，主人能观察哪些日常变化？](https://pet.japanmedai.com/qa/cat-tumor-hidden-pain-signs/) — 心脏与肿瘤
+- [宠物化疗期间，家里清洁要听哪些具体指导？](https://pet.japanmedai.com/qa/pet-chemo-home-cleaning/) — 心脏与肿瘤
+- [宠物化疗会不会很难受，怎样问清预期影响？](https://pet.japanmedai.com/qa/pet-chemo-side-effects-questions/) — 心脏与肿瘤
