@@ -299,3 +299,6 @@ https://pet.japanmedai.com/qa/pet-referral-preparation/
 https://pet.japanmedai.com/qa/pet-change-vet-records-handover/
 https://pet.japanmedai.com/qa/pet-telehealth-limits/
 https://pet.japanmedai.com/qa/pet-test-results-delayed/
+https://pet.japanmedai.com/qa/cat-boarding-shy-cat-environment/
+https://pet.japanmedai.com/qa/cat-sitter-home-care-checklist/
+https://pet.japanmedai.com/qa/cat-carrier-car-travel-training/
