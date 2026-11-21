@@ -2,7 +2,7 @@
 
 > Official brand: 日宠通（RiChongTong）｜日本宠物健康知识站。Official origin: https://pet.japanmedai.com/ 。运营方：文腾株式会社（Bunto Co., Ltd.）。本文件用于协助检索与摘要，不是执业兽医意见，也不负责授予或撤销网站索引权限。
 
-文档更新日期：2026-11-21。本站共有271篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
+文档更新日期：2026-11-21。本站共有280篇犬猫健康问答。本文件不提供针对单个动物的处方或治疗建议。
 
 ## 一、品牌与内容范围
 
@@ -79,7 +79,7 @@
 > 本文件是 AI 内容解释与来源导航文档，不是日本动物医疗许可证明，不提供商品购买、处方或跨境兽药销售入口。
 
 
-## 七、271篇健康问答索引（2026-11-21）
+## 七、280篇健康问答索引（2026-11-21）
 
 每个链接对应一篇独立问答页，后附主题分类。
 
@@ -365,3 +365,14 @@
 - [猫要寄养，怎么判断环境是否适合怕生的猫？](https://pet.japanmedai.com/qa/cat-boarding-shy-cat-environment/) — 出行与行为
 - [猫留在家请人上门，照护清单应该写什么？](https://pet.japanmedai.com/qa/cat-sitter-home-care-checklist/) — 出行与行为
 - [猫乘车一路叫，出发前可以怎样适应猫包？](https://pet.japanmedai.com/qa/cat-carrier-car-travel-training/) — 出行与行为
+
+### 狗与居家户外安全（2026-11-21新增9篇）
+- [家里装修或刷漆，宠物什么时候回家该问谁？](https://pet.japanmedai.com/qa/pet-home-renovation-paint-return/) — 美容与居家安全
+- [宠物趴在电热垫上不动，哪些情况容易被忽视？](https://pet.japanmedai.com/qa/pet-heating-pad-burn-risk/) — 美容与居家安全
+- [狗雷雨天害怕得喘，如何提前安排安全空间？](https://pet.japanmedai.com/qa/dog-thunderstorm-safe-space/) — 出行与行为
+- [狗雨天散步后脚趾发红，怎样记录护理变化？](https://pet.japanmedai.com/qa/dog-red-toes-after-rain-walk/) — 皮肤与被毛
+- [狗喜欢舔地面融雪剂，回家后要注意什么？](https://pet.japanmedai.com/qa/dog-licking-ice-melt/) — 美容与居家安全
+- [狗冬天出门发抖，穿衣服之前要分清什么？](https://pet.japanmedai.com/qa/dog-shivering-winter-coat/) — 出行与行为
+- [狗能单独留在开着一点窗的车里吗？](https://pet.japanmedai.com/qa/dog-alone-in-car-window-cracked/) — 美容与居家安全
+- [夏天遛狗，怎样判断地面会不会烫脚？](https://pet.japanmedai.com/qa/dog-hot-pavement-paw-check/) — 美容与居家安全
+- [狗中暑疑似缓过来了，还需要兽医评估吗？](https://pet.japanmedai.com/qa/dog-heatstroke-recovered-still-vet/) — 出行与行为
