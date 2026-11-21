@@ -8,7 +8,7 @@ import {mkdirSync,writeFileSync} from 'node:fs';
 import {resolve} from 'node:path';
 
 const BASE='https://pet.japanmedai.com';
-const EXPECTED=328, EXPECTED_QA=299; // +1: 犬剪指甲出血（2026-11-21）；+8: 犬美容与洗护（2026-11-21）；+10: 猫居家安全（2026-11-21）；+9: 狗与居家户外安全（2026-11-21）；+3: 猫出行与寄养 QA（11/21）；+20: 检查与复诊沟通 QA（兽医审核 11/16）；+2: /food/ 栏目与 MamaCook 01（Founder 11/14）
+const EXPECTED=335, EXPECTED_QA=306; // +7: 猫美容与洗护（2026-11-21）；+1: 犬剪指甲出血（2026-11-21）；+8: 犬美容与洗护（2026-11-21）；+10: 猫居家安全（2026-11-21）；+9: 狗与居家户外安全（2026-11-21）；+3: 猫出行与寄养 QA（11/21）；+20: 检查与复诊沟通 QA（兽医审核 11/16）；+2: /food/ 栏目与 MamaCook 01（Founder 11/14）
 const RUN_AT=new Date().toISOString();
 const reportDir=process.env.AUDIT_OUTPUT_DIR||'pet-site/seo/audit-output';
 const errors=[];
